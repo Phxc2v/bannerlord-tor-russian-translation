@@ -1,112 +1,112 @@
-# 🇷🇺 Russian Translation — The Old Realms (TOR)
+# 🇷🇺 Русский перевод — The Old Realms (TOR)
 ### Mount & Blade II: Bannerlord | Warhammer Fantasy
 
-A community Russian translation for **[The Old Realms](https://steamcommunity.com/sharedfiles/filedetails/?id=3025574678)** — a total conversion mod bringing the Warhammer Fantasy Old World to Bannerlord.
+Русский перевод мода **[The Old Realms](https://steamcommunity.com/sharedfiles/filedetails/?id=3025574678)** — тотальная конверсия, переносящая мир Warhammer Fantasy в Bannerlord.
 
 ---
 
-## 📊 Translation Coverage
+## 📊 Что переведено
 
-| Category | Strings | Status |
-|----------|---------|--------|
-| UI, Skills, Abilities, Dialogues | ~5,000 | ✅ Done |
-| Troop Definitions | 432 | ✅ Done |
-| Items (Weapons, Armor, Shields) | 3,162 | ✅ Done |
-| Settlements (Cities, Villages) | 2,160 | ✅ Done |
-| Heroes & Lords | 751 | ✅ Done |
-| Clans & Kingdoms | 556 | ✅ Done |
-| Character Creation & Backstories | 296 | ✅ Done |
-| Religions & Abilities | 272 | ✅ Done |
-| Townspeople (all factions) | 263 | ✅ Done |
-| Ink Stories (Book Quests) | 26 files | ✅ Done |
-| **Total** | **~16,000+** | |
+| Категория | Строк | Статус |
+|-----------|-------|--------|
+| Интерфейс, навыки, способности, диалоги | ~5 000 | ✅ Готово |
+| Войска (все фракции) | 432 | ✅ Готово |
+| Предметы (оружие, доспехи, щиты, крафт) | 3 162 | ✅ Готово |
+| Поселения (города, деревни, описания) | 2 160 | ✅ Готово |
+| Герои и лорды | 751 | ✅ Готово |
+| Кланы и королевства | 556 | ✅ Готово |
+| Создание персонажа и предыстории | 296 | ✅ Готово |
+| Религии и способности | 272 | ✅ Готово |
+| Горожане (все фракции) | 263 | ✅ Готово |
+| Книжные квесты (Ink Stories) | 26 файлов | ✅ Готово |
+| **Итого** | **~16 000+** | |
 
-### Not Translated
-- ~83 hardcoded strings in DLL (shader popups, etc.)
-- Base game strings (Caravan Guard, Peasant) — these come from the Native module
+### Не переведено
+- ~83 строки, зашитые в DLL мода (всплывающие окна шейдеров и пр.)
+- Строки базовой игры (Caravan Guard, Peasant) — это модуль Native, не TOR
 
 ---
 
-## 📥 Installation
+## 📥 Установка
 
-1. Download or clone this repository
-2. Copy **both folders** into your Steam workshop directory:
+1. Скачайте или клонируйте этот репозиторий
+2. Скопируйте **обе папки** в директорию мастерской Steam:
    ```
    Steam/steamapps/workshop/content/261550/
    ```
-   - `3025574678` → Core (UI, characters, dialogues)
-   - `3025575223` → Assets (items, weapons, armor)
+   - `3025574678` → Core (интерфейс, персонажи, диалоги)
+   - `3025575223` → Assets (предметы, оружие, доспехи)
 
-3. Windows will merge the contents — only Russian language files are added, original mod files are untouched.
+3. Windows объединит содержимое — добавятся только файлы русского языка, оригинальные файлы мода не затрагиваются.
 
-4. Launch Bannerlord → **Options → Language → Русский** → Restart
+4. Запустите Bannerlord → **Настройки → Язык → Русский** → Перезапустите игру
 
 ---
 
-## 📁 File Structure
+## 📁 Структура файлов
 
 ```
 3025574678/
-├── InkStories/              # 26 translated book quests (.ink)
+├── InkStories/              # 26 переведённых книжных квестов (.ink)
 └── ModuleData/Languages/RU/
     ├── language_data.xml
-    ├── str_tor_strings-rus.xml
-    ├── str_tor_settlements-rus.xml
-    ├── str_tor_cultures-rus.xml
-    ├── str_tor_heroes-rus.xml
-    ├── str_tor_troopdefinitions-rus.xml
-    ├── str_tor_clans-rus.xml
-    ├── str_tor_kingdoms-rus.xml
-    └── ... (25+ XML files)
+    ├── str_tor_strings-rus.xml         — интерфейс, диалоги (~5 000 строк)
+    ├── str_tor_settlements-rus.xml     — поселения (~2 100 строк)
+    ├── str_tor_cultures-rus.xml        — имена персонажей
+    ├── str_tor_heroes-rus.xml          — герои
+    ├── str_tor_troopdefinitions-rus.xml — войска (432 юнита)
+    ├── str_tor_clans-rus.xml           — кланы
+    ├── str_tor_kingdoms-rus.xml        — королевства
+    └── ... (25+ XML-файлов)
 
 3025575223/
 └── ModuleData/Languages/RU/
     ├── language_data.xml
-    ├── str_tor_armors-rus.xml
-    ├── str_tor_meleeweapons-rus.xml
-    ├── str_tor_crafting_pieces-rus.xml
-    ├── str_tor_other_items-rus.xml
-    └── ... (8 XML files)
+    ├── str_tor_armors-rus.xml          — доспехи (778)
+    ├── str_tor_meleeweapons-rus.xml    — оружие ближнего боя (242)
+    ├── str_tor_crafting_pieces-rus.xml  — крафт (577)
+    ├── str_tor_other_items-rus.xml     — прочие предметы (1 369)
+    └── ... (8 XML-файлов)
 ```
 
 ---
 
-## ⚠️ Troubleshooting
+## ⚠️ Решение проблем
 
-| Problem | Solution |
-|---------|----------|
-| Game crashes on startup | Restore original `.ink` files from the mod's `InkStories/` folder |
-| Encoding issues (hieroglyphs) | All files are UTF-8 without BOM — check your mod supports Cyrillic fonts |
-| Some text still in English | These are either base game strings or DLL-hardcoded strings |
-| Mod updated, translation outdated | Create an issue or PR — happy to update |
-
----
-
-## 🔧 How It Works
-
-Bannerlord uses localization tokens: `{=string_id}English text`. When a Russian translation file provides the same `string_id`, the game displays the Russian text instead. If no translation exists, English is shown as fallback.
-
-**This translation is safe** — it only adds Russian language files without modifying any original mod files.
+| Проблема | Решение |
+|----------|---------|
+| Игра вылетает при запуске | Верните оригинальные `.ink` файлы из папки мода `InkStories/` |
+| Кракозябры вместо текста | Все файлы в UTF-8 без BOM — убедитесь, что мод поддерживает кириллические шрифты |
+| Часть текста на английском | Это либо строки базовой игры, либо зашитые в DLL |
+| Мод обновился, перевод устарел | Создайте issue или PR — обновим |
 
 ---
 
-## 🤝 Contributing
+## 🔧 Как это работает
 
-Found a typo or bad translation? PRs welcome!
+Bannerlord использует систему токенов локализации: `{=id_строки}English text`. Когда файл перевода содержит тот же `id_строки`, игра показывает русский текст вместо английского. Если перевода нет — отображается английский (fallback).
 
-Edit any `*-rus.xml` file:
+**Установка безопасна** — добавляются только файлы русского языка без изменения оригинальных файлов мода.
+
+---
+
+## 🤝 Как помочь
+
+Нашли опечатку или плохой перевод? Пулл-реквесты приветствуются!
+
+Редактируйте любой `*-rus.xml` файл:
 ```xml
-<string id="STRING_ID" text="Ваш перевод" />
+<string id="ID_СТРОКИ" text="Ваш перевод" />
 ```
 
 ---
 
-## 📜 Credits
+## 📜 Авторы
 
-- **Translation**: Phoenix (@v2Phoenix)
-- **Mod**: [The Old Realms](https://steamcommunity.com/sharedfiles/filedetails/?id=3025574678) by the TOR Team
-- **Game**: Mount & Blade II: Bannerlord by TaleWorlds Entertainment
+- **Перевод**: Phoenix (@v2Phoenix)
+- **Мод**: [The Old Realms](https://steamcommunity.com/sharedfiles/filedetails/?id=3025574678) — TOR Team
+- **Игра**: Mount & Blade II: Bannerlord — TaleWorlds Entertainment
 
 ---
 
-*Warhammer Fantasy and all associated names are trademarks of Games Workshop Limited.*
+*Warhammer Fantasy и все связанные наименования являются товарными знаками Games Workshop Limited.*
