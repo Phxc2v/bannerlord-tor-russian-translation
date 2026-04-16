@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_horseandharness">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_tor_harness_vampire2" text="Упряжь вампирского коня" />
+    <string id="str_tor_horses_wolf4" text="Гигантский волк" />
+    <string id="str_tor_harness_royal_empire2" text="Имперский конский доспех Королевский Серебряный" />
+    <string id="str_tor_horses_wolf3" text="Гигантский волк" />
+    <string id="str_tor_harness_ghost1" text="Упряжь призрачного скакуна" />
+    <string id="str_tor_horses_ghost3" text="Призрачный Конь" />
+    <string id="str_tor_harness_vampire3" text="Упряжь вампирского коня" />
+    <string id="str_tor_harness_demigryph_saddle1" text="Седло Демигрифа" />
+    <string id="str_tor_harness_royal_empire1" text="Имперский конский доспех Королевский" />
+    <string id="str_tor_horses_demigryph1" text="Полугрифон" />
+    <string id="str_tor_horses_stag1" text="Великий Олень" />
+    <string id="str_tor_horses_wolf2" text="Гигантский волк" />
+    <string id="str_tor_harness_bretonnia3" text="Бретонский конский доспех" />
+    <string id="str_tor_horses_boar1" text="Воинская кабанья лошадь" />
+    <string id="str_tor_horses_empire_charger" text="Имперский скакун" />
+    <string id="str_tor_horses_demigryph5" text="Снежный лев-полугрифон" />
+    <string id="str_tor_harness_demigryph_armor3" text="Доспех Демигрифа" />
+    <string id="rO0oKtAo" text="Малый походный штандарт" />
+    <string id="str_tor_horses_empire_destrier" text="Имперский конь-дестрьер" />
+    <string id="str_tor_horses_demigryph4" text="Полугрифон" />
+    <string id="str_tor_horses_skeleton1" text="Скелетный конь" />
+    <string id="str_tor_horses_ghost1" text="Призрачный Конь" />
+    <string id="str_tor_harness_vampire1" text="Упряжь вампирского коня" />
+    <string id="str_tor_horses_zombie2" text="Гнилой конь" />
+    <string id="str_tor_harness_empire2" text="Доспех имперского коня" />
+    <string id="str_tor_harness_stag1" text="Седло великого оленя" />
+    <string id="str_tor_horses_demigryph3" text="Полугрифон" />
+    <string id="str_tor_horses_demigryph2" text="Полугрифон" />
+    <string id="str_tor_harness_bretonnia5" text="Бретонский конский доспех" />
+    <string id="str_tor_horses_zombie1" text="Гнилой конь" />
+    <string id="str_tor_horses_nightmare" text="Ночной кошмар" />
+    <string id="str_tor_horses_wolf1" text="Гигантский волк" />
+    <string id="str_tor_harness_demigryph_armor2" text="Доспех Демигрифа" />
+    <string id="str_tor_harness_empire1" text="Доспех имперского коня" />
+    <string id="str_tor_harness_boar1" text="Седло войны-кабана" />
+    <string id="str_tor_harness_wolf1" text="Седло гигантского волка" />
+    <string id="str_tor_horses_bretonnia1" text="Бретонский Сquires" />
+    <string id="str_tor_horses_boar2" text="Воинская кабанья лошадь" />
+    <string id="str_tor_horses_chaos1" text="Хаосный Конь" />
+    <string id="str_tor_harness_demigryph_armor4" text="Доспех Демигрифа" />
+    <string id="str_tor_harness_demigryph_armor1" text="Доспех Демигрифа" />
+    <string id="str_tor_harness_bretonnia1" text="Бретонский конский доспех" />
+    <string id="str_tor_horses_bretonnia2" text="Бретонская чистокровная лошадь" />
+    <string id="str_tor_harness_blackknight1" text="Упряжь чёрного рыцаря" />
+    <string id="str_tor_horses_ghost2" text="Призрачный Конь" />
+    <string id="str_tor_harness_bretonnia4" text="Бретонский конский доспех" />
+    <string id="str_tor_harness_ghost2" text="Седло призрачного скакуна" />
+    <string id="str_tor_horses_empire_warhorse" text="Имперская боевая лошадь" />
+    <string id="str_tor_horses_skeleton2" text="Скелетный Конь" />
+    <string id="str_tor_horses_bretonnia3" text="Бретонская боевая лошадь" />
+    <string id="str_tor_harness_demigryph_armor5" text="Доспех Демигрифа Рыцаря Грифона" />
+    <string id="str_tor_horses_unicorn1" text="Одинорог" />
+    <string id="str_tor_horses_old_robb" text="Старая попона" />
+    <string id="str_tor_harness_bretonnia2" text="Бретонский конский доспех" />
+  </strings>
+</base>

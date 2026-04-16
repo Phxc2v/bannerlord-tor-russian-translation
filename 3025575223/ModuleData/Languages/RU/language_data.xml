@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Русский" name="Русский" subtitle_extension="ru" supported_iso="ru,rus,ru-ru" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
+  <LanguageFile xml_path="RU/str_tor_crafting_pieces-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_armors-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_horseandharness-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_meleeweapons-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_other_items-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_projectiles-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_rangedweapons-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_shields-rus.xml"/>
+</LanguageData>

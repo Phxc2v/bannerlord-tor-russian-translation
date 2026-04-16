@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_townspeople_asrai">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_spc_notable_asrai_artisan_2" text="Азраи артисан 2" />
+    <string id="str_female_beggar_woodelf" text="Бродяжка Асрай" />
+    <string id="str_spc_notable_asrai_rural_1" text="асраинский фермер" />
+    <string id="str_artisan_notary_woodelf" text="Азраи Артисан нотари" />
+    <string id="str_shop_worker_woodelf" text="Работник магазина Асрай" />
+    <string id="str_spc_notable_asrai_1" text="{FIRSTNAME} Складник" />
+    <string id="str_spc_notable_asrai_merch2" text="Курт асрай торговец" />
+    <string id="str_weaponsmith_woodelf" text="оружейник асрай" />
+    <string id="str_gangleader_bodyguard_woodelf" text="Асрай-Разбойник" />
+    <string id="str_merchant_woodelf" text="асрай-торговец" />
+    <string id="str_merchant_notary_woodelf" text="Асрайский купеческий нотариус" />
+    <string id="str_village_woman_woodelf" text="Жительница деревни Асрай" />
+    <string id="str_spc_notable_asrai_artisan_1" text="Азраи Артисан 1" />
+    <string id="str_prison_guard_asrai" text="Охранник тюрьмы" />
+    <string id="str_ransom_broker_woodelf" text="Асрайный брокер выкупа" />
+    <string id="str_tavernkeeper_woodelf" text="Таблерей асрай" />
+    <string id="str_spc_notable_asrai_2" text="Калвинистский мужской проповедник" />
+    <string id="str_blacksmith_woodelf" text="кузнец асраи" />
+    <string id="str_spc_notable_asrai_rural_2" text="Асрай-крестьянин" />
+    <string id="str_townswoman_woodelf" text="Жительница Холлов" />
+    <string id="str_asrai_headman_3" text="хитрый глава асраев" />
+    <string id="str_spc_notable_asrai_merch5" text="{FIRSTNAME} Манипулятор" />
+    <string id="str_spc_notable_asrai_3" text="Бунтарская женская проповедница" />
+    <string id="str_townsman_woodelf" text="Житель Холлов" />
+    <string id="str_barber_woodelf" text="Парикмахер Асрай" />
+    <string id="str_taverngamehost_woodelf" text="Хост игры Азраи" />
+    <string id="str_spc_notable_asrai_merch4" text="Молчаливый торговец асрай" />
+    <string id="str_musician_woodelf" text="Музыкант Асрай" />
+    <string id="str_rural_notable_notary_woodelf" text="Азраи Рурал Нотари" />
+    <string id="str_tournament_master_woodelf" text="Мастер турнира" />
+    <string id="str_female_dancer_woodelf" text="Асрай танцовщица" />
+    <string id="str_horseMerchant_woodelf" text="торговец лошадьми асрай" />
+    <string id="str_beggar_woodelf" text="Плебей Асрай" />
+    <string id="str_asrai_headman_1" text="Асрайский мятежный староста" />
+    <string id="str_spc_notable_asrai_merch1" text="Ироничный торговец Асрай" />
+    <string id="str_spc_notable_asrai_merch3" text="Благородный асрайский торговец" />
+    <string id="str_spc_asrai_gangleader_2" text="Женский лидер банды" />
+    <string id="str_spc_asrai_gangleader_1" text="Стандартный мужской лидер банды" />
+    <string id="str_spc_notable_asrai_1b" text="{FIRSTNAME} наследница" />
+    <string id="str_spc_asrai_gangleader_3" text="Мужской лидер банды" />
+    <string id="str_armorer_woodelf" text="Асрайский оружейник" />
+    <string id="str_asrai_headman_2" text="консервативный глава асраи" />
+  </strings>
+</base>

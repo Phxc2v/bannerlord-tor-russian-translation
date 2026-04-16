@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_townspeople_eonir">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_dancer_eonir" text="Эонир Дэн" />
+    <string id="str_spc_notable_eonir_2" text="Пуританский мужской проповедник" />
+    <string id="str_spc_eonir_gangleader_1" text="Стандартный мужской лидер банды" />
+    <string id="str_tournament_master_eonir" text="Мастер турнира" />
+    <string id="str_eonir_headman_1" text="лидер восставших эониров" />
+    <string id="str_townsman_eonir" text="Ториур" />
+    <string id="str_prison_guard_eonir" text="Охранник тюрьмы" />
+    <string id="str_spc_notable_eonir_1" text="{FIRSTNAME} Складник" />
+    <string id="str_gangleader_bodyguard_eonir" text="Лидер банды Эонир" />
+    <string id="str_shop_worker_eonir" text="Работник магазина Эонир" />
+    <string id="str_spc_notable_eonir_artisan_1" text="Еонирский ремесленник 1" />
+    <string id="str_spc_notable_eonir_merch4" text="Молчаливый торговец из Эонир" />
+    <string id="str_artisan_notary_eonir" text="Эонир Артисан нотари" />
+    <string id="str_eonir_headman_2" text="Консервативный глава эониров" />
+    <string id="str_musician_eonir" text="Музыкант Эонир" />
+    <string id="str_armorer_eonir" text="Эонириармёром" />
+    <string id="str_spc_notable_eonir_merch3" text="Рискованный торговец из Эонир" />
+    <string id="str_spc_notable_eonir_rural_2" text="Еонир Крестьянин" />
+    <string id="str_eonir_headman_3" text="хитрый глава эониров" />
+    <string id="str_merchant_notary_eonir" text="Еонирский торговый нотариус" />
+    <string id="str_spc_notable_eonir_artisan_2" text="ремесленник эониров 2" />
+    <string id="str_spc_notable_eonir_merch2" text="Курт, торговец из Эонир" />
+    <string id="str_blacksmith_eonir" text="Кузнец Эонир" />
+    <string id="str_spc_notable_eonir_b" text="{FIRSTNAME} Наследница" />
+    <string id="str_wench_eonir" text="Эонир Дан" />
+    <string id="str_rural_notable_notary_eonir" text="Эонир Рурал Нотари" />
+    <string id="str_spc_notable_eonir_3" text="Бунтарская женская проповедница" />
+    <string id="str_townswoman_eonir" text="Ториур" />
+    <string id="str_spc_notable_eonir_merch5" text="{FIRSTNAME} те Манкипле" />
+    <string id="str_tavernkeeper_eonir" text="Тавернхейтер Эонир" />
+    <string id="str_villager_eonir" text="Фаниур" />
+    <string id="str_ransom_broker_eonir" text="Брокер выкупа Эонир" />
+    <string id="str_village_woman_eonir" text="Фаниур" />
+    <string id="str_horseMerchant_eonir" text="Торговец лошадьми Эонир" />
+    <string id="str_spc_notable_eonir_rural_1" text="крестьянин из Эонир" />
+    <string id="str_taverngamehost_eonir" text="Хост игры Эонир" />
+    <string id="str_spc_eonir_gangleader_2" text="Женский лидер банды" />
+    <string id="str_weaponsmith_eonir" text="Кузнец Эонир" />
+    <string id="str_merchant_eonir" text="Торговец Эонир" />
+    <string id="str_spc_notable_eonir_merch1" text="Ироничный торговец эонир" />
+    <string id="str_spc_eonir_gangleader_3" text="Мужской лидер банды" />
+    <string id="str_barber_eonir" text="Парикмахер Эонир" />
+  </strings>
+</base>

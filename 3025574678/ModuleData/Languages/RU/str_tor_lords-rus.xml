@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_lords">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_tor_emp_lord" text="Повелитель Империи" />
+    <string id="str_tor_bw_lord" text="Яркий волшебник" />
+    <string id="str_tor_lw_lord" text="Лёгкий Маг" />
+    <string id="str_tor_cw_lord" text="Небесный маг" />
+    <string id="str_tor_mw_lord" text="Металлический Волшебник" />
+    <string id="str_tor_dw_lord" text="Смертельный волшебник" />
+    <string id="str_tor_bret_lord" text="Лорд Бретонни" />
+    <string id="str_tor_prophetess_lw" text="Пророчица(Лифе)" />
+    <string id="str_tor_prophetess_bw" text="Пророчица(Беаст)" />
+    <string id="str_tor_hm_lord" text="Ведьмак высокого магия" />
+    <string id="str_tor_glade_lord" text="Повелитель Леса" />
+    <string id="str_tor_dwarf_lord" text="Гном Лорд" />
+    <string id="str_tor_slayer_lord" text="Лорд-убийца" />
+    <string id="str_tor_warboss_lord" text="Вождь войны" />
+    <string id="str_tor_shaman_lord" text="Вожак Шаманов" />
+    <string id="str_tor_vc_lord" text="Вампир-лорд" />
+    <string id="str_tor_necromancer_lord" text="Некромант" />
+  </strings>
+</base>

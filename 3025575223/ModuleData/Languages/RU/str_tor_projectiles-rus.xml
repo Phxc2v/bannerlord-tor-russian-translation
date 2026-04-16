@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_projectiles">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_tor_eo_arrows_stealth" text="Стрелы призрачного всадника" />
+    <string id="str_tor_neutral_weapon_ammo_broken_weapon" text="Сломанное оружие" />
+    <string id="str_TheGreenEye" text="Зелёный глаз" />
+    <string id="str_tor_neutral_weapon_ammo_musket_ball" text="Пули Мушкета" />
+    <string id="str_tor_orc_arrow_003" text="Тяжёлые стрелы орков" />
+    <string id="str_tor_orc_arrow_001" text="Костяные стрелы орков" />
+    <string id="str_tor_neutral_weapon_ammo_silver_bullet" text="Серебряные пули" />
+    <string id="str_tor_neutral_weapon_ammo_steel_musket_ball" text="Стальные Пули Мушкета" />
+    <string id="str_tor_dw_iron_drake_trollhammer_torpedo" text="Торпеды с молотом тролля" />
+    <string id="str_tor_orc_arrow_002" text="Стрелы с внутренностями орков" />
+    <string id="str_tor_we_arrows_ofpotency" text="Стрелы могущества" />
+    <string id="str_tor_dw_weapon_ammo_buckshot" text="Гранёная пуля гнома" />
+    <string id="str_tor_neutral_weapon_ammo_cannonball" text="Пуля из пушки" />
+    <string id="str_tor_dw_weapon_grenade_hand_grenade" text="Карликовые бомбы-искры" />
+    <string id="str_tor_we_arrows_stealth" text="Стрелы путника" />
+    <string id="str_tor_dw_weapon_blasting_charges" text="Карликовые взрывчатые заряды" />
+    <string id="str_tor_neutral_weapon_ammo_stone_musket_ball" text="Каменные Пули Мушкета" />
+    <string id="str_AmberSpear" text="Амберовое копье" />
+    <string id="str_tor_neutral_weapon_ammo_musket_ball_scatter" text="Дробь для мушкетов" />
+    <string id="str_tor_dw_weapon_ammo_musket_ball" text="Пули мушкета гнома" />
+    <string id="str_tor_empire_weapon_ammo_grenade" text="Гранаты" />
+    <string id="str_tor_we_tournament_arrows" text="Древние эльфийские турнирные стрелы" />
+    <string id="str_tor_dw_drakegun_canister" text="Контейнер для дракопушки" />
+  </strings>
+</base>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_townspeople_bretonnia">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_spc_bretonnia_gangleader_3" text="Мужской лидер банды" />
+    <string id="str_spc_bretonnia_gangleader_1" text="Обычный мужской лидер банды" />
+    <string id="str_spc_notable_bretonnia_1b" text="{FIRSTNAME} наследница" />
+    <string id="str_spc_notable_bretonnia_2" text="Протестантский мужской проповедник" />
+    <string id="str_spc_notable_bretonnia_merch5" text="{FIRSTNAME} Манципл" />
+    <string id="str_spc_bretonnia_headman_3" text="Хитрый глава Бретонни" />
+    <string id="str_spc_notable_bretonnia_rural_1" text="Бретонский крестьянин" />
+    <string id="str_spc_bretonnia_headman_2" text="Консервативный глава Бретонни" />
+    <string id="str_spc_notable_bretonnia_artisan_1" text="Бретонский ремесленник 1" />
+    <string id="str_spc_notable_bretonnia_merch4" text="Молчаливый торговец Бретании" />
+    <string id="str_spc_notable_bretonnia_merch2" text="Курт, торговец Бретоннии" />
+    <string id="str_spc_notable_bretonnia_rural_2" text="Бретоннский крестьянин" />
+    <string id="str_spc_notable_bretonnia_artisan_2" text="Бретонский ремесленник 2" />
+    <string id="str_spc_notable_bretonnia_merch3" text="Благородный торговец из Бретоннии" />
+    <string id="str_spc_notable_bretonnia_merch1" text="Ироничный торговец Бретоннии" />
+    <string id="str_spc_bretonnia_headman_1" text="Бретонский мятежный голова" />
+    <string id="str_spc_bretonnia_gangleader_2" text="Женский лидер банды" />
+    <string id="str_spc_notable_bretonnia_1" text="{FIRSTNAME} Складник" />
+    <string id="str_spc_notable_bretonnia_3" text="Бунтарская женская проповедница" />
+  </strings>
+</base>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Русский" name="Русский" subtitle_extension="ru" supported_iso="ru,rus,ru-ru" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
+  <LanguageFile xml_path="RU/str_tor_strings-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_concept_strings-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_voiced_strings-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_cultures-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_heroes-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_clans-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_kingdoms-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_lords-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_settlements-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_religions-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_troopdefinitions-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_abilitytemplates-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_ror_settlement_templates-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_campaign_lords-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_charactertemplates-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_asrai-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_blooddragons-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_bretonnia-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_chaos-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_dawi-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_empire-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_eonir-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_greenskins-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_mousillon-rus.xml"/>
+  <LanguageFile xml_path="RU/str_tor_townspeople_sylvania-rus.xml"/>
+</LanguageData>
