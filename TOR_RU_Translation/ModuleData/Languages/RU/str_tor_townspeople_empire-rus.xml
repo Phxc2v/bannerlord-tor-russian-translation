@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_townspeople_empire">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <!-- encoding-note: QHYyUGhvZW5peA== -->
+    <string id="str_tor_empire_headman_1" text="повстанческий глава империи" />
+    <string id="thbcgVVO" text="Торговец" />
+    <string id="str_tor_notable_empire_1" text="Имперский торговец 3, безжалостный" />
+    <string id="str_tor_notable_empire_3b" text="Торговец Империи 8, весёлый" />
+    <string id="str_tor_notable_empire_7" text="Женский Имперский мистик" />
+    <string id="str_tor_notable_empire_2b" text="Торговый купец Империи 6, осторожный" />
+    <string id="str_tor_notable_empire_1b" text="Холодный имперский торговец" />
+    <string id="str_tor_notable_empire_10" text="Ироничный лидер имперской банды" />
+    <string id="str_tor_notable_empire_3" text="Торговец Империи 7, самодельный" />
+    <string id="str_tor_notable_empire_gl4" text="Лучший звероподобный имперский лидер банды" />
+    <string id="str_tor_notable_empire_8" text="Имперский грубый лидер рабочей силы" />
+    <string id="str_tor_notable_empire_0" text="Осторожный имперский торговец" />
+    <string id="str_tor_notable_empire_11" text="Угрожаящий имперский лидер банды" />
+    <string id="XgjXfmM1" text="Охранник тюрьмы" />
+    <string id="str_tor_notable_empire_22" text="Угодливый сельский житель Империи" />
+    <string id="str_tor_notable_empire_9" text="Имперский лидер вывозной рабочей силы" />
+    <string id="str_tor_empire_headman_3" text="хитрый голова империи" />
+    <string id="str_tor_notable_empire_4b" text="Торговец Империи 10, хитрый" />
+    <string id="str_tor_empire_headman_2" text="Консервативный глава империи" />
+    <string id="str_tor_notable_empire_2" text="{FIRSTNAME} Соляник" />
+    <string id="str_tor_notable_empire_0b" text="{FIRSTNAME} Винодел" />
+    <string id="str_tor_notable_empire_13" text="Угрожающая женская лидер имперской банды" />
+    <string id="str_tor_notable_empire_6" text="Имперский проповедник-пуританин" />
+    <string id="muu5cofb" text="Житель города" />
+    <string id="str_tor_notable_empire_5" text="Имперский проповедник-мессия" />
+    <string id="str_tor_notable_empire_12" text="Женский лидер имперской банды" />
+    <string id="str_tor_notable_empire_21" text="Суровый сельский житель империи" />
+    <string id="str_tor_notable_empire_gl1" text="Защитник имперского лидера банды" />
+    <string id="str_tor_notable_empire_4" text="Торговый магнат Империи 9, наследница" />
+  </strings>
+</base>

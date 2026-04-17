@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="The Old Realms — Русский перевод" />
+  <Id value="TOR_RU_Translation" />
+  <Version value="v1.3.15.2" />
+  <ModuleCategory value="Singleplayer" />
+  <ModuleType value="Community" />
+  <Official value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+    <DependedModule Id="TOR_Core" />
+    <DependedModule Id="TOR_Armory" Optional="true" />
+  </DependedModules>
+  <SubModules />
+  <Xmls />
+</Module>
