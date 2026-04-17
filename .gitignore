@@ -1,4 +1,13 @@
+# Build artifacts
 *.zip
 *.bak
+
+# OS-specific
 Thumbs.db
 .DS_Store
+
+# Steam Workshop metadata — lives in local TOR_RUS/ for SteamCMD upload, not for GitHub
+DescriptionShort.txt
+Description_EN.txt
+Description_RU.txt
+ModuleIcon.png
