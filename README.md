@@ -61,17 +61,6 @@ TOR_RUS/                          ← корень этого репозитор
 
 Содержимое `TOR_RU_Translation/` — это готовый к установке Bannerlord-модуль. Остальное в корне — метаданные для публикации в Steam Workshop и страница репозитория.
 
-## Разработка и сборка
-
-1. Правки идут в `TOR_RU_Translation/`.
-2. Для локального тестирования — скопировать `TOR_RU_Translation/` в папку с Bannerlord:
-   ```powershell
-   robocopy "TOR_RU_Translation" `
-     "C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TOR_RU_Translation" /MIR
-   ```
-3. Запустить игру через лаунчер, проверить изменения.
-4. Для релиза: поднять `<Version>` в `SubModule.xml` (схема `vA.B.C.D`, где `A.B.C` — версия TOR_Core, `D` — ревизия перевода), запаковать `TOR_RU_Translation/` в zip и приложить к GitHub Release. Параллельно — публикация в Steam Workshop через SteamCMD.
-
 ## История изменений
 
 ### v1.3.15.2 (2026-04-18)
