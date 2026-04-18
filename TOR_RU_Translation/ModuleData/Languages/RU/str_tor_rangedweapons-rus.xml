@@ -27,18 +27,18 @@
     <string id="str_tor_empire_weapon_gun_arquebus_002" text="Имперский Аркебуз" />
     <string id="str_tor_empire_weapon_gun_big_musket_002" text="Имперский мушкетон" />
     <string id="str_tor_dw_weapon_gun_beardling_handgun" text="Гномий тренировочный пистоль" />
-    <string id="str_tor_greenskin_bow_002" text="Орчий Стрелковый Снаряд" />
+    <string id="str_tor_greenskin_bow_002" text="Орк-Лук" />
     <string id="str_tor_we_weapon_bow_007" text="Асрайский изысканный лук" />
     <string id="str_tor_empire_weapon_gun_blunderbuss_001" text="Имперская дробовица" />
     <string id="str_tor_dw_weapon_crossbow_001" text="Арбалет-тренажёр для бородатых" />
     <string id="str_tor_we_weapon_bow_008" text="Лук Эльфов Леса" />
     <string id="str_tor_dw_weapon_gun_handgun_001" text="Гномий пистоль" />
-    <string id="str_tor_greenskin_bow_003" text="Орчий Босс-Стрелковый Снаряд" />
+    <string id="str_tor_greenskin_bow_003" text="Орк-Лук Босса" />
     <string id="str_tor_empire_weapon_gun_longrifle_002" text="Имперский длинный ружейный карабин" />
     <string id="str_tor_we_weapon_bow_006" text="Лук эльфийского леса" />
     <string id="str_tor_empire_weapon_gun_flintlock_001" text="Имперская Короткая Винтовка" />
     <string id="str_tor_we_weapon_bow_legendary" text="Охотник за добычей Ана-Раэмы" />
-    <string id="str_tor_dw_weapon_gun_trollhammer" text="Гномий метательный молот тролля" />
+    <string id="str_tor_dw_weapon_gun_trollhammer" text="Гномий Метатель Троллей-Молот" />
     <string id="str_tor_empire_weapon_gun_handgun_003" text="Имперский клинковый пистольет" />
     <string id="str_tor_dw_gun_grudge_raker_001" text="Гномий мститель" />
     <string id="str_tor_we_weapon_bow_003" text="Лук эльфийского леса" />
@@ -57,7 +57,7 @@
     <string id="str_tor_dw_weapon_crossbow_002" text="Штурмовой карликовый арбалет" />
     <string id="str_tor_dw_weapon_gun_handgun_004" text="Гномий драконоглав пистолет" />
     <string id="str_tor_dw_weapon_gun_handgun_003" text="Гномий громовержец пистолет" />
-    <string id="str_tor_greenskin_bow_001" text="Оркская Стрела" />
+    <string id="str_tor_greenskin_bow_001" text="Орк-Лук" />
     <string id="str_tor_empire_weapon_gun_flintlock_pistol_006" text="Имперский пистолет с кремнёвым замком" />
   </strings>
 </base>

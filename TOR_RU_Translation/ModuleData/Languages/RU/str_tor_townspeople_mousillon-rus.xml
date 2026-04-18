@@ -4,24 +4,24 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_spc_notable_mousillon_1" text="{FIRSTNAME} Складчик" />
-    <string id="str_spc_notable_mousillon_3" text="Бунтарская женская проповедница" />
-    <string id="str_spc_mousillon_gangleader_2" text="Женский лидер банды" />
-    <string id="str_spc_notable_mousillon_rural_2" text="мусиллонский крестьянин" />
-    <string id="str_spc_notable_mousillon_merch4" text="Тихий торговец мышилоном" />
-    <string id="str_spc_notable_mousillon_2" text="Протестантский мужской проповедник" />
+    <string id="str_spc_notable_mousillon_1" text="{FIRSTNAME} Хранитель склада" />
     <string id="str_spc_notable_mousillon_1b" text="{FIRSTNAME} Наследница" />
-    <string id="str_spc_notable_mousillon_merch5" text="{FIRSTNAME} Манцип" />
-    <string id="str_spc_mousillon_headman_2" text="консервативный глава мусиллонов" />
-    <string id="str_spc_notable_mousillon_rural_1" text="мусиллонский крестьянин" />
-    <string id="str_spc_notable_mousillon_merch2" text="Сдержанный торговец Музило" />
-    <string id="str_spc_mousillon_headman_3" text="хитрый глава мусиллон" />
-    <string id="str_spc_mousillon_gangleader_3" text="Мужской лидер банды" />
-    <string id="str_spc_notable_mousillon_artisan_1" text="мастер Муссильон 1" />
-    <string id="str_spc_notable_mousillon_merch3" text="Благородный торговец мысильлонами" />
-    <string id="str_spc_notable_mousillon_merch1" text="Ироничный торговец мышилоном" />
-    <string id="str_spc_mousillon_gangleader_1" text="Стандартный мужской лидер банды" />
-    <string id="str_spc_mousillon_headman_1" text="повстанчий глава мусиллонов" />
-    <string id="str_spc_notable_mousillon_artisan_2" text="Муссильонский ремесленник 2" />
+    <string id="str_spc_notable_mousillon_2" text="Пуританский проповедник" />
+    <string id="str_spc_notable_mousillon_3" text="Мятежная проповедница" />
+    <string id="str_spc_mousillon_gangleader_1" text="Главарь банды" />
+    <string id="str_spc_mousillon_gangleader_2" text="Атаманша банды" />
+    <string id="str_spc_mousillon_gangleader_3" text="Вожак банды" />
+    <string id="str_spc_notable_mousillon_artisan_1" text="Муссильонский ремесленник" />
+    <string id="str_spc_notable_mousillon_artisan_2" text="Муссильонский ремесленник" />
+    <string id="str_spc_notable_mousillon_rural_1" text="Муссильонский йомен" />
+    <string id="str_spc_notable_mousillon_rural_2" text="Муссильонский йомен" />
+    <string id="str_spc_mousillon_headman_1" text="Мятежный староста" />
+    <string id="str_spc_mousillon_headman_2" text="Консервативный староста" />
+    <string id="str_spc_mousillon_headman_3" text="Коварный староста" />
+    <string id="str_spc_notable_mousillon_merch1" text="Язвительный муссильонский торговец" />
+    <string id="str_spc_notable_mousillon_merch2" text="Резкий муссильонский торговец" />
+    <string id="str_spc_notable_mousillon_merch3" text="Дерзкий муссильонский торговец" />
+    <string id="str_spc_notable_mousillon_merch4" text="Тихий муссильонский торговец" />
+    <string id="str_spc_notable_mousillon_merch5" text="{FIRSTNAME} Ключник" />
   </strings>
 </base>

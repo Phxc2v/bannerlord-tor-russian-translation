@@ -210,7 +210,7 @@
     <string id="str_tor_learn_dw_rune_might" text="Руна Силы" />
     <string id="OaQE1Frx" text="Степное седло" />
     <string id="HrLupYXP" text="Бронзовый южный шлем с тюрбаном" />
-    <string id="l9kAJ1Xh" text="Широкий клинок высокоlanders" />
+    <string id="l9kAJ1Xh" text="Широкий клинок горцев" />
     <string id="zvIax8Kt" text="Низкогорный метательный нож" />
     <string id="KKWEkA4P" text="Грубая медвежья шкура" />
     <string id="Lbm7asY3" text="Высокий Heater Щит" />
@@ -709,7 +709,7 @@
     <string id="uIov9Yo9" text="Усиленные замшевые наплечники" />
     <string id="DvGueBrU" text="Лен" />
     <string id="wJ4Y9IFc" text="Кольчуга для конника" />
-    <string id="str_tor_learn_dw_master_rune_preservation" text="Рунa Сохранения" />
+    <string id="str_tor_learn_dw_master_rune_preservation" text="Руна Сохранения" />
     <string id="z7oMeRl3" text="Толстая кираса-жилет" />
     <string id="str_tor_learn_asrai_enchant_quake_hukon" text="Тряска Хукона" />
     <string id="bdTQG99v" text="Топор с бамбуковой рукоятью" />
@@ -912,7 +912,7 @@
     <string id="l69aXkKH" text="Толкательная вилка" />
     <string id="z62uDlbh" text="Норсканский круглый щит" />
     <string id="habJjtmv" text="Рифленый Железный Меч" />
-    <string id="XTGdfqVV" text="Двуручный топор-рубилlo" />
+    <string id="XTGdfqVV" text="Двуручный топор-рубило" />
     <string id="MXpeQ7jp" text="Толстое платье деревенского жителя" />
     <string id="lVtoBMhp" text="Шотландский клетчатый плащ" />
     <string id="uPrWdLxV" text="Ревил Гна" />
@@ -1030,7 +1030,7 @@
     <string id="eRZK8Kbp" text="Богатое Платье" />
     <string id="gYpNILVC" text="Кувалда" />
     <string id="UvOa4elc" text="Зелёный капюшон" />
-    <string id="Jhshwa48" text="Пatched камзо́л" />
+    <string id="Jhshwa48" text="Латаный камзо́л" />
     <string id="MTB2BunA" text="Усиленная высокогорная кольчуга поверх клетчатой ткани" />
     <string id="0666zYUB" text="Шпильчатая Адарга" />
     <string id="jimBaHvz" text="Усиленная кожаная броня" />
@@ -1128,7 +1128,7 @@
     <string id="Cdecpigb" text="Родной Стургианец" />
     <string id="str_tor_books_engineering_002" text="Чудо эпохи" />
     <string id="IX3kafcb" text="Железная шипованная котелка поверх кольчуги" />
-    <string id="yDykmlS7" text="Тогa из клетки" />
+    <string id="yDykmlS7" text="Тога из клетки" />
     <string id="BbhGL8XT" text="Бригантина-жилет" />
     <string id="r8NS1wz7" text="Чистокровный" />
     <string id="str_tor_learn_emp_enchant_chamon_whisper" text="Шёпот Чамона" />

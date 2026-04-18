@@ -20,7 +20,7 @@
     <string id="str_tor_notable_dawi_rural_2" text="Давийский крестьянин" />
     <string id="str_horseMerchant_dawi" text="Дави торговец лошадьми" />
     <string id="str_merchant_notary_dawi" text="Дави Торговый нотариус" />
-    <string id="str_tor_notable_dawi_artisan_2" text="Давийский ремесленник 2" />
+    <string id="str_tor_notable_dawi_artisan_2" text="Давийский ремесленник" />
     <string id="str_ransom_broker_dawi" text="Гномий скупщик пленных" />
     <string id="str_blacksmith_dawi" text="Кузнец Дави" />
     <string id="str_village_woman_dawi" text="Гном" />
@@ -43,7 +43,7 @@
     <string id="str_armorer_dawi" text="Дави-Кузнец" />
     <string id="str_townswoman_dawi" text="Гном" />
     <string id="str_tor_notable_dawi_rural_1" text="Давийский крестьянин" />
-    <string id="str_tor_notable_dawi_artisan_1" text="Давийский ремесленник 1" />
+    <string id="str_tor_notable_dawi_artisan_1" text="Давийский ремесленник" />
     <string id="str_barber_dawi" text="Дави Парикмахер" />
     <string id="str_tor_dawi_gangleader_1" text="Стандартный мужской лидер банды" />
     <string id="str_tavernkeeper_dawi" text="Дави, хозяин таверны" />

@@ -4,48 +4,48 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_musician_greenskins" text="Орк-музыкант" />
-    <string id="str_greenskins_headman_3" text="Хитрый орк-главарь" />
-    <string id="str_prison_guard_greenskins" text="Охранник тюрьмы" />
-    <string id="str_merchant_notary_greenskins" text="Орк-торговец нотариус" />
-    <string id="str_greenskins_headman_1" text="Оркский мятежный старшина" />
-    <string id="str_townswoman_greenskins" text="Орк" />
-    <string id="str_horseMerchant_greenskins" text="Оркий торговец лошадьми" />
-    <string id="str_greenskins_headman_2" text="Орконский консервативный старшина" />
-    <string id="str_tor_notable_greenskins_2" text="Пуританский мужской проповедник" />
-    <string id="str_villager_greenskins" text="Орк" />
-    <string id="str_rural_notable_notary_greenskins" text="Орк сельский нотариус" />
-    <string id="str_tor_notable_greenskins_merch5" text="{FIRSTNAME} Манципл" />
-    <string id="str_beggar_greenskins" text="Орк-нищий" />
-    <string id="str_tor_notable_greenskins_b" text="{FIRSTNAME} наследница" />
-    <string id="str_tor_notable_greenskins_3" text="Бунтарская женская проповедница" />
-    <string id="str_tor_notable_greenskins_artisan_2" text="Орк-ремесленник 2" />
-    <string id="str_tournament_master_greenskins" text="Мастер турнира" />
-    <string id="str_tor_greenskins_gangleader_2" text="Женский лидер банды" />
-    <string id="str_tor_notable_greenskins_merch4" text="Мягко говорящий орк-торговец" />
-    <string id="str_ransom_broker_greenskins" text="Орк-посредник по выкупах" />
-    <string id="str_tavernkeeper_greenskins" text="Орк-питейщик" />
-    <string id="str_artisan_notary_greenskins" text="Орочий артефактор-нотариус" />
-    <string id="str_barber_greenskins" text="Парикмахер орков" />
-    <string id="str_dancer_greenskins" text="Орк Дэн" />
-    <string id="str_tor_notable_greenskins_rural_2" text="Орк-крестьянин" />
-    <string id="str_tor_greenskins_gangleader_3" text="Лидер банды (мужчина)" />
-    <string id="str_tor_notable_greenskins_merch2" text="Орочий торговец Курт" />
-    <string id="str_weaponsmith_greenskins" text="Орочий оружейник" />
-    <string id="str_wench_greenskins" text="Орк Дан" />
-    <string id="str_tor_notable_greenskins_merch3" text="Бесстрашный орк-торговец" />
-    <string id="str_village_woman_greenskins" text="Орк" />
-    <string id="str_taverngamehost_greenskins" text="Хост игры" />
-    <string id="str_shop_worker_greenskins" text="Орк-торговец" />
-    <string id="str_merchant_greenskins" text="Орочий торговец" />
-    <string id="str_tor_notable_greenskins_artisan_1" text="Орк-ремесленник 1" />
-    <string id="str_tor_notable_greenskins_merch1" text="Ироничный орк-торговец" />
-    <string id="str_tor_notable_greenskins_1" text="{FIRSTNAME} Складник" />
-    <string id="str_blacksmith_greenskins" text="Орк-кузнец" />
-    <string id="str_armorer_greenskins" text="Орк-оружейник" />
-    <string id="str_tor_notable_greenskins_rural_1" text="Орочий крестьянин" />
-    <string id="str_gangleader_bodyguard_greenskins" text="Орочий бандитский лидер" />
+    <string id="str_musician_greenskins" text="Орк-Песняр" />
+    <string id="str_greenskins_headman_1" text="Мятежный орк-вождь" />
+    <string id="str_greenskins_headman_2" text="Старый орк-вождь" />
+    <string id="str_greenskins_headman_3" text="Коварный орк-вождь" />
+    <string id="str_prison_guard_greenskins" text="Орк-Яможор" />
+    <string id="str_merchant_notary_greenskins" text="Орк-Писарь купцов" />
+    <string id="str_townswoman_greenskins" text="Орка" />
     <string id="str_townsman_greenskins" text="Орк" />
-    <string id="str_tor_greenskins_gangleader_1" text="Стандартный мужской лидер банды" />
+    <string id="str_horseMerchant_greenskins" text="Орк-Барышник" />
+    <string id="str_tor_notable_greenskins_1" text="{FIRSTNAME} Кладовщик" />
+    <string id="str_tor_notable_greenskins_b" text="{FIRSTNAME} Наследница" />
+    <string id="str_tor_notable_greenskins_2" text="Правоверный проповедник" />
+    <string id="str_tor_notable_greenskins_3" text="Мятежница-проповедница" />
+    <string id="str_villager_greenskins" text="Орк-Селянин" />
+    <string id="str_rural_notable_notary_greenskins" text="Сельский орк-писарь" />
+    <string id="str_tor_notable_greenskins_merch1" text="Ехидный орк-торгаш" />
+    <string id="str_tor_notable_greenskins_merch2" text="Резкий орк-торгаш" />
+    <string id="str_tor_notable_greenskins_merch3" text="Дерзкий орк-торгаш" />
+    <string id="str_tor_notable_greenskins_merch4" text="Тихий орк-торгаш" />
+    <string id="str_tor_notable_greenskins_merch5" text="{FIRSTNAME} Ключник" />
+    <string id="str_beggar_greenskins" text="Орк-Побирушка" />
+    <string id="str_tor_notable_greenskins_artisan_1" text="Орк-Ремесленник" />
+    <string id="str_tor_notable_greenskins_artisan_2" text="Орк-Ремесленник" />
+    <string id="str_tournament_master_greenskins" text="Устроитель Стенки" />
+    <string id="str_tor_greenskins_gangleader_1" text="Главарь шайки" />
+    <string id="str_tor_greenskins_gangleader_2" text="Атаманша шайки" />
+    <string id="str_tor_greenskins_gangleader_3" text="Вожак шайки" />
+    <string id="str_ransom_broker_greenskins" text="Орк-Откупщик" />
+    <string id="str_tavernkeeper_greenskins" text="Орк-Трактирщик" />
+    <string id="str_artisan_notary_greenskins" text="Орк-Писарь мастеровых" />
+    <string id="str_barber_greenskins" text="Орк-Цирюльник" />
+    <string id="str_dancer_greenskins" text="Орк-Плясун" />
+    <string id="str_wench_greenskins" text="Орка-Трактирщица" />
+    <string id="str_tor_notable_greenskins_rural_1" text="Орк-Йомен" />
+    <string id="str_tor_notable_greenskins_rural_2" text="Орк-Йомен" />
+    <string id="str_village_woman_greenskins" text="Орка-Селянка" />
+    <string id="str_taverngamehost_greenskins" text="Устроитель игр" />
+    <string id="str_shop_worker_greenskins" text="Орк-Лавочник" />
+    <string id="str_merchant_greenskins" text="Орк-Торгаш" />
+    <string id="str_weaponsmith_greenskins" text="Орк-Оружейник" />
+    <string id="str_blacksmith_greenskins" text="Орк-Кузнец" />
+    <string id="str_armorer_greenskins" text="Орк-Доспешник" />
+    <string id="str_gangleader_bodyguard_greenskins" text="Телохран главаря" />
   </strings>
 </base>

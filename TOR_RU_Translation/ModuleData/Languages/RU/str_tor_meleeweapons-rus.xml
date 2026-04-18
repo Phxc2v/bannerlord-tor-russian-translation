@@ -28,33 +28,33 @@
     <string id="str_tor_empire_weapon_mace_warrior_priest_004" text="Жезл священника воина" />
     <string id="str_tor_we_weapon_2h_sword_001" text="Древний эльфийский двуручный меч" />
     <string id="str_tor_empire_weapon_spear_002" text="Имперское Копьё" />
-    <string id="str_tor_greenskin_weapon_sword_001" text="Орчий Слэша" />
+    <string id="str_tor_greenskin_weapon_sword_001" text="Рубака Орк-Пацана" />
     <string id="str_tor_empire_weapon_staff_balthazar_gelt" text="Посох Балтазара Гельта" />
     <string id="str_tor_beastmen_weapon_sword_ungor_002" text="Меч Унгора" />
     <string id="str_tor_vc_weapon_sword_skeleton_004" text="Меч воина-скелета" />
     <string id="str_tor_vc_weapon_scythe_002" text="Вампирская коса" />
-    <string id="str_tor_greenskins_warboss_2h_mace_001" text="Коготь Варбосса" />
+    <string id="str_tor_greenskins_warboss_2h_mace_001" text="Шипастая Молотилка Варбосса" />
     <string id="str_tor_we_weapon_spear_004" text="Древнее Копьё Эльфов-Лесников" />
     <string id="str_tor_empire_weapon_halberd_001" text="Имперская Алебарда" />
     <string id="str_tor_empire_weapon_sword_runefang_002" text="Проклятие Гоблина" />
     <string id="str_tor_empire_weapon_lance_knight_003" text="Копьё Рыцаря" />
     <string id="str_tor_beastmen_weapon_axe_ungor_002" text="Топор Унгора" />
-    <string id="str_tor_greenskin_weapon_2h_axe_001" text="Оркский большой рубило" />
-    <string id="str_tor_greenskin_weapon_axe_001" text="Оркская каскара" />
+    <string id="str_tor_greenskin_weapon_2h_axe_001" text="Большое Орк-Рубило" />
+    <string id="str_tor_greenskin_weapon_axe_001" text="Орк-Рубило" />
     <string id="str_tor_vc_weapon_halberd_002" text="Старая алебарда" />
-    <string id="str_tor_greenskin_weapon_sword_003" text="Слэша Орка-Пацана" />
+    <string id="str_tor_greenskin_weapon_sword_003" text="Рубака Орк-Пацана" />
     <string id="str_tor_vc_weapon_thsword_grave_guard_001" text="Могильный страж великий меч" />
     <string id="str_tor_he_weapon_2h_sword_001" text="Высокий эльфийский двуручный меч" />
     <string id="str_tor_chaos_weapon_thaxe_nurgle_001" text="Булава Нургла" />
     <string id="str_tor_bretonnia_weapon_halberd_003" text="Бретонский вольгьер" />
     <string id="str_tor_empire_weapon_halberd_003" text="Имперская алебарда" />
-    <string id="str_tor_greenskin_weapon_2h_sword_001" text="Оркская большая сабля Бигга" />
-    <string id="str_tor_greenskin_weapon_mace_002" text="Орковая Шипастая Баша" />
+    <string id="str_tor_greenskin_weapon_2h_sword_001" text="Большая Орк-Рубака Бигга" />
+    <string id="str_tor_greenskin_weapon_mace_002" text="Шипастая Орк-Дробилка" />
     <string id="str_tor_dwarf_weapon_greataxe_troll_slayer_001" text="Тролльесбивный топор" />
     <string id="str_tor_dwarf_weapon_pickaxe_005" text="Гномий лом" />
-    <string id="str_tor_greenskin_weapon_2h_axe_003" text="Орочья Большая Клеява" />
+    <string id="str_tor_greenskin_weapon_2h_axe_003" text="Большой Орк-Тесак" />
     <string id="str_tor_empire_weapon_sword_reiksguard_knight_001" text="Меч рыцаря Рейксгарда" />
-    <string id="str_tor_greenskin_weapon_2h_sword_002" text="Проппа оркская большая сабля Бигга" />
+    <string id="str_tor_greenskin_weapon_2h_sword_002" text="Настоящая Большая Орк-Рубака Бигга" />
     <string id="str_tor_empire_weapon_scythe_morr_001" text="Коса Морра" />
     <string id="str_tor_bretonnia_weapon_halberd_004" text="Бретонский вольгьер" />
     <string id="str_tor_beastmen_weapon_sword_ungor_003" text="Меч Унгора" />
@@ -86,21 +86,21 @@
     <string id="str_tor_dwarf_weapon_greataxe_002_002" text="Гномий алмазный топор" />
     <string id="str_tor_bretonnia_weapon_thsword_squire_003" text="Бретонский меч оруженосца" />
     <string id="str_tor_vc_weapon_halberd_001" text="Старая алебарда" />
-    <string id="str_tor_greenskin_weapon_sword_002" text="Орчий Слэша" />
-    <string id="str_tor_greenskin_weapon_ornateaxe_001" text="Изящная каскара орка" />
+    <string id="str_tor_greenskin_weapon_sword_002" text="Рубака Орк-Пацана" />
+    <string id="str_tor_greenskin_weapon_ornateaxe_001" text="Шипастое Орк-Рубило" />
     <string id="str_tor_beastmen_weapon_axe_ungor_004" text="Топор Унгора" />
     <string id="str_tor_empire_weapon_mace_flagellant_002" text="Булава Флагелланта" />
     <string id="str_tor_he_weapon_2h_axe_whitelion_001" text="Большой Топор Белого Льва" />
     <string id="str_tor_vc_weapon_lance_black_knight_001" text="Копьё Чёрного Рыцаря" />
-    <string id="str_tor_greenskin_weapon_spear_002" text="Орчий Большой Стабба" />
+    <string id="str_tor_greenskin_weapon_spear_002" text="Бигга-Тыкалка" />
     <string id="str_tor_empire_weapon_sword_runefang_007" text="Убийца Бестиалей" />
     <string id="str_tor_dwarf_1h_spanner_001" text="Гномий Гаечный Ключ" />
     <string id="str_tor_empire_weapon_rapier_002" text="Имперская Рапира" />
     <string id="str_tor_dwarf_weapon_1h_axe_of_grimnir" text="Топор Гримнира" />
     <string id="str_tor_vc_weapon_mace_skeleton_002" text="Скелетный Могильный Страж Булава" />
     <string id="str_tor_empire_weapon_spear_004" text="Имперское копье" />
-    <string id="str_tor_greenskin_weapon_2h_axe_002" text="Оркский большой рубило" />
-    <string id="str_tor_greenskins_troll_2h_hammer_001" text="Каменный Молот Тrolля" />
+    <string id="str_tor_greenskin_weapon_2h_axe_002" text="Большое Орк-Рубило" />
+    <string id="str_tor_greenskins_troll_2h_hammer_001" text="Каменный Молот Тролля" />
     <string id="str_tor_vc_weapon_mace_skeleton_004" text="Скелетный Могильный Страж Булава" />
     <string id="str_tor_vc_weapon_sword_vampire_008" text="Меч вампира" />
     <string id="str_tor_vc_weapon_sword_skeleton_002" text="Меч воина-скелета" />
@@ -121,7 +121,7 @@
     <string id="str_tor_empire_weapon_lance_knight_005" text="Имперское Копьё Рыцаря" />
     <string id="str_tor_vc_weapon_thaxe_graveguard_001" text="Могильный гигантский топор" />
     <string id="str_tor_vc_weapon_sword_skeleton_003" text="Меч воина-скелета" />
-    <string id="str_tor_greenskin_weapon_sword_004" text="Орчий босс Слэша" />
+    <string id="str_tor_greenskin_weapon_sword_004" text="Рубака Орк-Босса" />
     <string id="str_tor_vc_weapon_sword_vampire_009" text="Меч вампира" />
     <string id="str_tor_chaos_weapon_metal_ud_lance_001" text="Хаотическое Копьё" />
     <string id="str_tor_dwarf_weapon_1h_axe_006" text="Гномий Топор" />
@@ -152,7 +152,7 @@
     <string id="str_tor_empire_weapon_mace_flagellant_001" text="Мученическая булава" />
     <string id="str_tor_empire_weapon_thsword_greatsword_001" text="Имперский великий меч" />
     <string id="str_tor_bretonnia_weapon_lance_jousting_001" text="Бретонское Турнирное Копьё" />
-    <string id="str_tor_greenskin_weapon_spear_001" text="Орчий Стабба" />
+    <string id="str_tor_greenskin_weapon_spear_001" text="Орк-Тыкалка" />
     <string id="str_tor_vc_weapon_thaxe_vampire_001" text="Вампирский гигантский топор" />
     <string id="str_tor_dwarf_weapon_axe_slayer_1h_001" text="Топор Убийцы" />
     <string id="str_tor_vc_weapon_staff_nm_002" text="Посох Некроманта" />
@@ -174,33 +174,33 @@
     <string id="str_tor_we_weapon_spear_001" text="Древнее Копьё Эльфов-Лесников" />
     <string id="str_tor_empire_weapon_lance_knight_002" text="Копьё Рыцаря" />
     <string id="str_tor_empire_weapon_thsword_greatsword_002" text="Имперский великий меч" />
-    <string id="str_tor_greenskin_orc_boss_axe_002" text="Босс-рубилорк" />
+    <string id="str_tor_greenskin_orc_boss_axe_002" text="Рубило Орк-Босса" />
     <string id="str_tor_empire_weapon_polehammer_warrior_priest_001" text="Имперский Жезл-Молот Священника" />
     <string id="str_tor_dwarf_weapon_greataxe_deamon_slayer_001" text="Топор-убийца демонов" />
-    <string id="str_tor_greenskin_weapon_club_troll_001" text="Тролль Костяной Топор" />
+    <string id="str_tor_greenskin_weapon_club_troll_001" text="Костяная Дубина Тролля" />
     <string id="str_tor_empire_weapon_halberd_005" text="Имперская алебарда" />
     <string id="str_tor_bretonnia_weapon_halberd_005" text="Бретонский вольгьер" />
     <string id="str_tor_vc_weapon_sword_grave_guard_001" text="Меч Могильного Стража" />
     <string id="str_tor_empire_weapon_staff_volkmar" text="Посох Волкмара Грозного" />
     <string id="str_tor_bretonnia_weapon_spear_002" text="Бретонское копье" />
     <string id="str_tor_vc_weapon_thsword_vampire_001" text="Вампирский великий меч" />
-    <string id="str_tor_greenskin_weapon_2h_axe_005" text="Оркское большое 'Эдсплитта'" />
+    <string id="str_tor_greenskin_weapon_2h_axe_005" text="Большой Орк-Черепокол" />
     <string id="str_tor_dwarf_weapon_1h_axe_003" text="Резной Гномий Топор" />
     <string id="str_tor_empire_weapon_sword_runefang_009" text="Тролльский рубящий меч" />
     <string id="str_tor_bretonnia_weapon_halberd_001" text="Бретонский вольгьер" />
-    <string id="str_tor_greenskin_weapon_axe_1h_black_orc_001" text="Топор чёрного орка" />
+    <string id="str_tor_greenskin_weapon_axe_1h_black_orc_001" text="Топор Чёрного Орка" />
     <string id="str_tor_dwarf_weapon_mace_002" text="Гномий громогласный молот" />
     <string id="str_tor_empire_weapon_rapier_004" text="Имперская Рапира" />
     <string id="str_tor_dwarf_weapon_1h_axe_009" text="Гномий топор" />
     <string id="str_tor_beastmen_weapon_spear_ungor_004" text="Копьё Унгора" />
-    <string id="str_tor_greenskin_weapon_mace_001" text="Орк Баша" />
+    <string id="str_tor_greenskin_weapon_mace_001" text="Орк-Дробилка" />
     <string id="str_tor_we_weapon_staff_exiled_wizard_001" text="Посох изгнанного мага Дракона" />
     <string id="str_tor_vc_weapon_sword_vampire_004" text="Вампирский Меч" />
     <string id="str_tor_chaos_weapon_mace_flail_001" text="Хаосная Булава" />
     <string id="str_tor_we_lord_sword_001" text="Меч Лорда Глея" />
     <string id="str_tor_empire_weapon_mace_huss" text="Молот Лютора Хусса" />
     <string id="str_tor_vc_weapon_mace_skeleton_001" text="Булава скелетного воина" />
-    <string id="str_tor_greenskin_weapon_axe_savage_001" text="Каскара скелетного орка" />
+    <string id="str_tor_greenskin_weapon_axe_savage_001" text="Костяное Орк-Рубило" />
     <string id="str_tor_empire_weapon_scythe_morr_003" text="Коса Морра" />
     <string id="str_tor_bretonnia_weapon_halberd_006" text="Бретонский вольгьер" />
     <string id="str_tor_beastmen_weapon_sword_ungor_001" text="Меч Унгора" />
@@ -208,15 +208,15 @@
     <string id="str_tor_vc_weapon_staff_nm_001" text="Посох Некроманта" />
     <string id="str_tor_empire_weapon_staff_lw_003" text="Лёгкий посох мага" />
     <string id="str_tor_bretonnia_weapon_lance_jousting_003" text="Бретонское копьё для турниров" />
-    <string id="str_tor_greenskin_weapon_axe_003" text="Проппа-рубилорк" />
-    <string id="str_tor_greenskin_orc_boss_axe_003" text="Босс-рубилорк" />
+    <string id="str_tor_greenskin_weapon_axe_003" text="Настоящее Орк-Рубило" />
+    <string id="str_tor_greenskin_orc_boss_axe_003" text="Рубило Орк-Босса" />
     <string id="str_tor_empire_weapon_sword_runefang_001" text="Зуб Дракона" />
     <string id="str_tor_empire_weapon_thmace_warrior_priest_003" text="Двуручный молот воина-жреца Империи" />
     <string id="str_tor_de_weapon_sword_001" text="Тёмный Эльфийский Меч" />
     <string id="str_tor_dwarf_weapon_greataxe_ungrim_001" text="Топор Дарго" />
     <string id="str_tor_empire_weapon_sword_reiksguard_knight_003" text="Меч рыцаря Рейксгарда" />
     <string id="str_tor_de_weapon_spear_001" text="Тёмное Копьё Эльфов-Лесников" />
-    <string id="str_tor_greenskin_weapon_greataxe_black_orc_001" text="Чёрнооркинский топор-убийца" />
+    <string id="str_tor_greenskin_weapon_greataxe_black_orc_001" text="Большой Топор Чёрного Орка" />
     <string id="str_tor_vc_weapon_sword_vampire_006" text="Меч вампира" />
     <string id="str_tor_bretonnia_weapon_spear_001" text="Бретонское копье" />
     <string id="str_dwarf_1h_engineer_hammer_001" text="Гномий Молот-Шестерёнка" />
@@ -225,9 +225,9 @@
     <string id="str_tor_dwarf_2h_hammer_007" text="Резной громогласный молот гнома" />
     <string id="str_tor_dwarf_2h_hammer_006" text="Громовый молот гнома-воина" />
     <string id="str_tor_empire_weapon_sword_reiksguard_circle_003" text="Меч Внутреннего круга Рейксгвардии" />
-    <string id="str_tor_greenskin_weapon_spear_003" text="Орчий Убийственный Стабба" />
+    <string id="str_tor_greenskin_weapon_spear_003" text="Орк-Смертотык" />
     <string id="str_tor_bretonnia_weapon_sword_001" text="Меч Бретонского Воина" />
-    <string id="str_tor_greenskin_orc_boss_axe_001" text="Босс-рубилорк" />
+    <string id="str_tor_greenskin_orc_boss_axe_001" text="Рубило Орк-Босса" />
     <string id="str_tor_empire_weapon_mace_001" text="Имперская булава" />
     <string id="str_tor_empire_weapon_sword_runefang_012" text="Меч приносящий кровь" />
     <string id="str_tor_empire_weapon_lance_reiksguard_knight_001" text="Копьё Стража Рейксгарда" />
@@ -236,15 +236,15 @@
     <string id="str_tor_beastmen_weapon_axe_ungor_003" text="Топор Унгора" />
     <string id="str_tor_bretonnia_weapon_spear_003" text="Бретонское копье" />
     <string id="str_tor_dwarf_weapon_greataxe_002_004" text="Гномий сапфировый топор" />
-    <string id="str_tor_greenskin_weapon_axe_002" text="Оркское рубило" />
+    <string id="str_tor_greenskin_weapon_axe_002" text="Орк-Рубило" />
     <string id="str_tor_we_weapon_sword_002" text="Древний Эльфийский Меч" />
     <string id="str_tor_we_weapon_2h_axe_001" text="Древний Эльфийский Большой Топор" />
     <string id="str_tor_empire_weapon_sword_reiksguard_knight_002" text="Меч рыцаря Рейксгарда" />
     <string id="str_tor_empire_weapon_mace_002" text="Имперская булава" />
-    <string id="str_tor_greenskin_weapon_2h_axe_004" text="Оркский гигантский рубило" />
+    <string id="str_tor_greenskin_weapon_2h_axe_004" text="Бигга Орк-Рубило" />
     <string id="str_tor_dwarf_weapon_1h_axe_002" text="Гномий Топор" />
     <string id="str_tor_beastmen_weapon_spear_ungor_001" text="Копьё Унгора" />
-    <string id="str_tor_greenskin_staff_shaman_001" text="Посох орочьего шамана" />
+    <string id="str_tor_greenskin_staff_shaman_001" text="Посох Орк-Шамана" />
     <string id="str_tor_empire_weapon_spear_001" text="Имперское Копьё" />
     <string id="str_tor_bretonnia_weapon_halberd_002" text="Бретонский вольгьер" />
   </strings>
