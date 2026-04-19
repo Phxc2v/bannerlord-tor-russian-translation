@@ -4,31 +4,31 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_eor_sylvania_headman_2" text="консервативный глава империи" />
-    <string id="str_eor_notable_sylvania_0b" text="{FIRSTNAME} Виноторговец" />
-    <string id="str_eor_sylvania_headman_1" text="Вожак имперской мятежной группы" />
-    <string id="str_eor_notable_sylvania_13" text="Угрожающая женская имперская бандитская лидерша" />
-    <string id="str_eor_notable_sylvania_7" text="Женский Имперский мистик" />
-    <string id="str_eor_notable_sylvania_9" text="Имперский лидер рабочей силы" />
-    <string id="str_eor_notable_sylvania_4b" text="Торговец Империи 10, хитрый" />
-    <string id="str_eor_notable_sylvania_5" text="Мессианский имперский проповедник" />
-    <string id="str_eor_notable_sylvania_11" text="Угрожаящий мужской лидер имперского банды" />
-    <string id="str_eor_notable_sylvania_22" text="Имперская сельская известность, приятная" />
-    <string id="str_eor_notable_sylvania_1b" text="Холодный имперский торговец" />
-    <string id="str_eor_notable_sylvania_4" text="Имперский торговец 9, наследница" />
-    <string id="str_eor_notable_sylvania_gl4" text="Жестокий имперский бандит-лидер" />
-    <string id="str_eor_notable_sylvania_3" text="Купец Империи 7, самодельный" />
-    <string id="str_eor_notable_sylvania_10" text="Ироничный имперский лидер банды" />
-    <string id="str_eor_notable_sylvania_gl1" text="Защитник имперского мужского бандита" />
-    <string id="str_eor_notable_sylvania_0" text="Осторожный имперский торговец" />
-    <string id="str_eor_notable_sylvania_1" text="Торговец Империи 3, безжалостный" />
-    <string id="str_eor_notable_sylvania_8" text="Имперский грубый лидер рабочих" />
-    <string id="str_eor_notable_sylvania_12" text="Женский лидер имперской банды" />
-    <string id="str_eor_notable_sylvania_21" text="Крепкий сельский заметный житель Империи" />
-    <string id="str_eor_notable_sylvania_3b" text="Торговец империи 8, весёлый" />
-    <string id="str_eor_notable_sylvania_2" text="{FIRSTNAME} Сольвар" />
-    <string id="str_eor_notable_sylvania_2b" text="Торговец Империи 6, осторожный" />
-    <string id="str_eor_sylvania_headman_3" text="империя хитрый глава семьи" />
-    <string id="str_eor_notable_sylvania_6" text="Имперский проповедник-пуританин" />
+    <string id="str_tor_sylvania_headman_2" text="консервативный глава империи" />
+    <string id="str_tor_notable_sylvania_0b" text="{FIRSTNAME} Виноторговец" />
+    <string id="str_tor_sylvania_headman_1" text="Вожак имперской мятежной группы" />
+    <string id="str_tor_notable_sylvania_13" text="Угрожающая женская имперская бандитская лидерша" />
+    <string id="str_tor_notable_sylvania_7" text="Женский Имперский мистик" />
+    <string id="str_tor_notable_sylvania_9" text="Имперский лидер рабочей силы" />
+    <string id="str_tor_notable_sylvania_4b" text="Торговец Империи 10, хитрый" />
+    <string id="str_tor_notable_sylvania_5" text="Мессианский имперский проповедник" />
+    <string id="str_tor_notable_sylvania_11" text="Угрожаящий мужской лидер имперского банды" />
+    <string id="str_tor_notable_sylvania_22" text="Имперская сельская известность, приятная" />
+    <string id="str_tor_notable_sylvania_1b" text="Холодный имперский торговец" />
+    <string id="str_tor_notable_sylvania_4" text="Имперский торговец 9, наследница" />
+    <string id="str_tor_notable_sylvania_gl4" text="Жестокий имперский бандит-лидер" />
+    <string id="str_tor_notable_sylvania_3" text="Купец Империи 7, самодельный" />
+    <string id="str_tor_notable_sylvania_10" text="Ироничный имперский лидер банды" />
+    <string id="str_tor_notable_sylvania_gl1" text="Защитник имперского мужского бандита" />
+    <string id="str_tor_notable_sylvania_0" text="Осторожный имперский торговец" />
+    <string id="str_tor_notable_sylvania_1" text="Торговец Империи 3, безжалостный" />
+    <string id="str_tor_notable_sylvania_8" text="Имперский грубый лидер рабочих" />
+    <string id="str_tor_notable_sylvania_12" text="Женский лидер имперской банды" />
+    <string id="str_tor_notable_sylvania_21" text="Крепкий сельский заметный житель Империи" />
+    <string id="str_tor_notable_sylvania_3b" text="Торговец империи 8, весёлый" />
+    <string id="str_tor_notable_sylvania_2" text="{FIRSTNAME} Сольвар" />
+    <string id="str_tor_notable_sylvania_2b" text="Торговец Империи 6, осторожный" />
+    <string id="str_tor_sylvania_headman_3" text="империя хитрый глава семьи" />
+    <string id="str_tor_notable_sylvania_6" text="Имперский проповедник-пуританин" />
   </strings>
 </base>

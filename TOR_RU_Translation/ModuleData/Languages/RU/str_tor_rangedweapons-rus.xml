@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="str_tor_we_weapon_bow_005" text="Лук эльфийского леса" />
-    <string id="str_tor_dw_weapon_crossbow_003" text="Карликовый арбалет для метания дротиков" />
+    <string id="str_tor_dw_weapon_crossbow_003" text="Гномий арбалет для метания дротиков" />
     <string id="str_tor_neutral_weapon_gun_old_rifle" text="Старый Мушкет" />
     <string id="str_tor_dw_weapon_gun_drakegun" text="Гномий арбалет пламени дракона" />
     <string id="str_tor_empire_weapon_gun_longrifle_001" text="Длинная винтовка Хошланд" />
@@ -54,7 +54,7 @@
     <string id="str_tor_dw_weapon_crossbow_004" text="Гномий арбалет" />
     <string id="str_tor_we_weapon_bow_002" text="Лук эльфийского леса" />
     <string id="str_tor_empire_weapon_gun_big_musket_001" text="Имперский мушкетон" />
-    <string id="str_tor_dw_weapon_crossbow_002" text="Штурмовой карликовый арбалет" />
+    <string id="str_tor_dw_weapon_crossbow_002" text="Штурмовой гномий арбалет" />
     <string id="str_tor_dw_weapon_gun_handgun_004" text="Гномий драконоглав пистолет" />
     <string id="str_tor_dw_weapon_gun_handgun_003" text="Гномий громовержец пистолет" />
     <string id="str_tor_greenskin_bow_001" text="Орк-Лук" />

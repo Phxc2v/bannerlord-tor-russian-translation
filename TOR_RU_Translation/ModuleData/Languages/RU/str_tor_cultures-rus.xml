@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base xml_name="str_tor_culeures">
+<base xml_name="str_tor_cultures">
   <tags>
     <tag language="Русский"/>
   </tags>
@@ -23,7 +23,7 @@
     <string id="wood_elf_male_name_136" text="Веранус" />
     <string id="greenskins_male_name_12" text="Базгот" />
     <string id="greenskins_male_name_31" text="Дазлог" />
-    <string id="bretonnia_female_name_43" text="Арéгонде" />
+    <string id="bretonnia_female_name_43" text="Арегонде" />
     <string id="empire_male_506" text="Матевелин" />
     <string id="empire_male_106" text="Клауде" />
     <string id="empire_male_57" text="Балтзер" />
@@ -136,7 +136,7 @@
     <string id="empire_male_200" text="Фриедеберт" />
     <string id="empire_male_682" text="Сетанта" />
     <string id="empire_male_462" text="Левин" />
-    <string id="str_eor_chaos_clan_name_2" text="Кровавые Жнецы" />
+    <string id="str_tor_chaos_clan_name_2" text="Кровавые Жнецы" />
     <string id="bretonnia_male_name_15" text="Ауберт" />
     <string id="bretonnia_female_name_195" text="Маурисиа" />
     <string id="bretonnia_male_name_173" text="Оттивелл" />
@@ -176,7 +176,7 @@
     <string id="bretonnia_female_name_92" text="Далматиа" />
     <string id="empire_female_4" text="Ада" />
     <string id="empire_male_698" text="Свеидегер" />
-    <string id="str_eor_chaos_clan_name_5" text="Паинбрингерс" />
+    <string id="str_tor_chaos_clan_name_5" text="Приносящие Боль" />
     <string id="empire_male_363" text="Хертвиг" />
     <string id="bretonnia_female_name_112" text="Емилде" />
     <string id="empire_female_269" text="Лавиниа" />
@@ -206,7 +206,7 @@
     <string id="bretonnia_female_name_56" text="Басилиа" />
     <string id="empire_female_313" text="Мег" />
     <string id="wood_elf_male_name_15" text="Арналоек" />
-    <string id="bretonnia_male_name_44" text="Беноîт" />
+    <string id="bretonnia_male_name_44" text="Беноит" />
     <string id="dwarf_male_name_67" text="Кунн" />
     <string id="empire_male_371" text="Хилдред" />
     <string id="empire_female_156" text="Фрея" />
@@ -224,7 +224,7 @@
     <string id="empire_male_275" text="Гурге" />
     <string id="dwarf_male_name_149" text="Орн" />
     <string id="empire_male_140" text="Екехардт" />
-    <string id="bretonnia_male_name_78" text="Éтиенне" />
+    <string id="bretonnia_male_name_78" text="Етиенне" />
     <string id="empire_male_709" text="Теодерик" />
     <string id="empire_male_320" text="Хеинфриед" />
     <string id="bretonnia_male_name_201" text="Стиганд" />
@@ -241,14 +241,14 @@
     <string id="dwarf_male_name_156" text="Нарви" />
     <string id="dwarf_male_name_50" text="Харгрим" />
     <string id="bretonnia_female_name_51" text="Аурисма" />
-    <string id="bretonnia_male_name_73" text="Éмерик" />
+    <string id="bretonnia_male_name_73" text="Емерик" />
     <string id="empire_male_197" text="Фриделинус" />
     <string id="bretonnia_female_name_13" text="Акелине" />
     <string id="empire_female_106" text="Елфрида" />
     <string id="empire_female_356" text="Саломеа" />
     <string id="bretonnia_female_name_169" text="Йехане" />
     <string id="empire_male_620" text="Ратбот" />
-    <string id="bretonnia_female_name_184" text="Мâоде" />
+    <string id="bretonnia_female_name_184" text="Маоде" />
     <string id="bretonnia_female_name_139" text="Гиллиетте" />
     <string id="bretonnia_female_name_118" text="Ерменелда" />
     <string id="empire_female_327" text="Низе" />
@@ -259,7 +259,7 @@
     <string id="empire_male_608" text="Просперо" />
     <string id="empire_female_35" text="Анна" />
     <string id="dwarf_male_name_130" text="Врагни" />
-    <string id="bretonnia_male_name_140" text="Йéрôме" />
+    <string id="bretonnia_male_name_140" text="Йероме" />
     <string id="dwarf_male_name_13" text="Харалд" />
     <string id="empire_female_157" text="Фриеда" />
     <string id="wood_elf_female_name_52" text="Маиванна" />
@@ -305,7 +305,7 @@
     <string id="empire_male_36" text="Андрик" />
     <string id="empire_male_658" text="Руланд" />
     <string id="greenskins_male_name_98" text="Морнок" />
-    <string id="str_eor_chaos_male_name_25" text="Валмир" />
+    <string id="str_tor_chaos_male_name_25" text="Валмир" />
     <string id="bretonnia_female_name_5" text="Аликент" />
     <string id="empire_male_285" text="Халдред" />
     <string id="empire_male_404" text="Йодокус" />
@@ -315,7 +315,7 @@
     <string id="empire_male_651" text="Руделофф" />
     <string id="str_tor_greenskins_clan_name_45" text="Парни Горячих Камней" />
     <string id="empire_male_152" text="Елдред" />
-    <string id="str_darkelves_culeure" text="Дручии" />
+    <string id="str_darkelves_culture" text="Дручии" />
     <string id="bretonnia_male_name_80" text="Енгуерран" />
     <string id="empire_male_519" text="Мелчиор" />
     <string id="empire_male_538" text="Никил" />
@@ -330,7 +330,7 @@
     <string id="empire_male_680" text="Семунд" />
     <string id="empire_male_360" text="Хертел" />
     <string id="wood_elf_female_name_54" text="Нимариел" />
-    <string id="str_eor_chaos_clan_name_4" text="Хорстманн" />
+    <string id="str_tor_chaos_clan_name_4" text="Хорстманн" />
     <string id="greenskins_male_name_156" text="Зурок" />
     <string id="empire_male_66" text="Бартшвал" />
     <string id="empire_female_83" text="Клора" />
@@ -360,8 +360,8 @@
     <string id="empire_female_312" text="Мечтилд" />
     <string id="empire_male_793" text="Волдред" />
     <string id="empire_male_573" text="Отфриед" />
-    <string id="str_eor_norscaraidersfaceion" text="Норсканы-разбойники" />
-    <string id="bretonnia_female_name_222" text="Рéгилинде" />
+    <string id="str_tor_norscaraidersfaction" text="Норсканские налётчики" />
+    <string id="bretonnia_female_name_222" text="Регилинде" />
     <string id="empire_female_159" text="Фриедрика" />
     <string id="empire_male_58" text="Барнабас" />
     <string id="empire_female_197" text="Хеиле" />
@@ -415,7 +415,7 @@
     <string id="bretonnia_male_name_143" text="Йоссе" />
     <string id="empire_male_312" text="Хартвиг" />
     <string id="empire_male_543" text="Никодемус" />
-    <string id="bretonnia_male_name_43" text="Барнабé" />
+    <string id="bretonnia_male_name_43" text="Барнабе" />
     <string id="empire_female_20" text="Алфреда" />
     <string id="empire_male_279" text="Гутвин" />
     <string id="empire_male_20" text="Алдфреид" />
@@ -425,9 +425,9 @@
     <string id="empire_male_423" text="Кастор" />
     <string id="empire_female_221" text="Ингрун" />
     <string id="dwarf_male_name_125" text="Улфим" />
-    <string id="bretonnia_male_name_9" text="Амéдéе" />
+    <string id="bretonnia_male_name_9" text="Амедее" />
     <string id="bretonnia_female_name_156" text="Хаоуис" />
-    <string id="bretonnia_female_name_198" text="Ноéми" />
+    <string id="bretonnia_female_name_198" text="Ноеми" />
     <string id="bretonnia_male_name_124" text="Гилон" />
     <string id="bretonnia_female_name_4" text="Алисон" />
     <string id="bretonnia_male_name_219" text="Ваундриле" />
@@ -464,16 +464,16 @@
     <string id="empire_female_67" text="Брунхилда" />
     <string id="empire_male_256" text="Греимолд" />
     <string id="greenskins_male_name_125" text="Уггор" />
-    <string id="str_eor_chaos_male_name_3" text="Аккорак" />
+    <string id="str_tor_chaos_male_name_3" text="Аккорак" />
     <string id="wood_elf_male_name_144" text="Вирмер" />
     <string id="greenskins_male_name_159" text="Мардук" />
-    <string id="str_eor_chaos_female_name_5" text="Каериа" />
+    <string id="str_tor_chaos_female_name_5" text="Каериа" />
     <string id="empire_female_247" text="Катарине" />
     <string id="bretonnia_female_name_85" text="Чристина" />
     <string id="empire_female_289" text="Магдалене" />
     <string id="bretonnia_female_name_47" text="Аубине" />
     <string id="dwarf_male_name_116" text="Тронни" />
-    <string id="bretonnia_male_name_76" text="Éдоуард" />
+    <string id="bretonnia_male_name_76" text="Едоуард" />
     <string id="wood_elf_male_name_27" text="Каеленор" />
     <string id="empire_female_329" text="Офелиа" />
     <string id="empire_male_710" text="Теодосиус" />
@@ -484,7 +484,7 @@
     <string id="empire_female_81" text="Кларе" />
     <string id="empire_male_24" text="Александер" />
     <string id="bretonnia_female_name_162" text="Иветта" />
-    <string id="str_eor_chaos_male_name_6" text="Кормак" />
+    <string id="str_tor_chaos_male_name_6" text="Кормак" />
     <string id="empire_female_341" text="Регина" />
     <string id="greenskins_male_name_152" text="Золгок" />
     <string id="empire_female_158" text="Фриедхилда" />
@@ -500,7 +500,7 @@
     <string id="empire_male_49" text="Аугустус" />
     <string id="empire_female_73" text="Карлотта" />
     <string id="empire_female_170" text="Герберга" />
-    <string id="bretonnia_male_name_130" text="Хервé" />
+    <string id="bretonnia_male_name_130" text="Херве" />
     <string id="bretonnia_female_name_137" text="Фраисенде" />
     <string id="empire_male_290" text="Халс" />
     <string id="empire_male_660" text="Руле" />
@@ -513,8 +513,8 @@
     <string id="empire_male_335" text="Хенил" />
     <string id="greenskins_male_name_102" text="Оггрок" />
     <string id="wood_elf_male_name_140" text="Виднат" />
-    <string id="str_eor_desereerfaceion" text="Империя Десертерс" />
-    <string id="str_eor_chaos_male_name_29" text="Вардек" />
+    <string id="str_tor_deserterfaction" text="Имперские дезертиры" />
+    <string id="str_tor_chaos_male_name_29" text="Вардек" />
     <string id="wood_elf_male_name_31" text="Карданот" />
     <string id="wood_elf_male_name_113" text="Релураун" />
     <string id="empire_male_703" text="Танкред" />
@@ -523,7 +523,7 @@
     <string id="str_tor_greenskins_clan_name_1" text="Гоб-Глоты" />
     <string id="empire_male_268" text="Гундолф" />
     <string id="greenskins_male_name_29" text="Дагдак" />
-    <string id="bretonnia_male_name_205" text="Тéо" />
+    <string id="bretonnia_male_name_205" text="Тео" />
     <string id="bretonnia_female_name_55" text="Бригитте" />
     <string id="bretonnia_female_name_209" text="Примевеире" />
     <string id="empire_male_230" text="Гиселхер" />
@@ -573,12 +573,12 @@
     <string id="empire_male_313" text="Хауг" />
     <string id="empire_male_27" text="Алфричт" />
     <string id="empire_female_137" text="Ермел" />
-    <string id="bretonnia_male_name_139" text="Йоëл" />
+    <string id="bretonnia_male_name_139" text="Йоел" />
     <string id="empire_male_278" text="Гутше" />
     <string id="empire_male_259" text="Гримволд" />
     <string id="greenskins_male_name_104" text="Рагрог" />
     <string id="dwarf_male_name_91" text="Скалдор" />
-    <string id="str_highelves_culeure" text="Асур" />
+    <string id="str_highelves_culture" text="Асур" />
     <string id="bretonnia_male_name_131" text="Хуе" />
     <string id="bretonnia_male_name_112" text="Гастон" />
     <string id="empire_male_84" text="Бласиус" />
@@ -619,11 +619,11 @@
     <string id="empire_male_212" text="Георгиус" />
     <string id="dwarf_male_name_123" text="Тик" />
     <string id="bretonnia_male_name_3" text="Антоине" />
-    <string id="str_eor_chaos_male_name_19" text="Меррок" />
+    <string id="str_tor_chaos_male_name_19" text="Меррок" />
     <string id="empire_male_158" text="Ендал" />
     <string id="greenskins_male_name_158" text="Зургот" />
     <string id="empire_male_196" text="Фридебрахт" />
-    <string id="str_eor_chaos_female_name_4" text="Влитреска" />
+    <string id="str_tor_chaos_female_name_4" text="Влитреска" />
     <string id="empire_female_265" text="Кристена" />
     <string id="empire_female_246" text="Катарина" />
     <string id="dwarf_male_name_142" text="Мурмек" />
@@ -644,7 +644,7 @@
     <string id="empire_male_805" text="Вудер" />
     <string id="empire_male_494" text="Мандред" />
     <string id="empire_male_477" text="Лотар" />
-    <string id="str_eor_chaos_male_name_7" text="Дравик" />
+    <string id="str_tor_chaos_male_name_7" text="Дравик" />
     <string id="bretonnia_female_name_194" text="Матиа" />
     <string id="empire_male_368" text="Хилдемар" />
     <string id="empire_male_188" text="Фелкел" />
@@ -673,7 +673,7 @@
     <string id="dwarf_male_name_40" text="Готтри" />
     <string id="empire_male_132" text="Дитвин" />
     <string id="bretonnia_female_name_41" text="Анкелине" />
-    <string id="str_exoeic_culeure" text="Ексотик" />
+    <string id="str_exotic_culture" text="Экзотическая культура" />
     <string id="bretonnia_male_name_83" text="Едоварт" />
     <string id="empire_female_346" text="Росабел" />
     <string id="str_tor_greenskins_clan_name_7" text="Большие Здоровяки" />
@@ -683,7 +683,7 @@
     <string id="empire_male_85" text="Богуш" />
     <string id="empire_male_683" text="Сиегер" />
     <string id="bretonnia_female_name_179" text="Лоиссе" />
-    <string id="str_eor_chaos_clan_name_1" text="Доомборн" />
+    <string id="str_tor_chaos_clan_name_1" text="Рождённые Роком" />
     <string id="bretonnia_female_name_183" text="Моникве" />
     <string id="bretonnia_male_name_172" text="Осберн" />
     <string id="empire_female_240" text="Йутте" />
@@ -692,7 +692,8 @@
     <string id="empire_female_324" text="Неллие" />
     <string id="bretonnia_male_name_52" text="Брениер" />
     <string id="bretonnia_female_name_233" text="Седиле" />
-    <string id="empire_generic_clan_name" text="вон{ORIGIN_SETTLEMENT}" />
+    <string id="empire_generic_clan_name" text="фон {ORIGIN_SETTLEMENT}" />
+    <string id="vampire_counts_generic_clan_name" text="фон {ORIGIN_SETTLEMENT}" />
     <string id="bretonnia_female_name_128" text="Фретесента" />
     <string id="empire_male_692" text="Станислаус" />
     <string id="bretonnia_female_name_70" text="Бланчефлеур" />
@@ -732,7 +733,7 @@
     <string id="greenskins_male_name_116" text="Скаргут" />
     <string id="dwarf_male_name_90" text="Скаггрим" />
     <string id="empire_male_601" text="Петшманн" />
-    <string id="greenskins_female_name_1" text="Добавить_ме_ин_културес_ксмл" />
+    <string id="greenskins_female_name_1" text="Гразла" />
     <string id="greenskins_male_name_148" text="Зогворт" />
     <string id="empire_male_235" text="Гобел" />
     <string id="empire_female_256" text="Кете" />
@@ -742,11 +743,11 @@
     <string id="empire_female_295" text="Магрета" />
     <string id="bretonnia_male_name_160" text="Махи" />
     <string id="greenskins_male_name_23" text="Даккбад" />
-    <string id="bretonnia_male_name_66" text="Диеудоннé" />
+    <string id="bretonnia_male_name_66" text="Диеудонне" />
     <string id="wood_elf_male_name_35" text="Даерток" />
     <string id="dwarf_male_name_8" text="Денк" />
     <string id="wood_elf_male_name_81" text="Карвидт" />
-    <string id="mousillonfaceion" text="Муссильон" />
+    <string id="mousillonfaction" text="Муссильон" />
     <string id="empire_female_14" text="Агнетз" />
     <string id="empire_female_102" text="Едите" />
     <string id="bretonnia_female_name_212" text="Пентекоусте" />
@@ -761,7 +762,7 @@
     <string id="wood_elf_male_name_131" text="Улоек" />
     <string id="empire_female_311" text="Маи" />
     <string id="empire_male_160" text="Еневалт" />
-    <string id="bretonnia_male_name_79" text="Еугèне" />
+    <string id="bretonnia_male_name_79" text="Еугене" />
     <string id="bretonnia_male_name_58" text="Клауде" />
     <string id="empire_male_706" text="Таддеус" />
     <string id="bretonnia_male_name_202" text="Сарлат" />
@@ -794,22 +795,22 @@
     <string id="empire_female_17" text="Алеид" />
     <string id="bretonnia_male_name_174" text="Оунфреи" />
     <string id="empire_male_700" text="Симон" />
-    <string id="str_eor_chaos_male_name_18" text="Хорак" />
+    <string id="str_tor_chaos_male_name_18" text="Хорак" />
     <string id="bretonnia_male_name_225" text="Янис" />
-    <string id="bretonnia_male_name_207" text="Тимотéе" />
+    <string id="bretonnia_male_name_207" text="Тимотее" />
     <string id="wood_elf_male_name_10" text="Аетаркаек" />
     <string id="dwarf_male_name_76" text="Моргрим" />
     <string id="empire_female_284" text="Луисе" />
     <string id="empire_male_607" text="Прокоп" />
     <string id="wood_elf_male_name_1" text="Ателвин" />
     <string id="empire_male_457" text="Леополд" />
-    <string id="breeonniafaceion" text="Бретонния" />
+    <string id="bretonniafaction" text="Бретонния" />
     <string id="dwarf_male_name_110" text="Торбрин" />
     <string id="dwarf_male_name_31" text="Фимбур" />
     <string id="dwarf_male_name_12" text="Белегурн" />
     <string id="empire_male_497" text="Маркус" />
     <string id="empire_male_39" text="Антони" />
-    <string id="str_eor_chaos_male_name_24" text="Ролф" />
+    <string id="str_tor_chaos_male_name_24" text="Ролф" />
     <string id="empire_male_476" text="Лоренз" />
     <string id="empire_male_712" text="Теофилус" />
     <string id="empire_male_53" text="Балдевин" />
@@ -927,14 +928,14 @@
     <string id="bretonnia_male_name_154" text="Лоуен" />
     <string id="empire_male_176" text="Ернестус" />
     <string id="empire_male_199" text="Фриебалд" />
-    <string id="bretonnia_male_name_5" text="Андрé" />
+    <string id="bretonnia_male_name_5" text="Андре" />
     <string id="empire_male_383" text="Иван" />
     <string id="bretonnia_female_name_81" text="Катант" />
     <string id="bretonnia_female_name_68" text="Биетрикс" />
     <string id="empire_male_513" text="Меингот" />
     <string id="bretonnia_male_name_97" text="Ферри" />
-    <string id="str_eor_looeerfaceion" text="Гоблин Раидерс" />
-    <string id="bretonnia_male_name_59" text="Кôме" />
+    <string id="str_tor_looterfaction" text="Гоблины-налётчики" />
+    <string id="bretonnia_male_name_59" text="Коме" />
     <string id="empire_male_763" text="Валдор" />
     <string id="empire_male_263" text="Гуидо" />
     <string id="empire_male_264" text="Гумперт" />
@@ -948,7 +949,7 @@
     <string id="empire_male_694" text="Стеффен" />
     <string id="empire_male_675" text="Сеибке" />
     <string id="empire_male_656" text="Рудуш" />
-    <string id="bretonnia_female_name_143" text="Гéралдессе" />
+    <string id="bretonnia_female_name_143" text="Гералдессе" />
     <string id="empire_female_40" text="Аполлониа" />
     <string id="wood_elf_male_name_5" text="Араннис" />
     <string id="empire_male_346" text="Хенсил" />
@@ -969,14 +970,14 @@
     <string id="bretonnia_female_name_243" text="Гуеррите" />
     <string id="str_tor_greenskins_clan_name_10" text="Золотозубы" />
     <string id="bretonnia_female_name_148" text="Гислилде" />
-    <string id="bretonnia_female_name_192" text="Мадалèне" />
+    <string id="bretonnia_female_name_192" text="Мадалене" />
     <string id="bretonnia_female_name_116" text="Ерембоурк" />
     <string id="bretonnia_male_name_21" text="Аделелм" />
     <string id="empire_male_407" text="Йокодус" />
     <string id="empire_male_450" text="Ланвин" />
     <string id="greenskins_male_name_56" text="Гролгад" />
     <string id="bretonnia_male_name_61" text="Кларенбалд" />
-    <string id="bretonnia_male_name_42" text="Бéренгер" />
+    <string id="bretonnia_male_name_42" text="Беренгер" />
     <string id="empire_male_243" text="Готболдтус" />
     <string id="empire_male_103" text="Каспар" />
     <string id="greenskins_male_name_87" text="Могрок" />
@@ -994,7 +995,7 @@
     <string id="wood_elf_male_name_23" text="Балоек" />
     <string id="bretonnia_male_name_220" text="Виллиелмус" />
     <string id="bretonnia_female_name_37" text="Алмодис" />
-    <string id="str_dwarves_culeure" text="Гномы" />
+    <string id="str_dwarves_culture" text="Гномы" />
     <string id="empire_female_32" text="Анхилда" />
     <string id="bretonnia_female_name_206" text="Осане" />
     <string id="empire_male_570" text="Остагот" />
@@ -1018,7 +1019,7 @@
     <string id="empire_female_348" text="Росале" />
     <string id="wood_elf_male_name_64" text="Гаевис" />
     <string id="empire_female_39" text="Аня" />
-    <string id="str_eor_dwarf_clan_name_6" text="Флинтеарт" />
+    <string id="str_tor_dwarf_clan_name_6" text="Кремнесердцы" />
     <string id="empire_female_87" text="Констанза" />
     <string id="bretonnia_female_name_226" text="Роскилла" />
     <string id="empire_female_45" text="Барбара" />
@@ -1032,7 +1033,7 @@
     <string id="bretonnia_female_name_65" text="Берарде" />
     <string id="bretonnia_female_name_44" text="Аскелина" />
     <string id="greenskins_male_name_32" text="Дазрог" />
-    <string id="bretonnia_male_name_77" text="Éмиле" />
+    <string id="bretonnia_male_name_77" text="Емиле" />
     <string id="empire_male_642" text="Робб" />
     <string id="empire_male_120" text="Диетерич" />
     <string id="empire_male_308" text="Хартрад" />
@@ -1065,10 +1066,10 @@
     <string id="empire_male_64" text="Бартолф" />
     <string id="empire_male_163" text="Енгелгерус" />
     <string id="wood_elf_male_name_111" text="Омарис" />
-    <string id="bretonnia_male_name_93" text="Франçоис" />
+    <string id="bretonnia_male_name_93" text="Франсоис" />
     <string id="wood_elf_male_name_50" text="Елоек" />
     <string id="empire_male_797" text="Волфхард" />
-    <string id="blooddragonfaceion" text="Кровавые Драконы" />
+    <string id="blooddragonfaction" text="Кровавые Драконы" />
     <string id="greenskins_male_name_50" text="Горбак" />
     <string id="empire_female_340" text="Филомелиа" />
     <string id="str_tor_greenskins_clan_name_36" text="Мутноглазы" />
@@ -1092,14 +1093,14 @@
     <string id="bretonnia_female_name_208" text="Одетт" />
     <string id="empire_male_210" text="Гелфрид" />
     <string id="bretonnia_female_name_3" text="Алдуса" />
-    <string id="bretonnia_male_name_4" text="Адéлард" />
+    <string id="bretonnia_male_name_4" text="Аделард" />
     <string id="str_tor_greenskins_clan_name_3" text="Дробилы Коротышей" />
     <string id="bretonnia_female_name_150" text="Гуиллелма" />
     <string id="str_tor_greenskins_clan_name_33" text="Древотыкалы" />
     <string id="empire_male_486" text="Лупполт" />
     <string id="empire_male_444" text="Курласс" />
     <string id="empire_male_467" text="Лиеберт" />
-    <string id="str_eor_chaos_male_name_15" text="Йхаркилл" />
+    <string id="str_tor_chaos_male_name_15" text="Йхаркилл" />
     <string id="empire_male_42" text="Арнолд" />
     <string id="empire_male_61" text="Бартил" />
     <string id="empire_male_154" text="Елгер" />
@@ -1133,7 +1134,7 @@
     <string id="empire_female_355" text="Салмеи" />
     <string id="dwarf_male_name_37" text="Глум" />
     <string id="dwarf_male_name_14" text="Боки" />
-    <string id="str_eor_dwarf_clan_name_2" text="Иронбеард" />
+    <string id="str_tor_dwarf_clan_name_2" text="Железнобородые" />
     <string id="empire_male_453" text="Лазарус" />
     <string id="empire_female_250" text="Катерин" />
     <string id="bretonnia_male_name_19" text="Аимери" />
@@ -1150,12 +1151,11 @@
     <string id="empire_female_11" text="Агнета" />
     <string id="empire_female_223" text="Ирина" />
     <string id="greenskins_male_name_112" text="Скалрук" />
-    <string id="bretonnia_male_name_7" text="Алдéрик" />
+    <string id="bretonnia_male_name_7" text="Алдерик" />
     <string id="bretonnia_female_name_154" text="Хаделинде" />
     <string id="bretonnia_female_name_196" text="Наталие" />
     <string id="bretonnia_male_name_153" text="Лям" />
     <string id="bretonnia_male_name_90" text="Фабиен" />
-    <string id="vampire_counes_generic_clan_name" text="вон{ORIGIN_SETTLEMENT}" />
     <string id="empire_male_711" text="Теодрикус" />
     <string id="empire_male_713" text="Тиемо" />
     <string id="empire_male_596" text="Пессолт" />
@@ -1163,7 +1163,7 @@
     <string id="empire_male_554" text="Одвин" />
     <string id="empire_male_577" text="Отто" />
     <string id="bretonnia_male_name_99" text="Фирматус" />
-    <string id="str_eor_eonirfaceion" text="Эонир" />
+    <string id="str_tor_eonirfaction" text="Эонир" />
     <string id="empire_male_247" text="Готтфриедус" />
     <string id="empire_male_141" text="Екехарт" />
     <string id="empire_male_289" text="Халперт" />
@@ -1171,7 +1171,7 @@
     <string id="dwarf_male_name_138" text="Зрим" />
     <string id="bretonnia_female_name_130" text="Фарберта" />
     <string id="dwarf_male_name_39" text="Горазин" />
-    <string id="bretonnia_male_name_169" text="Нéел" />
+    <string id="bretonnia_male_name_169" text="Неел" />
     <string id="bretonnia_male_name_148" text="Каллез" />
     <string id="bretonnia_female_name_123" text="Еуделине" />
     <string id="bretonnia_male_name_182" text="Роберт" />
@@ -1194,11 +1194,11 @@
     <string id="empire_female_128" text="Эммануэл" />
     <string id="dwarf_male_name_122" text="Турбок" />
     <string id="bretonnia_male_name_2" text="Арнауд" />
-    <string id="str_eor_chaos_male_name_1" text="Абракс" />
+    <string id="str_tor_chaos_male_name_1" text="Абракс" />
     <string id="empire_male_159" text="Ендерлин" />
     <string id="bretonnia_male_name_175" text="Филиппе" />
     <string id="bretonnia_male_name_156" text="Мичел" />
-    <string id="str_eor_chaos_female_name_3" text="Хела" />
+    <string id="str_tor_chaos_female_name_3" text="Хела" />
     <string id="empire_female_264" text="Конуш" />
     <string id="empire_male_90" text="Бруно" />
     <string id="wood_elf_male_name_119" text="Салоек" />
@@ -1217,7 +1217,7 @@
     <string id="empire_male_804" text="Вортвин" />
     <string id="bretonnia_male_name_20" text="Акард" />
     <string id="greenskins_male_name_137" text="Вазог" />
-    <string id="str_eor_chaos_male_name_4" text="Арек" />
+    <string id="str_tor_chaos_male_name_4" text="Арек" />
     <string id="empire_female_366" text="Силма" />
     <string id="empire_male_348" text="Хентшел" />
     <string id="empire_male_392" text="Йекел" />
@@ -1242,7 +1242,7 @@
     <string id="empire_female_217" text="Илса" />
     <string id="bretonnia_female_name_152" text="Гуя" />
     <string id="empire_female_249" text="Катерине" />
-    <string id="str_eor_dwarf_clan_name_4" text="Коппербак" />
+    <string id="str_tor_dwarf_clan_name_4" text="Меднобородые" />
     <string id="wood_elf_male_name_127" text="Теккурнус" />
     <string id="empire_male_203" text="Фриедигер" />
     <string id="wood_elf_female_name_60" text="Осаеат" />
@@ -1277,7 +1277,7 @@
     <string id="bretonnia_female_name_187" text="Маргери" />
     <string id="greenskins_male_name_38" text="Газгрог" />
     <string id="empire_male_786" text="Винандус" />
-    <string id="bretonnia_male_name_129" text="Хонорé" />
+    <string id="bretonnia_male_name_129" text="Хоноре" />
     <string id="empire_male_604" text="Пиетерманн" />
     <string id="greenskins_male_name_27" text="Даггок" />
     <string id="empire_male_43" text="Арнулф" />
@@ -1318,7 +1318,7 @@
     <string id="empire_male_25" text="Алексеи" />
     <string id="wood_elf_male_name_141" text="Видлер" />
     <string id="empire_male_705" text="Теутоге" />
-    <string id="str_eor_breeonnianbandiefaceion" text="Херримаултс" />
+    <string id="str_tor_bretonnianbanditfaction" text="Эрримольты" />
     <string id="greenskins_male_name_106" text="Раккбад" />
     <string id="bretonnia_male_name_109" text="Гаултиер" />
     <string id="wood_elf_female_name_41" text="Лутиен" />
@@ -1357,7 +1357,7 @@
     <string id="empire_female_108" text="Елисабет" />
     <string id="empire_male_516" text="Меинолф" />
     <string id="empire_male_535" text="Неитарт" />
-    <string id="bretonnia_male_name_167" text="Ноëл" />
+    <string id="bretonnia_male_name_167" text="Ноел" />
     <string id="empire_female_113" text="Еллене" />
     <string id="empire_male_592" text="Перегринус" />
     <string id="bretonnia_male_name_46" text="Багот" />
@@ -1378,7 +1378,7 @@
     <string id="wood_elf_male_name_30" text="Кервитд" />
     <string id="empire_male_772" text="Вернхерус" />
     <string id="bretonnia_male_name_211" text="Тауберт" />
-    <string id="bretonnia_male_name_197" text="Сéвèре" />
+    <string id="bretonnia_male_name_197" text="Севере" />
     <string id="bretonnia_male_name_206" text="Тибаулт" />
     <string id="empire_male_542" text="Никлавес" />
     <string id="bretonnia_male_name_81" text="Естиенне" />
@@ -1390,7 +1390,7 @@
     <string id="bretonnia_female_name_180" text="Лоувине" />
     <string id="empire_male_454" text="Лехенхард" />
     <string id="empire_male_475" text="Лодевиг" />
-    <string id="str_eor_culeisefaceion" text="Хаос Култистс" />
+    <string id="str_tor_cultistfaction" text="Культисты Хаоса" />
     <string id="empire_male_52" text="Балдекин" />
     <string id="empire_male_735" text="Улман" />
     <string id="empire_male_144" text="Едмунд" />
@@ -1432,7 +1432,7 @@
     <string id="empire_female_229" text="Исабелла" />
     <string id="greenskins_male_name_150" text="Золок" />
     <string id="empire_male_461" text="Леутке" />
-    <string id="bretonnia_male_name_168" text="Нéал" />
+    <string id="bretonnia_male_name_168" text="Неал" />
     <string id="bretonnia_female_name_124" text="Еустачие" />
     <string id="empire_male_533" text="Натандар" />
     <string id="empire_male_323" text="Хеинманн" />
@@ -1485,7 +1485,7 @@
     <string id="greenskins_male_name_118" text="Скарок" />
     <string id="greenskins_male_name_139" text="Загдаг" />
     <string id="greenskins_male_name_58" text="Гролрог" />
-    <string id="str_woodelves_culeure" text="Лесные эльфы" />
+    <string id="str_woodelves_culture" text="Лесные эльфы" />
     <string id="bretonnia_male_name_164" text="Мачеворт" />
     <string id="empire_male_352" text="Херборт" />
     <string id="bretonnia_male_name_189" text="Роул" />
@@ -1536,7 +1536,7 @@
     <string id="bretonnia_female_name_207" text="Оудине" />
     <string id="empire_male_502" text="Мартин" />
     <string id="dwarf_male_name_3" text="Казреф" />
-    <string id="bretonnia_female_name_27" text="Ахéлис" />
+    <string id="bretonnia_female_name_27" text="Ахелис" />
     <string id="dwarf_male_name_56" text="Йосеф" />
     <string id="empire_male_130" text="Дитмарус" />
     <string id="greenskins_male_name_69" text="Гургут" />
@@ -1559,7 +1559,7 @@
     <string id="str_tor_greenskins_clan_name_15" text="Костоголовы" />
     <string id="wood_elf_male_name_16" text="Бриархеарт" />
     <string id="dwarf_male_name_5" text="Бардин" />
-    <string id="str_eor_chaos_male_name_31" text="Сколлден" />
+    <string id="str_tor_chaos_male_name_31" text="Сколлден" />
     <string id="bretonnia_female_name_204" text="Одолиа" />
     <string id="wood_elf_male_name_128" text="Телалоек" />
     <string id="empire_male_605" text="Питер" />
@@ -1567,12 +1567,12 @@
     <string id="wood_elf_male_name_3" text="Аерендил" />
     <string id="greenskins_male_name_101" text="Огдруз" />
     <string id="empire_male_205" text="Фритзше" />
-    <string id="str_eor_chaos_male_name_30" text="Сорен" />
+    <string id="str_tor_chaos_male_name_30" text="Сорен" />
     <string id="dwarf_male_name_33" text="Бимбур" />
     <string id="dwarf_male_name_105" text="Тингрим" />
     <string id="empire_male_126" text="Дирк" />
-    <string id="str_eor_chaos_male_name_26" text="Стрикссен" />
-    <string id="str_eor_chaos_male_name_28" text="Валлак" />
+    <string id="str_tor_chaos_male_name_26" text="Стрикссен" />
+    <string id="str_tor_chaos_male_name_28" text="Валлак" />
     <string id="empire_male_169" text="Ердред" />
     <string id="greenskins_male_name_78" text="Крагдракк" />
     <string id="bretonnia_female_name_36" text="Алексиа" />
@@ -1604,8 +1604,8 @@
     <string id="dwarf_male_name_97" text="Сторгрим" />
     <string id="dwarf_male_name_78" text="Норр" />
     <string id="dwarf_male_name_59" text="Карден" />
-    <string id="bretonnia_male_name_190" text="Ренâод" />
-    <string id="str_eor_dwarf_clan_name_1" text="Гуннарссон" />
+    <string id="bretonnia_male_name_190" text="Ренаод" />
+    <string id="str_tor_dwarf_clan_name_1" text="Гуннарссон" />
     <string id="empire_male_104" text="Кедред" />
     <string id="empire_male_309" text="Хартунгус" />
     <string id="empire_male_511" text="Меффрид" />
@@ -1632,7 +1632,7 @@
     <string id="empire_male_277" text="Густавус" />
     <string id="bretonnia_female_name_229" text="Стефание" />
     <string id="empire_male_296" text="Ханнос" />
-    <string id="str_eor_chaos_clan_name_7" text="Бубоникус" />
+    <string id="str_tor_chaos_clan_name_7" text="Бубоникус" />
     <string id="empire_female_99" text="Едхилда" />
     <string id="wood_elf_male_name_4" text="Аеларион" />
     <string id="greenskins_male_name_145" text="Зогрук" />
@@ -1679,7 +1679,7 @@
     <string id="empire_male_487" text="Лупус" />
     <string id="empire_male_445" text="Ламбертус" />
     <string id="greenskins_male_name_127" text="Углок" />
-    <string id="str_eor_chaos_male_name_14" text="Хилдр" />
+    <string id="str_tor_chaos_male_name_14" text="Хилдр" />
     <string id="dwarf_male_name_159" text="Бардук" />
     <string id="empire_male_155" text="Елмерик" />
     <string id="empire_male_174" text="Ермелаус" />
@@ -1699,8 +1699,8 @@
     <string id="empire_female_227" text="Ирмине" />
     <string id="empire_male_459" text="Леутер" />
     <string id="empire_male_677" text="Сеидел" />
-    <string id="str_eor_chaos_male_name_11" text="Ферик" />
-    <string id="str_eor_chaos_male_name_8" text="Дренок" />
+    <string id="str_tor_chaos_male_name_11" text="Ферик" />
+    <string id="str_tor_chaos_male_name_8" text="Дренок" />
     <string id="greenskins_male_name_2" text="Агдуг" />
     <string id="empire_male_148" text="Ехрл" />
     <string id="empire_male_344" text="Хеншел" />
@@ -1710,7 +1710,7 @@
     <string id="bretonnia_female_name_93" text="Дангереусе" />
     <string id="bretonnia_male_name_145" text="Йовин" />
     <string id="empire_female_353" text="Рожилда" />
-    <string id="str_eor_chaos_culeure" text="Хаос" />
+    <string id="str_tor_chaos_culture" text="Хаос" />
     <string id="bretonnia_female_name_30" text="Алаире" />
     <string id="empire_male_728" text="Тило" />
     <string id="bretonnia_male_name_215" text="Вауквелин" />
@@ -1730,7 +1730,7 @@
     <string id="empire_female_114" text="Еллинде" />
     <string id="empire_female_135" text="Ерика" />
     <string id="bretonnia_female_name_140" text="Гуннор" />
-    <string id="str_eor_chaos_male_name_13" text="Харалд" />
+    <string id="str_tor_chaos_male_name_13" text="Харалд" />
     <string id="empire_female_80" text="Килие" />
     <string id="empire_male_283" text="Хаген" />
     <string id="empire_male_224" text="Герунг" />
@@ -1744,7 +1744,7 @@
     <string id="wood_elf_male_name_142" text="Видтмот" />
     <string id="bretonnia_male_name_171" text="Онфрои" />
     <string id="bretonnia_female_name_129" text="Фалатруде" />
-    <string id="str_eor_chaos_male_name_10" text="Елгром" />
+    <string id="str_tor_chaos_male_name_10" text="Елгром" />
     <string id="greenskins_male_name_96" text="Морнак" />
     <string id="empire_female_241" text="Карелиа" />
     <string id="empire_male_96" text="Бурголт" />
@@ -1761,11 +1761,11 @@
     <string id="dwarf_male_name_139" text="Зик" />
     <string id="dwarf_male_name_118" text="Тунгни" />
     <string id="empire_male_402" text="Йокоп" />
-    <string id="str_eor_chaos_male_name_22" text="Радек" />
+    <string id="str_tor_chaos_male_name_22" text="Радек" />
     <string id="greenskins_male_name_130" text="Угварг" />
     <string id="bretonnia_male_name_149" text="Лаурент" />
     <string id="empire_male_635" text="Ричарт" />
-    <string id="bretonnia_male_name_183" text="Рéгис" />
+    <string id="bretonnia_male_name_183" text="Регис" />
     <string id="wood_elf_male_name_100" text="Нурваи" />
     <string id="empire_male_740" text="Уто" />
     <string id="empire_female_339" text="Фие" />
@@ -1784,7 +1784,7 @@
     <string id="dwarf_male_name_17" text="Бриннот" />
     <string id="wood_elf_male_name_149" text="Варандир" />
     <string id="empire_male_324" text="Хеинрич" />
-    <string id="str_eor_chaos_female_name_2" text="Беллона" />
+    <string id="str_tor_chaos_female_name_2" text="Беллона" />
     <string id="empire_female_267" text="Кунегунде" />
     <string id="greenskins_male_name_143" text="Загструк" />
     <string id="bretonnia_female_name_88" text="Клименке" />
@@ -1795,12 +1795,12 @@
     <string id="empire_male_105" text="Черусе" />
     <string id="wood_elf_male_name_78" text="Холис" />
     <string id="greenskins_male_name_72" text="Гурглут" />
-    <string id="empirefaceion" text="Империя Людей" />
+    <string id="empirefaction" text="Империя Людей" />
     <string id="empire_female_82" text="Клаудиа" />
     <string id="empire_male_807" text="Ксавиер" />
     <string id="greenskins_male_name_115" text="Скаргрог" />
     <string id="greenskins_male_name_136" text="Ваграз" />
-    <string id="str_eor_chaos_male_name_5" text="Баудрос" />
+    <string id="str_tor_chaos_male_name_5" text="Баудрос" />
     <string id="str_tor_greenskins_clan_name_20" text="Большие Мыслители" />
     <string id="empire_male_448" text="Ланфриед" />
     <string id="bretonnia_female_name_96" text="Доминилде" />
@@ -1824,11 +1824,11 @@
     <string id="bretonnia_male_name_24" text="Аирард" />
     <string id="wood_elf_male_name_132" text="Ушиндир" />
     <string id="empire_male_89" text="Брокуфф" />
-    <string id="str_eor_beasemenfaceion" text="Зверолюды Варбанд" />
+    <string id="str_tor_beastmenfaction" text="Банда Зверолюдов" />
     <string id="empire_male_47" text="Ассмус" />
     <string id="dwarf_male_name_143" text="Двирин" />
-    <string id="str_eor_chaos_male_name_12" text="Гарм" />
-    <string id="bretonnia_female_name_22" text="Адурéе" />
+    <string id="str_tor_chaos_male_name_12" text="Гарм" />
+    <string id="bretonnia_female_name_22" text="Адурее" />
     <string id="wood_elf_male_name_73" text="Халоек" />
     <string id="bretonnia_female_name_227" text="Силвие" />
     <string id="bretonnia_male_name_45" text="Беллами" />
@@ -1852,7 +1852,7 @@
     <string id="dwarf_male_name_74" text="Молго" />
     <string id="bretonnia_male_name_128" text="Хуго" />
     <string id="empire_male_679" text="Сеиффрид" />
-    <string id="str_eor_chaos_male_name_23" text="Рагнар" />
+    <string id="str_tor_chaos_male_name_23" text="Рагнар" />
     <string id="bretonnia_female_name_1" text="Анне" />
     <string id="dwarf_male_name_22" text="Димзад" />
     <string id="empire_male_358" text="Херменчин" />
@@ -1862,7 +1862,7 @@
     <string id="dwarf_male_name_95" text="Скорригни" />
     <string id="empire_male_4" text="Аделберт" />
     <string id="empire_male_480" text="Лудевикус" />
-    <string id="bretonnia_male_name_204" text="Тéодоре" />
+    <string id="bretonnia_male_name_204" text="Теодоре" />
     <string id="bretonnia_male_name_199" text="Саер" />
     <string id="greenskins_male_name_30" text="Даггут" />
     <string id="empire_female_21" text="Алфрида" />
@@ -1886,13 +1886,13 @@
     <string id="bretonnia_female_name_10" text="Алике" />
     <string id="empire_male_588" text="Паувел" />
     <string id="empire_male_251" text="Готтзше" />
-    <string id="str_eor_chaos_female_name_7" text="Атарине  " />
+    <string id="str_tor_chaos_female_name_7" text="Атарине  " />
     <string id="empire_male_400" text="Йокоб" />
     <string id="str_tor_greenskins_clan_name_11" text="Мозоленоги" />
     <string id="bretonnia_female_name_176" text="Линот" />
     <string id="empire_female_203" text="Хербург" />
-    <string id="str_eor_chaos_male_name_21" text="Огракс" />
-    <string id="str_eor_dwarf_clan_name_5" text="Краганд" />
+    <string id="str_tor_chaos_male_name_21" text="Огракс" />
+    <string id="str_tor_dwarf_clan_name_5" text="Скалорукие" />
     <string id="greenskins_male_name_140" text="Загдракка" />
     <string id="dwarf_male_name_69" text="Лерг" />
     <string id="dwarf_male_name_48" text="Гуттри" />
@@ -1901,7 +1901,7 @@
     <string id="empire_female_290" text="Магдалин" />
     <string id="empire_male_33" text="Андирке" />
     <string id="empire_male_452" text="Лауреин" />
-    <string id="bretonnia_male_name_12" text="Арсèне" />
+    <string id="bretonnia_male_name_12" text="Арсене" />
     <string id="wood_elf_female_name_19" text="Елисанде" />
     <string id="wood_elf_female_name_38" text="Лунара" />
     <string id="empire_female_117" text="Елсбет" />
@@ -1916,7 +1916,7 @@
     <string id="bretonnia_female_name_106" text="Еделинне" />
     <string id="empire_male_787" text="Винлинд" />
     <string id="dwarf_male_name_15" text="Брокк" />
-    <string id="str_eor_chaos_clan_name_3" text="Горефестерс" />
+    <string id="str_tor_chaos_clan_name_3" text="Пирующие Кровью" />
     <string id="empire_female_24" text="Алке" />
     <string id="bretonnia_female_name_103" text="Еллике" />
     <string id="empire_female_296" text="Магунда" />
@@ -1957,11 +1957,11 @@
     <string id="wood_elf_female_name_32" text="Гаелисис" />
     <string id="dwarf_male_name_52" text="Хрок" />
     <string id="greenskins_male_name_129" text="Угорак" />
-    <string id="str_eor_chaos_clan_name_6" text="Белаксус" />
+    <string id="str_tor_chaos_clan_name_6" text="Белаксус" />
     <string id="empire_male_5" text="Аделхард" />
     <string id="greenskins_male_name_155" text="Зоргут" />
     <string id="empire_male_341" text="Хенрич" />
-    <string id="str_eor_chaos_female_name_1" text="Ерис" />
+    <string id="str_tor_chaos_female_name_1" text="Ерис" />
     <string id="bretonnia_male_name_196" text="Самуел" />
     <string id="dwarf_male_name_162" text="Фундин" />
     <string id="bretonnia_male_name_212" text="Теодорик" />
@@ -2019,7 +2019,7 @@
     <string id="wood_elf_male_name_51" text="Елинкурнос" />
     <string id="greenskins_male_name_55" text="Гролдрук" />
     <string id="greenskins_male_name_74" text="Корглут" />
-    <string id="str_eor_dwarf_clan_name_3" text="Стонехаммер" />
+    <string id="str_tor_dwarf_clan_name_3" text="Каменномолот" />
     <string id="empire_female_387" text="Верта" />
     <string id="empire_male_255" text="Грегор" />
     <string id="empire_female_266" text="Кристин" />
@@ -2035,7 +2035,7 @@
     <string id="empire_female_274" text="Ленора" />
     <string id="empire_female_124" text="Емерлинде" />
     <string id="empire_male_498" text="Мариус" />
-    <string id="bretonnia_male_name_72" text="Éлиотт" />
+    <string id="bretonnia_male_name_72" text="Елиотт" />
     <string id="bretonnia_male_name_51" text="Боунифас" />
     <string id="wood_elf_male_name_129" text="Телвин" />
     <string id="bretonnia_male_name_30" text="Анкетилл" />
@@ -2049,7 +2049,7 @@
     <string id="bretonnia_female_name_166" text="Исабеа" />
     <string id="dwarf_male_name_6" text="Торнир" />
     <string id="bretonnia_female_name_185" text="Мауде" />
-    <string id="vampirefaceion" text="Графы-вампиры" />
+    <string id="vampirefaction" text="Графы-вампиры" />
     <string id="bretonnia_female_name_138" text="Гиллие" />
     <string id="empire_female_271" text="Лена" />
     <string id="empire_male_343" text="Хенрот" />
@@ -2102,9 +2102,9 @@
     <string id="empire_male_333" text="Хелвиг" />
     <string id="empire_female_338" text="Оттиллиа" />
     <string id="bretonnia_female_name_87" text="Кармел" />
-    <string id="bretonnia_female_name_49" text="Аудéарде" />
+    <string id="bretonnia_female_name_49" text="Аудеарде" />
     <string id="bretonnia_male_name_95" text="Фалкес" />
-    <string id="bretonnia_male_name_74" text="Едмé" />
+    <string id="bretonnia_male_name_74" text="Едме" />
     <string id="empire_male_508" text="Матзке" />
     <string id="empire_female_260" text="Кирстин" />
     <string id="dwarf_male_name_89" text="Скаг" />
@@ -2127,7 +2127,7 @@
     <string id="empire_male_503" text="Маркс" />
     <string id="wood_elf_male_name_104" text="Намнолд" />
     <string id="dwarf_male_name_161" text="Наин" />
-    <string id="str_eor_chaos_male_name_17" text="Хагул" />
+    <string id="str_tor_chaos_male_name_17" text="Хагул" />
     <string id="bretonnia_male_name_179" text="Паган" />
     <string id="wood_elf_male_name_60" text="Галадрон" />
     <string id="dwarf_male_name_7" text="Давик" />
@@ -2165,7 +2165,7 @@
     <string id="empire_male_652" text="Рудигер" />
     <string id="empire_male_271" text="Гуннар" />
     <string id="bretonnia_male_name_64" text="Чилфрои" />
-    <string id="str_eor_chaos_male_name_16" text="Кастрагар" />
+    <string id="str_tor_chaos_male_name_16" text="Кастрагар" />
     <string id="dwarf_male_name_120" text="Тургром" />
     <string id="empire_male_419" text="Каролус" />
     <string id="bretonnia_male_name_126" text="Гастилле" />
@@ -2196,7 +2196,7 @@
     <string id="dwarf_male_name_96" text="Сторри" />
     <string id="dwarf_male_name_58" text="Киндрек" />
     <string id="str_tor_greenskins_clan_name_42" text="Племя Больших Рёбер" />
-    <string id="str_eor_chaos_male_name_27" text="Свен" />
+    <string id="str_tor_chaos_male_name_27" text="Свен" />
     <string id="dwarf_male_name_111" text="Тори" />
     <string id="empire_male_512" text="Меинер" />
     <string id="empire_male_531" text="Моритз" />
@@ -2204,7 +2204,7 @@
     <string id="empire_male_19" text="Алдебрандт" />
     <string id="empire_female_125" text="Емерлин" />
     <string id="bretonnia_female_name_241" text="Алиссе" />
-    <string id="bretonnia_female_name_95" text="Дéвоте" />
+    <string id="bretonnia_female_name_95" text="Девоте" />
     <string id="wood_elf_male_name_114" text="Ролоек" />
     <string id="empire_female_90" text="Дагмар" />
     <string id="wood_elf_male_name_37" text="Драелис" />
@@ -2231,7 +2231,7 @@
     <string id="bretonnia_female_name_234" text="Сиклетруде" />
     <string id="empire_male_295" text="Ханнес" />
     <string id="empire_male_228" text="Гиселбертус" />
-    <string id="str_eor_chaos_male_name_20" text="Моркар" />
+    <string id="str_tor_chaos_male_name_20" text="Моркар" />
     <string id="greenskins_male_name_111" text="Скалодрак" />
     <string id="greenskins_male_name_132" text="Ураг" />
     <string id="dwarf_male_name_42" text="Граднар" />
@@ -2244,7 +2244,7 @@
     <string id="wood_elf_male_name_138" text="Веркурноус" />
     <string id="empire_male_60" text="Бартелм" />
     <string id="greenskins_male_name_18" text="Бородрак" />
-    <string id="bretonnia_female_name_175" text="Лиéгарде" />
+    <string id="bretonnia_female_name_175" text="Лиегарде" />
     <string id="empire_male_559" text="Орбан" />
     <string id="empire_male_777" text="Вигандус" />
     <string id="greenskins_male_name_90" text="Моррог" />
@@ -2276,19 +2276,19 @@
     <string id="empire_male_488" text="Лутериус" />
     <string id="dwarf_male_name_121" text="Тургрим" />
     <string id="greenskins_male_name_124" text="Угглуд" />
-    <string id="str_eor_chaos_male_name_2" text="Аеколд" />
+    <string id="str_tor_chaos_male_name_2" text="Аеколд" />
     <string id="empire_female_150" text="Етелреда" />
     <string id="wood_elf_male_name_145" text="Вилмо" />
     <string id="empire_male_175" text="Ерменрич" />
     <string id="bretonnia_male_name_55" text="Чарльс" />
-    <string id="str_eor_chaos_female_name_6" text="Мелаена " />
+    <string id="str_tor_chaos_female_name_6" text="Мелаена " />
     <string id="dwarf_male_name_79" text="Норри" />
-    <string id="bretonnia_female_name_84" text="Чрéтиенне" />
+    <string id="bretonnia_female_name_84" text="Чретиенне" />
     <string id="greenskins_male_name_63" text="Гримрог" />
-    <string id="bretonnia_female_name_46" text="Ауберéе" />
+    <string id="bretonnia_female_name_46" text="Ауберее" />
     <string id="empire_female_381" text="Уши" />
     <string id="bretonnia_female_name_42" text="Аниллиа" />
-    <string id="bretonnia_male_name_75" text="Éваристе" />
+    <string id="bretonnia_male_name_75" text="Еваристе" />
     <string id="wood_elf_male_name_26" text="Каелен" />
     <string id="empire_male_563" text="Ортлоуф" />
     <string id="bretonnia_male_name_147" text="Йеррод" />
@@ -2300,11 +2300,11 @@
     <string id="greenskins_male_name_91" text="Моррук" />
     <string id="empire_male_429" text="Клаус" />
     <string id="bretonnia_male_name_137" text="Йулиен" />
-    <string id="bretonnia_male_name_114" text="Грéгоире" />
+    <string id="bretonnia_male_name_114" text="Грегоире" />
     <string id="empire_female_226" text="Ирмелтруд" />
     <string id="empire_male_721" text="Тристрам" />
     <string id="bretonnia_female_name_163" text="Иделинде" />
-    <string id="str_eor_chaos_male_name_9" text="Егил" />
+    <string id="str_tor_chaos_male_name_9" text="Егил" />
     <string id="greenskins_male_name_153" text="Золлок" />
     <string id="empire_male_385" text="Йакоб" />
     <string id="bretonnia_male_name_36" text="Антелме" />
@@ -2312,7 +2312,7 @@
     <string id="wood_elf_male_name_121" text="Теварил" />
     <string id="bretonnia_male_name_91" text="Фабиан" />
     <string id="bretonnia_male_name_69" text="Друвард" />
-    <string id="bretonnia_female_name_94" text="Дéотилле" />
+    <string id="bretonnia_female_name_94" text="Деотилле" />
     <string id="dwarf_male_name_1" text="Аларик" />
     <string id="bretonnia_female_name_189" text="Мариот" />
     <string id="wood_elf_male_name_63" text="Гаевидт" />
@@ -2347,7 +2347,7 @@
     <string id="wood_elf_female_name_53" text="Малвара" />
     <string id="empire_male_702" text="Танкред" />
     <string id="bretonnia_female_name_38" text="Злодие" />
-    <string id="bretonnia_female_name_19" text="Адéлаïсе" />
+    <string id="bretonnia_female_name_19" text="Аделаисе" />
     <string id="empire_female_31" text="Андреа" />
     <string id="bretonnia_male_name_184" text="Реубен" />
     <string id="empire_male_137" text="Еберхардтус" />
