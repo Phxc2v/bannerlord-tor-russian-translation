@@ -1,91 +1,94 @@
 @echo off
-chcp 65001 >nul
 setlocal enabledelayedexpansion
-title Установка русских ink-квестов для The Old Realms
+title TOR_RU ink installer
+
+set "LOG=%~dp0install_log.txt"
+echo === run at %DATE% %TIME% === > "!LOG!"
 
 echo.
-echo ===========================================================
-echo   Установка русских ink-квестов для The Old Realms
-echo ===========================================================
+echo =========================================================
+echo   TOR Russian ink installer
+echo =========================================================
 echo.
 
-set "SRC=%~dp0"
+set "SRC=%~dp0InkStories"
+echo Source: !SRC!
+>>"!LOG!" echo Source: !SRC!
+
+if not exist "!SRC!" (
+    echo ERROR: source folder not found next to this bat.
+    echo Expected: !SRC!
+    >>"!LOG!" echo [ERROR] Source folder missing
+    exit /b 1
+)
+
 set "TARGET="
 
-rem Автопоиск Steam Workshop TOR_Core (id 3025574678)
-for %%D in (
-    "C:\Program Files (x86)\Steam\steamapps\workshop\content\261550\3025574678\InkStories"
-    "D:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
-    "E:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
-    "F:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
-) do (
-    if exist "%%~D" (
-        set "TARGET=%%~D"
-        goto :found
-    )
-)
-
-rem Fallback: standalone TOR_Core installation
-for %%D in (
-    "C:\Program Files (x86)\Steam\steamapps\common\Mount ^& Blade II Bannerlord\Modules\TOR_Core\InkStories"
-    "D:\SteamLibrary\steamapps\common\Mount ^& Blade II Bannerlord\Modules\TOR_Core\InkStories"
-    "E:\SteamLibrary\steamapps\common\Mount ^& Blade II Bannerlord\Modules\TOR_Core\InkStories"
-) do (
-    if exist "%%~D" (
-        set "TARGET=%%~D"
-        goto :found
-    )
-)
-
-echo [!] Не найдена папка TOR_Core\InkStories автоматически.
 echo.
-echo Введи путь вручную (например:
-echo   C:\Program Files (x86)\Steam\steamapps\workshop\content\261550\3025574678\InkStories
-echo  ):
-set /p TARGET=Путь:
-if not exist "!TARGET!" (
-    echo [X] Указанный путь не существует. Прерываю.
-    pause
-    exit /b 1
-)
+echo Searching for TOR_Core InkStories folder...
+call :try "C:\Program Files (x86)\Steam\steamapps\workshop\content\261550\3025574678\InkStories"
+if defined TARGET goto :found
+call :try "D:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
+if defined TARGET goto :found
+call :try "E:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
+if defined TARGET goto :found
+call :try "F:\SteamLibrary\steamapps\workshop\content\261550\3025574678\InkStories"
+if defined TARGET goto :found
+call :try "C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TOR_Core\InkStories"
+if defined TARGET goto :found
+call :try "D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\TOR_Core\InkStories"
+if defined TARGET goto :found
+call :try "E:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\TOR_Core\InkStories"
+if defined TARGET goto :found
+
+echo [X] TOR_Core InkStories folder not found.
+echo     Check log: !LOG!
+>>"!LOG!" echo [ERROR] TOR_Core InkStories folder not found in any known location
+exit /b 1
 
 :found
-echo [+] TOR_Core найден: !TARGET!
 echo.
+echo Found TOR_Core:
+echo   !TARGET!
+>>"!LOG!" echo Found TOR_Core: !TARGET!
 
-rem Бэкап оригиналов
 set "BACKUP=!TARGET!_backup_EN"
 if not exist "!BACKUP!" (
-    echo [+] Делаю бэкап оригинальных английских файлов -^> !BACKUP!
+    echo Backing up English originals to:
+    echo   !BACKUP!
     mkdir "!BACKUP!" 2>nul
-    xcopy /y /e /i "!TARGET!\*.ink" "!BACKUP!\" >nul
+    xcopy /y /e /i /q "!TARGET!\*.ink" "!BACKUP!\" >nul
+    >>"!LOG!" echo [OK] Backup created
 ) else (
-    echo [=] Бэкап уже существует, пропускаю: !BACKUP!
+    echo Backup already exists:
+    echo   !BACKUP!
+    >>"!LOG!" echo [SKIP] Backup exists
 )
 echo.
 
-rem Копируем русские ink-файлы (из подпапки InkStories)
-echo [+] Копирую русские ink-файлы из %SRC%InkStories\...
-if not exist "%SRC%InkStories\*.ink" (
-    echo [X] Не нашёл .ink файлов в %SRC%InkStories\ — поврежденная установка модуля?
-    pause
-    exit /b 1
-)
-copy /y "%SRC%InkStories\*.ink" "!TARGET!\" >nul
+echo Copying Russian ink files...
+copy /y "!SRC!\*.ink" "!TARGET!\" >nul 2>>"!LOG!"
 if errorlevel 1 (
-    echo [X] Ошибка копирования. Запусти от имени администратора, если файлы в Program Files.
-    pause
+    >>"!LOG!" echo [ERROR] copy failed errorlevel %ERRORLEVEL%
+    echo [X] COPY FAILED. Try running as Administrator.
+    echo     Check log: !LOG!
     exit /b 1
 )
+>>"!LOG!" echo [OK] Copy completed
 
 echo.
-echo ===========================================================
-echo [OK] Готово! Перезапусти Bannerlord.
-echo ===========================================================
-echo.
-echo Если нужно откатить — скопируй всё из
-echo   !BACKUP!
-echo обратно в
-echo   !TARGET!
-echo.
-pause
+echo =========================================================
+echo   DONE. Restart Bannerlord.
+echo =========================================================
+echo Log: !LOG!
+exit /b 0
+
+:try
+set "P=%~1"
+if not exist "!P!" goto :try_miss
+set "TARGET=!P!"
+>>"!LOG!" echo [TRY OK] !P!
+goto :eof
+:try_miss
+>>"!LOG!" echo [TRY NO] !P!
+goto :eof

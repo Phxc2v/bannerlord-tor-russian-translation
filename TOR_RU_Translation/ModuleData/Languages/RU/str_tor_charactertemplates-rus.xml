@@ -30,12 +30,12 @@
     <string id="str_tor_druchii_lord_0" text=" " />
     <string id="str_tor_dawi_runelord_trainer_0" text="{FIRSTNAME} из Гильдии Рунесмитов" />
     <string id="str_tor_empire_dog5_lord_0" text=" " />
-    <string id="str_tor_wanderer_bretonnia_5" text="{FIRSTNAME} Машан" />
+    <string id="str_tor_wanderer_bretonnia_5" text="{FIRSTNAME} Маршан" />
     <string id="str_tor_wanderer_bretonnia_0" text="{FIRSTNAME}, рыцарь Бретоннии" />
     <string id="str_tor_engineerquesthero" text="Госвин" />
     <string id="str_tor_empire_dog2_lord_2" text=" " />
     <string id="str_tor_br_peasantknight_lord" text=" " />
-    <string id="str_tor_wanderer_bretonnia_1" text="{FIRSTNAME} Дамсела Леди" />
+    <string id="str_tor_wanderer_bretonnia_1" text="{FIRSTNAME} Дева Владычицы" />
     <string id="str_tor_empire_dog1_lord_2" text=" " />
     <string id="str_tor_br_troubadour_questing_knight_2" text=" " />
     <string id="str_tor_wanderer_eonir_2" text="{FIRSTNAME} Посланник" />
@@ -98,10 +98,10 @@
     <string id="str_tor_empire_dog2_lord_1" text=" " />
     <string id="str_tor_wanderer_greenskins_2" text="{FIRSTNAME} да Булли" />
     <string id="str_tor_wanderer_empire_6" text="{FIRSTNAME} жрица Шаллии" />
-    <string id="str_tor_wanderer_empire_10" text="{FIRSTNAME} Волшебник Бести" />
+    <string id="str_tor_wanderer_empire_10" text="{FIRSTNAME} Магистр Школы Зверей" />
     <string id="str_tor_empire_dog3_lord_1" text=" " />
     <string id="str_tor_wanderer_empire_3" text="{FIRSTNAME} Светлый Маг" />
-    <string id="str_tor_wanderer_vampire_3" text="{FIRSTNAME} ланмианская графиня" />
+    <string id="str_tor_wanderer_vampire_3" text="{FIRSTNAME} ламийская графиня" />
     <string id="str_tor_empire_rogue_lord_0" text=" " />
     <string id="str_tor_wanderer_eonir_0" text="{FIRSTNAME} Призрачный Стрелок" />
     <string id="str_tor_wanderer_empire_2" text="{FIRSTNAME} охотник на ведьм" />
@@ -128,7 +128,7 @@
     <string id="str_tor_vc_rogue_lord_0" text=" " />
     <string id="str_tor_spelltrainer_empire_0" text="Магистр Колледжа" />
     <string id="str_tor_fsf_cultist_lord_1" text=" " />
-    <string id="str_tor_wanderer_dawi_1" text="{FIRSTNAME} Коваль Рун" />
+    <string id="str_tor_wanderer_dawi_1" text="{FIRSTNAME} Рунекузнец" />
     <string id="str_tor_m_rogue_lord_0" text=" " />
     <string id="str_tor_bw_cultist_lord_3" text=" " />
     <string id="str_tor_bountymaster_empire_0" text="{FIRSTNAME} — Темплар-охотник на ведьм" />
@@ -156,7 +156,7 @@
     <string id="str_tor_wanderer_empire_13" text="{FIRSTNAME}, благородный имперский дворянин" />
     <string id="str_tor_dawi_miner_guild_npc_0" text="{FIRSTNAME} из Гильдии Горняков" />
     <string id="str_tor_spelltrainer_woodelves_0" text="{FIRSTNAME} мудрая песнопевица заклинаний" />
-    <string id="str_tor_wanderer_dawi_0" text="{FIRSTNAME} Тейн" />
+    <string id="str_tor_wanderer_dawi_0" text="{FIRSTNAME} Тан" />
     <string id="str_tor_druchii_lord_1" text=" " />
   </strings>
 </base>

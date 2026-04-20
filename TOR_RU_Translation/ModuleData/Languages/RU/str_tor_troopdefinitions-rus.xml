@@ -149,7 +149,7 @@
     <string id="str_tor_br_bandit_scout" text="Геримоль" />
     <string id="str_tor_ror_ostland_shield" text="Щит Остленда" />
     <string id="str_tor_dw_prospector" text="Гномий Разведчик" />
-    <string id="str_tor_empire_state_troop" text="Имперская Государственная Войска" />
+    <string id="str_tor_empire_state_troop" text="Имперский государственный солдат" />
     <string id="str_tor_dog_muktar_02" text="Аравийский Пустынный Всадник" />
     <string id="str_tor_dw_ironbeard" text="Гномий Железнобокий" />
     <string id="str_tor_vc_cairn_wraith" text="Каирнский Призрак" />
@@ -158,7 +158,7 @@
     <string id="str_tor_gs_goblin" text="Гоблин" />
     <string id="str_tor_dog_braganza_01" text="Арбалетчик-осажденец" />
     <string id="str_tor_empire_marksman_handgunner" text="Имперский Точный Стрелок Мушкетёр" />
-    <string id="str_tor_empire_deserter_sergeant" text="Сержант Добровольного Ополченца" />
+    <string id="str_tor_empire_deserter_sergeant" text="Сержант-дезертир" />
     <string id="str_tor_empire_pikeman" text="Имперский Пикинёр" />
     <string id="str_tor_ror_marienburg_sailor" text="Мариенбургский Моряк" />
     <string id="str_tor_we_glade_rider" text="Асрай Всадник Полян" />
@@ -198,7 +198,7 @@
     <string id="str_tor_chaos_norscan_horsemaster" text="Норсканский Конюх" />
     <string id="str_tor_we_caravan_captain" text="Асрай Предводитель Каравана" />
     <string id="str_tor_empire_armored_spearman" text="Имперский Пикинёр" />
-    <string id="str_tor_empire_deserter" text="Добровольный Ополченец" />
+    <string id="str_tor_empire_deserter" text="Дезертир" />
     <string id="str_tor_ror_stir_river_patrol_nimrod" text="Нимрод Патруля Речного Тира" />
     <string id="str_tor_gs_black_orc_boss" text="Босс Чёрных Орков" />
     <string id="str_tor_gs_bandit_raider_arrer" text="Орк-Налётчик Стрелок" />
@@ -319,7 +319,7 @@
     <string id="str_tor_empire_veteran_artillery_crew" text="Ветеран Артиллерийского Отряда" />
     <string id="str_tor_dw_gatekeeper" text="Гномий Дозорный" />
     <string id="str_tor_ror_longshank_strider" text="Гномий Стрелок" />
-    <string id="str_tor_empire_deserter_scout" text="Разведчик Добровольного Ополченца" />
+    <string id="str_tor_empire_deserter_scout" text="Разведчик-дезертир" />
     <string id="str_tor_gs_goblin_stone_slugga" text="Гоблин-Камнемёт" />
     <string id="str_tor_empire_scout" text="Имперский Разведчик" />
     <string id="str_tor_br_manatarms_halberd" text="Бретонский Латник-Алебардист" />

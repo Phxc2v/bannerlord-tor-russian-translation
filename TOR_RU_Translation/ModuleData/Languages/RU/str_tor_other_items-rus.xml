@@ -213,7 +213,7 @@
     <string id="l9kAJ1Xh" text="Широкий клинок горцев" />
     <string id="zvIax8Kt" text="Низкогорный метательный нож" />
     <string id="KKWEkA4P" text="Грубая медвежья шкура" />
-    <string id="Lbm7asY3" text="Высокий Heater Щит" />
+    <string id="Lbm7asY3" text="Высокий геральдический щит" />
     <string id="b6JvcSiQ" text="Кошка" />
     <string id="xsu6bPTv" text="Лён" />
     <string id="AMIdBVZb" text="Классический тиланский короткий стальной кинжал" />
@@ -230,7 +230,7 @@
     <string id="QfqwaRZ2" text="Платье-конверт" />
     <string id="MnmUBlbL" text="Тарг" />
     <string id="8uBew3nD" text="Кольчужные наплечники" />
-    <string id="OhEQUMk0" text="Широкий Heater Щит" />
+    <string id="OhEQUMk0" text="Широкий геральдический щит" />
     <string id="7EAEIUIY" text="Тяжёлая кольчуга с кольцами" />
     <string id="str_tor_learn_we_enchant_star_fire" text="Древки «Звездный огонь»" />
     <string id="hyq1zBg5" text="Простое копье простого человека" />
@@ -330,7 +330,7 @@
     <string id="tMLH04n4" text="Котелок поверх кольчужного капюшона" />
     <string id="OJIRIm4j" text="Простая тканевая туника" />
     <string id="CZvGrvzY" text="Тяжёлая кольчужная рубаха" />
-    <string id="buaIafV6" text="Bracketed Heater Щит" />
+    <string id="buaIafV6" text="Окованный геральдический щит" />
     <string id="tsaSBPKu" text="Тзикурьон" />
     <string id="QuaE76ua" text="Академическая ряса" />
     <string id="aOwcs7Un" text="Круглый котелок поверх кожи" />
@@ -364,7 +364,7 @@
     <string id="wKucIANJ" text="Кожаное пальто поверх ткани" />
     <string id="str_tor_learn_dw_master_rune_flight" text="Мастерская Руна Полёта" />
     <string id="x3lcf2Do" text="Роскошная ламеллярная куртка поверх кожи" />
-    <string id="arBdK7st" text="Простой bastard-меч" />
+    <string id="arBdK7st" text="Простой полуторный меч" />
     <string id="XRaPBg6d" text="Малый бит-топор" />
     <string id="str_tor_learn_we_enchant_dusk_wood" text="Закат Леса" />
     <string id="zPbDZ9VA" text="Пустынное седло кочевника" />
@@ -662,7 +662,7 @@
     <string id="str_tor_gs_gold_pile" text="Блестящая Куча" />
     <string id="JvhvtKsT" text="Остроконечный шлем поверх кольчуги" />
     <string id="YRYJGzxw" text="Резная Адарга" />
-    <string id="iFPkhVGe" text="Маленький Плоский Heater Щит" />
+    <string id="iFPkhVGe" text="Малый плоский геральдический щит" />
     <string id="xJTfOqD6" text="Шлем катафрактариона с очками" />
     <string id="gfQDDkEY" text="Деревянная адарга" />
     <string id="KhXnRIan" text="Женская повязка на голову" />
@@ -779,7 +779,7 @@
     <string id="faiiCbbS" text="Спарринговый круглый щит" />
     <string id="rSEXAMUx" text="Шлем легионера" />
     <string id="mMtKWolp" text="Гребенчатая сабля великанша" />
-    <string id="rF7Xm7C0" text="Тяжёлый Heater Щит" />
+    <string id="rF7Xm7C0" text="Тяжёлый геральдический щит" />
     <string id="str_tor_learn_emp_enchant_chamon_feathers_lead" text="Перья в свинец" />
     <string id="O37kzdXO" text="Лёгкая упряжь" />
     <string id="str_tor_learn_gs_enchant_backstabba_frenzy" text="Безумие Бэкстаббы" />
@@ -1363,7 +1363,7 @@
     <string id="PyeZ22FL" text="Бронзовый шлем с боковыми щитками" />
     <string id="tpQLvMSM" text="Носовой шлем поверх кольчухи" />
     <string id="bANXyotg" text="Чуть ребристый флисса" />
-    <string id="4OaVIYuD" text="Классический тилейский короткий меч с узким fuller" />
+    <string id="4OaVIYuD" text="Классический тилейский короткий меч с узким долом" />
     <string id="noqT1MMC" text="Орнаментированная стальная шапка" />
     <string id="ZgVVPGTb" text="Виноград" />
     <string id="PVgSGCYK" text="Носовой шлем поверх кольчужного капюшона" />

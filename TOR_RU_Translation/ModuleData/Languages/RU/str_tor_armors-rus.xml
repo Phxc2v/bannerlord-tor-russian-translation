@@ -120,7 +120,7 @@
     <string id="str_tor_vc_shoulder_pauldron_blood_knight_001" text="Кровавые Наплечники Рыцаря Крови" />
     <string id="str_tor_greenskin_shoulderpads_orc_boar_boyz_001" text="Наплечники Орк-Наездника на Кабане" />
     <string id="str_tor_empire_body_armor_marius_leitdorf" text="Доспехи генерала Аверландского легиона" />
-    <string id="str_tor_vc_body_breastplate_cairn_wraith_004" text="Броня тела призрака Cairn" />
+    <string id="str_tor_vc_body_breastplate_cairn_wraith_004" text="Нагрудник призрака Каирна" />
     <string id="str_tor_tilean_head_helm_brass_knight_001" text="Тилейный шалет из латуни" />
     <string id="str_tor_vc_shoulder_pauldron_mannfred" text="Плечи Маннфреда фон Карштейна" />
     <string id="str_tor_he_head_helm_queens_guard_001" text="Шлем Стражи Королевы Высокого Эльфа" />
@@ -606,7 +606,7 @@
     <string id="str_tor_dw_head_helm_longbeard_001" text="Шлем Долгобородого" />
     <string id="str_tor_vc_leg_boots_vampire_lord_001" text="Доспешные вампирские сапоги" />
     <string id="str_tor_we_body_armor_ranger_002" text="Доспех лесного эльфа-разведчика" />
-    <string id="str_tor_vc_body_breastplate_cairn_wraith_003" text="Броня тела призрака Cairn" />
+    <string id="str_tor_vc_body_breastplate_cairn_wraith_003" text="Нагрудник призрака Каирна" />
     <string id="str_tor_empire_head_helm_sallet_001" text="Шлем Саллет" />
     <string id="str_tor_we_head_daith_blindfold_001" text="Слепая повязка Даитха" />
     <string id="str_tor_empire_head_hat_witch_hunter_001" text="Шляпа Охотника на Ведьм" />

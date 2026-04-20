@@ -31,7 +31,7 @@
     <string id="brain_bursta_label_str" text="Взрыв Мозга" />
     <string id="aura_of_the_lady_label_str" text="Аура Леди" />
     <string id="fey_paths_label_str" text="Путь Феи" />
-    <string id="storm_of_renewal_description_str" text="Сырая энергия течет по полю боя, восстанавливая утраченные силы и заживляя раны. Восстанавливает 30 жизней мгновенно и 10 жизней всем дружественным целям внутри зоны на 12 секунд." />
+    <string id="storm_of_renewal_description_str" text="Сырая энергия течет по полю боя, восстанавливая утраченные силы и заживляя раны. Восстанавливает 30 здоровья мгновенно и 10 здоровья всем дружественным целям внутри зоны на 12 секунд." />
     <string id="doom_seeking_description_str" text="Способность карьеры Убийцы (не отображается)." />
     <string id="arcane_conduit_label_str" text="Арканный Кондуит" />
     <string id="great_cannon_spawner_label_str" text="Разместить великую пушку" />
@@ -248,7 +248,7 @@
     <string id="nagash_gaze_label_str" text="Взгляд Нагаша" />
     <string id="regrowth_label_str" text="Регенерация" />
     <string id="foot_uv_gork_description_str" text="Шаман теряет себя в танце, и по ритму собственная нога Горка бьет землю, превращая всё под собой в пыль." />
-    <string id="regrowth_description_str" text="Призвав имя Дутандора, повелителя древних диких святынь, волшебник заживляет раны и переломы своих товарищей. Союзники в радиусе 3 метров получают 5 жизней в секунду на протяжении 12 секунд." />
+    <string id="regrowth_description_str" text="Призвав имя Дутандора, повелителя древних диких святынь, волшебник заживляет раны и переломы своих товарищей. Союзники в радиусе 3 метров получают 5 здоровья в секунду на протяжении 12 секунд." />
     <string id="ere_we_go_label_str" text="'Эре Ву Го!" />
     <string id="wind_blast_description_str" text="Ветер сбивает с ног жертв и наносит незначительный урон." />
     <string id="tangling_thorn_description_str" text="Корни взрываются из земли, не давая всем врагам двигаться в течение 10 секунд." />
