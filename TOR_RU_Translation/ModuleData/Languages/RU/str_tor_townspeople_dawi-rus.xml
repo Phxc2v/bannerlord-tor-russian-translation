@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_townspeople_dawi">
   <tags>
     <tag language="Русский"/>
@@ -7,9 +7,9 @@
     <string id="str_prison_guard_dawi" text="Охранник Тюрьмы" />
     <string id="str_tor_notable_dawi_merch4" text="Молчаливый дави-торговец" />
     <string id="str_tor_notable_dawi_3" text="Бунтарская женская проповедница" />
-    <string id="str_artisan_notary_dawi" text="Дави Артисан нотари" />
+    <string id="str_artisan_notary_dawi" text="Дави ремесленник нотариус" />
     <string id="str_merchant_dawi" text="Торговец Дави" />
-    <string id="str_tor_notable_dawi_1" text="{FIRSTNAME} Складчик" />
+    <string id="str_tor_notable_dawi_1" text="{FIRSTNAME} Кладовщик" />
     <string id="str_musician_dawi" text="Музыкант Дави" />
     <string id="str_tor_notable_dawi_2" text="Пуританский мужской проповедник" />
     <string id="str_tor_notable_dawi_merch1" text="Ироничный торговец дави" />

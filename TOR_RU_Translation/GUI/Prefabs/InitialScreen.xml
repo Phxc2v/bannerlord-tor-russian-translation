@@ -1,0 +1,138 @@
+<!-- TOR_RU_Translation: override InitialScreen, добавлен текст @CodeRickTg в правом нижнем углу. Остальное 1:1 из Native InitialScreen.xml (Bannerlord v1.2.x). -->
+<Prefab>
+  <Constants>
+    <Constant Name="Button.SuggestedWidth" Value="338"/>
+    <Constant Name="Button.SuggestedHeight" Value="47"/>
+
+    <Constant Name="Logo.Width" BrushName="InitialMenu.Logo" BrushLayer="Default" BrushValueType="Width" MultiplyResult="0.79" />
+    <Constant Name="Logo.Height" BrushName="InitialMenu.Logo" BrushLayer="Default" BrushValueType="Height" MultiplyResult="0.79" />
+
+    <Constant Name="Logo.WarSails.Width" BrushName="InitialMenu.Logo.WarSails" BrushLayer="Default" BrushValueType="Width" MultiplyResult="0.79" />
+    <Constant Name="Logo.WarSails.Height" BrushName="InitialMenu.Logo.WarSails" BrushLayer="Default" BrushValueType="Height" MultiplyResult="0.79" />
+  </Constants>
+  <VisualDefinitions>
+    <VisualDefinition Name="MainMenu" EaseType="EaseOut" EaseFunction="Quint" TransitionDuration="0.4">
+      <VisualState PositionYOffset="0" State="Default" />
+      <VisualState PositionYOffset="0" State="Activated" />
+    </VisualDefinition>
+    <VisualDefinition Name="OptionFadeIn" EaseType="EaseOut" EaseFunction="Quint" TransitionDuration="0.3">
+      <VisualState PositionXOffset="-20" State="Default" />
+      <VisualState PositionXOffset="0" State="Activated" />
+    </VisualDefinition>
+    <VisualDefinition Name="WarSailsUpsellButton" EaseType="EaseOut" EaseFunction="Quint" TransitionDuration="0.22">
+      <VisualState SuggestedWidth="400" SuggestedHeight="233" State="Default" />
+      <VisualState SuggestedWidth="402" SuggestedHeight="235" State="Hovered" />
+      <VisualState SuggestedWidth="398" SuggestedHeight="231" State="Pressed" />
+    </VisualDefinition>
+  </VisualDefinitions>
+  <Window>
+
+    <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" DoNotAcceptEvents="true" >
+      <Children>
+
+        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="445" MarginLeft="85" Sprite="General\InitialMenu\main_menu_texture" AlphaFactor="0.925" >
+          <Children>
+            <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" VerticalAlignment="Center">
+              <Children>
+
+                <InitialMenuAnimControllerWidget OptionsList="..\MenuItemsParent\ScrollablePanel\ClipRect\MenuItems" InitialWaitTime="0.1" WaitTimeBetweenOptions="0.05" OptionFadeInTime="0.1" IsAnimEnabled="false"/>
+
+                <BrushWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!Logo.Width" SuggestedHeight="!Logo.Height" HorizontalAlignment="Center" VerticalAlignment="Top" MarginTop="100" Brush="InitialMenu.Logo" IsHidden="@IsNavalDLCEnabled" ForcePixelPerfectRenderPlacement="true" />
+
+                <BrushWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!Logo.WarSails.Width" SuggestedHeight="!Logo.WarSails.Height" HorizontalAlignment="Center" VerticalAlignment="Top" MarginTop="100" Brush="InitialMenu.Logo.WarSails" IsVisible="@IsNavalDLCEnabled" ForcePixelPerfectRenderPlacement="true" />
+
+                <Widget Id="MenuItemsParent" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginTop="290" MarginBottom="30" MarginLeft="10" MarginRight="10">
+                  <Children>
+
+                    <ScrollablePanel Id="ScrollablePanel" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" AutoHideScrollBars="true" ClipRect="ClipRect" InnerPanel="ClipRect\MenuItems" VerticalScrollbar="..\VerticalScrollbar">
+                      <Children>
+                        <Widget Id="ClipRect" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" ClipContents="true" >
+                          <Children>
+
+                            <NavigationScopeTargeter ScopeID="InitialScreen" ScopeParent="..\MenuItems" ScopeMovements="Vertical" HasCircularMovement="true" />
+                            <NavigatableListPanel Id="MenuItems" DataSource="{MenuOptions}" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" MinHeight="630" HorizontalAlignment="Center" VerticalAlignment="Top" MarginLeft="20" MarginRight="20" StackLayout.LayoutMethod="VerticalBottomToTop" >
+                              <ItemTemplate>
+                                <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginTop="16" MarginBottom="16" IsHidden="@IsHidden">
+                                  <Children>
+                                    <ButtonWidget DoNotPassEventsToChildren="true" UpdateChildrenStates="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" Command.Click="ExecuteAction" IsDisabled="@IsDisabled">
+                                      <Children>
+                                        <ListPanel UpdateChildrenStates="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" StackLayout.LayoutMethod="HorizontalCentered" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                          <Children>
+                                            <ImageWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="46" SuggestedHeight="20" HorizontalAlignment="Left" VerticalAlignment="Center" PositionYOffset="-2" Brush="HoverIndicatorBrush" />
+                                            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MaxWidth="320" HorizontalAlignment="Center" MarginLeft="8" MarginRight="8" Brush="InitialMenuButtonBrush" ClipContents="false" Text="@NameText" CanBreakWords="false" />
+                                            <ImageWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="46" SuggestedHeight="20" HorizontalAlignment="Right" VerticalAlignment="Center" PositionYOffset="-2" Brush="HoverIndicatorBrushFlipped" />
+                                          </Children>
+                                        </ListPanel>
+
+                                        <HintWidget DataSource="{EnabledHint}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" IsDisabled="true" />
+                                      </Children>
+                                    </ButtonWidget>
+
+                                    <HintWidget DataSource="{DisabledHint}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" IsDisabled="true"/>
+                                  </Children>
+                                </Widget>
+                              </ItemTemplate>
+                            </NavigatableListPanel>
+
+                          </Children>
+                        </Widget>
+                      </Children>
+                    </ScrollablePanel>
+
+                    <ScrollbarWidget Id="VerticalScrollbar" WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="8" HorizontalAlignment="Right" VerticalAlignment="Top" MarginTop="10" MarginBottom="10" MarginRight="10" AlignmentAxis="Vertical" Handle="VerticalScrollbarHandle" MaxValue="100" MinValue="0" >
+                      <Children>
+                        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="2" HorizontalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#5a4033FF" AlphaFactor="0.2" />
+                        <ImageWidget Id="VerticalScrollbarHandle" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedHeight="10" SuggestedWidth="4" HorizontalAlignment="Center" Brush="FaceGen.Scrollbar.Handle" Brush.AlphaFactor="0.7" />
+                      </Children>
+                    </ScrollbarWidget>
+
+                  </Children>
+                </Widget>
+
+              </Children>
+            </Widget>
+          </Children>
+        </Widget>
+
+        <!--Select Profile-->
+        <ListPanel WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Top" MarginTop="25" MarginRight="15" Sprite="BlankWhiteSquare_9" Color="#000000AA" AlphaFactor="0.7" IsVisible="@IsProfileSelectionEnabled" StackLayout.LayoutMethod="VerticalBottomToTop">
+          <Children>
+
+            <!--Profile Name-->
+            <TextWidget WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" Text="@ProfileName" Brush="InitialMenuButtonBrush" HorizontalAlignment="Center" DoNotAcceptEvents="true" MarginTop="10"/>
+
+          </Children>
+        </ListPanel>
+
+        <!--Downloading Text-->
+        <Widget WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" MarginTop="25" Sprite="BlankWhiteSquare_9" Color="#000000AA" IsVisible="@IsDownloadingContent">
+          <Children>
+            <TextWidget WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" MarginLeft="10" MarginRight="10" MarginTop="5" MarginBottom="5" Text="@DownloadingText"/>
+          </Children>
+        </Widget>
+
+        <!--Coming Soon Button-->
+        <NavigationScopeTargeter ScopeID="WarSailsUpsellButtonScope" ScopeParent="..\WarSailsUpsellButton" IsScopeEnabled="@IsUpsellButtonActive" />
+        <ButtonWidget Id="WarSailsUpsellButton" DoNotPassEventsToChildren="true" UpdateChildrenStates="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="400" SuggestedHeight="233" HorizontalAlignment="Left" VerticalAlignment="Bottom" MarginLeft="550" MarginBottom="10" ExtendCursorAreaLeft="-4" ExtendCursorAreaRight="-4" ExtendCursorAreaBottom="-4" ExtendCursorAreaTop="-28" IsVisible="@IsUpsellButtonVisible" IsEnabled="@IsUpsellButtonActive" Command.Click="ExecuteNavigateToDLCStorePage" GamepadNavigationIndex="0">
+          <Children>
+            <Widget VisualDefinition="WarSailsUpsellButton" UpdateChildrenStates="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="400" SuggestedHeight="233" HorizontalAlignment="Center" VerticalAlignment="Center">
+              <Children>
+                <BrushWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Brush="WarSails.Upsell.Button"/>
+                <IconBrushWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Brush="WarSails.Upsell.Button" IconBrush="WarSails.Upsell.Button.OutNow" IconID="@CurrentLanguageString"/>
+              </Children>
+            </Widget>
+          </Children>
+        </ButtonWidget>
+
+        <!-- TOR_RU_Translation: Telegram CTA в правом-нижнем углу -->
+        <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Bottom" MarginRight="20" MarginBottom="18" Sprite="BlankWhiteSquare_9" Color="#000000BB" AlphaFactor="0.85" StackLayout.LayoutMethod="VerticalTopToBottom" DoNotAcceptEvents="true">
+          <Children>
+            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="14" MarginRight="14" MarginTop="8" MarginBottom="2" Text="Русский перевод TOR — v1.3.15.8" Color="#E8D9B9FF" DoNotAcceptEvents="true"/>
+            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="14" MarginRight="14" MarginTop="0" MarginBottom="8" Text="Telegram-канал автора: @CodeRickTg" Color="#7BB0E6FF" DoNotAcceptEvents="true"/>
+          </Children>
+        </ListPanel>
+
+      </Children>
+    </Widget>
+  </Window>
+</Prefab>

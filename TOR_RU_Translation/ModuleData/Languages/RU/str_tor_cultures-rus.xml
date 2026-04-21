@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_cultures">
   <tags>
     <tag language="Русский"/>
   </tags>
 <!-- build-hash: QHYyUGhvZW5peA== -->
   <strings>
-    <string id="empire_male_171" text="Еркенбранд" />
+    <string id="empire_male_171" text="Эркенбранд" />
     <string id="greenskins_male_name_40" text="Газодрак" />
-    <string id="empire_male_220" text="Гернар" />
+    <string id="empire_male_220" text="Герхард" />
     <string id="empire_male_63" text="Бартке" />
     <string id="empire_male_437" text="Конрат" />
     <string id="empire_male_540" text="Никлос" />
     <string id="empire_female_88" text="Корделиа" />
     <string id="empire_female_46" text="Беате" />
     <string id="bretonnia_female_name_174" text="Лекелина" />
-    <string id="empire_male_641" text="Рипертус" />
+    <string id="empire_male_641" text="Руперт" />
     <string id="wood_elf_male_name_148" text="Васит" />
     <string id="bretonnia_male_name_101" text="Фулквалд" />
     <string id="empire_male_40" text="Апонимоус" />
-    <string id="dwarf_male_name_29" text="Елмадор" />
+    <string id="dwarf_male_name_29" text="Эльмадор" />
     <string id="bretonnia_male_name_13" text="Адриен" />
     <string id="wood_elf_male_name_136" text="Веранус" />
     <string id="greenskins_male_name_12" text="Базгот" />
     <string id="greenskins_male_name_31" text="Дазлог" />
     <string id="bretonnia_female_name_43" text="Арегонде" />
     <string id="empire_male_506" text="Матевелин" />
-    <string id="empire_male_106" text="Клауде" />
-    <string id="empire_male_57" text="Балтзер" />
+    <string id="empire_male_106" text="Клод" />
+    <string id="empire_male_57" text="Бальтасар" />
     <string id="empire_male_790" text="Випрехт" />
-    <string id="empire_male_18" text="Албречт" />
+    <string id="empire_male_18" text="Альбрехт" />
     <string id="empire_female_59" text="Бесс" />
-    <string id="empire_female_78" text="Чристине" />
+    <string id="empire_female_78" text="Кристина" />
     <string id="v5bWeXj1" text="Описание культуры. Не уверен, где вы это видите. Если видите это, пожалуйста, сообщите с точным местоположением!" />
-    <string id="empire_male_603" text="Филиппус" />
+    <string id="empire_male_603" text="Филипп" />
     <string id="empire_male_666" text="Рутшел" />
     <string id="bretonnia_male_name_177" text="Паскал" />
-    <string id="empire_male_179" text="Еуген" />
+    <string id="empire_male_179" text="Ойген" />
     <string id="dwarf_male_name_35" text="Гилберт" />
     <string id="dwarf_male_name_16" text="Бронн" />
     <string id="bretonnia_male_name_200" text="Серло" />
@@ -649,7 +649,7 @@
     <string id="empire_male_368" text="Хилдемар" />
     <string id="empire_male_188" text="Фелкел" />
     <string id="bretonnia_male_name_38" text="Арманд" />
-    <string id="bretonnia_female_name_79" text="Чристине" />
+    <string id="bretonnia_female_name_79" text="Кристина" />
     <string id="empire_male_792" text="Виттич" />
     <string id="bretonnia_male_name_86" text="Ерченбалд" />
     <string id="empire_male_771" text="Вензел" />
@@ -762,7 +762,7 @@
     <string id="wood_elf_male_name_131" text="Улоек" />
     <string id="empire_female_311" text="Маи" />
     <string id="empire_male_160" text="Еневалт" />
-    <string id="bretonnia_male_name_79" text="Еугене" />
+    <string id="bretonnia_male_name_79" text="Эжен" />
     <string id="bretonnia_male_name_58" text="Клауде" />
     <string id="empire_male_706" text="Таддеус" />
     <string id="bretonnia_male_name_202" text="Сарлат" />

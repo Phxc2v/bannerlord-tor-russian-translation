@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_townspeople_chaos">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_spc_notable_chaos_artisan_2" text="Хаос артисан 2" />
+    <string id="str_spc_notable_chaos_artisan_2" text="Хаос ремесленник 2" />
     <string id="str_spc_notable_chaos_merch4" text="Молчаливый торговец Хаоса" />
     <string id="str_spc_notable_chaos_1b" text="{FIRSTNAME} наследница" />
-    <string id="str_spc_notable_chaos_artisan_1" text="Хаос артисан 1" />
-    <string id="str_spc_notable_chaos_merch5" text="{FIRSTNAME} Манципл" />
+    <string id="str_spc_notable_chaos_artisan_1" text="Хаос ремесленник 1" />
+    <string id="str_spc_notable_chaos_merch5" text="{FIRSTNAME} Приказчик" />
     <string id="str_spc_notable_chaos_rural_3" text="крестьянин Хаоса" />
     <string id="str_spc_notable_chaos_2" text="Протестантский мужской проповедник" />
     <string id="str_spc_chaos_gangleader_1" text="Стандартный мужской лидер банды" />

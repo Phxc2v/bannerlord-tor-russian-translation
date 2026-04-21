@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_eownspeople_eonir">
   <tags>
     <tag language="Русский"/>
@@ -11,12 +11,12 @@
     <string id="str_eonir_headman_1" text="лидер восставших эониров" />
     <string id="str_townsman_eonir" text="Ториур" />
     <string id="str_prison_guard_eonir" text="Охранник тюрьмы" />
-    <string id="str_spc_notable_eonir_1" text="{FIRSTNAME} Складник" />
+    <string id="str_spc_notable_eonir_1" text="{FIRSTNAME} Кладовщик" />
     <string id="str_gangleader_bodyguard_eonir" text="Лидер банды Эонир" />
     <string id="str_shop_worker_eonir" text="Работник магазина Эонир" />
     <string id="str_spc_notable_eonir_artisan_1" text="Еонирский ремесленник" />
     <string id="str_spc_notable_eonir_merch4" text="Молчаливый торговец из Эонир" />
-    <string id="str_artisan_notary_eonir" text="Эонир Артисан нотари" />
+    <string id="str_artisan_notary_eonir" text="Эонир ремесленник нотариус" />
     <string id="str_eonir_headman_2" text="Консервативный глава эониров" />
     <string id="str_musician_eonir" text="Музыкант Эонир" />
     <string id="str_armorer_eonir" text="Эонириармёром" />
@@ -29,7 +29,7 @@
     <string id="str_blacksmith_eonir" text="Кузнец Эонир" />
     <string id="str_spc_notable_eonir_b" text="{FIRSTNAME} Наследница" />
     <string id="str_wench_eonir" text="Эонир Дан" />
-    <string id="str_rural_notable_notary_eonir" text="Эонир Рурал Нотари" />
+    <string id="str_rural_notable_notary_eonir" text="Эонир Рурал нотариус" />
     <string id="str_spc_notable_eonir_3" text="Бунтарская женская проповедница" />
     <string id="str_townswoman_eonir" text="Ториур" />
     <string id="str_spc_notable_eonir_merch5" text="{FIRSTNAME} Управляющий" />
