@@ -52,7 +52,7 @@
     <string id="str_tor_he_head_helm_phoenix_001" text="Шлем Стражи Королевы Эонир" />
     <string id="str_tor_beastmen_accessories_2_001" text="Аксессуары Минотавра 2" />
     <string id="str_tor_we_leg_boots_lord_002" text="Сапоги Господина Рощи" />
-    <string id="str_tor_dw_body_armour_warrior_001" text="Дворфийский доспех воина" />
+    <string id="str_tor_dw_body_armour_warrior_001" text="Дворфский доспех воина" />
     <string id="str_tor_empire_leg_boots_greatsword_002" text="Протезные сапоги" />
     <string id="str_tor_we_head_sister_001" text="Древний Эльфийский Ободок" />
     <string id="str_tor_greenskin_orc_black_1_helmet_001" text="Орк-Харя" />
@@ -139,7 +139,7 @@
     <string id="str_tor_empire_arm_gauntlet_luthor_huss" text="Орнаментированные латные перчатки воина-жреца" />
     <string id="str_tor_vc_shoulder_cape_necromancer_001" text="Плащ Плечей Некроманта" />
     <string id="str_tor_chaos_shoulder_pauldron_nurgle_002" text="Наплечники Нурглита" />
-    <string id="str_tor_dw_body_armour_longbeard_001" text="Дворфский доспех Долгобородого" />
+    <string id="str_tor_dw_body_armour_longbeard_001" text="Дворфский доспех Длиннобородого" />
     <string id="str_tor_we_shoulder_cape_wildrider_001" text="Плащ Вайдрайдера" />
     <string id="str_tor_empire_arm_gauntlet_plate_002" text="Латные Перчатки" />
     <string id="str_tor_empire_arm_gauntlet_smith_001" text="Ковальские латные перчатки" />
@@ -258,7 +258,7 @@
     <string id="str_tor_greenskin_boots_orc_choppa_001" text="Кожаные Орк-Лапы" />
     <string id="str_tor_empire_arm_bracers_light_wizard_001" text="Светлые Браслеты Мага" />
     <string id="str_tor_empire_body_robe_life_wizard_001" text="Роба Жреца Жизни" />
-    <string id="str_tor_dw_body_armour_journeyman_001" text="Дворфийский доспех инженера" />
+    <string id="str_tor_dw_body_armour_journeyman_001" text="Дворфский доспех инженера" />
     <string id="str_tor_vc_leg_boots_cairn_wraith_002" text="Рваные одежды Призрака Кирна" />
     <string id="str_tor_empire_head_helm_lord_001" text="Имперский лорд-шлем" />
     <string id="str_tor_empire_arm_gauntlet_lord_001" text="Латные перчатки лорда Империи" />
@@ -301,7 +301,7 @@
     <string id="str_tor_greenskin_shoulderpads_orc_black_5_001" text="Железобетонные Орк-Наплечники" />
     <string id="str_tor_greenskin_orc_arrer_boyz_hood_002" text="Орк-Капюшон" />
     <string id="str_tor_vc_head_helm_cairn_wraith_003" text="Шлем призрака могильной кучи" />
-    <string id="str_tor_dw_body_armour_ungrim_001" text="Дворфский доспех Унгрима" />
+    <string id="str_tor_dw_body_armour_ungrim_001" text="Доспех Унгрима" />
     <string id="str_tor_vc_body_breastplate_grave_guard_006" text="Доспех Могильного Стража" />
     <string id="str_tor_empire_leg_boots_general_002" text="Сапоги генералов Империи" />
     <string id="str_tor_we_leg_legs_treeman_001" text="Древкодерные Поножи" />
@@ -344,7 +344,7 @@
     <string id="str_tor_greenskin_bracers_orc_boyz_001" text="Крепкие Орк-Лапищи" />
     <string id="str_tor_empire_body_armor_swadian_plate_001" text="Латный Доспех" />
     <string id="str_tor_we_shoulder_cape_ranger_001" text="Плащ Эльфийского Стрелка" />
-    <string id="str_tor_dw_body_armour_slayer_legend_001" text="Дворфское лоскутное панцирное одеяние Убийцы Гигантов Легенды" />
+    <string id="str_tor_dw_body_armour_slayer_legend_001" text="Набедренная повязка Убийцы Великанов" />
     <string id="str_tor_vc_body_armor_blood_knight_001" text="Доспех рыцаря крови" />
     <string id="str_tor_we_head_treeman_001" text="Голова из Кожы Древа" />
     <string id="str_tor_greenskin_leg_shroom_004" text="Снежный Грибок" />
@@ -361,7 +361,7 @@
     <string id="str_tor_dw_arm_bracers_runelord_001" text="Браслеты Лорда Руны" />
     <string id="str_tor_bretonnia_body_armor_kotr_002" text="Броня Рыцаря Королевства" />
     <string id="str_tor_empire_arm_gauntlet_greatsword_001" text="Перчатки с Мечом-Клинок Империи" />
-    <string id="str_tor_dw_body_armour_ironbreaker_001" text="Дворфский железный доспех Разбиватель Железа" />
+    <string id="str_tor_dw_body_armour_ironbreaker_001" text="Дворфский доспех Железнобокого" />
     <string id="str_tor_bretonnia_body_armor_questing_knight_002" text="Полный доспех Рыцаря-Странника" />
     <string id="str_tor_vc_body_armor_undead_champion" text="Доспех чемпиона нежити" />
     <string id="str_tor_vc_arm_bracers_skeleton_warrior_002" text="Скелетный Страж Латные Перчатки" />
@@ -377,7 +377,7 @@
     <string id="str_tor_we_head_helmet_lord_003" text="Маска лорда Леса" />
     <string id="str_tor_chaos_head_helm_slaneesh_warrior_001" text="Шлем Сланаешского Воина" />
     <string id="str_tor_greenskin_leg_boots_goblin_002" text="Гоблин-Обмотки" />
-    <string id="str_tor_dw_body_armour_apprentice_001" text="Дворфийский доспех инженера-ученика" />
+    <string id="str_tor_dw_body_armour_apprentice_001" text="Дворфский доспех инженера-ученика" />
     <string id="str_tor_greenskin_bracers_orc_warboss_001" text="Супер-Лапищи Варбосса" />
     <string id="str_tor_greenskin_shoulderpads_orc_boyz_001" text="Шипастые Наплечники Орк-Пацана" />
     <string id="str_tor_dw_leg_boots_miner_001" text="Гномьи сапоги (шахтёрские)" />
@@ -425,12 +425,12 @@
     <string id="str_tor_dw_shoulder_shoulderpads_ungrim_001" text="Плащ Дракона Фирскара" />
     <string id="str_tor_dw_shoulder_shoulderpads_noble_001" text="Наплечники дворянина-гнома" />
     <string id="str_tor_mousillon_shoulder_pauldron_bgk_001" text="Наплечник Рыцаря Чёрной Грааля" />
-    <string id="str_tor_dw_body_armour_warrior_002" text="Дворфийский доспех воина" />
+    <string id="str_tor_dw_body_armour_warrior_002" text="Дворфский доспех воина" />
     <string id="str_tor_bretonnian_shoulder_pauldron_knight_001" text="Бретонская пианина" />
     <string id="str_tor_greenskin_bracers_orc_boyz_003" text="Крепкие Орк-Лапищи" />
     <string id="str_tor_greenskin_shoulderpads_orc_boyz_002" text="Шипастые Наплечники Орк-Пацана" />
     <string id="str_tor_bretonnian_leg_boots_questing_knight_001" text="Латные сапоги Рыцаря-Странника" />
-    <string id="str_tor_dw_body_armour_irondrake_001" text="Дворфский железный доспех Железный Дракон" />
+    <string id="str_tor_dw_body_armour_irondrake_001" text="Дворфский доспех Железного Дракона" />
     <string id="str_tor_bretonnian_shoulder_pauldron_pilgrim_001" text="Боевое плечо пилигрима" />
     <string id="str_tor_beastmen_body_armour_gor_001" text="Доспехи Гор" />
     <string id="str_tor_empire_head_helm_taal_002" text="Рогатый черепной шлем Таала" />
@@ -459,7 +459,7 @@
     <string id="str_tor_empire_arm_gauntlet_goldhero_001" text="Латные Перчатки Героя Золота" />
     <string id="str_tor_dw_arm_bracers_noble_001" text="Браслеты Гномского Аристократа" />
     <string id="str_tor_we_head_mask_eternalguard_001" text="Маска Вечной Стражи" />
-    <string id="str_tor_dw_body_armour_miner_001" text="Дворфийский доспех шахтёра" />
+    <string id="str_tor_dw_body_armour_miner_001" text="Дворфский доспех шахтёра" />
     <string id="str_tor_dw_body_armour_slayer_novice_001" text="Поножи убийцы-новичка" />
     <string id="str_tor_we_leg_boots_lord_001" text="Сапоги Господина Рощи" />
     <string id="str_tor_empire_leg_boots_empire_goldhero_001" text="Золотые латные сапоги" />
@@ -589,7 +589,7 @@
     <string id="str_tor_he_shoulder_cape_phoenix_001" text="Плащ стражей королевы Эонир" />
     <string id="str_tor_dw_arm_bracers_warrior_001" text="Брасаты воина гнома" />
     <string id="str_tor_empire_body_armor_pistolier_002" text="Имперский средний нагрудник" />
-    <string id="str_tor_dw_body_armour_engineer_001" text="Дворфийский доспех инженера" />
+    <string id="str_tor_dw_body_armour_engineer_001" text="Дворфский доспех инженера" />
     <string id="str_tor_chaos_leg_boots_khorne_warrior_002" text="Доспешные сапоги воина Хорна" />
     <string id="str_tor_greenskin_shoulderpads_orc_warboss_001" text="Наплечники Варбосса" />
     <string id="str_tor_chaos_body_armor_khorne_warrior_001" text="Кхорнский доспех" />
@@ -603,7 +603,7 @@
     <string id="str_tor_we_leg_boots_eternalguard_001" text="Сапоги Вечного Стража" />
     <string id="str_tor_empire_leg_boots_lord_001" text="Сапоги Имперского Лорда" />
     <string id="str_tor_empire_body_armor_volkmar" text="Доспехи Волкмара Грозного" />
-    <string id="str_tor_dw_head_helm_longbeard_001" text="Шлем Долгобородого" />
+    <string id="str_tor_dw_head_helm_longbeard_001" text="Шлем Длиннобородого" />
     <string id="str_tor_vc_leg_boots_vampire_lord_001" text="Доспешные вампирские сапоги" />
     <string id="str_tor_we_body_armor_ranger_002" text="Доспех лесного эльфа-разведчика" />
     <string id="str_tor_vc_body_breastplate_cairn_wraith_003" text="Нагрудник призрака Каирна" />
@@ -637,7 +637,7 @@
     <string id="str_tor_bretonnia_body_armor_questing_knight_001" text="Доспехи Рыцаря-Странника" />
     <string id="str_tor_dw_shoulder_shoulderpads_runelord_001" text="Наплечники Лорда Руны" />
     <string id="str_tor_bretonnian_head_helm_001" text="Бретонский кольчужный шлем с плоской вершиной" />
-    <string id="str_tor_dw_shoulder_shoulderpads_longbeard_001" text="Гномьи наплечники Долгобородого" />
+    <string id="str_tor_dw_shoulder_shoulderpads_longbeard_001" text="Дворфские наплечники Длиннобородого" />
     <string id="str_tor_empire_head_helm_morion_001" text="Тяжёлый имперский шлем морьон" />
     <string id="str_tor_tilean_head_helm_knight_002" text="Тилейная кепка" />
     <string id="str_tor_we_leg_boots_militia_001" text="Эльфийские Сапоги Милиции" />
@@ -662,7 +662,7 @@
     <string id="str_tor_vc_body_armor_mannfred" text="Доспех Нагрудник Маннфреда фон Карштейна" />
     <string id="str_tor_vc_head_helm_blood_dragon_knight_001" text="Шлем Рыцаря Кровавого Дракона" />
     <string id="str_tor_vc_head_helm_vampire_lord_001" text="Шлем Барбют Лорда Вампира" />
-    <string id="str_tor_dw_body_armour_runelord_001" text="Дворфский магический доспех Лорда Руны" />
+    <string id="str_tor_dw_body_armour_runelord_001" text="Дворфский доспех Рунного Лорда" />
     <string id="str_tor_empire_body_armor_greatsword_001" text="Имперский нагрудник для мечника-великана" />
     <string id="str_tor_dw_arm_bracers_slayer_legend_001" text="Браслеты Гигантского Убийцы" />
     <string id="str_tor_greenskin_shoulderpads_orc_big_un_002" text="Настоящие Орк-Наплечники" />
@@ -738,7 +738,7 @@
     <string id="str_tor_he_body_armour_phoenix_002" text="Доспех Стражи Королевы Эониров с длинными рукавами" />
     <string id="str_tor_empire_leg_boots_kobs_001" text="Пламенные солнечные пластинчатые сапоги" />
     <string id="str_tor_bretonnia_body_armor_manatarms_003" text="Поясная кожа поверх камзола" />
-    <string id="str_tor_dw_leg_boots_longbeard_001" text="Сапоги Долгобородого" />
+    <string id="str_tor_dw_leg_boots_longbeard_001" text="Сапоги Длиннобородого" />
     <string id="str_tor_greenskin_goblin_warboss_helmet_002" text="Башко-Плита Гоблин-Варбосса" />
     <string id="str_tor_dw_leg_boots_basic_dawi_001" text="Гномьи сапоги (базовые)" />
     <string id="str_tor_chaos_body_armor_nurgle_knight_001" text="Нурглитовая броня" />
@@ -750,7 +750,7 @@
     <string id="str_tor_beastmen_body_minotaur_001" text="Тело Минотавра" />
     <string id="str_tor_empire_body_armor_cannon_crew_001" text="Униформа инженера" />
     <string id="str_tor_dw_head_helm_noble_003" text="Шлем благородного гнома" />
-    <string id="str_tor_dw_arm_bracers_longbeard_001" text="Браслеты Долгобородого" />
+    <string id="str_tor_dw_arm_bracers_longbeard_001" text="Браслеты Длиннобородого" />
     <string id="str_tor_empire_head_helm_burgonet_001" text="Имперский шлем-салад" />
     <string id="str_tor_bretonnian_shoulder_pauldron_louen_leoncoeur" text="Наплечник Блеска" />
     <string id="str_tor_bretonnian_head_helm_kotr_002" text="Великий шлем Рыцаря Королевства" />

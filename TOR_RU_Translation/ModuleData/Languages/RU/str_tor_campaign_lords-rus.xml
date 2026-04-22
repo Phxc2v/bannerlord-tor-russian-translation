@@ -20,7 +20,7 @@
     <string id="str_tor_greenskin_lord_bloody_spearz_first_8" text="Варбосс Глартсник Сиксак" />
     <string id="str_tor_br_lord_carcassonne_first_5" text="Сер Герард Саувагеон" />
     <string id="str_tor_emp_lord_hochland_first_3" text="Хеинрич вон Лудендорф" />
-    <string id="str_tor_dw_lord_karak_izor_first_3" text="Рунелорд Брокк Серебряный Кузнец" />
+    <string id="str_tor_dw_lord_karak_izor_first_3" text="Рунный Лорд Брокк Серебряный Кузнец" />
     <string id="str_tor_dw_lord_karak_ziflin_factionleader" text="Король Рорек Гранитеханд" />
     <string id="str_tor_dw_lord_karak_norn_first_2" text="Лорд Тингрим Стонефури" />
     <string id="str_tor_dw_lord_karak_kadrin_first_10" text="Лорд Дори Магрест" />
@@ -177,7 +177,7 @@
     <string id="str_tor_greenskin_lord_skull_smasherz_second_1" text="Варбосс Гутлоб Кровавая Речка" />
     <string id="str_tor_dw_lord_karak_norn_first_5" text="Лорд Доррик Гриефвиелдер" />
     <string id="str_tor_emp_lord_talabecland_third_6" text="Барон Диетер Боллен" />
-    <string id="str_tor_dw_lord_karak_kadrin_first_5" text="Рунелорд Тори Рунескорч" />
+    <string id="str_tor_dw_lord_karak_kadrin_first_5" text="Рунный Лорд Тори Рунескорч" />
     <string id="str_tor_emp_lord_hochland_factionleader" text="Електор Граф Алдебранд вон Луденхоф" />
     <string id="str_tor_emp_lord_ostermark_first_6" text="Марграве Освалд Кранач" />
     <string id="str_tor_greenskin_lord_red_eye_first_2" text="Варбосс Гротстик Грязеплюй" />
@@ -220,7 +220,7 @@
     <string id="str_tor_greenskin_lord_reavaz_first_12" text="Абордаж-Атаман Гибгат Ядо-Руки" />
     <string id="str_tor_chaos_lord_brasskeep_first_4" text="Малариус из Обельштейна" />
     <string id="str_tor_greenskin_lord_red_eye_first_6" text="Варбосс Стизлик Моросьбой" />
-    <string id="str_tor_dw_lord_karak_norn_first_3" text="Рунелорд Хакон Емберфорге" />
+    <string id="str_tor_dw_lord_karak_norn_first_3" text="Рунный Лорд Хакон Емберфорге" />
     <string id="str_tor_emp_lord_nordland_second_4" text="Ксавиер Кöхлер" />
     <string id="str_tor_greenskin_lord_massif_choppas_first_4" text="Варбосс Заккбад Кишкогнёт" />
     <string id="str_tor_emp_lord_hochland_first_2" text="Конрад вон Лудендорф" />
@@ -255,7 +255,7 @@
     <string id="str_tor_greenskin_lord_black_pit_factionleader" text="Вождь Войны Снагла Гробоплюй" />
     <string id="str_tor_greenskin_lord_bloody_spearz_second_7" text="Варбосс Гитнибз Хохотязык" />
     <string id="str_tor_greenskin_lord_massif_choppas_second_2" text="Варбосс Громмал Черноклык" />
-    <string id="str_tor_dw_lord_karak_hirn_first_5" text="Рунелорд Друмин Стонекарвер" />
+    <string id="str_tor_dw_lord_karak_hirn_first_5" text="Рунный Лорд Друмин Стонекарвер" />
     <string id="str_tor_br_lord_bastonne_first_5" text="Гауваин ле Фаукон" />
     <string id="str_tor_br_lord_couronne_factionleader" text="Король Лоуен Леонкоеур" />
     <string id="str_tor_we_lord_athel_loren_eighth_1" text="Леди Хеггрия из Маска" />
@@ -290,7 +290,7 @@
     <string id="str_tor_we_lord_athel_loren_thirteenth_2" text="Наестра" />
     <string id="str_tor_dw_lord_karak_eksfilaz_first_9" text="Лорд Гуттри Иронсундер" />
     <string id="str_tor_greenskin_lord_crooked_eye_second_6" text="Шаман Аззлод Хмурогит" />
-    <string id="str_tor_dw_lord_karak_ziflin_first_9" text="Рунелорд Готтри Логанссон" />
+    <string id="str_tor_dw_lord_karak_ziflin_first_9" text="Рунный Лорд Готтри Логанссон" />
     <string id="str_tor_greenskin_lord_massif_choppas_second_6" text="Варбосс Мгук Черепобой" />
     <string id="str_tor_emp_lord_sigmarcult_1" text="Лутор Хусс" />
     <string id="str_tor_greenskin_lord_black_pit_first_12" text="Вождь Назрунк Гниломёт" />
@@ -307,7 +307,7 @@
     <string id="str_tor_emp_lord_ostermark_third_3" text="Марграве Готтолд Шурз" />
     <string id="str_tor_emp_lord_reikland_second_5" text="Граф Сигисмунд вон Йунгфреуд" />
     <string id="str_tor_greenskin_lord_deff_grindaz_second_3" text="Шаман Бугззаз Грибожуй" />
-    <string id="str_tor_dw_lord_karak_gantuk_first_2" text="Рунелорд Трандин Стонефорге" />
+    <string id="str_tor_dw_lord_karak_gantuk_first_2" text="Рунный Лорд Трандин Стонефорге" />
     <string id="str_tor_greenskin_lord_reavaz_first_4" text="Парусмастр Нитстик Сопленос" />
     <string id="str_tor_emp_lord_ostland_first_2" text="Принке Вассили вон Рауков" />
     <string id="str_tor_dw_lord_karak_izor_first_4" text="Даемон Истребитель Хугнир Фиремане" />
@@ -329,7 +329,7 @@
     <string id="str_tor_emp_lord_ostland_second_3" text="Марграве Георг вон Дöбреинер" />
     <string id="str_tor_eo_lord_laurelorn_third_1" text="Кайя Буревестник Фанмари из дома Эверглейд" />
     <string id="str_tor_eo_lord_laurelorn_second_2" text="Елора" />
-    <string id="str_tor_dw_lord_karak_kadrin_second_2" text="Рунелорд Фургил Емберкеепер" />
+    <string id="str_tor_dw_lord_karak_kadrin_second_2" text="Рунный Лорд Фургил Емберкеепер" />
     <string id="str_tor_vc_lord_sylvania_first_7" text="Маркос вон Карстеин" />
     <string id="str_tor_emp_lord_wissenland_first_6" text="Сигмара Пфеифрачер" />
     <string id="str_tor_dw_lord_karak_eksfilaz_first_7" text="Лорд Фимбур Фростбеард" />
@@ -393,7 +393,7 @@
     <string id="str_tor_vc_lord_sylvania_second_1" text="Йоханн Хаифиш вон Карстеин" />
     <string id="str_tor_br_lord_aquitaine_first_4" text="Сер Аарóн ле Круел" />
     <string id="str_tor_dw_lord_karak_norn_first_7" text="Лорд Казрик Гримтоне" />
-    <string id="str_tor_dw_lord_karak_azgaraz_first_10" text="Рунелорд Грунди Тундер-Стоне" />
+    <string id="str_tor_dw_lord_karak_azgaraz_first_10" text="Рунный Лорд Грунди Тундер-Стоне" />
     <string id="str_tor_greenskin_lord_crooked_eye_first_7" text="Варбосс Скорорак" />
     <string id="str_tor_greenskin_lord_deff_grindaz_second_1" text="Варбосс Крагскар Злой" />
     <string id="str_tor_emp_lord_ostermark_first_8" text="Генерал Андре Эйслауфер" />
@@ -499,12 +499,12 @@
     <string id="str_tor_eo_lord_laurelorn_first_3" text="Ядох" />
     <string id="str_tor_br_lord_brionne_first_3" text="Филлипе л'хомме грис" />
     <string id="str_tor_dw_lord_karak_angazhar_first_7" text="Елдер Свен Вхитемане" />
-    <string id="str_tor_dw_lord_karak_kaferkammaz_first_4" text="Рунелорд Грумли Рунесоул" />
+    <string id="str_tor_dw_lord_karak_kaferkammaz_first_4" text="Рунный Лорд Грумли Рунесоул" />
     <string id="str_tor_greenskin_lord_red_eye_second_4" text="Варбосс Багмук Жадюга" />
     <string id="str_tor_greenskin_lord_skull_smasherz_first_5" text="Варбосс Зумморк Гнилокуч" />
     <string id="str_tor_m_lord_mousillon_first_2" text="Леди Николетт д'Уазмон" />
     <string id="str_tor_emp_lord_talabecland_first_3" text="Граф Теодор вон Хердер" />
-    <string id="str_tor_dw_lord_karak_angazhar_first_6" text="Рунелорд Гарил Грундсток" />
+    <string id="str_tor_dw_lord_karak_angazhar_first_6" text="Рунный Лорд Гарил Грундсток" />
     <string id="str_tor_m_lord_mousillon_first_4" text="Глеб Маркс" />
     <string id="str_tor_greenskin_lord_bad_axes_first_6" text="Варбосс Зурдракка" />
     <string id="str_tor_emp_lord_stirland_first_5" text="Граф Артур вон Треитшке" />
@@ -634,7 +634,7 @@
     <string id="str_tor_greenskin_lord_black_sunz_second_3" text="Варбосс Умлодд Тверд-Гит" />
     <string id="str_tor_br_lord_lyonesse_first_6" text="Роланд Маршалл" />
     <string id="str_tor_br_lord_bastonne_second_1" text="Калар де Гарамон" />
-    <string id="str_tor_dw_lord_karak_eksfilaz_first_2" text="Рунелорд Дурмин Иронскрибе" />
+    <string id="str_tor_dw_lord_karak_eksfilaz_first_2" text="Рунный Лорд Дурмин Иронскрибе" />
     <string id="str_tor_greenskin_lord_massif_choppas_first_11" text="Варбосс Заггорк" />
     <string id="str_tor_br_lord_gisoreux_first_4" text="Еарл Орландо де Оисиллон" />
     <string id="str_tor_greenskin_lord_massif_choppas_first_3" text="Варбосс Угок" />
