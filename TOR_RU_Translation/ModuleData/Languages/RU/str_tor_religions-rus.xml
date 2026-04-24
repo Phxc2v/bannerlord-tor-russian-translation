@@ -6,14 +6,14 @@
   <strings>
     <!-- asset-tag: QHYyUGhvZW5peA== -->
     <string id="tor_religion_cult_name_cult_of_sigmar_str" text="Культ Сигмара" />
-    <string id="tor_religion_cult_name_cult_of_shallya_str" text="Культ Шаллы" />
-    <string id="tor_religion_cult_name_cult_of_valaya_str" text="Культ Валаи" />
+    <string id="tor_religion_cult_name_cult_of_shallya_str" text="Культ Шальи" />
+    <string id="tor_religion_cult_name_cult_of_valaya_str" text="Культ Валайи" />
     <string id="tor_religion_cult_name_cult_of_slaanesh_str" text="Культ Слаанеш" />
     <string id="tor_religion_cult_name_cult_of_tzeentch_str" text="Культ Тзинча" />
     <string id="tor_religion_cult_name_cult_of_myrmidia_str" text="Культ Мирмидии" />
-    <string id="tor_religion_cult_name_chaos_undivided_str" text="Хаос Единый" />
+    <string id="tor_religion_cult_name_chaos_undivided_str" text="Хаос Неделимый" />
     <string id="tor_religion_cult_name_cult_of_taal_str" text="Культ Таала" />
-    <string id="tor_religion_cult_name_cult_of_lady_str" text="Культ Леди" />
+    <string id="tor_religion_cult_name_cult_of_lady_str" text="Культ Владычицы Озера" />
     <string id="tor_religion_cult_name_cult_of_gork_str" text="Культ Горка" />
     <string id="tor_religion_cult_name_cult_of_grimnir_str" text="Культ Гримнира" />
     <string id="tor_religion_cult_name_cult_of_grungni_str" text="Культ Грунгни" />

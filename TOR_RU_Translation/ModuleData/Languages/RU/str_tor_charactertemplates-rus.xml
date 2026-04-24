@@ -44,7 +44,7 @@
     <string id="str_tor_kwartamasta_greenskins_0" text="Квартамаста {FIRSTNAME}" />
     <string id="str_tor_wanderer_greenskins_0" text="{FIRSTNAME}, Большой Босс" />
     <string id="str_tor_empire_dog7_lord_3" text=" " />
-    <string id="str_tor_wanderer_vampire_1" text="{FIRSTNAME} вампир" />
+    <string id="str_tor_wanderer_vampire_1" text="{FIRSTNAME} Вампир" />
     <string id="str_tor_coi_cultist_lord_0" text=" " />
     <string id="str_tor_empire_dog5_lord_1" text=" " />
     <string id="str_tor_wanderer_greenskins_3" text="{FIRSTNAME} да Тинкерер" />
@@ -56,7 +56,7 @@
     <string id="str_tor_wanderer_bretonnia_4" text="{FIRSTNAME} Хранитель Стены" />
     <string id="str_tor_wanderer_empire_5" text="{FIRSTNAME} Инженер" />
     <string id="str_tor_br_rogue_lord_2" text=" " />
-    <string id="str_tor_wanderer_mousillon_2" text="{FIRSTNAME} из Кустовых Ведьм" />
+    <string id="str_tor_wanderer_mousillon_2" text="{FIRSTNAME} Ведьма-знахарка" />
     <string id="str_tor_empire_dog2_lord_3" text=" " />
     <string id="str_tor_empire_dog6_lord_2" text=" " />
     <string id="str_tor_empire_dog3_lord_0" text=" " />
@@ -77,7 +77,7 @@
     <string id="str_tor_wanderer_woodelf_0" text="{FIRSTNAME} Песнопевица" />
     <string id="str_tor_wanderer_mousillon_1" text="{FIRSTNAME} Некромант из Муссильона" />
     <string id="str_tor_wanderer_mousillon_4" text="{FIRSTNAME} вампир из Муссильона" />
-    <string id="str_tor_wanderer_vampire_2" text="{FIRSTNAME}, Король-Могильник" />
+    <string id="str_tor_wanderer_vampire_2" text="{FIRSTNAME}, Король-Мертвец" />
     <string id="str_tor_wanderer_vampire_0" text="{FIRSTNAME} Некромант" />
     <string id="str_tor_empire_rogue_lord_1" text=" " />
     <string id="str_tor_empire_dog6_lord_1" text=" " />
@@ -103,7 +103,7 @@
     <string id="str_tor_wanderer_empire_3" text="{FIRSTNAME} Светлый Маг" />
     <string id="str_tor_wanderer_vampire_3" text="{FIRSTNAME} ламийская графиня" />
     <string id="str_tor_empire_rogue_lord_0" text=" " />
-    <string id="str_tor_wanderer_eonir_0" text="{FIRSTNAME} Призрачный Стрелок" />
+    <string id="str_tor_wanderer_eonir_0" text="{FIRSTNAME} Призрачный Странник" />
     <string id="str_tor_wanderer_empire_2" text="{FIRSTNAME} охотник на ведьм" />
     <string id="str_tor_empire_rogue_lord_5" text=" " />
     <string id="str_tor_wanderer_empire_8" text="{FIRSTNAME} Золотой Маг" />
@@ -152,7 +152,7 @@
     <string id="str_tor_empire_rogue_lord_6" text=" " />
     <string id="str_tor_dawi_warriors_guild_npc_0" text="{FIRSTNAME} из Гильдии Воинов" />
     <string id="str_tor_fsf_cultist_lord_0" text=" " />
-    <string id="str_tor_wanderer_woodelf_1" text="{FIRSTNAME} Повелитель Рощи" />
+    <string id="str_tor_wanderer_woodelf_1" text="{FIRSTNAME} Капитан Полян" />
     <string id="str_tor_wanderer_empire_13" text="{FIRSTNAME}, благородный имперский дворянин" />
     <string id="str_tor_dawi_miner_guild_npc_0" text="{FIRSTNAME} из Гильдии Горняков" />
     <string id="str_tor_spelltrainer_woodelves_0" text="{FIRSTNAME} мудрая песнопевица заклинаний" />

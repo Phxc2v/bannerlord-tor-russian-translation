@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="str_vc_skeleton_warrior_mace_004_handle" text="Древко скелетной булавы" />
-    <string id="str_empire_morr_scythe_003_pole" text="Древко косы Морр" />
+    <string id="str_empire_morr_scythe_003_pole" text="Древко косы Морра" />
     <string id="str_skeleton_warrior_sword_004_guard" text="Гарда скелетного меча 004" />
     <string id="str_reiksguard_knight_sword_002_pommel" text="Навершие Меча Рыцаря Рейксгвардии" />
     <string id="str_we_sword_002_blade" text="Древний Эльфийный Клинок" />
@@ -225,7 +225,7 @@
     <string id="str_vampire_greataxe_001_blade" text="Клинок вампирского топора 001" />
     <string id="str_skeleton_warrior_sword_002_pommel" text="Навершие скелетного меча воина" />
     <string id="str_wp_twohanded_hammer_002_handle" text="Древко Двуручного Молота Воина-Жреца" />
-    <string id="str_empire_morr_scythe_002_pole" text="Древко косы Морр" />
+    <string id="str_empire_morr_scythe_002_pole" text="Древко косы Морра" />
     <string id="str_chaos_ud_lance_guard_001" text="Гарда хаосного копья" />
     <string id="str_bretonnian_sword_002_handle" text="Бретонская рукоять меча" />
     <string id="str_vampire_sword_007_guard" text="Гарда Меча Вампира" />
@@ -248,7 +248,7 @@
     <string id="str_vampire_sword_007_pommel" text="Навершие вампирского меча" />
     <string id="str_we_2h_axe_001_blade" text="Клинков деревянного эльфийского топора" />
     <string id="str_reiksguard_circle_sword_003_pommel" text="Навершие меча Внутреннего круга Рейксгарда" />
-    <string id="str_empire_morr_scythe_003_blade" text="Клинок косы Морр" />
+    <string id="str_empire_morr_scythe_003_blade" text="Клинок косы Морра" />
     <string id="str_bretonnian_halberd_005_head" text="Наконечник бретонского вульжиера" />
     <string id="str_skeleton_warrior_sword_004_blade" text="Клинок скелетного меча воина" />
     <string id="str_empire_hammer_001_handle" text="Древко Имперского Молота" />
@@ -502,7 +502,7 @@
     <string id="str_skeleton_warrior_sword_002_guard" text="Гарда скелетного меча воина" />
     <string id="str_comet_flail_head" text="Наконечник Косы Комета" />
     <string id="str_vc_skeleton_warrior_mace_001_handle" text="Рукоять Булавы Скелетного Воина" />
-    <string id="str_empire_morr_scythe_001_pole" text="Древко косы Морра" />
+    <string id="str_empire_morr_scythe_001_pole" text="Древко косы Морраа" />
     <string id="str_mannfred_sword_handle" text="Рукоять меча Маннфреда" />
     <string id="str_grave_guard_sword_001_hilt" text="Рукоять могильного меча 001" />
     <string id="str_vampire_greatsword_001_pommel" text="Навершие Меча Вампира Великого" />

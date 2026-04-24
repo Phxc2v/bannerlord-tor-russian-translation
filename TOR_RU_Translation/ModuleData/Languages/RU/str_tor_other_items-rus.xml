@@ -94,7 +94,7 @@
     <string id="cjH1WFwy" text="Меховая шапка с меховой окантовкой" />
     <string id="TXpQetkh" text="Военный Верблюд" />
     <string id="str_tor_learn_vc_enchant_bonds_darkness" text="Связи Тьмы" />
-    <string id="str_tor_learn_asrai_enchant_vengeance_khaine" text="Мщение Хейн" />
+    <string id="str_tor_learn_asrai_enchant_vengeance_khaine" text="Мщение Кхейна" />
     <string id="TwuAVsCn" text="Меховая шапка" />
     <string id="jbxeZs8K" text="Туника простого человека" />
     <string id="U8QfF3Gw" text="Длинная шерстяная туника" />
@@ -411,7 +411,7 @@
     <string id="ZOWdFaUi" text="Остроконечный капюшон поверх кольчужного чепца" />
     <string id="8UMQ8ocB" text="Восточный щит конницы" />
     <string id="kxtSkGju" text="Посол" />
-    <string id="str_tor_learn_asrai_enchant_oakhart_blessing" text="Благословение Дубоцвета" />
+    <string id="str_tor_learn_asrai_enchant_oakhart_blessing" text="Благословение Дубового Сердца" />
     <string id="VaqBBaQu" text="Короткая туника с меховой отделкой" />
     <string id="DeawBxbx" text="Шипованная котелка поверх кольчуги" />
     <string id="QcKpipVr" text="Адарга" />
@@ -475,7 +475,7 @@
     <string id="VQSdhQE3" text="Тяжёлая чешуйчатая броня поверх кольчужной рубахи" />
     <string id="LpN4YWb2" text="Спарринговая сабля" />
     <string id="IBXDYUZW" text="Каплевидный щит всадника" />
-    <string id="str_tor_learn_asrai_enchant_morai_heg" text="Схемы Морай-хег" />
+    <string id="str_tor_learn_asrai_enchant_morai_heg" text="Козни Морай-Хег" />
     <string id="cMdtLfGB" text="Ряса с кисточками" />
     <string id="wWqavjat" text="Лёгкие длинные подбитые доспехи" />
     <string id="w9RLq82l" text="Железный меч с наконечником для боя" />
@@ -551,7 +551,7 @@
     <string id="WUasz2kP" text="Высокогорный двойной меч из тонкой стали" />
     <string id="OyBdFyeV" text="Южное безрукавное кольчужное платье с бронзовыми пластинами" />
     <string id="X1Wn0sBa" text="Кожаный шипованный шлем поверх чешуйчатой пластины" />
-    <string id="str_tor_learn_asrai_enchant_anath_raema" text="Хищница Анат Раэма" />
+    <string id="str_tor_learn_asrai_enchant_anath_raema" text="Охотница Анат Раэма" />
     <string id="7phSQw5i" text="Мотыга" />
     <string id="GghHAbIT" text="Топорище" />
     <string id="Cg7vqdPQ" text="Железный носовой шлем поверх кофы" />
@@ -1092,12 +1092,12 @@
     <string id="dHv9Dbkp" text="Бронзовый южный шлем с кожаными клапанами" />
     <string id="Qyg2bJLX" text="Сельная головная повязка" />
     <string id="str_tor_learn_dw_rune_force" text="Руна Силы" />
-    <string id="str_tor_learn_asrai_enchant_ferocity_kurnous" text="Бешенство Курноус" />
+    <string id="str_tor_learn_asrai_enchant_ferocity_kurnous" text="Ярость Курноса" />
     <string id="VYmHTbTY" text="Шлем вождя поверх кольчуги" />
     <string id="str_tor_learn_we_enchant_trueflight" text="Стрелы «Истинный полёт»" />
     <string id="3Xx3hg8s" text="Украшенные чешуйчатые наплечники" />
     <string id="6fA31IxF" text="Тяжёлая кольчужная жилетка" />
-    <string id="str_tor_learn_asrai_enchant_embrace_isha" text="Объятие Иша" />
+    <string id="str_tor_learn_asrai_enchant_embrace_isha" text="Объятия Иши" />
     <string id="str_tor_learn_emp_enchant_ghyran_intuition" text="Интуиция Гхирана" />
     <string id="str_tor_learn_emp_blessing_shallya_pacifism" text="Миротворчество Шаллии" />
     <string id="BD07fj39" text="Имперский шлем с драгоценными камнями" />
@@ -1122,7 +1122,7 @@
     <string id="ePdiHF5D" text="Пернатый Шпангенхельм" />
     <string id="str_tor_learn_emp_enchant_chamon_lead_feathers" text="Свинец в перья" />
     <string id="str_tor_learn_gs_brutality_gork" text="Жестокая сила Горка" />
-    <string id="str_tor_learn_asrai_enchant_trance_loec" text="Транс Лоэк" />
+    <string id="str_tor_learn_asrai_enchant_trance_loec" text="Транс Лоэка" />
     <string id="3Z91Nxbf" text="Шпильхельм с кожей" />
     <string id="6Db7aDbF" text="Стрелы баллисты" />
     <string id="Cdecpigb" text="Родной Стургианец" />
