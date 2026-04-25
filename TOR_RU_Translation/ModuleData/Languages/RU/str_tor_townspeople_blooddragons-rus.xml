@@ -1,34 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_townspeople_blooddragons">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_tor_notable_blooddragons_4b" text="Торговый магнат Империи 10, хитрый" />
-    <string id="str_tor_notable_blooddragons_0" text="Осторожный имперский торговец" />
-    <string id="str_tor_notable_blooddragons_8" text="Имперский грубый лидер рабочей силы" />
+    <string id="str_tor_notable_blooddragons_0" text="Осторожный торговец Кровавых Драконов" />
     <string id="str_tor_notable_blooddragons_0b" text="{FIRSTNAME} Винодел" />
-    <string id="str_tor_notable_blooddragons_3" text="Торговец Империи 7, самодельный" />
-    <string id="str_tor_notable_blooddragons_10" text="Ироничный лидер имперской банды" />
-    <string id="str_tor_blooddragons_headman_2" text="консервативный голова империи" />
-    <string id="str_tor_blooddragons_headman_3" text="подлый голова империи" />
-    <string id="str_tor_notable_blooddragons_4" text="Торговец Империи 9, наследница" />
-    <string id="str_tor_notable_blooddragons_11" text="Пугающий имперский лидер банды мужского пола" />
-    <string id="str_tor_notable_blooddragons_5" text="Имперский проповедник-мессия" />
-    <string id="str_tor_notable_blooddragons_gl4" text="Бестийный имперский мужской лидер банды" />
-    <string id="22" text="Империя сельский заметный приятный" />
-    <string id="str_tor_notable_blooddragons_gl1" text="Защитник имперского мужского бандитского лидера" />
-    <string id="str_tor_notable_blooddragons_12" text="Женский лидер имперской банды" />
-    <string id="str_tor_notable_blooddragons_6" text="Имперский проповедник-пуританин" />
-    <string id="str_tor_notable_blooddragons_1b" text="Холодный имперский торговец" />
-    <string id="str_tor_notable_blooddragons_9" text="Имперский лидер выходящих на работу" />
-    <string id="str_tor_notable_blooddragons_2b" text="Торговец Империи 6, осторожный" />
-    <string id="str_tor_notable_blooddragons_1" text="Имперский торговец 3, безжалостный" />
-    <string id="str_tor_notable_blooddragons_3b" text="Имперский торговец 8, весёлый" />
-    <string id="str_tor_notable_blooddragons_2" text="{FIRSTNAME} Сольвар" />
-    <string id="str_tor_notable_blooddragons_13" text="Угрожающая имперская лидерша банды" />
-    <string id="str_tor_blooddragons_headman_1" text="повстанческий глава империи" />
-    <string id="str_tor_notable_blooddragons_7" text="Женский Имперский мистик" />
-    <string id="str_tor_notable_blooddragons_21" text="Крестьянин Империи" />
+    <string id="str_tor_notable_blooddragons_1" text="Беспощадный торговец Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_1b" text="Хладнокровный торговец Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_2" text="{FIRSTNAME} Солевар" />
+    <string id="str_tor_notable_blooddragons_2b" text="Осмотрительный торговец Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_3" text="Торговец-самоучка Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_3b" text="Весёлый торговец Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_4" text="{FIRSTNAME} Наследница" />
+    <string id="str_tor_notable_blooddragons_4b" text="Коварная торговка Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_5" text="Жрец-вампир ордена Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_6" text="Аскет-вампир Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_7" text="Жрица-вампир ордена" />
+    <string id="str_tor_notable_blooddragons_8" text="Грубый старшина мастеровых Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_9" text="Общительный старшина мастеровых Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_gl1" text="Покровительствующий главарь Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_gl4" text="Звероподобный главарь Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_10" text="Язвительный главарь Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_11" text="Угрожающий главарь Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_12" text="Атаманша Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_13" text="Грозная атаманша Кровавых Драконов" />
+    <string id="str_tor_notable_blooddragons_21" text="Селянин Кровавых Драконов" />
+    <string id="str_tor_blooddragons_headman_1" text="Мятежный староста Кровавых Драконов" />
+    <string id="str_tor_blooddragons_headman_2" text="Консервативный староста Кровавых Драконов" />
+    <string id="str_tor_blooddragons_headman_3" text="Коварный староста Кровавых Драконов" />
   </strings>
 </base>

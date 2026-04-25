@@ -87,7 +87,7 @@
     <string id="4KYF5iCd" text="Слоистая кожаная туника" />
     <string id="ndfDy5B8" text="Связанная повязка на голову" />
     <string id="3YhwjpQ0" text="Узкий меч" />
-    <string id="str_tor_learn_dw_master_rune_alaric" text="Мастерская Руна Аларика Безумного" />
+    <string id="str_tor_learn_dw_master_rune_alaric" text="Мастер-Руна Аларика Безумного" />
     <string id="FxnFBhrF" text="Каплевидный Щит Кавалерии" />
     <string id="agqzAXa9" text="Шлем с закрытым лицом поверх подкладочного капюшона" />
     <string id="1CamO1P3" text="Классический короткий железный меч тиланцев" />
@@ -362,7 +362,7 @@
     <string id="str_tor_bretonnia_artillery_fieldtrebuchet_001" text="Полевая катапульта" />
     <string id="str_tor_learn_gs_enchant_cunning_mork" text="Хитрость Морка" />
     <string id="wKucIANJ" text="Кожаное пальто поверх ткани" />
-    <string id="str_tor_learn_dw_master_rune_flight" text="Мастерская Руна Полёта" />
+    <string id="str_tor_learn_dw_master_rune_flight" text="Мастер-Руна Полёта" />
     <string id="x3lcf2Do" text="Роскошная ламеллярная куртка поверх кожи" />
     <string id="arBdK7st" text="Простой полуторный меч" />
     <string id="XRaPBg6d" text="Малый бит-топор" />
@@ -440,7 +440,7 @@
     <string id="str_tor_gs_loot_pile" text="Находки" />
     <string id="str_tor_learn_bret_blessing_grail_legacy" text="Наследие Грааля" />
     <string id="PeozdF9h" text="Сшитое выделанное кожаное пальто" />
-    <string id="4wQRk3f5" text="Украсленный Длинный Меч Войны" />
+    <string id="4wQRk3f5" text="Украшенный Длинный Меч Войны" />
     <string id="bubcrmTC" text="Носовой шлем поверх набитой ткани" />
     <string id="bK03bqdA" text="Турнирные стрелы" />
     <string id="str_tor_learn_vc_enchant_drinker_blood" text="Пьющий кровь" />
@@ -491,7 +491,7 @@
     <string id="1jX7yxSW" text="Кольчужная рубашка хускарла" />
     <string id="str_tor_learn_eo_enchant_flames_asuryan" text="Пламя Асуриана" />
     <string id="TS7NjgyH" text="Шипованная упряжь легионера" />
-    <string id="finesteelbladeweapon" text="Высокогорная Тонкая Стальная Клинок" />
+    <string id="finesteelbladeweapon" text="Высокогорный Тонкий Стальной Клинок" />
     <string id="vimhFdZp" text="Тяжёлый носовой шлем поверх кожи" />
     <string id="str_tor_learn_gs_enchant_call_great_green" text="Зов Великого Зелёного" />
     <string id="YqhOxb1Z" text="Пернатый ламеллярный шлем" />
@@ -546,7 +546,7 @@
     <string id="e4lKZhgv" text="Кожаные напульсники с грубыми узлами" />
     <string id="D2ZuOT3H" text="Укреплённые бронзовые ламеллярные наплечники" />
     <string id="pb2ELRZQ" text="Конь под седлом" />
-    <string id="str_tor_learn_dw_master_rune_swiftness" text="Мастерская Руна Скорости" />
+    <string id="str_tor_learn_dw_master_rune_swiftness" text="Мастер-Руна Скорости" />
     <string id="M0n609ut" text="Кольчужные наплечники" />
     <string id="WUasz2kP" text="Высокогорный двойной меч из тонкой стали" />
     <string id="OyBdFyeV" text="Южное безрукавное кольчужное платье с бронзовыми пластинами" />
@@ -556,7 +556,7 @@
     <string id="GghHAbIT" text="Топорище" />
     <string id="Cg7vqdPQ" text="Железный носовой шлем поверх кофы" />
     <string id="i2QlHUVW" text="Катафрактная полускальная попона" />
-    <string id="06Qoh8AO" text="Золотобоевой Короткий Меч Войны" />
+    <string id="06Qoh8AO" text="Позолоченный Короткий Меч Войны" />
     <string id="8fK5E68M" text="Рифлёная сабля" />
     <string id="B0E6Zfyk" text="Спарринговое копьё" />
     <string id="CIDdPt1I" text="Бронзовая ламеллярная броня поверх кольчуги" />
@@ -643,7 +643,7 @@
     <string id="2Igdc86g" text="Классический тиланский спарринговый кинжал" />
     <string id="SugbcP3D" text="Женская сельная головная повязка" />
     <string id="str_tor_book_learn_enchanting" text="Волшебство и артефакты" />
-    <string id="str_tor_learn_dw_master_rune_skaldour" text="Мастерская Руна Скалдур" />
+    <string id="str_tor_learn_dw_master_rune_skaldour" text="Мастер-Руна Скалдура" />
     <string id="LSaIs3DB" text="Кожаный доспех" />
     <string id="KD3OTFlE" text="Пернатый шлем рыцаря-копейщика с защитой шеи" />
     <string id="w4RuDABQ" text="Кираса из пластины" />
@@ -684,7 +684,7 @@
     <string id="t28VYqjP" text="Длинное копьё из тонкой стали" />
     <string id="SW3lkPHe" text="Цветной бист" />
     <string id="AB1mV5Pg" text="Котелок поверх завязанного коифа" />
-    <string id="lXwaLAYP" text="Громриловский Стальной Меч Войны" />
+    <string id="lXwaLAYP" text="Громрильский Стальной Меч Войны" />
     <string id="FktkkUMK" text="Стальной круглый щит" />
     <string id="s7siCSsh" text="Укреплённый шипованный упряжь легионера" />
     <string id="N5aT5hoA" text="Палфри из Средних Земель" />
@@ -736,7 +736,7 @@
     <string id="g51zVsKU" text="Кольчужные перчатки" />
     <string id="HpdJJO9g" text="Классический тилейский короткий меч с кольцевым навершием" />
     <string id="str_tor_book_crafting_001" text="Грунгназ Крон" />
-    <string id="str_tor_learn_dw_master_rune_skalf" text="Мастерская Руна Скальфа Чёрного Ковка" />
+    <string id="str_tor_learn_dw_master_rune_skalf" text="Мастер-Руна Скальфа Чёрного Ковка" />
     <string id="B58Ocaxw" text="Цепное меховое плаще" />
     <string id="ZJYVpjuR" text="Седло верблюда с тяжёлой нагрузкой" />
     <string id="rhWOdhjr" text="Высокогорное боевое копье" />
@@ -833,7 +833,7 @@
     <string id="2SUb8jNP" text="Упряжь для мула с корзинами" />
     <string id="str_tor_tradegood_amber_crystal" text="Амберный Кристалл" />
     <string id="tEimkEsU" text="Кислевский короткий лук" />
-    <string id="beVFwINO" text="Деревянная Молот" />
+    <string id="beVFwINO" text="Деревянный Молот" />
     <string id="Pqua61u8" text="Рифлёный шлем вождя" />
     <string id="hRHPPQQP" text="Обмотанная повязка на голову" />
     <string id="Wj98Otmo" text="Степной скакун" />
@@ -865,7 +865,7 @@
     <string id="uTt4HX6V" text="Тьяльский конь" />
     <string id="str_tor_book_throwing_001" text="Руководство охотника на чудовищ, переведённое Йоханном Круйфом" />
     <string id="1DqnZxiC" text="Бретонский пони" />
-    <string id="str_tor_learn_dw_master_rune_steel" text="Мастерская Руна Стали" />
+    <string id="str_tor_learn_dw_master_rune_steel" text="Мастер-Руна Стали" />
     <string id="8el5a3sF" text="Курица" />
     <string id="re2oRFLW" text="Наплечники с плащом" />
     <string id="XXGZLTN6" text="Украшенные пластинчатые сапоги" />
@@ -878,7 +878,7 @@
     <string id="p0Xgt48l" text="Большой меховой плащ с круглой пластиной" />
     <string id="str_tor_book_onehanded_001" text="Рукопашный гайд Эсталиана от Эстева" />
     <string id="6VW6zVa3" text="Роскошная куртка" />
-    <string id="str_tor_dw_artillery_cannon_001" text="Гномское орудие" />
+    <string id="str_tor_dw_artillery_cannon_001" text="Дворфское орудие" />
     <string id="OKn90ad7" text="Имперский Скакун" />
     <string id="whiQg21b" text="Роскошный кафтан" />
     <string id="pEaYQqG9" text="Корзиновый квадратный баклер" />
@@ -887,7 +887,7 @@
     <string id="str_tor_learn_emp_enchant_azyr_whisper" text="Шёпот Азир" />
     <string id="QnyD1yWB" text="Северный широкий топор" />
     <string id="1BXuUR3s" text="Длинный гамбезон пехотинца" />
-    <string id="str_tor_learn_dw_master_rune_breaking" text="Мастерская Руна Разрушения" />
+    <string id="str_tor_learn_dw_master_rune_breaking" text="Мастер-Руна Разрушения" />
     <string id="oa2XYnHC" text="Женская сельская повязка" />
     <string id="7jH0kuof" text="Булава с шипом" />
     <string id="qT6jIu3v" text="Меховая юбка с туникой" />
@@ -989,7 +989,7 @@
     <string id="rmjcrnll" text="Пальматий" />
     <string id="str_tor_learn_vc_enchant_nightshroud" text="Ночной покров" />
     <string id="IClH3Pus" text="Аваланш" />
-    <string id="str_tor_book_learn_runecraft" text="Гномийское и руническое волшебство" />
+    <string id="str_tor_book_learn_runecraft" text="Дворфское и руническое волшебство" />
     <string id="str_tor_learn_we_enchant_swift_shiver" text="Осколки «Быстрый холод»" />
     <string id="YxglkaXU" text="Белый табард поверх кольчужной куртки" />
     <string id="1cYka5tR" text="Безрукавный меховой плащ" />
@@ -1045,7 +1045,7 @@
     <string id="H9hzBJz3" text="Тренировочное Копьё" />
     <string id="VucrovFw" text="Гравированный Обратный Меч" />
     <string id="str_tor_learn_dw_rune_striking" text="Руна Ударов" />
-    <string id="str_tor_learn_dw_master_rune_adamant" text="Мастерская Руна Адаманта" />
+    <string id="str_tor_learn_dw_master_rune_adamant" text="Мастер-Руна Адаманта" />
     <string id="d8DrtmwP" text="Шлем с закрытым лицом поверх кольчужного капюшона" />
     <string id="omLMiX89" text="Сшитая кожа поверх кольчуги" />
     <string id="uRqm1nJ7" text="Лёгкое седло" />
@@ -1260,7 +1260,7 @@
     <string id="1oQWbXJw" text="Рыбный гарпун" />
     <string id="qrCVMyEk" text="Грубая кольчуга" />
     <string id="nZ2MJWhM" text="Племенной тюрбан" />
-    <string id="QA5zGCKf" text="Украсненный Меч с Полостью" />
+    <string id="QA5zGCKf" text="Украшенный Меч с Полостью" />
     <string id="tQw4Zfwu" text="Остриённый фальшион" />
     <string id="9ZiUK3JJ" text="Широкий двуручный меч с вырезом" />
     <string id="str_tor_learn_emp_enchant_hysh_timewarp" text="Искажение времени Гиша" />
@@ -1357,7 +1357,7 @@
     <string id="n3sz2k5j" text="Каплевидный щит рыцаря" />
     <string id="str_tor_book_gs_learn_enchant" text="Да Шиниэ Рок с картинами" />
     <string id="DbavaIis" text="Железный носовой шлем поверх кольчуги" />
-    <string id="str_tor_learn_dw_master_rune_gromril" text="Мастерская Руна Громрила" />
+    <string id="str_tor_learn_dw_master_rune_gromril" text="Мастер-Руна Громрила" />
     <string id="zZ2G7uIO" text="Котелковый шлем поверх кольчухи" />
     <string id="5uqExwWb" text="Лесная меховая накидка" />
     <string id="PyeZ22FL" text="Бронзовый шлем с боковыми щитками" />

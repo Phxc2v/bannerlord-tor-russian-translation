@@ -1,27 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xml_name="str_tor_townspeople_chaos">
   <tags>
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_spc_notable_chaos_artisan_2" text="Хаос ремесленник 2" />
-    <string id="str_spc_notable_chaos_merch4" text="Молчаливый торговец Хаоса" />
-    <string id="str_spc_notable_chaos_1b" text="{FIRSTNAME} наследница" />
-    <string id="str_spc_notable_chaos_artisan_1" text="Хаос ремесленник 1" />
-    <string id="str_spc_notable_chaos_merch5" text="{FIRSTNAME} Приказчик" />
-    <string id="str_spc_notable_chaos_rural_3" text="крестьянин Хаоса" />
-    <string id="str_spc_notable_chaos_2" text="Протестантский мужской проповедник" />
-    <string id="str_spc_chaos_gangleader_1" text="Стандартный мужской лидер банды" />
-    <string id="str_spc_chaos_gangleader_3" text="Мужской лидер банды" />
-    <string id="str_spc_notable_chaos_merch2" text="корт торговый торговец хаоса" />
-    <string id="str_spc_notable_chaos_rural_1" text="Хаосский йомен" />
-    <string id="str_spc_notable_chaos_merch1" text="Ироничный торговец хаосом" />
-    <string id="str_spc_notable_chaos_3" text="Бунтарская женская проповедница" />
-    <string id="str_spc_notable_chaos_1" text="{FIRSTNAME} Складной" />
-    <string id="str_spc_chaos_gangleader_2" text="Женский бандитский лидер" />
-    <string id="str_spc_notable_chaos_merch3" text="Благородный торговец Хаосом" />
-    <string id="str_spc_chaos_headman_2" text="хаос консервативный глава" />
-    <string id="str_spc_chaos_headman_3" text="хитрый начальник хаоса" />
-    <string id="str_spc_chaos_headman_1" text="хвастливый бандит-хаосец" />
+    <string id="str_spc_notable_chaos_1" text="{FIRSTNAME} Хранительница" />
+    <string id="str_spc_notable_chaos_1b" text="{FIRSTNAME} Наследница" />
+    <string id="str_spc_notable_chaos_2" text="Жрец Тёмных Богов" />
+    <string id="str_spc_notable_chaos_3" text="Ведьма Хаоса" />
+    <string id="str_spc_notable_chaos_artisan_1" text="Норсканский ремесленник" />
+    <string id="str_spc_notable_chaos_artisan_2" text="Норсканский ремесленник" />
+    <string id="str_spc_notable_chaos_rural_1" text="Норсканский охотник" />
+    <string id="str_spc_notable_chaos_rural_3" text="Норсканский охотник" />
+    <string id="str_spc_notable_chaos_merch1" text="Язвительный торговец Хаоса" />
+    <string id="str_spc_notable_chaos_merch2" text="Резкий торговец Хаоса" />
+    <string id="str_spc_notable_chaos_merch3" text="Дерзкий торговец Хаоса" />
+    <string id="str_spc_notable_chaos_merch4" text="Тихий торговец Хаоса" />
+    <string id="str_spc_notable_chaos_merch5" text="{FIRSTNAME} Распорядитель" />
+    <string id="str_spc_chaos_gangleader_1" text="Главарь налётчиков Хаоса" />
+    <string id="str_spc_chaos_gangleader_2" text="Атаманша налётчиков Хаоса" />
+    <string id="str_spc_chaos_gangleader_3" text="Вожак налётчиков Хаоса" />
+    <string id="str_spc_chaos_headman_1" text="Мятежный вождь племени Хаоса" />
+    <string id="str_spc_chaos_headman_2" text="Консервативный вождь племени Хаоса" />
+    <string id="str_spc_chaos_headman_3" text="Коварный вождь племени Хаоса" />
   </strings>
 </base>

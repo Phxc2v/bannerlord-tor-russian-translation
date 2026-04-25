@@ -75,8 +75,8 @@
     <string id="str_tor_empire_dog4_lord_0" text=" " />
     <string id="str_tor_eonir_empire_envoy_0" text="Посланник Империи" />
     <string id="str_tor_wanderer_woodelf_0" text="{FIRSTNAME} Песнопевица" />
-    <string id="str_tor_wanderer_mousillon_1" text="{FIRSTNAME} Некромант из Муссильона" />
-    <string id="str_tor_wanderer_mousillon_4" text="{FIRSTNAME} вампир из Муссильона" />
+    <string id="str_tor_wanderer_mousillon_1" text="{FIRSTNAME} Некромант из Музильона" />
+    <string id="str_tor_wanderer_mousillon_4" text="{FIRSTNAME} вампир из Музильона" />
     <string id="str_tor_wanderer_vampire_2" text="{FIRSTNAME}, Король-Мертвец" />
     <string id="str_tor_wanderer_vampire_0" text="{FIRSTNAME} Некромант" />
     <string id="str_tor_empire_rogue_lord_1" text=" " />
@@ -92,7 +92,7 @@
     <string id="str_tor_dw_rogue_lord_2" text=" " />
     <string id="str_tor_empire_dog6_lord_3" text=" " />
     <string id="str_tor_fsf_cultist_lord_2" text=" " />
-    <string id="str_tor_wanderer_dawi_2" text="{FIRSTNAME} гном-инженер" />
+    <string id="str_tor_wanderer_dawi_2" text="{FIRSTNAME} дворф-инженер" />
     <string id="str_tor_coi_cultist_lord_2" text=" " />
     <string id="str_tor_m_rogue_lord_2" text=" " />
     <string id="str_tor_empire_dog2_lord_1" text=" " />
@@ -117,7 +117,7 @@
     <string id="str_tor_wanderer_mousillon_0" text="{FIRSTNAME}, Падший Рыцарь" />
     <string id="str_tor_fsf_cultist_lord_3" text=" " />
     <string id="str_tor_prestige_noble_empire" text="{SHORTTITLE} {FIRSTNAME} {LASTNAME}{TITLE}" />
-    <string id="str_tor_spelltrainer_greenskins_0" text="{FIRSTNAME} шаман зеленых гномов" />
+    <string id="str_tor_spelltrainer_greenskins_0" text="{FIRSTNAME} шаман зеленых дворфов" />
     <string id="str_tor_bw_cultist_lord_1" text=" " />
     <string id="str_tor_empire_dog2_lord_0" text=" " />
     <string id="str_tor_we_rogue_lord_2" text=" " />

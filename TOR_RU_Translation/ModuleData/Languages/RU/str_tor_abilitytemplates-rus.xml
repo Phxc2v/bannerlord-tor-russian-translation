@@ -49,7 +49,7 @@
     <string id="curse_of_arrowattraction_label_str" text="Проклятие притяжения стрел" />
     <string id="lethal_shot_description_str" text="Надели лук смертельной мощью. Следующие стрелы наносят повышенный урон с эффектами, зависящими от выбранного пути." />
     <string id="vanquish_label_str" text="Победа" />
-    <string id="oath_and_steel_description_str" text="Благословение, дарованное Грюгни, укрепляет гномовую броню, так как каждое оружие и набор доспехов вспоминает удары молота, которые их сформировали. Предоставляет 25% сопротивления физическому урону близлежащим Гномам. Усилено: Предоставляет дополнительные 20% физического урона близлежащим Гномам." />
+    <string id="oath_and_steel_description_str" text="Благословение, дарованное Грунгни, укрепляет дворфскую броню, так как каждое оружие и набор доспехов вспоминает удары молота, которые их сформировали. Предоставляет 25% сопротивления физическому урону близлежащим Дворфам. Усилено: Предоставляет дополнительные 20% физического урона близлежащим Дворфам." />
     <string id="tasteofdeath_label_str" text="Вкус смерти" />
     <string id="pha_protection_description_str" text="Волшебник призывает благостного Хранителя Света, чтобы защитить своих союзников от вреда. Дарует 50% физического сопротивления на протяжении 50 секунд." />
     <string id="wind_of_death_description_str" text="Призывайте духов мёртвых для поглощения душ живых. Наносит средний урон при перемещении по своему пути." />
@@ -62,7 +62,7 @@
     <string id="apotheosis_label_str" text="Божественность" />
     <string id="meteoric_ironclad_label_str" text="Метеорный Железный Щит" />
     <string id="soul_rain_label_str" text="Дождь душ" />
-    <string id="burning_head_description_str" text="Вызовите огромную горящую череп, которая движется вперёд, сжигая всё на своём пути." />
+    <string id="burning_head_description_str" text="Вызовите огромный горящий череп, которая движется вперёд, сжигая всё на своём пути." />
     <string id="the_green_eye_label_str" text="Зелёный глаз" />
     <string id="bironas_timewarp_description_str" text="Замедляет время, пока юниты вокруг вас движутся беспрепятственно." />
     <string id="vanhelsdansemacabre_description_str" text="Ожившие мёртвые обычно неповоротливы и громоздки; однако это заклинание дарует им грацию и скорость, делая их ещё более смертоносными." />
@@ -75,7 +75,7 @@
     <string id="flame_storm_label_str" text="Пылающий смерч" />
     <string id="morkharn_label_str" text="Морхарн — Дыхание Тьмы" />
     <string id="shem_gaze_description_str" text="Луч очищающей энергии вылетает из рук заклинателя, сжигая зло там, куда он попадает." />
-    <string id="spellbreaking_description_str" text="Старики-Долговласы говорят, что эту Руну ковали усилиями Грюгни и Валаи вместе. Руночекер выпускает её, чтобы нарушить работу вражеских заклинателей — очищает эффекты заклинаний на дружественных юнитах и отнимает Ветры Магии у вражеских волшебников. Усилено: Все способности вражеских заклинателей попадают в перезарядку." />
+    <string id="spellbreaking_description_str" text="Старики-Долговласы говорят, что эту Руну ковали усилиями Грунгни и Валаи вместе. Руночекер выпускает её, чтобы нарушить работу вражеских заклинателей — очищает эффекты заклинаний на дружественных юнитах и отнимает Ветры Магии у вражеских волшебников. Усилено: Все способности вражеских заклинателей попадают в перезарядку." />
     <string id="net_of_amyntok_label_str" text="Сетка Амьнток" />
     <string id="drain_life_label_str" text="Отток жизни" />
     <string id="radiant_gaze_label_str" text="Лучезарный Взгляд" />
@@ -89,12 +89,12 @@
     <string id="cascading_fire_cloak_description_str" text="Заклинатель оборачивает себя мантией магического пламени, защищающей от физического (20%) и огненного (70%) урона в течение 30 секунд. Мантия также отражает часть получаемого урона в ближнем бою." />
     <string id="strength_of_combat_label_str" text="Сила боя" />
     <string id="ladys_favour_label_str" text="Благосклонность Леди" />
-    <string id="purple_sun_description_str" text="Ветра Шыша дуют с силой, вызывая на поле боя смертошный вихрь, отрывающий жизненную энергию от всего, что он касается." />
+    <string id="purple_sun_description_str" text="Ветра Шыша дуют с силой, вызывая на поле боя смертоносный вихрь, отрывающий жизненную энергию от всего, что он касается." />
     <string id="panns_impenetrable_pelt_description_str" text="Магическая кожа окружает волшебника, защищая его от физического урона (40%) в течение 40 секунд." />
     <string id="amber_spear_description_str" text="Кастер бросает наконечник из янтаря в целевом направлении, пронзающего несколько целей." />
     <string id="death_spasm_description_str" text="Хрустящий чёрный луч энергии взрывается в огненный шар и поджигает жертв." />
     <string id="power_of_darkness_description_str" text="Кастер черпает нестабильную силу из Царства Хаоса, чтобы усилить союзников. Дарует 20% физического бонуса урона на 35 секунд." />
-    <string id="ice_storm_description_str" text="Волк-священник вызывает ледяной град в указанной области. Враги получают штраф к скорости передвижения и атаки на -50% а также наносят урон со временем." />
+    <string id="ice_storm_description_str" text="Волк-священник вызывает ледяной град в указанной области. Враги получают штраф к скорости передвижения и скорости атаки на -50%, а также получают урон со временем." />
     <string id="ashesanddust_label_str" text="Пепел и пыль" />
     <string id="black_horror_label_str" text="Чёрный ужас Арнзипала" />
     <string id="mortar_spawner_label_str" text="Разместить Мортиру" />
@@ -108,7 +108,7 @@
     <string id="fate_of_bjuna_label_str" text="Удел Бьены" />
     <string id="healing_hand_label_str" text="Лечащая Рука" />
     <string id="ward_of_arrows_label_str" text="Щит от стрел" />
-    <string id="healing_hand_description_str" text="Альянсы в радиусе 8 метров восстанавливают 5 ЕД здоровья каждые 2 секунды в течение 12 секунд." />
+    <string id="healing_hand_description_str" text="Союзники в радиусе 8 метров восстанавливают 5 ЕД здоровья каждые 2 секунды в течение 12 секунд." />
     <string id="summer_heat_label_str" text="Летняя жара" />
     <string id="gehennas_golden_hounds_description_str" text="Маг призывает пару огромных золотых псов, которые движутся по кругу." />
     <string id="shield_of_combat_label_str" text="Щит Боя" />
@@ -121,15 +121,15 @@
     <string id="blast_of_agony_label_str" text="Взрыв Агонии" />
     <string id="hail_storm_label_str" text="Град" />
     <string id="plague_of_rust_label_str" text="Чума Ржавчины" />
-    <string id="snow_king_description_str" text="Священник рычит, произнося величественную молитву, и призывает ледяной взрыв синего пламени, чтобы очистить целевую область от трусов и слабых. Затронутые враги получают урон, штраф к скорости передвижения и атаки на -50% а также наносят урон со временем." />
-    <string id="armor_of_righteousness_description_str" text="Альянсы в радиусе 15 метров получают 40% физического сопротивления на 45 секунд." />
+    <string id="snow_king_description_str" text="Священник рычит, произнося величественную молитву, и призывает ледяной взрыв синего пламени, чтобы очистить целевую область от трусов и слабых. Затронутые враги получают урон, штраф к скорости передвижения и скорости атаки на -50%, а также получают урон со временем." />
+    <string id="armor_of_righteousness_description_str" text="Союзники в радиусе 15 метров получают 40% физического сопротивления на 45 секунд." />
     <string id="gehennas_golden_hounds_label_str" text="Золотые Псы Геенны" />
     <string id="curse_of_midnight_wind_description_str" text="Волшебник произносит древнее трёхсложное заклятие, проклинает врагов и накладывает штраф 40% к скорости передвижения и атаки, а также наносимому урону." />
     <string id="tangling_thorn_label_str" text="Запутывающий терн" />
     <string id="shield_of_saphery_description_str" text="Кастер призывает эфирный купол для защиты союзников от дальнего огня." />
     <string id="curse_of_midnight_wind_label_str" text="Проклятие ночного ветра" />
     <string id="aura_of_resistance_description_str" text="Союзники в радиусе 3 метров получают 20% физического сопротивления на 15 секунд." />
-    <string id="dwarf_cannon_spawner_label_str" text="Разместить гном-пушкарь" />
+    <string id="dwarf_cannon_spawner_label_str" text="Разместить дворф-пушкарь" />
     <string id="the_green_eye_description_str" text="Кастер объединяет свои глаза и выпускает один быстрый пробивающий снаряд в выбранном направлении." />
     <string id="shieldofthorns_description_str" text="Игольчатый терн защищает союзников в радиусе. Отражает 25% входящего ближнего боя урона." />
     <string id="shield_of_combat_description_str" text="Божественная сила Леди заставляет броню союзников отбивать удары врагов. Предоставляет 50% сопротивления физическому урону в радиусе 12 метров." />
@@ -149,7 +149,7 @@
     <string id="fireball_description_str" text="Ничто так не приветливо, как огненный шар в лицо. Наносит 60 урона в радиусе 4 метра и поджигает врагов на 5 секунд." />
     <string id="shield_of_saphery_label_str" text="Щит Сафери" />
     <string id="flock_of_doom_description_str" text="Вызывает кошмар ворон в целевой области. Затронутые враги получают небольшой урон со временем, а их физическая защита снижается на 20% в течение 10 секунд." />
-    <string id="wrath_of_the_wood_description_str" text="Вызывайте сухад на указанной местности." />
+    <string id="wrath_of_the_wood_description_str" text="Призывает дриад в указанной точке." />
     <string id="heart_of_wolf_label_str" text="Сердце Волка" />
     <string id="ladys_favour_description_str" text="Дамы вызывает видение Девы Озера, чтобы вести Бретонцев на фрей. Предоставляет бонус к скорости атаки на 25% в радиусе 10 метров." />
     <string id="chillwind_label_str" text="Холодный ветер" />
@@ -183,14 +183,14 @@
     <string id="screaming_skull_description_str" text="Вызывает вскрикивающий череп, истекающий кислотой, который движется вперёд, нанося урон всему на своём пути." />
     <string id="harmonic_convergence_label_str" text="Гармоническая конвергенция" />
     <string id="shieldofthorns_label_str" text="Щит шипов" />
-    <string id="hearth_and_home_description_str" text="Изначально дар от Валаи, Руна Очага и Дома разжигает гордость Гнома за его крепость, клан и предков. Союзники поблизости получают бонусы к скорости перезарядки и передвижения. Усилено: Предоставляет бонус к скорости атаки." />
+    <string id="hearth_and_home_description_str" text="Изначально дар от Валаи, Руна Очага и Дома разжигает гордость Дворфа за его крепость, клан и предков. Союзники поблизости получают бонусы к скорости перезарядки и передвижения. Усилено: Предоставляет бонус к скорости атаки." />
     <string id="minor_heal_description_str" text="Лечит владельца на 3 здоровья каждую секунду в течение 7 секунд." />
     <string id="aerial_shield_description_str" text="Сила Леди заставляет вражеские снаряды исчезать в воздухе. Предоставляет 95% сопротивления физическому урону от дальнего боя в радиусе 12 метров." />
     <string id="the_beast_unleashed_label_str" text="Безумное Битие" />
     <string id="spirit_leech_label_str" text="Паразит духа" />
     <string id="hawk_eye_description_str" text="Границы Атель Лорен должны стоять! Призови своего верного птичьего спутника Орлиный Глаз! Укажи область, снижая физический урон ближнего боя врагов внутри. За каждый уровень Разведки радиус действия увеличивается на 0.01%. (Способность имеет кулдаун 100с)." />
     <string id="radiance_pillar_label_str" text="Столп Света" />
-    <string id="cascading_fire_cloak_label_str" text="Каскадная огненная мантия" />
+    <string id="cascading_fire_cloak_label_str" text="Каскадирующий Огненный Плащ" />
     <string id="dart_label_str" text="Магический болт" />
     <string id="power_of_darkness_label_str" text="Сила тьмы" />
     <string id="dwellers_below_description_str" text="Из земли вырываются щупальца, достигающие врагов в области. Оглушают, сбивают с ног и снимают с лошадей (80%), нанося 10 урона в секунду на протяжении 15 секунд." />

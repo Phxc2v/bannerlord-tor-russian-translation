@@ -5,9 +5,9 @@
   </tags>
   <strings>
     <string id="str_tor_we_weapon_bow_005" text="Лук эльфийского леса" />
-    <string id="str_tor_dw_weapon_crossbow_003" text="Гномий арбалет для метания дротиков" />
+    <string id="str_tor_dw_weapon_crossbow_003" text="Дворфский арбалет для метания дротиков" />
     <string id="str_tor_neutral_weapon_gun_old_rifle" text="Старый Мушкет" />
-    <string id="str_tor_dw_weapon_gun_drakegun" text="Гномий арбалет пламени дракона" />
+    <string id="str_tor_dw_weapon_gun_drakegun" text="Дворфский арбалет пламени дракона" />
     <string id="str_tor_empire_weapon_gun_longrifle_001" text="Длинная винтовка Хошланд" />
     <string id="str_tor_empire_weapon_gun_arquebus_001" text="Имперский Аркебуз" />
     <string id="str_tor_empire_weapon_gun_blunderbuss_002" text="Имперская дробовица" />
@@ -26,37 +26,37 @@
     <string id="str_tor_we_weapon_bow_009" text="Лук Эльфов Леса" />
     <string id="str_tor_empire_weapon_gun_arquebus_002" text="Имперский Аркебуз" />
     <string id="str_tor_empire_weapon_gun_big_musket_002" text="Имперский мушкетон" />
-    <string id="str_tor_dw_weapon_gun_beardling_handgun" text="Гномий тренировочный пистоль" />
+    <string id="str_tor_dw_weapon_gun_beardling_handgun" text="Дворфский тренировочный пистоль" />
     <string id="str_tor_greenskin_bow_002" text="Орк-Лук" />
     <string id="str_tor_we_weapon_bow_007" text="Асрайский изысканный лук" />
     <string id="str_tor_empire_weapon_gun_blunderbuss_001" text="Имперская дробовица" />
     <string id="str_tor_dw_weapon_crossbow_001" text="Арбалет-тренажёр для бородатых" />
     <string id="str_tor_we_weapon_bow_008" text="Лук Эльфов Леса" />
-    <string id="str_tor_dw_weapon_gun_handgun_001" text="Гномий пистоль" />
+    <string id="str_tor_dw_weapon_gun_handgun_001" text="Дворфский пистоль" />
     <string id="str_tor_greenskin_bow_003" text="Орк-Лук Босса" />
     <string id="str_tor_empire_weapon_gun_longrifle_002" text="Имперский длинный ружейный карабин" />
     <string id="str_tor_we_weapon_bow_006" text="Лук эльфийского леса" />
     <string id="str_tor_empire_weapon_gun_flintlock_001" text="Имперская Короткая Винтовка" />
     <string id="str_tor_we_weapon_bow_legendary" text="Охотник за добычей Ана-Раэмы" />
-    <string id="str_tor_dw_weapon_gun_trollhammer" text="Гномий Метатель Троллей-Молот" />
+    <string id="str_tor_dw_weapon_gun_trollhammer" text="Дворфский Метатель Троллей-Молот" />
     <string id="str_tor_empire_weapon_gun_handgun_003" text="Имперский клинковый пистольет" />
-    <string id="str_tor_dw_gun_grudge_raker_001" text="Гномий мститель" />
+    <string id="str_tor_dw_gun_grudge_raker_001" text="Дворфский мститель" />
     <string id="str_tor_we_weapon_bow_003" text="Лук эльфийского леса" />
     <string id="str_tor_empire_weapon_crossbow_empire_crossbow_001" text="Имперский арбалет" />
     <string id="str_tor_we_weapon_bow_011" text="Лук Эльфов Леса" />
     <string id="str_tor_empire_weapon_gun_special_musket_001" text="Имперский украшенный мушкетон" />
-    <string id="str_tor_dw_weapon_gun_drakefire_pistol" text="Гномий пистоль пламени дракона" />
+    <string id="str_tor_dw_weapon_gun_drakefire_pistol" text="Дворфский пистоль пламени дракона" />
     <string id="str_tor_we_weapon_bow_010" text="Орнаментированный лук Асраев" />
     <string id="str_tor_empire_weapon_gun_empire_repeater_003" text="Восьмиствольный револьвер-репитер Империи" />
     <string id="str_tor_empire_weapon_gun_flintlock_pistol_007" text="Имперский револьвер-пистолет с кремнёвым замком" />
-    <string id="str_tor_dw_weapon_gun_handgun_002" text="Гномий пистоль" />
+    <string id="str_tor_dw_weapon_gun_handgun_002" text="Дворфский пистоль" />
     <string id="str_tor_empire_weapon_gun_longrifle_003" text="Имперский длинный ружейный карабин" />
-    <string id="str_tor_dw_weapon_crossbow_004" text="Гномий арбалет" />
+    <string id="str_tor_dw_weapon_crossbow_004" text="Дворфский арбалет" />
     <string id="str_tor_we_weapon_bow_002" text="Лук эльфийского леса" />
     <string id="str_tor_empire_weapon_gun_big_musket_001" text="Имперский мушкетон" />
-    <string id="str_tor_dw_weapon_crossbow_002" text="Штурмовой гномий арбалет" />
-    <string id="str_tor_dw_weapon_gun_handgun_004" text="Гномий драконоглав пистолет" />
-    <string id="str_tor_dw_weapon_gun_handgun_003" text="Гномий громовержец пистолет" />
+    <string id="str_tor_dw_weapon_crossbow_002" text="Штурмовой дворфий арбалет" />
+    <string id="str_tor_dw_weapon_gun_handgun_004" text="Дворфский драконоглав пистолет" />
+    <string id="str_tor_dw_weapon_gun_handgun_003" text="Дворфский громовержец пистолет" />
     <string id="str_tor_greenskin_bow_001" text="Орк-Лук" />
     <string id="str_tor_empire_weapon_gun_flintlock_pistol_006" text="Имперский пистолет с кремнёвым замком" />
   </strings>

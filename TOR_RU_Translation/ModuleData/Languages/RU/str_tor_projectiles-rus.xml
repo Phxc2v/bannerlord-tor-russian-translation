@@ -15,15 +15,15 @@
     <string id="str_tor_dw_iron_drake_trollhammer_torpedo" text="Торпеда Молота Троллей" />
     <string id="str_tor_orc_arrow_002" text="Орк-Стрелы с Кишками" />
     <string id="str_tor_we_arrows_ofpotency" text="Стрелы могущества" />
-    <string id="str_tor_dw_weapon_ammo_buckshot" text="Гранёная пуля гнома" />
+    <string id="str_tor_dw_weapon_ammo_buckshot" text="Гранёная пуля дворфа" />
     <string id="str_tor_neutral_weapon_ammo_cannonball" text="Пуля из пушки" />
-    <string id="str_tor_dw_weapon_grenade_hand_grenade" text="Гномьи бомбы-искры" />
+    <string id="str_tor_dw_weapon_grenade_hand_grenade" text="Дворфские бомбы-искры" />
     <string id="str_tor_we_arrows_stealth" text="Стрелы путника" />
-    <string id="str_tor_dw_weapon_blasting_charges" text="Гномьи взрывчатые заряды" />
+    <string id="str_tor_dw_weapon_blasting_charges" text="Дворфские взрывчатые заряды" />
     <string id="str_tor_neutral_weapon_ammo_stone_musket_ball" text="Каменные Пули Мушкета" />
     <string id="str_AmberSpear" text="Амберовое копье" />
     <string id="str_tor_neutral_weapon_ammo_musket_ball_scatter" text="Дробь для мушкетов" />
-    <string id="str_tor_dw_weapon_ammo_musket_ball" text="Пули мушкета гнома" />
+    <string id="str_tor_dw_weapon_ammo_musket_ball" text="Пули мушкета дворфа" />
     <string id="str_tor_empire_weapon_ammo_grenade" text="Гранаты" />
     <string id="str_tor_we_tournament_arrows" text="Древние эльфийские турнирные стрелы" />
     <string id="str_tor_dw_drakegun_canister" text="Контейнер для дракопушки" />
