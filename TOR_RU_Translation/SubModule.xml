@@ -2,7 +2,7 @@
 <Module>
   <Name value="The Old Realms — Русский перевод" />
   <Id value="TOR_RU_Translation" />
-  <Version value="v1.3.15.11" />
+  <Version value="v1.3.15.12" />
   <ModuleCategory value="Singleplayer" />
   <ModuleType value="Community" />
   <Official value="false" />
