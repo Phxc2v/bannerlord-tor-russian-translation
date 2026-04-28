@@ -64,7 +64,7 @@
     <string id="str_tor_spelltrainer_greenskin_open_book" text="Я тут ради кое-каких колдовских штучек." />
     <string id="str_tor_careerunlock_level_2_slayer" text="Требуется известность клана: 2" />
     <string id="str_tor_runesmith_quest_task_runes" text="Руны" />
-    <string id="str_tor_religion_cult_name_cult_of_shallya" text="Культ Шалли" />
+    <string id="str_tor_religion_cult_name_cult_of_shallya" text="Культ Шаллии" />
     <string id="str_tor_religion_devotionlevel_Fanatic" text="Фанатик" />
     <string id="str_tor_careerchoice_description_ForbiddenScrollsOfSapheryPassive1" text="+0.5 скорости перезарядки личной ёмкости «Ветров Магии»." />
     <string id="str_tor_careerchoice_description_DiscipleOfAccursedPassive3" text="+7 «Тёмной энергии» ежедневно." />
@@ -169,7 +169,7 @@
     <string id="str_tor_faction_official_chaos_culture_f" text="Хаос Лорд" />
     <string id="str_tor_hirelingactivity1_OrcBoss" text="Разбивай вещи самым большим топором" />
     <string id="str_tor_customsettlement_intro_taal_shrine_03" text="Вы прибыли к храму {RELIGION_LINK}. Паломники из соседних селений молят Бога Природы." />
-    <string id="str_tor_feudal_oath_line2_bad_axes" text="Громодрок Хуфслаша — самый большой идиот вокруг — так что я буду следовать за тобой, пока мир не станет зеленым или красным." />
+    <string id="str_tor_feudal_oath_line2_bad_axes" text="Громодрак Хуфслаша — самый большой идиот вокруг — так что я буду следовать за тобой, пока мир не станет зелёным или красным." />
     <string id="tor_knight_griphon_negative" text="рыцарь тора: грифон (отрицательный эффект)" />
     <string id="str_tor_prebackstory_tor_wanderer_woodelf_0" text="Ах, я полагаю, мы ещё не знакомы. Мир вам, странник." />
     <string id="str_tor_career_choicegroup_name_HolyPurge" text="Священная Чистка" />
@@ -377,7 +377,7 @@
     <string id="str_tor_religion_description_chaos_undivided" text="Термин «Хаос Единый» относится к фракции среди сил Хаоса, которая служит пантеону великих богов Хаоса в целом, а не отдает полную верность одному из них в ущерб другим. Она часто представлена Избранным Хаоса — смертным лордом Хаоса, который является величайшим чемпионом всех великих богов Хаоса. Последователи Хаоса Единого почитают саму силу Хаоса, иногда как сущность, которую безумные ученые Старого Света называют «Великой Бездной», в которой великие боги Хаоса воспринимаются как единое божество, чьи четыре основные составляющие должны поклонятьсяся равно как различные проявления одной универсальной силы. Иногда эта сущность откладывает свой безумный внутренний конфликт, который иначе известен как Великая Игра, чтобы позволить разрозненным армиям великих богов Хаоса собраться под одним знаменем, например, во время различных вторжений Хаоса в Известный Мир, таких как Великая война против Хаоса и Конец Времени. Эти моменты заставляют Старый Мир трепетать и дрожать от страха и отвращения." />
     <string id="str_tor_careerchoice_description_GromrilArmorKeystone" text="Непробиваемость увеличивает личную «Физическую устойчивость» на 0,5% при получении удара, действует 10 сек." />
     <string id="str_tor_encyclopedia_filter_clans" text="Кланы" />
-    <string id="str_tor_enchanter_donate_items_hub_p_aserai" text="«Вот, возьми немного хлама для тебя…" />
+    <string id="str_tor_enchanter_donate_items_hub_p_aserai" text="«Вот, возьми немного хлама для тебя…»" />
     <string id="str_tor_careerunlock_reward_1_waywatcher" text="Улучшение осколков Шивера для войск" />
     <string id="str_tor_prebackstory_tor_wanderer_empire_2" text="Это не очень интересная история, но я расскажу о своей жизни." />
     <string id="str_tor_careerunlock_level_3_warriorpriestulric" text="Требуется известность клана: 4" />
@@ -572,7 +572,7 @@
     <string id="str_tor_companion_leave_p_tor_wanderer_empire_0" text="Прощай пока." />
     <string id="str_tor_hire_companion_p_tor_wanderer_empire_13" text="Наша знать должна держаться вместе." />
     <string id="str_tor_oak_upgrade_reduce_travel_cost" text="Снижение стоимости путешествия.{newline}{UPGRADEFAILEDREASON}" />
-    <string id="tor_option_2_dw_zanguzaz_text_str" text="Нежить и вампиры всегда были шипом для Дави, несмотря на то, что записей о нежити-дворфами крайне мало. Узкулары по-прежнему остаются постоянной угрозой для некоторых Караксов и обосновались в других. Ходячие кости должны остаться под землёй, а их вампирские господа будут превращены в пыль или сожжены до пепла. Честь превыше всего, и каждая несправедливость должна быть исправлена!" />
+    <string id="tor_option_2_dw_zanguzaz_text_str" text="Нежить и вампиры всегда были шипом для Дави, несмотря на то, что записей о нежити среди дворфов крайне мало. Узкулары по-прежнему остаются постоянной угрозой для некоторых Караков и обосновались в других. Ходячие кости должны остаться под землёй, а их вампирские господа будут превращены в пыль или сожжены до пепла. Честь превыше всего, и каждая несправедливость должна быть исправлена!" />
     <string id="str_tor_hire_companion_begone_tor_wanderer_mousillon_4" text="Убирайся. Считай себя счастливым, что я уже сыта." />
     <string id="str_tor_facegen_skin_TorsoButt" text="Размер ягодиц" />
     <string id="str_tor_liege_title_battania" text="Благородная дочь Атель Лорен" />
@@ -884,7 +884,7 @@
     <string id="str_tor_careerchoice_description_NewBloodKeystone" text="Форма Тумана заряжается на 20% быстрее." />
     <string id="str_tor_careerchoice_description_ForestStalkerPassive2" text="+20% личного сопротивления физическому урону от дальнего боя." />
     <string id="str_tor_skill_train_hub_select_companion" text="Кого ты хочешь обучить?" />
-    <string id="str_tor_religion_blessing_name_cult_of_grungni" text="Благословение Грюнгни" />
+    <string id="str_tor_religion_blessing_name_cult_of_grungni" text="Благословение Грунгни" />
     <string id="str_tor_careerchoice_description_IronbreakerRoot" text="«Казакит-ха из Хазука!» — на короткое время становитесь непробиваемым. Получаете +95% личной защиты от заклинаний «Щит», но скорость передвижения снижается на 25%. За каждый уровень Атлетики длительность состояния «Непробиваемый» увеличивается на 0,004 с. (заряжается получением и блокированием урона.)" />
     <string id="str_tor_customsettlement_intro_troll_cave_03" text="Тёмная пещера источает ужасный запах. Огромные следы и погрызенные кости разбросаны у входа — явные признаки обитания троллей." />
     <string id="str_tor_orc_boss_quest2_log_cities" text="завоюй {REQUIRED} городов или замков" />
@@ -1138,7 +1138,7 @@
     <string id="str_tor_career_rank1_name_BloodKnight" text="Посвящённый" />
     <string id="str_tor_quest_plagued_village_discuss_dialog" text="Приятно было вести дела с вами." />
     <string id="str_tor_waywatcher_arrow_name_starfire" text="полнечные стрелы" />
-    <string id="str_tor_religion_blessing_name_cult_of_manaan" text="Благословение Манаана" />
+    <string id="str_tor_religion_blessing_name_cult_of_manaan" text="Благословение Мананна" />
     <string id="str_tor_feudal_oath_line2_crooked_eye" text="Базглуд, ты — Демон-Дробилка! Ты больше и сильнее странных существ, поэтому я делаю всё, что ты говоришь." />
     <string id="str_tor_careerchoice_description_QuestingVowPassive1" text="+35 здоровья." />
     <string id="str_tor_hirelingactivity1_WitchHunter" text="Тренировка с арбалетами" />
@@ -1481,7 +1481,7 @@
     <string id="str_tor_backstory_a_tor_wanderer_greenskins_1" text="Шаман следит за тем, чтобы парни были в порядке и готовы к драке." />
     <string id="str_tor_comment_noble_introduces_self_and_clan_empire_honor" text="Я {CONVERSATION_CHARACTER.LINK}, из дома {CLAN_NAME}. Наша семья честно исполняет свой долг со времён самого Сигмара." />
     <string id="str_tor_facegen_skin_UpperarmSize" text="Размер бицепса" />
-    <string id="str_tor_religion_description_cult_of_grungni" text="В древние времена, когда Бог-Предтечи ходили среди дварфов, первым из них был Грунгни, мастер кузнечного дела и повелитель кузницы. Грунгни предвидел приход Хаоса и направил свой народ под землю и в безопасность гор. Там он научил их превращать металл в оружие и доспехи безупречного качества, готовя их к грядущим тьмам. Когда полчища Хаоса обрушились на мир, Грунгни повел свой род на войну. Однако Хаос не был так легко повержен, и со временем Дворфов вытеснили обратно в их горные крепости. Только Гримнир, брат Грунгни, осмелился выйти за пределы гор для борьбы с врагом. Грунгни остался позади, создавая артефакты огромной силы, чтобы помочь своему народу. среди них был Престол Силы, на котором была установлена Руна Азамара — Руна Вечности, руна столь могущественная, что существовала лишь одна и никогда не может быть повторена. Это было единственное дело Грунгни, в котором он чувствовал удовлетворение при его завершении, и вместе с руной пришла обещание: пока руна существует, Караз Анкор никогда не падет. После великой войны выжившие Бог-Предтечи ушли глубоко в горы, ожидая часа, когда их дети вновь понадобятся им." />
+    <string id="str_tor_religion_description_cult_of_grungni" text="В древние времена, когда Бог-Предтечи ходили среди дворфов, первым из них был Грунгни, мастер кузнечного дела и повелитель кузницы. Грунгни предвидел приход Хаоса и направил свой народ под землю и в безопасность гор. Там он научил их превращать металл в оружие и доспехи безупречного качества, готовя их к грядущим тьмам. Когда полчища Хаоса обрушились на мир, Грунгни повел свой род на войну. Однако Хаос не был так легко повержен, и со временем Дворфов вытеснили обратно в их горные крепости. Только Гримнир, брат Грунгни, осмелился выйти за пределы гор для борьбы с врагом. Грунгни остался позади, создавая артефакты огромной силы, чтобы помочь своему народу. Среди них был Престол Силы, на котором была установлена Руна Азамара — Руна Вечности, руна столь могущественная, что существовала лишь одна и никогда не может быть повторена. Это было единственное дело Грунгни, в котором он чувствовал удовлетворение при его завершении, и вместе с руной пришло обещание: пока руна существует, Караз Анкор никогда не падёт. После великой войны выжившие Бог-Предтечи ушли глубоко в горы, ожидая часа, когда их дети вновь понадобятся им." />
     <string id="str_tor_career_choicegroup_name_GuiltyByAssociation" text="Виновен по связи" />
     <string id="str_tor_adjective_for_faction_parravon" text="бретонский" />
     <string id="str_tor_hire_companion_begone_tor_wanderer_empire_11" text="Исчезни. Волк уже обнажает зубы." />
@@ -1938,7 +1938,7 @@
     <string id="str_tor_dw_guildmaster_warrior_influence_for_oath_accept_p" text="Сделка заключена, это достойный обмен." />
     <string id="str_tor_dw_guildmaster_rune_smith_hub_buy_equipment_p" text="Могу ли я заказать снаряжение, произведённое вашей Гильдией?" />
     <string id="str_tor_enchanter_hub_intro_khuzait" text="Чего ты желаешь?" />
-    <string id="str_tor_bloodkiss_blooddragon_answer_line2" text="Ах, действительно, передо мной воин невероятного могущества, дерзающий искать Кровной Целову у никого иного, как у Валака Харкона. Пока вы осквернены смертностью, ваша храбрость и преданность идеалам рыцарства поистине достойны хвалы, и я нахожусь под очарованием вашего непоколебимого стремления к совершенству." />
+    <string id="str_tor_bloodkiss_blooddragon_answer_line2" text="Ах, действительно, передо мной воин невероятного могущества, дерзающий искать Кровавого Поцелуя ни у кого иного, как у Валаха Харкона. Пока вы осквернены смертностью, ваша храбрость и преданность идеалам рыцарства поистине достойны хвалы, и я очарован вашим непоколебимым стремлением к совершенству." />
     <string id="str_eonir_empire_glad_to_do_business_text" text="Рад сотрудничать с вами." />
     <string id="str_tor_feudal_oath_line3_neck_snappers" text="Разобью любого, кто не проявит должного уважения к тебе, босс." />
     <string id="str_tor_perk_well_controlled_2" text="Получите преимущество в симуляционных боях на 5%." />
@@ -2004,7 +2004,7 @@
     <string id="str_tor_enchanter_start_enchanter_sturgia" text="Ах, соотечественник Рунки! Добро пожаловать в Гронгаз." />
     <string id="str_tor_hire_companion_payment_tor_wanderer_eonir_0" text="Я предпочёл бы не покидать наши леса, но за разумную плату я мог бы быть склонен сопровождать вас в ваших путешествиях на время." />
     <string id="str_tor_enchanter_donate_items_1_negative_eonir" text="К сожалению, ничего из того, что вы несёте, не имеет для нас истинной ценности." />
-    <string id="str_tor_feudal_oath_line1_blooddragons" text="Здесь и сейчас я клянусь верность Валлаку Харкону, Ордо Драконис и моим товарищам-рыцарям." />
+    <string id="str_tor_feudal_oath_line1_blooddragons" text="Здесь и сейчас я клянусь в верности Валаху Харкону, Ордо Драконис и моим товарищам-рыцарям." />
     <string id="str_tor_careerchoice_description_ImperialEnchantmentPassive3" text="-25% стоимость наведения чар." />
     <string id="str_tor_custom_resource_bre_chivalry_ranktext" text="Ранг рыцарства" />
     <string id="str_tor_graveyard_caught_title" text="Пойманы на месте" />
@@ -2312,7 +2312,7 @@
     <string id="str_tor_career_button_mercenary_not_tier5" text="Отряду необходимо достичь 5-го уровня или выше." />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_bretonnia_1" text="Зовут меня {PLAYER.NAME}. Чем вы здесь занимаетесь?" />
     <string id="str_tor_career_title_WarriorPriestUlric" text="Воин-жрец Ульрика." />
-    <string id="str_tor_careerchoice_description_LieOfLadyPassive3" text="-12% расходов на содержание 'Темной Энергии' для пехоты Музильон 'Рыцари'." />
+    <string id="str_tor_careerchoice_description_LieOfLadyPassive3" text="-12% расходов на содержание 'Тёмной Энергии' для пехоты Музильон 'Рыцари'." />
     <string id="str_tor_customsettlement_disabled_herdstone_05" text="Лагерь стоянки пуст. Вернись позже." />
     <string id="str_tor_hirelingactivity4_BlackGrailKnight" text="Дисциплинировать крестьянство." />
     <string id="str_tor_hire_decline_p_tor_wanderer_vampire_1" text="Я пока не могу позволить себе это." />
@@ -2423,7 +2423,7 @@
     <string id="str_tor_priest_hub_blessingshop_p_cult_of_sigmar" text="Расскажите мне подробнее о благословении предметов во имя Сигмара." />
     <string id="str_tor_perk_overcaster_label" text="Сверх-заклинатель" />
     <string id="str_tor_feudal_oath_line3_wissenland" text="В часы великой нужды я буду защищать Нульн до лучших своих сил." />
-    <string id="str_tor_short_term_for_faction_hochland" text="Хочланд" />
+    <string id="str_tor_short_term_for_faction_hochland" text="Хохланд" />
     <string id="str_tor_hire_decline_p_tor_wanderer_empire_5" text="Извините, я пока не могу себе это позволить." />
     <string id="str_tor_hirelingactivity1_Warden" text="Дротик Цель практике" />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_eonir_1" text="Они называют меня {PLAYER.NAME}. Чем вы занимаетесь здесь?" />
@@ -3720,7 +3720,7 @@
     <string id="str_tor_hirelingactivity2_BlackGrailKnight" text="Езжайте впереди армии" />
     <string id="str_tor_customsettlement_disabled_grimnir_shrine_03" text="Храм лежит в руинах. Здесь делать нечего." />
     <string id="str_tor_hirelingactivity3_MinorVampire" text="Ищи добычу для питания" />
-    <string id="tor_lore_metal_negative" text="Темная металлургия" />
+    <string id="tor_lore_metal_negative" text="Тёмная металлургия" />
     <string id="str_tor_religion_description_cult_of_lady" text="Культ Дамы Озёрной, или просто Культ Дамы, — это официально признанный государственный религиозный культ, призванный следовать и поддерживать ценности, установленные Дамой Озёрной, и служить интересам её и Королевства Бретоннии. п древних времён бретонцы почитали Даму Озёрную как свою богиню и главного божества — фигуру мифа и легенды, которая ведёт их королей и защищает их земли от бед. Поклонение Даме восходит к самым ранним дням Королевства. Говорят, что она возникла из священного озера перед Гилем ле Бретонном и его рыцарскими спутниками на заре Великой победы Борделеа. Обвитая фейным светом, Дама вышла из воды, держа Грааль, переполненный светом, который разлился по водам озера, благословив собравшихся рыцарей до тех пор, пока рассвет не пробил горы." />
     <string id="str_tor_powerstone_heavens_dmg_20_name" text="Малое Проводящее сапфирное покровище" />
     <string id="str_tor_careerchoice_description_NestCleansingPassive4" text="+50% шанса, что воин «Разрушитель» не потратит заряд взрывчатки при использовании." />
@@ -3767,7 +3767,7 @@
     <string id="str_tor_customsettlement_intro_grungni_shrine_02" text="Вы прибыли к храму {RELIGION_LINK}. Алтарь Грунгни Кузнеца, дворфского бога-предка горного дела и кузнечества, наполняет воздух запахом угля и железа." />
     <string id="str_tor_unit_rune_battle_desc" text="30% дополнительного физического урона." />
     <string id="str_tor_hire_companion_payment_tor_wanderer_bretonnia_2" text="Я не дешёвый рекрут. Я доказал свою состоятельность в бою. Моя плата — {GOLD_AMOUNT}{GOLD_ICON}." />
-    <string id="str_tor_dw_guildmaster_rune_smith_hub_rune_lord_career_0" text="Такое уважение не дается просто так. Докажи себя под суровым взглядом Гронгни, и мы увидим, достоин ли ты этого." />
+    <string id="str_tor_dw_guildmaster_rune_smith_hub_rune_lord_career_0" text="Такое уважение не даётся просто так. Докажи себя под суровым взглядом Грунгни, и мы увидим, достоин ли ты этого." />
     <string id="str_tor_teach_skills_dialog_p_SigmarPriest" text="Мой спутник желает укрепить веру. Можешь ли ты его наставить?" />
     <string id="tor_cc_option_3_we_gladerider_effect_str" text="Карьера Лорда Полян" />
     <string id="str_tor_perk_blessed_1" text="Ваш клан получает 3 влияния каждый день за каждого кланового отряда с активной благословлённостью." />
@@ -4058,7 +4058,7 @@
     <string id="str_tor_careerchoice_description_MercenaryLordPassive3" text="Стоимость контрактов с наёмниками снижается, а выплата зависит от навыка Торговля." />
     <string id="str_tor_gs_quartermaster_intro_text" text="Эй ты, у тя чёт есть для да Босса?" />
     <string id="str_tor_settlement_graveyard_raise_dead_interrupt" text="Ночная стража уже на твоём следу. Приготовься к последствиям своих мерзких деяний." />
-    <string id="str_tor_customsettlement_intro_haunted_site_04" text="За века до наших дней холмы за пределами Музилона использовались как массовая могила для тысяч жертв Красной Бубонной Чумы. Так много тел было захоронено, что даже сегодня землю над их ямами можно разглядеть со стен города. Воздух здесь иногда отравлен, а мертвецы, покоящиеся в этом проклятом месте, не находят мира." />
+    <string id="str_tor_customsettlement_intro_haunted_site_04" text="За века до наших дней холмы за пределами Музильона использовались как массовая могила для тысяч жертв Красной Бубонной Чумы. Так много тел было захоронено, что даже сегодня землю над их ямами можно разглядеть со стен города. Воздух здесь иногда отравлен, а мертвецы, покоящиеся в этом проклятом месте, не находят мира." />
     <string id="str_tor_faction_informal_name_for_culture_aserai" text="Зеленокожие" />
     <string id="str_tor_hire_companion_payment_tor_wanderer_greenskins_0" text="Мы идем или нет? Дай мне {GOLD_AMOUNT}{GOLD_ICON} и давай ВВААААГХ!!!" />
     <string id="str_tor_settlement_arrival_town_other" text="{SETTLEMENT_LINK} управляется {LORD.LINK}, {FACTION_OFFICIAL} из {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO} {ROR_INFO}" />
@@ -4184,7 +4184,7 @@
     <string id="str_tor_careerchoice_description_BladeMasterPassive4" text="Рейды теперь дают личный опыт оружия и опыт отряду." />
     <string id="str_tor_empire_prestigenoble_influencerefuse_p" text="Не сейчас, возможно позже." />
     <string id="tor_cc_option13_effect_str" text="Карьера воина-жреца" />
-    <string id="tor_option_2_dw_elgi_text_str" text="Наглые эльги! Несмотря на позорное поражение в Войне Мести, высокомерные посланники элги всё ещё смеют бродить по нашим Караксам и ухмыляться нашим Королям. с тех пор, как вы были пучком волос, вы помните этого костлявого эльфа, который снисходительно улыбался вам и смотрел свысока. Вы горько хранили эту память, ибо честь превыше всего, и каждая несправедливость должна быть исправлена!" />
+    <string id="tor_option_2_dw_elgi_text_str" text="Наглые эльги! Несмотря на позорное поражение в Войне Мести, высокомерные посланники элги всё ещё смеют бродить по нашим Каракам и ухмыляться нашим Королям. С тех пор, как вы были пучком волос, вы помните этого костлявого эльфа, который снисходительно улыбался вам и смотрел свысока. Вы горько хранили эту память, ибо честь превыше всего, и каждая несправедливость должна быть исправлена!" />
     <string id="str_tor_vampire_nighttime_bonus" text="Ночной бонус вампиров" />
     <string id="str_tor_dw_guildmaster_info_p_brewer" text="Каковы обязанности Гильдии Пивоваров?" />
     <string id="str_torknightpuritysealname_shallyaseal2" text="Печать Шаллии" />
@@ -4222,7 +4222,7 @@
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_woodelf_2" text="Меня зовут {PLAYER.NAME}. Чем вы занимаетесь здесь?" />
     <string id="str_tor_response_2_tor_wanderer_eonir_0" text="Мальчик убивает зверей? Мне это трудно поверить." />
     <string id="str_tor_engineer_quest_log3" text="Я убил Госвина и подобрал похищенные детали. Мне следует вернуться к Главному инженеру и сообщить ему об этом." />
-    <string id="tor_option_2_umgi_text_str" text="Проклятые люди, они хотят нашей стали, нашего огня, нашего алкоголя. Больше так! слишком долго дави терпели невежественных умги и ничего не получали взамен. Чести достаточно, и каждая ошибка должна быть исправлена!" />
+    <string id="tor_option_2_umgi_text_str" text="Проклятые люди, они хотят нашей стали, нашего огня, нашего алкоголя. Хватит! Слишком долго дави терпели невежественных умги и ничего не получали взамен. Чести достаточно, и каждая ошибка должна быть исправлена!" />
     <string id="str_tor_faction_official_vlandia_f" text="а лади" />
     <string id="str_tor_customsettlement_disabled_oak_of_ages" text="Вы прибыли к Дубу Веков. Сердце Атель Лорен." />
     <string id="str_tor_settlement_graveyard_raise_dead_action" text="Оживить мёртвых из тел в земле (ждать 8 часов)." />
@@ -4254,7 +4254,7 @@
     <string id="str_tor_inky_battlefield_strid_title" text="Поле битвы" />
     <string id="str_tor_priest_blessing_party_1_cult_of_shallya" text="Пусть её милость и сострадание будут с её смиренными последователями…" />
     <string id="str_tor_ui_no_blessing" text="Нет Активное благословение" />
-    <string id="str_tor_careerchoice_description_LordlyPassive3" text="-15% расходов на содержание 'Темной Энергии' для войск 'Вампиров'." />
+    <string id="str_tor_careerchoice_description_LordlyPassive3" text="-15% расходов на содержание 'Тёмной Энергии' для войск 'Вампиров'." />
     <string id="tor_cc_option_1_dw_smelters_label_str" text="Квалифицированные плавильщики и кузнецы" />
     <string id="str_tor_hire_companion_p_tor_wanderer_dawi_1" text="Рунки определенно будут полезны моей компании." />
     <string id="str_tor_career_choicegroup_name_JustCause" text="Правое дело" />
@@ -4279,7 +4279,7 @@
     <string id="str_tor_feudal_oath_line3_athel_loren" text="Клянусь верной службой королю и королеве леса Ориону и Ариэль, и отвечу на их рог в нужные часы." />
     <string id="str_tor_career_choicegroup_name_TalesOfGiles" text="Сказания о Жиле" />
     <string id="str_tor_perk_foresight_label" text="Прозорливость" />
-    <string id="str_tor_feudal_oath_line1_izor" text="Медной жилёй и корнем горы клянусь в верности королю Казрану Гримбрау из Карак Изор." />
+    <string id="str_tor_feudal_oath_line1_izor" text="Медной жилой и корнем горы клянусь в верности королю Казрану Гримброу из Карак Изор." />
     <string id="str_tor_blackgrail_answer_player_ready" text="Я готов, мой лорд." />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_bretonnia_2" text="Они называют меня {PLAYER.NAME}. Чем вы здесь занимаетесь?" />
     <string id="str_tor_hireling_back_text" text="Назад" />
@@ -4552,7 +4552,7 @@
     <string id="str_tor_career_choicegroup_name_MasterHorseman" text="Мастер конника" />
     <string id="str_tor_enchanter_hub_open_enchanter_p_khuzait" text="Покажи путь к твоему тёмному алтарю." />
     <string id="str_tor_spellsinger_envoy_main_hub_spellsinger_magic" text="Я хочу изучать магию нашего народа." />
-    <string id="str_tor_hireling_accept_text" text="И Принять, мой Лорд." />
+    <string id="str_tor_hireling_accept_text" text="Я принимаю, мой лорд." />
     <string id="str_tor_backstory_a_tor_wanderer_bretonnia_2" text="Я не всегда был тем, кем являюсь сейчас. Не так давно я служил нашему любимому Бретоннии. Я возделывал зерно на этих плодородных землях, имел маленькую хижину в деревне и платил дукским шайтанам, когда они приходили собирать налоги, ренты, пошлины или что бы то ни было." />
     <string id="str_eonir_spellsinger_world_roots_accept_text" text="Конечно, я с радостью помогу. Теперь как мой проводник, скажи, пожалуйста, как мне путешествовать по этим древним путям?" />
     <string id="str_eonir_druchii_prisoners_offer_text" text="Какое перспективное предложение. Это будет засчитано в вашу следующую сделку с Ведьминым королём. Я полагаю, совет оценит это." />
@@ -5402,7 +5402,7 @@
     <string id="str_tor_inky_miracle_str_start4" text="Фигура с грациозным жестом протягивает вам руку ладонью вверх. В её руке вы видите сияющий пульсирующий артефакт — дар божественный." />
     <string id="str_tor_inky_miracle_str_start5" text="Вы чувствуете смесь благоговения и благодарности, когда протягиваете руку и берёте предмет из её ладони. Его тепло пробегает сквозь вас, наполняя чувством силы и предназначения." />
     <string id="str_tor_inky_miracle_str_start6" text="Покидая святилище, вы замечаете, что мир вокруг кажется ярче, словно сама сущность благословения вашего божества озарила ваш путь. Обладая даром богов, вы уверенно наступаете в будущее, готовый встретить любые испытания, которые могут возникнуть, зная, что вы не одиноки." />
-    <string id="str_tor_inky_morrsliebwaxes_str_start1" text="С землистого зеленого свечения появляется на горизонте, восходит Моррслиб Темная Луна. Его насмешливое присутствие заполняет небо, становясь ярче по мере того, как он окутывает мир своим мерзким, оскверненным светом. По всей земле темная магия начинает скапливаться в местах, куда ни один здравомыслящий человек осмелится ступить, из-за чего Ветра Магии становятся непредсказуемыми." />
+    <string id="str_tor_inky_morrsliebwaxes_str_start1" text="С землистого зелёного свечения появляется на горизонте, восходит Моррслиб — Тёмная Луна. Его насмешливое присутствие заполняет небо, становясь ярче по мере того, как он окутывает мир своим мерзким, осквернённым светом. По всей земле тёмная магия начинает скапливаться в местах, куда ни один здравомыслящий человек не осмелится ступить, из-за чего Ветра Магии становятся непредсказуемыми." />
     <string id="str_tor_inky_morrsliebwaxes_str_start2" text="Боготворцы тьмы воспользуются этой ночью, чтобы продвинуть свои извращенные схемы и планы. Бестии собираются, воют и поют заклинания, последователи культов проводят всевозможные богохульные церемонии, а демоны начинают бродить по материальному плану, охотясь за добычей." />
     <string id="str_tor_inky_morrsliebwaxes_str_start3" text="Если бы кто-то осмелился взглянуть прямо на луну, он мог бы поклясться, что она улыбается, зловеще насмехаясь над ужасом, который она принесет миру. Однако, если те, кто смотрел на нее, продолжали наблюдать, они увидели бы, как эта улыбка угасает, превращаясь в почти злобную бровь, когда луна обнаружила, что больше не одинока на небе." />
     <string id="str_tor_inky_morrsliebwaxes_str_start4" text="Двухвостый комета горел ярко по небесам, словно вызывая Моррслиба на состязание. Осыпая темную луну своим собственным светом в момент их пересечения на небе, комета казалась притупляющей эффект хаотического свечения Моррслиба." />
@@ -5437,7 +5437,7 @@
     <string id="str_tor_inky_overturnedcart_str_rewarddeadloot" text="Теперь, когда мужчина скончался, ему явно больше не понадобятся припасы." />
     <string id="str_tor_inky_overturnedcart_str_rewarddeadrisedead" text="Поскольку мёртвому человеку тело больше не нужно, вы решаете возродить его как скелет." />
     <string id="str_tor_inky_overturnedcart_str_rewardrisedead2" text="Ваш отряд предпринимает попытку и {RaiseDeadSkillCheckTest: преуспевает | терпит неудачу}." />
-    <string id="str_tor_inky_overturnedcart_str_rewarddeadrisedeadsuccess" text="-true: Тело мужчины встаёт на ноги и, шатаясь, уходит, чтобы присоединиться к остальным войскам вашего отряда." />
+    <string id="str_tor_inky_overturnedcart_str_rewarddeadrisedeadsuccess" text="Тело мужчины встаёт на ноги и, шатаясь, уходит, чтобы присоединиться к остальным войскам вашего отряда." />
     <string id="str_tor_inky_overturnedcart_str_rewarddeadleave" text="Вы решаете, что настало время двигаться дальше и продолжить свой путь." />
     <string id="str_tor_inky_pond_str_start1" text="Пока ваша группа путешествует, вы натолкнетесь на идиллическую сцену, которая заставит вас замереть от восторга. Перед вами раскинулось спокойное озеро — скрытая жемчужина среди дикой природы. Вода тиха и прозрачна, отражая лазурное небо. Обильная растительность окружает озеро, создавая мирный убежище." />
     <string id="str_tor_inky_pond_str_start2" text="{IsNight(): Silver moonlight | Golden sunlight} пробивается сквозь деревья, отбрасывая свет на поверхность воды. Воздух наполнен нежным ароматом природы — успокаивающим бальзамом для ваших уставших чувств. Птицы поют мелодичные песни, дополняя атмосферу спокойствия." />
@@ -5466,5 +5466,65 @@
     <string id="str_tor_inky_travelingmerchant_str_start2" text="По мере приближения к вам подходит странствующий торговец. С приветливой улыбкой он знакомит вас с историями далёких земель и приглашает взглянуть на его товары." />
     <string id="str_tor_inky_travelingmerchant_str_leave" text="Вы решаете, что лучше продолжить путь на данный момент." />
     <string id="str_tor_inky_travelingmerchant_str_aftershopping" text="Вы завершаете осмотр богатств лавки торговца, и с почтительным поклоном он выражает свою признательность за ваш интерес и выбор." />
+    <string id="str_eonir_spellsinger_learn_lore_description_text" text="Выберите новую традицию для изучения." />
+    <string id="str_eonir_spellsinger_learn_lore_no_favor_text" text="Ты ещё не готов. Возвращайся, когда заслужишь больше расположения. ({BASE_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_learn_highmagic_offer_text" text="Высшая Магия — вершина эльфийского чародейства. Она требует великой преданности и жертвы Совету. ({ADVANCED_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_learn_highmagic_accept_text" text="Я готов учиться. ({ADVANCED_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_learn_highmagic_result_text" text="Знание Высшей Магии теперь твоё." />
+    <string id="str_eonir_spellsinger_learn_darkmagic_offer_text" text="Тёмная Магия — запретное знание, опасное и развращающее. Уверен ли ты, что хочешь ступить на этот путь? ({ADVANCED_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_learn_darkmagic_accept_text" text="Я принимаю риск. ({ADVANCED_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_learn_darkmagic_result_text" text="Запретное знание теперь твоё. Используй его с умом." />
+    <string id="str_spellsinger_envoy_main_hub_spellsinger_highmagic" text="Я хочу изучить Высшую Магию." />
+    <string id="str_spellsinger_envoy_main_hub_spellsinger_darkmagic" text="Я хочу изучить Тёмную Магию." />
+    <string id="str_spellsinger_envoy_main_hub_mercenary_lore" text="Я хочу изучать магию, можете ли научить меня?" />
+    <string id="str_eonir_spellsinger_mercenary_lore_no_favor_text" text="Твоё положение в Совете пока недостаточно. Возвращайся, когда заслужишь больше расположения. ({MERCENARY_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_mercenary_lore_offer_text" text="Магия — редкий дар, и мы не делимся им с чужаками легкомысленно. Но ты доказал себя Совету. Я могу научить тебя одной традиции магии, но выбирай мудро — это знание имеет свою цену. ({MERCENARY_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_mercenary_lore_accept_text" text="Я понимаю. Я готов учиться. ({MERCENARY_LORE_COST}{FAVOR_ICON})" />
+    <string id="str_eonir_spellsinger_mercenary_lore_result_text" text="Магия теперь — часть тебя. Используй её хорошо." />
+    <string id="str_eonir_spellsinger_mercenary_lore_hint_text" text="Изучить эту традицию" />
+    <string id="str_eonir_spellsinger_mercenary_lore_title_text" text="Изучить магию" />
+    <string id="str_eonir_spellsinger_mercenary_lore_description_text" text="Выберите одну традицию для изучения. Этот выбор окончателен." />
+    <string id="str_tor_spelltrainer_vampire_start" text="Этот скромный слуга живёт, чтобы служить вам, мой Лорд." />
+    <string id="str_tor_spelltrainer_vampire_hub" text="Что-нибудь ещё? Я поделюсь любым знанием, что у меня есть." />
+    <string id="str_tor_spelltrainer_vampire_open_book" text="Покажи мне заклинания, которыми ты владеешь." />
+    <string id="str_tor_spelltrainer_vampire_scrolls" text="Покажи мне магические формулы, что у тебя есть." />
+    <string id="str_tor_spelltrainer_vampire_player_goodbye" text="Мы закончили." />
+    <string id="str_tor_spelltrainer_vampire_goodbye" text="Прощайте, мой Лорд…" />
+    <string id="str_tor_spelltrainer_vampire_close_book" text="Я лишь желаю служить, мой Лорд…" />
+    <string id="str_tor_spelltrainer_vampire_lore_acknowledge" text="Теперь я ощущаю силу вокруг нас." />
+    <string id="str_tor_spelltrainer_vampire_lore_learned" text="Тёмные силы ныне в твоей власти." />
+    <string id="str_tor_spelltrainer_vampire_tier_limit" text="На этом этапе ты выучил всё, что мог. Возвращайся, когда твоя тайная мощь возрастёт." />
+    <string id="str_tor_vampire_lore_choice_label" text="Выбери своё Учение Магии…" />
+    <string id="str_tor_vampire_lore_choice_description" text="Ты можешь овладеть лишь одним из этих Учений Магии — выбирай мудро." />
+    <string id="str_tor_necrarch_lore_choice_description" text="При нынешнем уровне мастерства ты можешь изучить следующее количество Учений Магии: {REMAINING_LORES}" />
+    <string id="str_tor_dialog_ellipsis" text="…" />
+    <string id="str_tor_wanderer_leave" text="Доброго пути, странник." />
+    <string id="str_tor_greenskin_no_gold" text="Нету Блестяшек" />
+    <string id="str_tor_stats_troll_bonus_text" text="Бонус тролля" />
+    <string id="str_rogueengineerparty" text="Госвин" />
+    <string id="str_tor_liege_title_aserai" text="самый большой и злющий Варбосс на свете" />
+    <string id="str_tor_liege_title_aserai_goblin" text="самый хитрый Варбосс гоббо на свете" />
+    <string id="str_tor_liege_title_sturgia" text="один из Королей Карак Анкора" />
+    <string id="str_tor_comment_noble_introduces_self_and_clan_aserai" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME}, одной из самых злющих и подлых банд." />
+    <string id="str_tor_comment_noble_introduces_self_and_clan_goblin" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME}, одного из самых хитрых племён гоббо." />
+    <string id="str_tor_comment_noble_introduces_self_and_clan_sturgia" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME}, одного из древних кланов Карак Анкора." />
+    <string id="str_tor_comment_noble_introduces_self_and_clan_sturgia_boasting" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME} — имени, что ты слышал не раз в дворфских сагах." />
+    <string id="str_tor_comment_noble_introduces_self_and_clan.aserai_boasting" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME} — самой злой и подлой банды на свете." />
+    <string id="str_tor_comment_noble_introduces_self_and_clan.goblin_boasting" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME} — самого хитрого племени гоббо в этих землях." />
+    <string id="str_tor_formation_ai_behavior_text_torbehaviordefend" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} обороняются." />
+    <string id="str_tor_formation_ai_behavior_text_torbehaviorprotectartillery" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} защищают артиллерию." />
+    <string id="str_tor_careerchoice_description_SwiftProcedurePassive2" text="Личный штраф к точности при движении снижен на 10%." />
+    <string id="str_tor_careerchoice_description_SwiftProcedurePassive3" text="+1 к скорости передвижения отряда на карте кампании." />
+    <string id="str_tor_careerchoice_description_SwiftProcedurePassive4" text="+10% к личной скорости размаха оружия." />
+    <string id="str_tor_career_choice_description_BonesAnFirepitzPassive1" text="Получи 15 очков мумбо-юмбо после победы в драках" />
+    <string id="str_tor_career_choice_description_GiftzFromDaGreatGreenPassive4" text="Получи 15 очков мумбо-юмбо после победы в стычках" />
+    <string id="str_tor_careerunlock_reward_2_spellsinger" text="Открывает 3-е учение и путь Заклинательницы" />
+    <string id="str_tor_careerunlock_reward_3_spellsinger" text="Открывает все 8 ветров магии" />
+    <string id="str_tor_careerunlock_reward_2_necrarch" text="Открывает до 5 учений" />
+    <string id="str_tor_careerunlock_reward_3_necrarch" text="Открывает 8 учений" />
+    <string id="str_tor_careerunlock_reward_2_greylord" text="Открывает Кхайш и Дхар после изучения 8 учений" />
+    <string id="PBgLvyOa" text="Я {CONVERSATION_CHARACTER.LINK} из {CLAN_NAME}. Наши Громти стояли среди тех, кто храбро сражался в Войне Бороды. Многих трусливых и вероломных эльги тогда отправили прямиком в могилу." />
+    <string id="sDWEWefz" text="Церемониальная корона Хайленда" />
+    <string id="UWvOndG0" text="Лёгкое копьё Степного всадника" />
 </strings>
 </base>

@@ -188,7 +188,7 @@
     <string id="RDbqA36B" text="Рифленый украшенный бронзовый шлем с боковыми щитками" />
     <string id="AHQQp0O0" text="Кожаные ламеллярные наплечники" />
     <string id="aprm5ypZ" text="Надёжный каплевидный щит конницы" />
-    <string id="aoPbMKwB" text="Пернатый Шпангенхельм поверх Кольчука" />
+    <string id="aoPbMKwB" text="Пернатый Шпангенхельм поверх Кольчуги" />
     <string id="qFL0VxZX" text="Сшитый капюшон" />
     <string id="str_tor_learn_dw_rune_iron" text="Руна Железа" />
     <string id="str_tor_learn_we_enchant_hagbane_tips" text="Наконечники «Хейгбэйн»" />
@@ -506,7 +506,7 @@
     <string id="FRWm800F" text="Словенская кожа" />
     <string id="FAzGPJn6" text="Бамбуковый топор" />
     <string id="bt0uFefo" text="Деревянный Двуручник" />
-    <string id="xTH3z9Sr" text="Шпанденхельм поверх кожи" />
+    <string id="xTH3z9Sr" text="Шпангенхельм поверх кожи" />
     <string id="K4uryqOO" text="Бретонская чистокровная лошадь" />
     <string id="g5BPd0Oc" text="Тканевая коффа" />
     <string id="Qpl5aCb0" text="Топор ветерана воина" />
@@ -518,7 +518,7 @@
     <string id="qVj5NqrL" text="Полный шлем поверх набивной шапки" />
     <string id="WvDZMmaj" text="Шлем кочевника" />
     <string id="te48yHa8" text="Метательный нож Лифблейд" />
-    <string id="b7TdIRac" text="Круглокачелье поверх Кольчука" />
+    <string id="b7TdIRac" text="Круглокачелье поверх Кольчуги" />
     <string id="str_tor_book_athletics_001" text="Голый и бесстрашный" />
     <string id="1EhlbySK" text="Короткий плащ" />
     <string id="OrMbh1dn" text="Тяжёлый копьец-шлем" />
@@ -1030,7 +1030,7 @@
     <string id="eRZK8Kbp" text="Богатое Платье" />
     <string id="gYpNILVC" text="Кувалда" />
     <string id="UvOa4elc" text="Зелёный капюшон" />
-    <string id="Jhshwa48" text="Латаный камзо́л" />
+    <string id="Jhshwa48" text="Латаный камзол" />
     <string id="MTB2BunA" text="Усиленная высокогорная кольчуга поверх клетчатой ткани" />
     <string id="0666zYUB" text="Шпильчатая Адарга" />
     <string id="jimBaHvz" text="Усиленная кожаная броня" />
@@ -1158,7 +1158,7 @@
     <string id="hXB6gvD2" text="Ламеллярная рубашка из выделанной кожи" />
     <string id="HiSzYWeh" text="Пиво" />
     <string id="CHaYjWDb" text="Лёгкий круглый котелок поверх кожи" />
-    <string id="qojh0tsC" text="Шпангенхельм поверх Кольчука" />
+    <string id="qojh0tsC" text="Шпангенхельм поверх Кольчуги" />
     <string id="str_tor_tradegood_warpstone_dust" text="Пыль Варп-камня" />
     <string id="ksxylfU4" text="Рифленый боевой меч" />
     <string id="str_tor_learn_emp_enchant_aqshy_fury" text="Бешенство Акши" />
@@ -1352,7 +1352,7 @@
     <string id="str_tor_learn_we_enchant_trickery_loec" text="Хитрость Лоэка" />
     <string id="str_tor_books_charm_002" text="Искусство говорить с закрытым ртом" />
     <string id="beg6guIH" text="Плащ из волчьей шкуры" />
-    <string id="bTUGfbH5" text="Изношенный камзо́л" />
+    <string id="bTUGfbH5" text="Изношенный камзол" />
     <string id="3Pv0SlYj" text="Сеакс" />
     <string id="n3sz2k5j" text="Каплевидный щит рыцаря" />
     <string id="str_tor_book_gs_learn_enchant" text="Да Шиниэ Рок с картинами" />

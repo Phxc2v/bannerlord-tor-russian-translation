@@ -215,7 +215,7 @@
     <string id="str_tor_gs_trolls" text="Тролль" />
     <string id="str_tor_ror_horned_hunter" text="Рогатый Охотник" />
     <string id="str_tor_ror_blazing_sun_preceptor" text="Преподобный Солнца Пламени" />
-    <string id="str_tor_chaos_tzeench_warrior" text="Воин Хаоса Тзинца" />
+    <string id="str_tor_chaos_tzeench_warrior" text="Воин Хаоса Тзинча" />
     <string id="str_tor_gs_bandit_raider" text="Орк-Налётчик" />
     <string id="str_tor_we_eternal_guard" text="Асрай Вечный Страж" />
     <string id="str_tor_beast_shielded_ungor" text="Щитовый Унгор" />
@@ -436,5 +436,8 @@
     <string id="str_tor_empire_crossbowman" text="Имперский Арбалетчик" />
     <string id="str_tor_beast_gor_manripper" text="Гор Раскалыватель Людей" />
     <string id="str_tor_beast_minotaur" text="Минотавр" />
+    <string id="str_tor_empire_prophet" text="Имперский Пророк Судьбы" />
+    <string id="str_tor_dw_giant_slayer" text="Дворф-Истребитель Великанов" />
+    <string id="str_tor_dw_artillery_gunner" text="Дворф-Артиллерист" />
   </strings>
 </base>

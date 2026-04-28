@@ -46,5 +46,7 @@
     <string id="str_rural_notable_notary_eonir" text="Сельский заверитель Эонир" />
     <string id="str_ransom_broker_eonir" text="Посредник выкупа Эонир" />
     <string id="str_gangleader_bodyguard_eonir" text="Телохранитель главаря" />
+    <string id="str_horseMerchant_eonir" text="Эонир-Коновод" />
+    <string id="str_taverngamehost_eonir" text="Эонир-Распорядитель таверны" />
   </strings>
 </base>

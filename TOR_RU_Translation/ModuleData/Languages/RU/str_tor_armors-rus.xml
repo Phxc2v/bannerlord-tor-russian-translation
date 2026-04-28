@@ -67,7 +67,16 @@
     <string id="str_tor_we_leg_boots_wildrider_001" text="Сапоги Дикого Рыцаря" />
     <string id="str_tor_dw_shoulderpads_militia_001" text="Дворфские милитари-наплечники" />
     <string id="str_tor_estalia_body_armor_noble_002" text="Эсталийский дворянский доспех" />
-    <string id="str_tor_empire_flagellant_armor_001" text="Ткань феллантов" />
+    <string id="str_tor_empire_flagellant_armor_001" text="Ряса флагелланта" />
+    <string id="str_tor_empire_flagellant_armor_002" text="Ряса флагелланта" />
+    <string id="str_tor_empire_flagellant_armor_003" text="Ряса флагелланта" />
+    <string id="str_tor_empire_flagellant_armor_004" text="Ряса флагелланта" />
+    <string id="str_tor_empire_head_helm_flagellant_001" text="Шлем флагелланта" />
+    <string id="str_tor_empire_head_helm_flagellant_002" text="Шлем флагелланта" />
+    <string id="str_tor_empire_head_helm_flagellant_003" text="Повязка на глаза флагелланта" />
+    <string id="str_tor_empire_body_yoke_worn_001" text="Ярмо флагелланта" />
+    <string id="str_tor_empire_body_yoke_worn_002" text="Ярмо флагелланта" />
+    <string id="str_tor_empire_arm_bracers_flagellant_001" text="Наручи флагелланта" />
     <string id="str_tor_empire_shoulder_pauldron_valten" text="Наплечники Валтена с плащом" />
     <string id="str_tor_bretonnia_body_armor_grail_002" text="Благословлённая рыцарская броня" />
     <string id="str_tor_empire_head_helm_pigface_bascinet_002" text="Баскет с перьями" />
@@ -164,7 +173,7 @@
     <string id="str_tor_empire_leg_boots_luthor_huss" text="Орнаментальные сапоги воина-священника" />
     <string id="str_tor_empire_body_robe_light_wizard_001" text="Лёгкая мантия волшебника" />
     <string id="str_tor_greenskin_body_armour_orc_warboss_001" text="Крепкая Броня Варбосса" />
-    <string id="str_tor_chaos_arm_gauntlet_tzeentch_warrior_001" text="Хаосные латные перчатки Тзенча" />
+    <string id="str_tor_chaos_arm_gauntlet_tzeentch_warrior_001" text="Хаосные латные перчатки Тзинча" />
     <string id="str_tor_estalia_head_helm_general_001" text="Эсталийская черепная маска" />
     <string id="str_tor_empire_body_undercloth_statetroop_003" text="Подкладочная форма имперского штатного солдата с подкладкой" />
     <string id="str_tor_neutral_head_helm_001" text="Изношенный боевой шлем" />
@@ -268,7 +277,7 @@
     <string id="str_tor_tilean_shoulder_pauldron_knight_002" text="Тилейские наплечники" />
     <string id="str_tor_dw_body_armour_basic_dawi_001" text="Дворфский Доспех" />
     <string id="str_tor_he_leg_boots_whitelion_001" text="Сапоги Белого Льва Высших Эльфов" />
-    <string id="str_tor_chaos_body_armor_tzeentch_warrior_001" text="Доспех Тзинца" />
+    <string id="str_tor_chaos_body_armor_tzeentch_warrior_001" text="Доспех Тзинча" />
     <string id="str_tor_vc_head_helm_dh_templar_001" text="Шлем Храмовника Дракенхофа" />
     <string id="str_tor_bretonnian_shoulder_questing_knight_003" text="Парадный наплечник Рыцаря-Странника" />
     <string id="str_tor_bretonnian_head_helm_002" text="Бретонский тканевый шлем с плоской вершиной" />
@@ -326,7 +335,7 @@
     <string id="str_tor_we_head_mask_leather_001" text="Маска лесного рейнджера" />
     <string id="str_tor_greenskin_leg_shroom_003" text="Скальный Грибок" />
     <string id="str_tor_mousillon_head_helm_kotr_001" text="Головной убор рыцаря Музильона Несчастья" />
-    <string id="str_tor_chaos_leg_boots_tzeentch_warrior_001" text="Доспешные сапоги воина Тзинца" />
+    <string id="str_tor_chaos_leg_boots_tzeentch_warrior_001" text="Доспешные сапоги воина Тзинча" />
     <string id="str_tor_dw_body_armour_slayer_adept_001" text="Поножи убийцы троллей" />
     <string id="str_tor_empire_body_robe_gold_wizard_001" text="Золотая мантия волшебника" />
     <string id="str_tor_vc_shoulder_pauldron_grave_guard_004" text="Наплечники Могильного Стража" />
@@ -627,7 +636,7 @@
     <string id="str_tor_tilean_head_helm_knight_003" text="Тилейный шлем с открытым забралом" />
     <string id="str_tor_greenskin_boots_orc_black_2_001" text="Тяжёлые Орк-Топтуны" />
     <string id="str_tor_dw_arm_bracers_irondrake_001" text="Браслеты Железодракона" />
-    <string id="str_tor_vc_head_helm_skeleton_warrior_002" text="Шлем Скелетного Воина Шпанденхельм" />
+    <string id="str_tor_vc_head_helm_skeleton_warrior_002" text="Шлем Скелетного Воина Шпангенхельм" />
     <string id="str_tor_vc_head_invisible_skull_001" text="Череп" />
     <string id="str_tor_empire_arm_gauntlet_cannon_crew_003" text="Перчатки инженера Империи" />
     <string id="str_tor_dw_leg_boots_slayer_legend_001" text="Сапоги Убийцы Гигантов" />
@@ -783,5 +792,37 @@
     <string id="str_tor_we_arm_bracers_spellsinger_001" text="Браслеты Магического Певца" />
     <string id="str_tor_empire_body_armor_lord_001" text="Имперский доспех лорда" />
     <string id="str_tor_we_shoulder_cape_gladeguard_001" text="Плащ Стража Полян" />
+    <string id="str_tor_de_head_mask_sos_001" text="Маска Сестры Резни" />
+    <string id="str_tor_de_head_mask_sos_002" text="Маска Сестры Резни" />
+    <string id="str_tor_de_head_mask_sos_003" text="Маска Сестры Резни" />
+    <string id="str_tor_de_head_mask_sos_004" text="Маска Сестры Резни" />
+    <string id="str_tor_de_head_mask_doomfire_warlock_001" text="Маска Чародея Огня Судьбы" />
+    <string id="str_tor_de_head_mask_doomfire_warlock_002" text="Маска Чародея Огня Судьбы" />
+    <string id="str_tor_de_head_mask_doomfire_warlock_003" text="Маска Чародея Огня Судьбы" />
+    <string id="str_tor_de_head_crown_witch_elf_001" text="Корона Ведьмы-Эльфийки" />
+    <string id="str_tor_de_head_crown_witch_elf_002" text="Корона Ведьмы-Эльфийки" />
+    <string id="str_tor_de_head_crown_supreme_sorceress_001" text="Корона Верховной Чародейки" />
+    <string id="str_tor_de_head_crown_supreme_sorceress_002" text="Корона Верховной Чародейки" />
+    <string id="str_tor_de_head_helmet_death_hag_001" text="Корона Смертной Карги" />
+    <string id="str_tor_de_head_helmet_death_hag_002" text="Корона Смертной Карги" />
+    <string id="str_tor_de_head_helmet_death_hag_003" text="Корона Смертной Карги" />
+    <string id="str_tor_de_head_helmet_death_hag_004" text="Корона Смертной Карги" />
+    <string id="str_tor_de_shoulder_pauldrons_sos_001" text="Наплечники Сестры Резни" />
+    <string id="str_tor_de_shoulder_pauldrons_sos_002" text="Наплечники Сестры Резни" />
+    <string id="str_tor_de_shoulder_pauldrons_sos_003" text="Наплечники Сестры Резни" />
+    <string id="str_tor_de_shoulder_pauldrons_sorcerer_001" text="Наплечники Чародея" />
+    <string id="str_tor_de_shoulder_pauldrons_sorcerer_002" text="Наплечники Чародея" />
+    <string id="str_tor_de_shoulder_pauldrons_sorcerer_003" text="Наплечники Чародея" />
+    <string id="str_tor_de_shoulder_pauldrons_sorcerer_004" text="Наплечники Чародея" />
+    <string id="str_tor_de_shoulder_pauldrons_light_witch_elf_001" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_light_witch_elf_002" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_light_witch_elf_003" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_witch_elf_001" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_witch_elf_002" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_witch_elf_003" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_witch_elf_004" text="Наплечники Ведьмы-Эльфийки" />
+    <string id="str_tor_de_shoulder_pauldrons_khaine_001" text="Наплечники Кхейна" />
+    <string id="str_tor_de_shoulder_pauldrons_khaine_002" text="Наплечники Кхейна" />
+    <string id="str_tor_de_shoulder_pauldrons_khaine_003" text="Наплечники Кхейна" />
   </strings>
 </base>

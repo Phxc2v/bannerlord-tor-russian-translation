@@ -247,5 +247,6 @@
     <string id="str_tor_greenskin_staff_shaman_001" text="Посох Орк-Шамана" />
     <string id="str_tor_empire_weapon_spear_001" text="Имперское Копьё" />
     <string id="str_tor_bretonnia_weapon_halberd_002" text="Бретонский вольгьер" />
+    <string id="str_tor_empire_weapon_halberd_007" text="Алебарда Имперского Рыцаря-Демигрифа" />
   </strings>
 </base>

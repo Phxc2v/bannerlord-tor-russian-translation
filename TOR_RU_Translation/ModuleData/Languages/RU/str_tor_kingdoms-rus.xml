@@ -182,7 +182,7 @@
     <string id="str_tor_kingdom_text_bastonne" text="В самом сердце Бретоннии лежит герцогство Бастонн. Действительно, расположенное в центре, но многие считают, что Бастонн — это Сердце Бретоннии. Основанный Жиля ле Бретонном, собор культа Леди находится внутри стен замка Бастонн. Действительно, именно в Шалонском лесу, как говорят, впервые встретились Жиля и его спутники с Леди. Поскольку Бастонн — это Сердце Бретоннии, люди Бастонна являются самыми высокомерными и самоуверенными из бретонцев. В службе Бастонна находится большинство Граальных рыцарей Бретоннии, и он справедливо претендует на звание самого важного из всех герцогств." />
     <string id="str_tor_kingdom_name_karak_zhufbar" text="Карак Жуфбар" />
     <string id="str_tor_kingdom_rulertitle_aquitaine" text="Герцог" />
-    <string id="str_tor_kingdom_rulertitle_deff_grindaz" text="Вожа́к" />
+    <string id="str_tor_kingdom_rulertitle_deff_grindaz" text="Вожак" />
     <string id="str_tor_kingdom_title_karak_ziflin" text="Карак Зифлин" />
     <string id="str_tor_kingdom_rulertitle_brionne" text="Герцог" />
     <string id="str_tor_kingdom_shortname_iron_tribe" text="Железное Племя" />
@@ -195,7 +195,7 @@
     <string id="str_tor_kingdom_shortname_aquitaine" text="Аквитания" />
     <string id="str_tor_kingdom_name_carcasonne" text="Герцогство Каркассон" />
     <string id="str_tor_kingdom_name_athelloren" text="Королевства Атель Лорен" />
-    <string id="str_tor_kingdom_rulertitle_red_eye" text="Вожа́к" />
+    <string id="str_tor_kingdom_rulertitle_red_eye" text="Вожак" />
     <string id="str_tor_kingdom_rulertitle_ostland" text="Електор Граф" />
     <string id="str_tor_kingdom_title_karak_izor" text="Карак Изор" />
     <string id="str_tor_kingdom_shortname_hochland" text="Хохланд" />
