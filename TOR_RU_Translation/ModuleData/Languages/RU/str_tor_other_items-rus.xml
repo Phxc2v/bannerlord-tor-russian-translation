@@ -93,7 +93,7 @@
     <string id="1CamO1P3" text="Классический короткий железный меч тиланцев" />
     <string id="cjH1WFwy" text="Меховая шапка с меховой окантовкой" />
     <string id="TXpQetkh" text="Военный Верблюд" />
-    <string id="str_tor_learn_vc_enchant_bonds_darkness" text="Связи Тьмы" />
+    <string id="str_tor_learn_vc_enchant_bonds_darkness" text="Узы Тьмы" />
     <string id="str_tor_learn_asrai_enchant_vengeance_khaine" text="Мщение Кхейна" />
     <string id="TwuAVsCn" text="Меховая шапка" />
     <string id="jbxeZs8K" text="Туника простого человека" />
@@ -126,7 +126,7 @@
     <string id="mT1bvZxM" text="Роскошное пальто горожанина" />
     <string id="str_tor_learn_emp_enchant_hysh_sanctuary" text="Святилище Гиша" />
     <string id="vXYlLH6L" text="Длинное копьё с наконечником из громирала" />
-    <string id="str_tor_learn_vc_enchant_caress_void" text="Ласка пустоты" />
+    <string id="str_tor_learn_vc_enchant_caress_void" text="Ласка Пустоты" />
     <string id="VbL6GFmy" text="Масло" />
     <string id="XbwDj80t" text="Степные стрелы" />
     <string id="BAsjzOiH" text="Топор палача" />
@@ -250,7 +250,7 @@
     <string id="1HWRwbwT" text="Деревянный Меч" />
     <string id="HkwJao2z" text="Стальной чекан с козырьками и кисточками" />
     <string id="WYFDXE82" text="Большой круглый щит" />
-    <string id="str_tor_learn_vc_enchant_unholy_blessing" text="Благословение нечестивое" />
+    <string id="str_tor_learn_vc_enchant_unholy_blessing" text="Нечестивое Благословение" />
     <string id="b88lWWOo" text="Тонкая стальная булава" />
     <string id="atSRQkCE" text="Тяжёлая кольчужная куртка" />
     <string id="NaaM2O2g" text="Кислевитский широкий двуручный меч с вырезом" />
@@ -397,7 +397,7 @@
     <string id="tXbRb3QO" text="Шипованная кожаная броня" />
     <string id="OpYdqPWs" text="Открытый кольчужный капюшон" />
     <string id="HVJ9ax8Z" text="Степная ряса" />
-    <string id="str_tor_learn_vc_enchant_secrets_wsoran" text="Секреты У'сорана" />
+    <string id="str_tor_learn_vc_enchant_secrets_wsoran" text="Секреты В'сорана" />
     <string id="wltdyF2j" text="Охотничий лук" />
     <string id="SvYpE52J" text="Туника с меховой отделкой" />
     <string id="6XxiMU52" text="Кожаный табард поверх кольчухи" />
@@ -443,9 +443,9 @@
     <string id="4wQRk3f5" text="Украшенный Длинный Меч Войны" />
     <string id="bubcrmTC" text="Носовой шлем поверх набитой ткани" />
     <string id="bK03bqdA" text="Турнирные стрелы" />
-    <string id="str_tor_learn_vc_enchant_drinker_blood" text="Пьющий кровь" />
+    <string id="str_tor_learn_vc_enchant_drinker_blood" text="Пьющий Кровь" />
     <string id="mlJKNbbn" text="Кожаный капюшон" />
-    <string id="str_tor_learn_vc_enchant_mockery_asps" text="Превенение аспидов" />
+    <string id="str_tor_learn_vc_enchant_mockery_asps" text="Глумление Аспидов" />
     <string id="mvTueU1y" text="Ламелированные кожаные наплечники" />
     <string id="RwpJFXxc" text="Пика из громирла" />
     <string id="str_tor_learn_we_enchant_moon_stone" text="Камень Луны Путь Скрытых" />
@@ -522,7 +522,7 @@
     <string id="str_tor_book_athletics_001" text="Голый и бесстрашный" />
     <string id="1EhlbySK" text="Короткий плащ" />
     <string id="OrMbh1dn" text="Тяжёлый копьец-шлем" />
-    <string id="str_tor_learn_vc_enchant_touch_jet" text="Прикосновение джазта" />
+    <string id="str_tor_learn_vc_enchant_touch_jet" text="Прикосновение Гагата" />
     <string id="E7miRMw1" text="Тяжёлый рекурсивный лук" />
     <string id="P0FmQHgF" text="Украшенная кожаная упряжь поверх кольчуги" />
     <string id="567zyLq5" text="Выделанные гвоздичные кожаные наплечники" />
@@ -539,7 +539,7 @@
     <string id="puNpMCgX" text="Латные доспехи с пряжками" />
     <string id="R45H8quo" text="Тога" />
     <string id="9Eyd2qGo" text="Усиленные замшевые сапоги" />
-    <string id="str_tor_learn_vc_enchant_ethereal_whispers" text="Эфирные шепоты" />
+    <string id="str_tor_learn_vc_enchant_ethereal_whispers" text="Эфирный Шёпот" />
     <string id="xYk4953c" text="Стальная булава" />
     <string id="yQTBY9ie" text="Ювелирные изделия" />
     <string id="OIcwZGmC" text="Укреплённый корзинный щит" />
@@ -581,7 +581,7 @@
     <string id="str_tor_learn_dw_rune_cleaving" text="Руна Разрубающего Удара" />
     <string id="tYmOCuuQ" text="Круглая котелка поверх кольчуги" />
     <string id="vo9kYKNQ" text="Ламеллярные наплечные пластины" />
-    <string id="str_tor_learn_vc_enchant_bulwark_blood_keep" text="Бульвар Кровной Крепости" />
+    <string id="str_tor_learn_vc_enchant_bulwark_blood_keep" text="Оплот Кровавой Крепости" />
     <string id="aM2EPdXj" text="Красный табард поверх кольчужной куртки" />
     <string id="LLaFEt1m" text="Спарринговый арминг-меч" />
     <string id="tVyuxl8e" text="Рваные одежды" />
@@ -671,10 +671,10 @@
     <string id="V4b2ZRTH" text="Ромфайя" />
     <string id="pdtQybBM" text="Песчаный тренировочный круглый щит" />
     <string id="r0Ln9bAp" text="Кожаный фартук" />
-    <string id="str_tor_learn_vc_enchant_unhallowed_pact" text="Проклятый Пакт" />
+    <string id="str_tor_learn_vc_enchant_unhallowed_pact" text="Нечестивый Пакт" />
     <string id="str_tor_learn_emp_blessing_sigmar_soulfire" text="Благословение Сигмара: Духопламя" />
     <string id="1w5StEM1" text="Корзиновый щит" />
-    <string id="str_tor_learn_we_enchant_thorns_nettles" text="&quot;Шипы, Клевер и Колючки&quot;" />
+    <string id="str_tor_learn_we_enchant_thorns_nettles" text="«Шипы, Клевер и Колючки»" />
     <string id="str_tor_learn_emp_enchant_shyish_whisper" text="Благословение Шайша: Шепот" />
     <string id="89OWzLBb" text="Простой топор с бамбуковой рукоятью" />
     <string id="oQSZ0XgP" text="Украшенная толстая туника" />
@@ -741,14 +741,14 @@
     <string id="ZJYVpjuR" text="Седло верблюда с тяжёлой нагрузкой" />
     <string id="rhWOdhjr" text="Высокогорное боевое копье" />
     <string id="blEEEOdy" text="Южная кольчужная броня" />
-    <string id="str_tor_learn_vc_enchant_crimson_flood" text="Красный Поток" />
+    <string id="str_tor_learn_vc_enchant_crimson_flood" text="Багряный Поток" />
     <string id="51EcVnzd" text="Шлем с закрытым лицом поверх тканого капюшона" />
     <string id="c7UNJSNi" text="Сплетённые кожаные наплечники" />
     <string id="vXvuViMT" text="Временный каплевидный щит" />
-    <string id="str_tor_learn_vc_enchant_chilling_hand" text="Холодная рука" />
+    <string id="str_tor_learn_vc_enchant_chilling_hand" text="Леденящая Рука" />
     <string id="tzoARfAm" text="Тяжёлая полукопья дружины" />
     <string id="z6eTba5h" text="Тяжёлый Насальный Шлем поверх Сшитой Ткани" />
-    <string id="str_tor_books_gunpowder_001" text="&quot;Замок, ствол и дуло: полевое руководство для мушкетёра&quot;" />
+    <string id="str_tor_books_gunpowder_001" text="«Замок, ствол и дуло: полевое руководство для мушкетёра»" />
     <string id="L7qYlJqn" text="Лесные сапоги" />
     <string id="pbxbCnVy" text="Шёлковое дворянское платье" />
     <string id="5gsp0xUN" text="Кольчужная гарда наплечника" />
@@ -831,7 +831,7 @@
     <string id="77RIGK7B" text="Кольчужный капюшон" />
     <string id="MedDPUNh" text="Дестиер" />
     <string id="2SUb8jNP" text="Упряжь для мула с корзинами" />
-    <string id="str_tor_tradegood_amber_crystal" text="Амберный Кристалл" />
+    <string id="str_tor_tradegood_amber_crystal" text="Янтарный Кристалл" />
     <string id="tEimkEsU" text="Кислевский короткий лук" />
     <string id="beVFwINO" text="Деревянный Молот" />
     <string id="Pqua61u8" text="Рифлёный шлем вождя" />
@@ -987,7 +987,7 @@
     <string id="str_tor_learn_we_enchant_dusk_dawn" text="Закат и Рассвет" />
     <string id="Xrb43Fv4" text="Бронзовые наплечники" />
     <string id="rmjcrnll" text="Пальматий" />
-    <string id="str_tor_learn_vc_enchant_nightshroud" text="Ночной покров" />
+    <string id="str_tor_learn_vc_enchant_nightshroud" text="Ночной Покров" />
     <string id="IClH3Pus" text="Аваланш" />
     <string id="str_tor_book_learn_runecraft" text="Дворфское и руническое волшебство" />
     <string id="str_tor_learn_we_enchant_swift_shiver" text="Осколки «Быстрый холод»" />
