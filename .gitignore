@@ -1,6 +1,15 @@
 # Build artifacts
 *.zip
 *.bak
+*.pdb
+
+# DLL build sources — никогда не публикуем исходники DLL в репо.
+# Лежат локально в TOR_RUS\TOR_RU_Translation\Source\, в репо — только готовая DLL в bin\.
+TOR_RU_Translation/Source/
+**/Source/
+**/*.csproj
+**/*.cs
+**/obj/
 
 # OS-specific
 Thumbs.db

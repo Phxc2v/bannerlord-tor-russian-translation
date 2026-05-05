@@ -2,18 +2,38 @@
 <Module>
   <Name value="The Old Realms — Русский перевод" />
   <Id value="TOR_RU_Translation" />
-  <Version value="v1.3.15.14" />
+  <Version value="v1.3.15.15" />
   <ModuleCategory value="Singleplayer" />
   <ModuleType value="Community" />
   <Official value="false" />
   <DependedModules>
-    <DependedModule Id="Native" />
-    <DependedModule Id="SandBoxCore" />
-    <DependedModule Id="Sandbox" />
-    <DependedModule Id="StoryMode" />
-    <DependedModule Id="TOR_Core" />
-    <DependedModule Id="TOR_Armory" Optional="true" />
+    <DependedModule Id="Native" DependentVersion="v1.3.15" />
+    <DependedModule Id="SandBoxCore" DependentVersion="v1.3.15" />
+    <DependedModule Id="Sandbox" DependentVersion="v1.3.15" />
+    <DependedModule Id="StoryMode" DependentVersion="v1.3.15" />
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.4.2" />
+    <DependedModule Id="TOR_Core" DependentVersion="v1.3.15" />
+    <DependedModule Id="TOR_Armory" DependentVersion="v1.3.15" Optional="true" />
   </DependedModules>
-  <SubModules />
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis" version="v2.4.2" />
+    <DependedModuleMetadata id="Native" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="TOR_Core" order="LoadAfterThis" />
+    <DependedModuleMetadata id="TOR_Armory" order="LoadAfterThis" optional="true" />
+  </DependedModuleMetadatas>
+  <SubModules>
+    <SubModule>
+      <Name value="TOR_RU_Translation" />
+      <DLLName value="TOR_RU_Translation.dll" />
+      <SubModuleClassType value="TOR_RU_Translation.SubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
   <Xmls />
 </Module>

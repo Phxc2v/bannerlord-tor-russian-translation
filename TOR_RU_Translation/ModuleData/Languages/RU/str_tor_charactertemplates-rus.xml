@@ -5,6 +5,9 @@
   </tags>
   <strings>
     <string id="str_tor_eonir_asur_envoy_0" text="Посланник Короля Феникса" />
+    <string id="str_gear_practice_dummy_empire" text="Тренировочный манекен" />
+    <string id="str_gear_practice_dummy_battania" text="Тренировочный манекен" />
+    <string id="str_gear_practice_dummy_khuzait" text="Тренировочный манекен" />
     <string id="str_tor_eonir_druchii_envoy_0" text="Посланник Короля Ведьм" />
     <string id="str_tor_br_rogue_lord_0" text=" " />
     <string id="str_tor_empire_dog1_lord_3" text=" " />
