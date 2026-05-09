@@ -4,49 +4,49 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_spc_notable_eonir_1" text="{FIRSTNAME} Хранительница рощи" />
-    <string id="str_spc_notable_eonir_b" text="{FIRSTNAME} Наследница" />
-    <string id="str_spc_notable_eonir_2" text="Хранитель Лаурелорна" />
-    <string id="str_spc_notable_eonir_3" text="Дикая лесная пророчица" />
-    <string id="str_spc_notable_eonir_artisan_1" text="Эонирский ремесленник" />
-    <string id="str_spc_notable_eonir_artisan_2" text="Эонирский ремесленник" />
-    <string id="str_spc_notable_eonir_rural_1" text="Лесной житель Эонир" />
-    <string id="str_spc_notable_eonir_rural_2" text="Лесной житель Эонир" />
-    <string id="str_spc_notable_eonir_merch1" text="Язвительный эонирский торговец" />
-    <string id="str_spc_notable_eonir_merch2" text="Резкий эонирский торговец" />
-    <string id="str_spc_notable_eonir_merch3" text="Дерзкий эонирский торговец" />
-    <string id="str_spc_notable_eonir_merch4" text="Тихий эонирский торговец" />
-    <string id="str_spc_notable_eonir_merch5" text="{FIRSTNAME} Управляющий" />
-    <string id="str_spc_eonir_gangleader_1" text="Главарь лесных разбойников" />
-    <string id="str_spc_eonir_gangleader_2" text="Атаманша лесных разбойников" />
-    <string id="str_spc_eonir_gangleader_3" text="Вожак лесных разбойников" />
-    <string id="str_eonir_headman_1" text="Мятежный лаурелорнский староста" />
-    <string id="str_eonir_headman_2" text="Консервативный лаурелорнский староста" />
-    <string id="str_eonir_headman_3" text="Коварный лаурелорнский староста" />
-    <string id="str_prison_guard_eonir" text="Страж Лаурелорна" />
-    <string id="str_townsman_eonir" text="Житель Лаурелорна" />
-    <string id="str_townswoman_eonir" text="Жительница Лаурелорна" />
-    <string id="str_villager_eonir" text="Лаурелорнский селянин" />
-    <string id="str_village_woman_eonir" text="Лаурелорнская селянка" />
-    <string id="str_merchant_eonir" text="Эонирский торговец" />
-    <string id="str_blacksmith_eonir" text="Кузнец Эонир" />
-    <string id="str_weaponsmith_eonir" text="Оружейник Эонир" />
-    <string id="str_armorer_eonir" text="Бронник Эонир" />
-    <string id="str_horseMerchane_eonir" text="Торговец конями Эонир" />
-    <string id="str_tavernkeeper_eonir" text="Хозяин таверны Эонир" />
-    <string id="str_taverngamehose_eonir" text="Распорядитель игр" />
-    <string id="str_tournament_master_eonir" text="Мастер состязаний" />
-    <string id="str_musician_eonir" text="Бард Эонир" />
-    <string id="str_dancer_eonir" text="Танцор Эонир" />
-    <string id="str_wench_eonir" text="Подавальщица Эонир" />
-    <string id="str_barber_eonir" text="Цирюльник Эонир" />
-    <string id="str_shop_worker_eonir" text="Лавочник Лаурелорна" />
-    <string id="str_artisan_notary_eonir" text="Заверитель ремесла Эонир" />
-    <string id="str_merchant_notary_eonir" text="Заверитель торговли Эонир" />
-    <string id="str_rural_notable_notary_eonir" text="Сельский заверитель Эонир" />
-    <string id="str_ransom_broker_eonir" text="Посредник выкупа Эонир" />
-    <string id="str_gangleader_bodyguard_eonir" text="Телохранитель главаря" />
-    <string id="str_horseMerchant_eonir" text="Эонир-Коновод" />
-    <string id="str_taverngamehost_eonir" text="Эонир-Распорядитель таверны" />
+    <string id="str_spc_notable_eonir_1" text="{FIRSTNAME} {.FA}Хранительница{.nn} рощи" />
+    <string id="str_spc_notable_eonir_b" text="{FIRSTNAME} {.FA}Наследница{.nn}" />
+    <string id="str_spc_notable_eonir_2" text="{.MA}Хранитель{.nn} Лаурелорна" />
+    <string id="str_spc_notable_eonir_3" text="{.FA}Дикий{.aj} лесный{.aj} {.FA}пророчица{.nn}" />
+    <string id="str_spc_notable_eonir_artisan_1" text="{.MA}Эонирский{.aj} {.MA}ремесленник{.nn}" />
+    <string id="str_spc_notable_eonir_artisan_2" text="{.MA}Эонирский{.aj} {.MA}ремесленник{.nn}" />
+    <string id="str_spc_notable_eonir_rural_1" text="{.MA}Лесной{.aj} {.MA}житель{.nn} Эонир" />
+    <string id="str_spc_notable_eonir_rural_2" text="{.MA}Лесной{.aj} {.MA}житель{.nn} Эонир" />
+    <string id="str_spc_notable_eonir_merch1" text="{.MA}Язвительный{.aj} эонирский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_eonir_merch2" text="{.MA}Резкий{.aj} эонирский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_eonir_merch3" text="{.MA}Дерзкий{.aj} эонирский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_eonir_merch4" text="{.MA}Тихий{.aj} эонирский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_eonir_merch5" text="{FIRSTNAME} {.MA}Управляющий{.nn}" />
+    <string id="str_spc_eonir_gangleader_1" text="{.MA}Главарь{.nn} лесных разбойников" />
+    <string id="str_spc_eonir_gangleader_2" text="{.FA}Атаманша{.nn} лесных разбойников" />
+    <string id="str_spc_eonir_gangleader_3" text="{.MA}Вожак{.nn} лесных разбойников" />
+    <string id="str_eonir_headman_1" text="{.MA}Мятежный{.aj} лаурелорнский{.aj} {.MA}староста{.nn}" />
+    <string id="str_eonir_headman_2" text="{.MA}Консервативный{.aj} лаурелорнский{.aj} {.MA}староста{.nn}" />
+    <string id="str_eonir_headman_3" text="{.MA}Коварный{.aj} лаурелорнский{.aj} {.MA}староста{.nn}" />
+    <string id="str_prison_guard_eonir" text="{.MA}Страж{.nn} Лаурелорна" />
+    <string id="str_townsman_eonir" text="{.MA}Житель{.nn} Лаурелорна" />
+    <string id="str_townswoman_eonir" text="{.FA}Жительница{.nn} Лаурелорна" />
+    <string id="str_villager_eonir" text="{.MA}Лаурелорнский{.aj} {.MA}селянин{.nn}" />
+    <string id="str_village_woman_eonir" text="{.FA}Лаурелорнский{.aj} {.FA}селянка{.nn}" />
+    <string id="str_merchant_eonir" text="{.MA}Эонирский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_blacksmith_eonir" text="{.MA}Кузнец{.nn} Эонир" />
+    <string id="str_weaponsmith_eonir" text="{.MA}Оружейник{.nn} Эонир" />
+    <string id="str_armorer_eonir" text="{.MA}Бронник{.nn} Эонир" />
+    <string id="str_horseMerchane_eonir" text="{.MA}Торговец{.nn} конями Эонир" />
+    <string id="str_tavernkeeper_eonir" text="{.MA}Хозяин{.nn} таверны Эонир" />
+    <string id="str_taverngamehose_eonir" text="{.MA}Распорядитель{.nn} игр" />
+    <string id="str_tournament_master_eonir" text="{.MA}Мастер{.nn} состязаний" />
+    <string id="str_musician_eonir" text="{.MA}Бард{.nn} Эонир" />
+    <string id="str_dancer_eonir" text="Танцор {.MA}Эонир{.nn}" />
+    <string id="str_wench_eonir" text="{.FA}Подавальщица{.nn} Эонир" />
+    <string id="str_barber_eonir" text="{.MA}Цирюльник{.nn} Эонир" />
+    <string id="str_shop_worker_eonir" text="{.MA}Лавочник{.nn} Лаурелорна" />
+    <string id="str_artisan_notary_eonir" text="{.MA}Заверитель{.nn} ремесла Эонир" />
+    <string id="str_merchant_notary_eonir" text="{.MA}Заверитель{.nn} торговли Эонир" />
+    <string id="str_rural_notable_notary_eonir" text="{.MA}Сельский{.aj} {.MA}заверитель{.nn} Эонир" />
+    <string id="str_ransom_broker_eonir" text="{.MA}Посредник{.nn} выкупа Эонир" />
+    <string id="str_gangleader_bodyguard_eonir" text="{.MA}Телохранитель{.nn} главаря" />
+    <string id="str_horseMerchant_eonir" text="{.MA}Эонир-Коновод{.nn}" />
+    <string id="str_taverngamehost_eonir" text="{.MA}Эонир-Распорядитель{.nn} таверны" />
   </strings>
 </base>

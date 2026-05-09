@@ -4,24 +4,24 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_spc_notable_mousillon_1" text="{FIRSTNAME} Хранительница склада" />
-    <string id="str_spc_notable_mousillon_1b" text="{FIRSTNAME} Наследница" />
-    <string id="str_spc_notable_mousillon_2" text="Пуританский проповедник" />
-    <string id="str_spc_notable_mousillon_3" text="Мятежная проповедница" />
-    <string id="str_spc_mousillon_gangleader_1" text="Главарь банды" />
-    <string id="str_spc_mousillon_gangleader_2" text="Атаманша банды" />
-    <string id="str_spc_mousillon_gangleader_3" text="Вожак банды" />
-    <string id="str_spc_notable_mousillon_artisan_1" text="Музильонский ремесленник" />
-    <string id="str_spc_notable_mousillon_artisan_2" text="Музильонский ремесленник" />
-    <string id="str_spc_notable_mousillon_rural_1" text="Музильонский йомен" />
-    <string id="str_spc_notable_mousillon_rural_2" text="Музильонский йомен" />
-    <string id="str_spc_mousillon_headman_1" text="Мятежный староста" />
-    <string id="str_spc_mousillon_headman_2" text="Консервативный староста" />
-    <string id="str_spc_mousillon_headman_3" text="Коварный староста" />
-    <string id="str_spc_notable_mousillon_merch1" text="Язвительный музильонский торговец" />
-    <string id="str_spc_notable_mousillon_merch2" text="Резкий музильонский торговец" />
-    <string id="str_spc_notable_mousillon_merch3" text="Дерзкий музильонский торговец" />
-    <string id="str_spc_notable_mousillon_merch4" text="Тихий музильонский торговец" />
-    <string id="str_spc_notable_mousillon_merch5" text="{FIRSTNAME} Ключник" />
+    <string id="str_spc_notable_mousillon_1" text="{FIRSTNAME} {.FA}Хранительница{.nn} склада" />
+    <string id="str_spc_notable_mousillon_1b" text="{FIRSTNAME} {.FA}Наследница{.nn}" />
+    <string id="str_spc_notable_mousillon_2" text="{.MA}Пуританский{.aj} {.MA}проповедник{.nn}" />
+    <string id="str_spc_notable_mousillon_3" text="{.FA}Мятежный{.aj} {.FA}проповедница{.nn}" />
+    <string id="str_spc_mousillon_gangleader_1" text="{.MA}Главарь{.nn} банды" />
+    <string id="str_spc_mousillon_gangleader_2" text="{.FA}Атаманша{.nn} банды" />
+    <string id="str_spc_mousillon_gangleader_3" text="{.MA}Вожак{.nn} банды" />
+    <string id="str_spc_notable_mousillon_artisan_1" text="{.MA}Музильонский{.aj} {.MA}ремесленник{.nn}" />
+    <string id="str_spc_notable_mousillon_artisan_2" text="{.MA}Музильонский{.aj} {.MA}ремесленник{.nn}" />
+    <string id="str_spc_notable_mousillon_rural_1" text="{.MA}Музильонский{.aj} {.MA}йомен{.nn}" />
+    <string id="str_spc_notable_mousillon_rural_2" text="{.MA}Музильонский{.aj} {.MA}йомен{.nn}" />
+    <string id="str_spc_mousillon_headman_1" text="{.MA}Мятежный{.aj} {.MA}староста{.nn}" />
+    <string id="str_spc_mousillon_headman_2" text="{.MA}Консервативный{.aj} {.MA}староста{.nn}" />
+    <string id="str_spc_mousillon_headman_3" text="{.MA}Коварный{.aj} {.MA}староста{.nn}" />
+    <string id="str_spc_notable_mousillon_merch1" text="{.MA}Язвительный{.aj} музильонский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_mousillon_merch2" text="{.MA}Резкий{.aj} музильонский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_mousillon_merch3" text="{.MA}Дерзкий{.aj} музильонский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_mousillon_merch4" text="{.MA}Тихий{.aj} музильонский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_spc_notable_mousillon_merch5" text="{FIRSTNAME} {.MA}Ключник{.nn}" />
   </strings>
 </base>

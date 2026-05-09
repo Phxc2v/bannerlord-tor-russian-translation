@@ -527,7 +527,7 @@
     <string id="bretonnia_female_name_55" text="Бригитте" />
     <string id="bretonnia_female_name_209" text="Примевеире" />
     <string id="empire_male_230" text="Гиселхер" />
-    <string id="bretonnia_female_name_2" text="Аилионóра" />
+    <string id="bretonnia_female_name_2" text="Алиенора" />
     <string id="bretonnia_female_name_170" text="Йоханна" />
     <string id="empire_male_643" text="Роберт" />
     <string id="empire_male_569" text="Осрик" />
@@ -663,7 +663,7 @@
     <string id="empire_female_393" text="Зена" />
     <string id="empire_male_618" text="Ранфелд" />
     <string id="empire_male_491" text="Лутолф" />
-    <string id="empire_male_684" text="Сиегфриед" />
+    <string id="empire_male_684" text="Зигфрид" />
     <string id="empire_male_646" text="Ролф" />
     <string id="str_tor_greenskins_clan_name_51" text="Племя Бешеной Ветки" />
     <string id="empire_male_356" text="Хергард" />
@@ -926,7 +926,7 @@
     <string id="empire_male_485" text="Лукас" />
     <string id="empire_male_466" text="Либнико" />
     <string id="empire_female_281" text="Лифилт" />
-    <string id="bretonnia_male_name_154" text="Лоуен" />
+    <string id="bretonnia_male_name_154" text="Луэн" />
     <string id="empire_male_176" text="Ернестус" />
     <string id="empire_male_199" text="Фриебалд" />
     <string id="bretonnia_male_name_5" text="Андре" />
@@ -1165,7 +1165,7 @@
     <string id="empire_male_577" text="Отто" />
     <string id="bretonnia_male_name_99" text="Фирматус" />
     <string id="str_tor_eonirfaction" text="Эонир" />
-    <string id="empire_male_247" text="Готтфриедус" />
+    <string id="empire_male_247" text="Готфридус" />
     <string id="empire_male_141" text="Екехарт" />
     <string id="empire_male_289" text="Халперт" />
     <string id="bretonnia_male_name_48" text="Бернер" />
@@ -1266,7 +1266,7 @@
     <string id="bretonnia_female_name_125" text="Еустакие" />
     <string id="empire_male_208" text="Гебехардт" />
     <string id="bretonnia_male_name_29" text="Алвери" />
-    <string id="bretonnia_male_name_53" text="Бохемонд" />
+    <string id="bretonnia_male_name_53" text="Боэмонд" />
     <string id="empire_male_701" text="Талеуте" />
     <string id="bretonnia_female_name_24" text="Адвиге" />
     <string id="empire_female_105" text="Елене" />
@@ -1784,7 +1784,7 @@
     <string id="empire_male_78" text="Беролд" />
     <string id="dwarf_male_name_17" text="Бриннот" />
     <string id="wood_elf_male_name_149" text="Варандир" />
-    <string id="empire_male_324" text="Хеинрич" />
+    <string id="empire_male_324" text="Генрих" />
     <string id="str_tor_chaos_female_name_2" text="Беллона" />
     <string id="empire_female_267" text="Кунегунде" />
     <string id="greenskins_male_name_143" text="Загструк" />

@@ -4,28 +4,28 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_tor_eo_arrows_stealth" text="Стрелы призрачного всадника" />
-    <string id="str_tor_neutral_weapon_ammo_broken_weapon" text="Сломанное оружие" />
+    <string id="str_tor_eo_arrows_stealth" text="{.FI}Стрелы{.nnp} призрачного всадника" />
+    <string id="str_tor_neutral_weapon_ammo_broken_weapon" text="{.NI}Сломанный{.aj} {.NI}оружие{.nn}" />
     <string id="str_TheGreenEye" text="Зелёный глаз" />
-    <string id="str_tor_neutral_weapon_ammo_musket_ball" text="Пули Мушкета" />
-    <string id="str_tor_orc_arrow_003" text="Тяжёлые Орк-Стрелы" />
-    <string id="str_tor_orc_arrow_001" text="Костяные Орк-Стрелы" />
-    <string id="str_tor_neutral_weapon_ammo_silver_bullet" text="Серебряные пули" />
-    <string id="str_tor_neutral_weapon_ammo_steel_musket_ball" text="Стальные Пули Мушкета" />
-    <string id="str_tor_dw_iron_drake_trollhammer_torpedo" text="Торпеда Молота Троллей" />
-    <string id="str_tor_orc_arrow_002" text="Орк-Стрелы с Кишками" />
-    <string id="str_tor_we_arrows_ofpotency" text="Стрелы могущества" />
-    <string id="str_tor_dw_weapon_ammo_buckshot" text="Гранёная пуля дворфа" />
-    <string id="str_tor_neutral_weapon_ammo_cannonball" text="Пуля из пушки" />
-    <string id="str_tor_dw_weapon_grenade_hand_grenade" text="Дворфские бомбы-искры" />
-    <string id="str_tor_we_arrows_stealth" text="Стрелы путника" />
-    <string id="str_tor_dw_weapon_blasting_charges" text="Дворфские взрывчатые заряды" />
-    <string id="str_tor_neutral_weapon_ammo_stone_musket_ball" text="Каменные Пули Мушкета" />
+    <string id="str_tor_neutral_weapon_ammo_musket_ball" text="{.FI}Пули{.nnp} Мушкета" />
+    <string id="str_tor_orc_arrow_003" text="{.FI}Тяжёлый{.ajp} орочий{.ajp} {.FI}стрелы{.nnp}" />
+    <string id="str_tor_orc_arrow_001" text="{.FI}Костяной{.ajp} орочий{.ajp} {.FI}стрелы{.nnp}" />
+    <string id="str_tor_neutral_weapon_ammo_silver_bullet" text="{.FI}Серебряный{.ajp} {.FI}пули{.nnp}" />
+    <string id="str_tor_neutral_weapon_ammo_steel_musket_ball" text="{.FI}Стальный{.ajp} {.FI}Пули{.nnp} Мушкета" />
+    <string id="str_tor_dw_iron_drake_trollhammer_torpedo" text="{.FI}Торпеда{.nn} Молота Троллей" />
+    <string id="str_tor_orc_arrow_002" text="{.FI}Орочий{.ajp} {.FI}стрелы{.nnp} с кишками" />
+    <string id="str_tor_we_arrows_ofpotency" text="{.FI}Стрелы{.nnp} могущества" />
+    <string id="str_tor_dw_weapon_ammo_buckshot" text="{.FI}Гранёный{.aj} {.FI}пуля{.nn} дворфа" />
+    <string id="str_tor_neutral_weapon_ammo_cannonball" text="{.FI}Пуля{.nn} из пушки" />
+    <string id="str_tor_dw_weapon_grenade_hand_grenade" text="{.FI}Дворфский{.ajp} {.FI}бомбы-искры{.nnp}" />
+    <string id="str_tor_we_arrows_stealth" text="{.FI}Стрелы{.nnp} путника" />
+    <string id="str_tor_dw_weapon_blasting_charges" text="{.MI}Дворфский{.ajp} взрывчатый{.ajp} {.MI}заряды{.nnp}" />
+    <string id="str_tor_neutral_weapon_ammo_stone_musket_ball" text="{.FI}Каменный{.ajp} {.FI}Пули{.nnp} Мушкета" />
     <string id="str_AmberSpear" text="Янтарное Копьё" />
-    <string id="str_tor_neutral_weapon_ammo_musket_ball_scatter" text="Дробь для мушкетов" />
-    <string id="str_tor_dw_weapon_ammo_musket_ball" text="Пули мушкета дворфа" />
-    <string id="str_tor_empire_weapon_ammo_grenade" text="Гранаты" />
-    <string id="str_tor_we_tournament_arrows" text="Древние эльфийские турнирные стрелы" />
-    <string id="str_tor_dw_drakegun_canister" text="Контейнер для дракопушки" />
+    <string id="str_tor_neutral_weapon_ammo_musket_ball_scatter" text="{.FI}Дробь{.nn} для мушкетов" />
+    <string id="str_tor_dw_weapon_ammo_musket_ball" text="{.FI}Пули{.nnp} мушкета дворфа" />
+    <string id="str_tor_empire_weapon_ammo_grenade" text="{.FI}Гранаты{.nnp}" />
+    <string id="str_tor_we_tournament_arrows" text="{.FI}Древний{.ajp} эльфийский{.ajp} турнирный{.ajp} {.FI}стрелы{.nnp}" />
+    <string id="str_tor_dw_drakegun_canister" text="{.MI}Контейнер{.nn} для дракопушки" />
   </strings>
 </base>

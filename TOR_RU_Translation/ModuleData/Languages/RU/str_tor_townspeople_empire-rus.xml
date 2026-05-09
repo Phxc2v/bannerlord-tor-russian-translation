@@ -5,34 +5,34 @@
   </tags>
   <strings>
     <!-- encoding-note: QHYyUGhvZW5peA== -->
-    <string id="XgjXfmM1" text="Тюремный охранник" />
-    <string id="muu5cofb" text="Горожанин" />
-    <string id="thbcgVVO" text="Торговец" />
-    <string id="str_tor_notable_empire_0" text="Осторожный имперский торговец" />
-    <string id="str_tor_notable_empire_0b" text="{FIRSTNAME} Винодел" />
-    <string id="str_tor_notable_empire_1" text="Беспощадный имперский торговец" />
-    <string id="str_tor_notable_empire_1b" text="Хладнокровный имперский торговец" />
-    <string id="str_tor_notable_empire_2" text="{FIRSTNAME} Солевар" />
-    <string id="str_tor_notable_empire_2b" text="Осмотрительный имперский торговец" />
-    <string id="str_tor_notable_empire_3" text="Имперский торговец-самоучка" />
-    <string id="str_tor_notable_empire_3b" text="Весёлый имперский торговец" />
-    <string id="str_tor_notable_empire_4" text="{FIRSTNAME} Наследница" />
-    <string id="str_tor_notable_empire_4b" text="Коварная имперская торговка" />
-    <string id="str_tor_notable_empire_5" text="Имперский проповедник-мессия" />
-    <string id="str_tor_notable_empire_6" text="Имперский проповедник-пуританин" />
-    <string id="str_tor_notable_empire_7" text="Имперская мистичка" />
-    <string id="str_tor_notable_empire_8" text="Грубый имперский старшина мастеровых" />
-    <string id="str_tor_notable_empire_9" text="Общительный имперский старшина мастеровых" />
-    <string id="str_tor_notable_empire_gl1" text="Покровительствующий имперский главарь банды" />
-    <string id="str_tor_notable_empire_gl4" text="Звероподобный имперский главарь банды" />
-    <string id="str_tor_notable_empire_10" text="Язвительный имперский главарь банды" />
-    <string id="str_tor_notable_empire_11" text="Угрожающий имперский главарь банды" />
-    <string id="str_tor_notable_empire_12" text="Имперская атаманша банды" />
-    <string id="str_tor_notable_empire_13" text="Грозная имперская атаманша банды" />
-    <string id="str_tor_notable_empire_21" text="Грубый имперский селянин" />
-    <string id="str_tor_notable_empire_22" text="Дружелюбный имперский селянин" />
-    <string id="str_tor_empire_headman_1" text="Мятежный имперский староста" />
-    <string id="str_tor_empire_headman_2" text="Консервативный имперский староста" />
-    <string id="str_tor_empire_headman_3" text="Коварный имперский староста" />
+    <string id="XgjXfmM1" text="{.MA}Тюремный{.aj} {.MA}охранник{.nn}" />
+    <string id="muu5cofb" text="{.MA}Горожанин{.nn}" />
+    <string id="thbcgVVO" text="{.MA}Торговец{.nn}" />
+    <string id="str_tor_notable_empire_0" text="{.MA}Осторожный{.aj} имперский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_empire_0b" text="{FIRSTNAME} {.MA}Винодел{.nn}" />
+    <string id="str_tor_notable_empire_1" text="{.MA}Беспощадный{.aj} имперский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_empire_1b" text="{.MA}Хладнокровный{.aj} имперский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_empire_2" text="{FIRSTNAME} {.MA}Солевар{.nn}" />
+    <string id="str_tor_notable_empire_2b" text="{.MA}Осмотрительный{.aj} имперский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_empire_3" text="{.MA}Имперский{.aj} {.MA}торговец-самоучка{.nn}" />
+    <string id="str_tor_notable_empire_3b" text="{.MA}Весёлый{.aj} имперский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_empire_4" text="{FIRSTNAME} {.FA}Наследница{.nn}" />
+    <string id="str_tor_notable_empire_4b" text="{.FA}Коварный{.aj} имперский{.aj} {.FA}торговка{.nn}" />
+    <string id="str_tor_notable_empire_5" text="{.MA}Имперский{.aj} {.MA}проповедник-мессия{.nn}" />
+    <string id="str_tor_notable_empire_6" text="{.MA}Имперский{.aj} {.MA}проповедник-пуританин{.nn}" />
+    <string id="str_tor_notable_empire_7" text="{.FA}Имперский{.aj} {.FA}мистичка{.nn}" />
+    <string id="str_tor_notable_empire_8" text="{.MA}Грубый{.aj} имперский{.aj} {.MA}старшина{.nn} мастеровых" />
+    <string id="str_tor_notable_empire_9" text="{.MA}Общительный{.aj} имперский{.aj} {.MA}старшина{.nn} мастеровых" />
+    <string id="str_tor_notable_empire_gl1" text="{.MA}Покровительствующий{.aj} имперский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_empire_gl4" text="{.MA}Звероподобный{.aj} имперский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_empire_10" text="{.MA}Язвительный{.aj} имперский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_empire_11" text="{.MA}Угрожающий{.aj} имперский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_empire_12" text="{.FA}Имперский{.aj} {.FA}атаманша{.nn} банды" />
+    <string id="str_tor_notable_empire_13" text="{.FA}Грозный{.aj} имперский{.aj} {.FA}атаманша{.nn} банды" />
+    <string id="str_tor_notable_empire_21" text="{.MA}Грубый{.aj} имперский{.aj} {.MA}селянин{.nn}" />
+    <string id="str_tor_notable_empire_22" text="{.MA}Дружелюбный{.aj} имперский{.aj} {.MA}селянин{.nn}" />
+    <string id="str_tor_empire_headman_1" text="{.MA}Мятежный{.aj} имперский{.aj} {.MA}староста{.nn}" />
+    <string id="str_tor_empire_headman_2" text="{.MA}Консервативный{.aj} имперский{.aj} {.MA}староста{.nn}" />
+    <string id="str_tor_empire_headman_3" text="{.MA}Коварный{.aj} имперский{.aj} {.MA}староста{.nn}" />
   </strings>
 </base>

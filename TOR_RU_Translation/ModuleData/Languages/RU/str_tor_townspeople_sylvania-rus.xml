@@ -4,31 +4,31 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_tor_notable_sylvania_0" text="Осторожный сильванский торговец" />
-    <string id="str_tor_notable_sylvania_0b" text="{FIRSTNAME} Виноторговец" />
-    <string id="str_tor_notable_sylvania_1" text="Беспощадный сильванский торговец" />
-    <string id="str_tor_notable_sylvania_1b" text="Хладнокровный сильванский торговец" />
-    <string id="str_tor_notable_sylvania_2" text="{FIRSTNAME} Солевар" />
-    <string id="str_tor_notable_sylvania_2b" text="Осмотрительный сильванский торговец" />
-    <string id="str_tor_notable_sylvania_3" text="Сильванский торговец-самоучка" />
-    <string id="str_tor_notable_sylvania_3b" text="Весёлый сильванский торговец" />
-    <string id="str_tor_notable_sylvania_4" text="{FIRSTNAME} Наследница" />
-    <string id="str_tor_notable_sylvania_4b" text="Коварная сильванская торговка" />
-    <string id="str_tor_notable_sylvania_5" text="Проповедник Морра" />
-    <string id="str_tor_notable_sylvania_6" text="Сильванский некромантский культист" />
-    <string id="str_tor_notable_sylvania_7" text="Сильванская мистичка" />
-    <string id="str_tor_notable_sylvania_8" text="Грубый сильванский старшина мастеровых" />
-    <string id="str_tor_notable_sylvania_9" text="Общительный сильванский старшина мастеровых" />
-    <string id="str_tor_notable_sylvania_gl1" text="Покровительствующий сильванский главарь банды" />
-    <string id="str_tor_notable_sylvania_gl4" text="Звероподобный сильванский главарь банды" />
-    <string id="str_tor_notable_sylvania_10" text="Язвительный сильванский главарь банды" />
-    <string id="str_tor_notable_sylvania_11" text="Угрожающий сильванский главарь банды" />
-    <string id="str_tor_notable_sylvania_12" text="Сильванская атаманша банды" />
-    <string id="str_tor_notable_sylvania_13" text="Грозная сильванская атаманша банды" />
-    <string id="str_tor_notable_sylvania_21" text="Грубый сильванский селянин" />
-    <string id="str_tor_notable_sylvania_22" text="Дружелюбный сильванский селянин" />
-    <string id="str_tor_sylvania_headman_1" text="Мятежный сильванский староста" />
-    <string id="str_tor_sylvania_headman_2" text="Консервативный сильванский староста" />
-    <string id="str_tor_sylvania_headman_3" text="Коварный сильванский староста" />
+    <string id="str_tor_notable_sylvania_0" text="{.MA}Осторожный{.aj} сильванский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_sylvania_0b" text="{FIRSTNAME} {.MA}Виноторговец{.nn}" />
+    <string id="str_tor_notable_sylvania_1" text="{.MA}Беспощадный{.aj} сильванский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_sylvania_1b" text="{.MA}Хладнокровный{.aj} сильванский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_sylvania_2" text="{FIRSTNAME} {.MA}Солевар{.nn}" />
+    <string id="str_tor_notable_sylvania_2b" text="{.MA}Осмотрительный{.aj} сильванский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_sylvania_3" text="{.MA}Сильванский{.aj} {.MA}торговец-самоучка{.nn}" />
+    <string id="str_tor_notable_sylvania_3b" text="{.MA}Весёлый{.aj} сильванский{.aj} {.MA}торговец{.nn}" />
+    <string id="str_tor_notable_sylvania_4" text="{FIRSTNAME} {.FA}Наследница{.nn}" />
+    <string id="str_tor_notable_sylvania_4b" text="{.FA}Коварный{.aj} сильванский{.aj} {.FA}торговка{.nn}" />
+    <string id="str_tor_notable_sylvania_5" text="{.MA}Проповедник{.nn} Морра" />
+    <string id="str_tor_notable_sylvania_6" text="{.MA}Сильванский{.aj} некромантский{.aj} {.MA}культист{.nn}" />
+    <string id="str_tor_notable_sylvania_7" text="{.FA}Сильванский{.aj} {.FA}мистичка{.nn}" />
+    <string id="str_tor_notable_sylvania_8" text="{.MA}Грубый{.aj} сильванский{.aj} {.MA}старшина{.nn} мастеровых" />
+    <string id="str_tor_notable_sylvania_9" text="{.MA}Общительный{.aj} сильванский{.aj} {.MA}старшина{.nn} мастеровых" />
+    <string id="str_tor_notable_sylvania_gl1" text="{.MA}Покровительствующий{.aj} сильванский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_sylvania_gl4" text="{.MA}Звероподобный{.aj} сильванский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_sylvania_10" text="{.MA}Язвительный{.aj} сильванский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_sylvania_11" text="{.MA}Угрожающий{.aj} сильванский{.aj} {.MA}главарь{.nn} банды" />
+    <string id="str_tor_notable_sylvania_12" text="{.FA}Сильванский{.aj} {.FA}атаманша{.nn} банды" />
+    <string id="str_tor_notable_sylvania_13" text="{.FA}Грозный{.aj} сильванский{.aj} {.FA}атаманша{.nn} банды" />
+    <string id="str_tor_notable_sylvania_21" text="{.MA}Грубый{.aj} сильванский{.aj} {.MA}селянин{.nn}" />
+    <string id="str_tor_notable_sylvania_22" text="{.MA}Дружелюбный{.aj} сильванский{.aj} {.MA}селянин{.nn}" />
+    <string id="str_tor_sylvania_headman_1" text="{.MA}Мятежный{.aj} сильванский{.aj} {.MA}староста{.nn}" />
+    <string id="str_tor_sylvania_headman_2" text="{.MA}Консервативный{.aj} сильванский{.aj} {.MA}староста{.nn}" />
+    <string id="str_tor_sylvania_headman_3" text="{.MA}Коварный{.aj} сильванский{.aj} {.MA}староста{.nn}" />
   </strings>
 </base>

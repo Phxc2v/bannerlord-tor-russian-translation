@@ -4,583 +4,583 @@
     <tag language="Русский"/>
   </tags>
   <strings>
-    <string id="str_vc_skeleton_warrior_mace_004_handle" text="Древко скелетной булавы" />
-    <string id="str_empire_morr_scythe_003_pole" text="Древко косы Морра" />
-    <string id="str_skeleton_warrior_sword_004_guard" text="Гарда скелетного меча 004" />
-    <string id="str_reiksguard_knight_sword_002_pommel" text="Навершие Меча Рыцаря Рейксгвардии" />
-    <string id="str_we_sword_002_blade" text="Древний Эльфийный Клинок" />
+    <string id="str_vc_skeleton_warrior_mace_004_handle" text="{.NI}Древко{.nn} скелетной булавы" />
+    <string id="str_empire_morr_scythe_003_pole" text="{.NI}Древко{.nn} косы Морра" />
+    <string id="str_skeleton_warrior_sword_004_guard" text="{.FI}Гарда{.nn} скелетного меча 004" />
+    <string id="str_reiksguard_knight_sword_002_pommel" text="{.NI}Навершие{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_we_sword_002_blade" text="{.MI}Древний{.aj} эльфийный{.aj} {.MI}Клинок{.nn}" />
 <!-- loc-checksum: QHYyUGhvZW5peA== -->
-    <string id="str_reiksguard_knight_lance_guard_001" text="Гарда копья рыцаря Рейксгарда" />
-    <string id="str_beastmen_ungor_axe_004_handle" text="Древко топора Унгора" />
-    <string id="str_beastmen_ungor_sword_003_handle" text="Рукоять меча Унгора" />
-    <string id="str_skeleton_spear_shaft" text="Старое древко копья" />
-    <string id="str_bret_squire_longsword_001_handle" text="Рукоять Меча-Клинка Бретонского Рыцаря" />
-    <string id="str_greenskin_orc_boss_axe_002_blade" text="Клинок Рубила Орк-Босса" />
-    <string id="str_bretonnian_trident_spear_shaft" text="Бретонское древко тризды" />
-    <string id="str_skeleton_warrior_sword_002_blade" text="Клинок скелетного меча воина" />
-    <string id="str_empire_huss_hammer_head" text="Наконечник молота Лютора Хусса" />
-    <string id="str_bret_squire_longsword_003_pommel" text="Навершие большого меча Бретонского оруженосца 003" />
-    <string id="str_jousting_lance_handle_small1" text="Древко турнирного копья (малое)" />
-    <string id="str_beastmen_ungor_spear_002_head" text="Наконечник копья Унгора" />
-    <string id="str_vc_halberd_003_head" text="Старая Голова Алебарды" />
-    <string id="str_we_wildrider_spear_001_shaft" text="Древко копья Вайдрайдера" />
-    <string id="str_chaos_sword_01_handle" text="Рукоять хаосного меча" />
-    <string id="str_skeleton_warrior_sword_001_pommel" text="Навершие скелетного меча воина" />
-    <string id="str_dwarf_two_handed_axe_001_head" text="Клинок топора Громбриндала с рунами" />
-    <string id="str_vampire_sword_006_guard" text="Гарда Меча Вампира" />
-    <string id="str_greenskin_weapon_2h_sword_001_handle" text="Рукоять Большой Орк-Рубаки Бигги" />
-    <string id="str_beastmen_ungor_sword_001_handle" text="Рукоять меча Унгора" />
-    <string id="str_skeleton_warrior_sword_002_hilt" text="Рукоять скелетного меча воина" />
-    <string id="str_reiksguard_knight_sword_002_guard" text="Гарда Меча Рыцаря Рейксгвардии" />
-    <string id="str_bretonnian_halberd_002_head" text="Наконечник бретонского вульжиера" />
-    <string id="str_beastmen_ungor_axe_002_blade" text="Клинок топора Унгора" />
-    <string id="str_chs_flail_mace_001_blade" text="Клинок Булавы Хаоса" />
-    <string id="str_skeleton_warrior_sword_001_guard" text="Гарда скелетного меча воина" />
-    <string id="str_bret_squire_longsword_001_blade" text="Клинок Меча-Клинка Бретонского Рыцаря" />
-    <string id="str_holy_silver_hammer_head" text="Наконечник Священного Серебряного Молота" />
-    <string id="str_bretonnian_greatsword_001_pommel" text="Навершие Бретонского Меча-Клинка" />
-    <string id="str_de_sword_001_handle" text="Тёмноэльфийская рукоять меча" />
-    <string id="str_he_whitelion_2h_axe_001_blade" text="Клинок белого льва высоких эльфов" />
-    <string id="str_bret_axe_of_brionne_handle" text="Древко бретонского топора Брионн" />
-    <string id="str_dwarf_two_handed_axe_005_handle" text="Древко Громадного Топора Дворфа с Крыльями" />
-    <string id="str_bretonnian_jousting_lance_blade_002" text="Бретонский наконечник для копья-пики" />
-    <string id="str_beastmen_ungor_spear_004_shaft" text="Древко копья Унгора" />
-    <string id="str_black_knight_lance_001_handle" text="Древко копья Чёрного Рыцаря" />
-    <string id="str_reiksguard_circle_sword_002_guard" text="Гарда Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_de_spear_001_head" text="Наконечник Тёмного Эльфийского Копья" />
-    <string id="str_dwarf_1h_axe_001_handle" text="Древко орнаментированного топора дворфа" />
-    <string id="str_black_knight_lance_001_blade" text="Клинок копья Чёрного Рыцаря" />
-    <string id="str_dwarf_2h_hammer_007_head" text="Наконечник Рельефного Громового Молота" />
-    <string id="str_vampire_sword_006_blade" text="Клинок Меча Вампира" />
-    <string id="str_runefang_001_pommel" text="Навершие Руненфэнга" />
-    <string id="str_lance_iron_handle" text="Железное древко копья" />
-    <string id="str_beastmen_ungor_axe_002_handle" text="Рукоять топора Унгора" />
-    <string id="str_bw_staff_001_head" text="Головка палочки яркого мага" />
-    <string id="str_vampire_sword_001_blade" text="Клинок вампирского меча" />
-    <string id="str_empire_rapier_002_handle" text="Рукоять Рапиры Империи" />
-    <string id="str_vampire_sword_009_blade" text="Клинок вампирского меча" />
-    <string id="str_dwarf_one_handed_axes_006_handle" text="Древко топора дворфа" />
-    <string id="str_reiksguard_knight_lance_pommel_001" text="Навершие копья рыцаря Рейксгарда" />
-    <string id="str_chaos_sword_01_blade" text="Клинок хаосного меча" />
-    <string id="str_nurgle_hammer_001_head" text="Наконечник Молота Нургла" />
-    <string id="str_black_axe_of_krell_head" text="Наконечник чёрного топора Крелла" />
-    <string id="str_greenskin_weapon_sword_001_blade" text="Клинок Рубаки Орк-Пацана" />
-    <string id="str_empire_rapier_002_blade" text="Клинок Рапиры Империи" />
-    <string id="str_bretonnian_sword_001_pommel" text="Бретонское навершие меча" />
-    <string id="str_empire_greatsword_002_guard" text="Гарда Имперского Меча-Мечника 002" />
-    <string id="str_wp_hammer_001_head" text="Головка Молота Жреца Воина" />
-    <string id="str_bretonnian_jousting_lance_blade_003" text="Бретонский наконечник для копья-пики" />
-    <string id="str_reiksguard_knight_sword_002_handle" text="Рукоять Меча Рыцаря Рейксгвардии" />
-    <string id="str_vc_skeleton_warrior_mace_004_blade" text="Головка скелетной булавы" />
-    <string id="str_chs_flail_mace_001_handle" text="Рукоять Хаотической Булавы" />
-    <string id="str_greenskin_weapon_2h_axe_002_head" text="Лезвие Большого Орк-Рубила" />
-    <string id="str_empire_greatsword_001_pommel" text="Навершие Имперского Меча-Молота" />
-    <string id="str_chaos_ud_lance_blade_001" text="Клинок хаосного копья" />
-    <string id="str_dwarf_one_handed_axes_007_head" text="Голова дворфского топора с гравировкой" />
-    <string id="str_chaos_ud_lance_handle_001" text="Древко хаосного копья" />
-    <string id="str_dwarf_2h_spanner_001_handle" text="Древко Дворфа-гаечного ключа" />
-    <string id="str_dwarf_1h_engineer_hammer_001_head" text="Наконечник Молота Инженера" />
-    <string id="str_bw_staff_001_handle" text="Рукоять палочки яркого мага" />
-    <string id="str_greenskin_weapon_sword_002_pommel" text="Навершие Рубаки Орк-Пацана" />
-    <string id="str_dwarf_2h_klad_brakak_head" text="Головка Клада Бракак" />
-    <string id="str_greenskin_weapon_mace_001_handle" text="Рукоять Орк-Дробилки" />
-    <string id="str_vampire_sword_003_handle" text="Рукоять вампирского меча" />
-    <string id="str_beastmen_ungor_axe_004_blade" text="Головка топора Унгора" />
-    <string id="str_empire_rapier_004_handle" text="Рукоять рапиры Империи" />
-    <string id="str_chaos_sword_01_pommel" text="Навершие хаосного меча" />
-    <string id="str_bretonnian_sword_002_pommel" text="Бретонское навершие меча" />
-    <string id="str_bretonnian_sword_001_blade" text="Клинок бретонского меча" />
-    <string id="str_vampire_sword_004_guard" text="Гарда вампирского меча" />
-    <string id="str_warboss_mace_2h_001_handle" text="Древко Булавы Вожака 'Андле' с шипами" />
-    <string id="str_greenskin_weapon_sword_001_handle" text="Рукоять Рубаки Орк-Пацана" />
-    <string id="str_magic_orb_head" text="Магическая сфера" />
-    <string id="str_empire_spear_002_head" text="Наконечник копья Империи" />
-    <string id="str_runefang_001_blade" text="Клинок Руненфэнга" />
-    <string id="str_jousting_lance_guard_long_colored_redwhite" text="Цветная гарда копья для турниров (красная/белая)" />
-    <string id="str_dwarf_2h_pickaxe_004_head" text="Головка дворфской лопаты 004" />
-    <string id="str_empire_rapier_004_guard" text="Гарда рапиры Империи" />
-    <string id="str_jousting_lance_pommel" text="Навершие копья для турниров" />
-    <string id="str_vampire_sword_002_blade" text="Клинок вампирского меча" />
-    <string id="str_wp_twohanded_hammer_003_head" text="Головка Двуручного Молота Воина-Жреца" />
-    <string id="str_mannfred_sword_blade" text="Клинок меча Маннфреда" />
-    <string id="str_bret_squire_longsword_001_pommel" text="Навершие Меча-Клинка Бретонского Рыцаря" />
-    <string id="str_wood_scythe_blade" text="Клинок деревянной косы" />
-    <string id="str_dwarf_1h_axe_of_grimnir_handle" text="Рукоять топора Гримнира" />
-    <string id="str_reiksguard_circle_sword_001_blade" text="Клинок Меча Внутреннего Круга Рейксгвардии" />
-    <string id="str_vampire_greataxe_001_handle" text="Древко вампирского топора 001" />
-    <string id="str_raven_scythe_handle" text="Древко косы Ворона" />
-    <string id="str_grave_guard_sword_001_guard" text="Гарда могильного меча 001" />
-    <string id="str_grave_guard_greatsword_001_guard" text="Гарда Меча-Мечника Могильного Стража 001" />
-    <string id="str_empire_greatsword_002_pommel" text="Навершие Имперского Меча-Мечника 002" />
+    <string id="str_reiksguard_knight_lance_guard_001" text="{.FI}Гарда{.nn} копья рыцаря Рейксгарда" />
+    <string id="str_beastmen_ungor_axe_004_handle" text="{.NI}Древко{.nn} топора Унгора" />
+    <string id="str_beastmen_ungor_sword_003_handle" text="{.FI}Рукоять{.nn} меча Унгора" />
+    <string id="str_skeleton_spear_shaft" text="{.NI}Старый{.aj} {.NI}древко{.nn} копья" />
+    <string id="str_bret_squire_longsword_001_handle" text="{.FI}Рукоять{.nn} Меча-Клинка Бретонского Рыцаря" />
+    <string id="str_greenskin_orc_boss_axe_002_blade" text="{.MI}Клинок{.nn} рубила орочьего босса" />
+    <string id="str_bretonnian_trident_spear_shaft" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} тризды" />
+    <string id="str_skeleton_warrior_sword_002_blade" text="{.MI}Клинок{.nn} скелетного меча воина" />
+    <string id="str_empire_huss_hammer_head" text="{.MI}Наконечник{.nn} молота Лютора Хусса" />
+    <string id="str_bret_squire_longsword_003_pommel" text="{.NI}Навершие{.nn} большого меча Бретонского оруженосца 003" />
+    <string id="str_jousting_lance_handle_small1" text="{.NI}Древко{.nn} турнирного копья (малое)" />
+    <string id="str_beastmen_ungor_spear_002_head" text="{.MI}Наконечник{.nn} копья Унгора" />
+    <string id="str_vc_halberd_003_head" text="{.FI}Старый{.aj} {.FI}Голова{.nn} Алебарды" />
+    <string id="str_we_wildrider_spear_001_shaft" text="{.NI}Древко{.nn} копья Вайдрайдера" />
+    <string id="str_chaos_sword_01_handle" text="{.FI}Рукоять{.nn} меча Хаоса" />
+    <string id="str_skeleton_warrior_sword_001_pommel" text="{.NI}Навершие{.nn} скелетного меча воина" />
+    <string id="str_dwarf_two_handed_axe_001_head" text="{.MI}Клинок{.nn} топора Громбриндала с рунами" />
+    <string id="str_vampire_sword_006_guard" text="{.FI}Гарда{.nn} Меча Вампира" />
+    <string id="str_greenskin_weapon_2h_sword_001_handle" text="{.FI}Рукоять{.nn} большого орочьего двуручного меча" />
+    <string id="str_beastmen_ungor_sword_001_handle" text="{.FI}Рукоять{.nn} меча Унгора" />
+    <string id="str_skeleton_warrior_sword_002_hilt" text="{.FI}Рукоять{.nn} скелетного меча воина" />
+    <string id="str_reiksguard_knight_sword_002_guard" text="{.FI}Гарда{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_bretonnian_halberd_002_head" text="{.MI}Наконечник{.nn} бретонского вульжиера" />
+    <string id="str_beastmen_ungor_axe_002_blade" text="{.MI}Клинок{.nn} топора Унгора" />
+    <string id="str_chs_flail_mace_001_blade" text="{.MI}Клинок{.nn} Булавы Хаоса" />
+    <string id="str_skeleton_warrior_sword_001_guard" text="{.FI}Гарда{.nn} скелетного меча воина" />
+    <string id="str_bret_squire_longsword_001_blade" text="{.MI}Клинок{.nn} Меча-Клинка Бретонского Рыцаря" />
+    <string id="str_holy_silver_hammer_head" text="{.MI}Наконечник{.nn} Священного Серебряного Молота" />
+    <string id="str_bretonnian_greatsword_001_pommel" text="{.NI}Навершие{.nn} Бретонского Меча-Клинка" />
+    <string id="str_de_sword_001_handle" text="{.FI}Тёмноэльфийский{.aj} {.FI}рукоять{.nn} меча" />
+    <string id="str_he_whitelion_2h_axe_001_blade" text="{.MI}Клинок{.nn} белого льва высоких эльфов" />
+    <string id="str_bret_axe_of_brionne_handle" text="{.NI}Древко{.nn} бретонского топора Брионн" />
+    <string id="str_dwarf_two_handed_axe_005_handle" text="{.NI}Древко{.nn} Громадного Топора Дворфа с Крыльями" />
+    <string id="str_bretonnian_jousting_lance_blade_002" text="{.MI}Бретонский{.aj} {.MI}наконечник{.nn} для копья-пики" />
+    <string id="str_beastmen_ungor_spear_004_shaft" text="{.NI}Древко{.nn} копья Унгора" />
+    <string id="str_black_knight_lance_001_handle" text="{.NI}Древко{.nn} копья Чёрного Рыцаря" />
+    <string id="str_reiksguard_circle_sword_002_guard" text="{.FI}Гарда{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_de_spear_001_head" text="{.MI}Наконечник{.nn} Тёмного Эльфийского Копья" />
+    <string id="str_dwarf_1h_axe_001_handle" text="{.NI}Древко{.nn} орнаментированного топора дворфа" />
+    <string id="str_black_knight_lance_001_blade" text="{.MI}Клинок{.nn} копья Чёрного Рыцаря" />
+    <string id="str_dwarf_2h_hammer_007_head" text="{.MI}Наконечник{.nn} Рельефного Громового Молота" />
+    <string id="str_vampire_sword_006_blade" text="{.MI}Клинок{.nn} Меча Вампира" />
+    <string id="str_runefang_001_pommel" text="{.NI}Навершие{.nn} Руненфэнга" />
+    <string id="str_lance_iron_handle" text="{.NI}Железный{.aj} {.NI}древко{.nn} копья" />
+    <string id="str_beastmen_ungor_axe_002_handle" text="{.FI}Рукоять{.nn} топора Унгора" />
+    <string id="str_bw_staff_001_head" text="{.FI}Головка{.nn} палочки яркого мага" />
+    <string id="str_vampire_sword_001_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_empire_rapier_002_handle" text="{.FI}Рукоять{.nn} Рапиры Империи" />
+    <string id="str_vampire_sword_009_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_dwarf_one_handed_axes_006_handle" text="{.NI}Древко{.nn} топора дворфа" />
+    <string id="str_reiksguard_knight_lance_pommel_001" text="{.NI}Навершие{.nn} копья рыцаря Рейксгарда" />
+    <string id="str_chaos_sword_01_blade" text="{.MI}Клинок{.nn} меча Хаоса" />
+    <string id="str_nurgle_hammer_001_head" text="{.MI}Наконечник{.nn} Молота Нургла" />
+    <string id="str_black_axe_of_krell_head" text="{.MI}Наконечник{.nn} чёрного топора Крелла" />
+    <string id="str_greenskin_weapon_sword_001_blade" text="{.MI}Клинок{.nn} меча орочьего пацана" />
+    <string id="str_empire_rapier_002_blade" text="{.MI}Клинок{.nn} Рапиры Империи" />
+    <string id="str_bretonnian_sword_001_pommel" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} меча" />
+    <string id="str_empire_greatsword_002_guard" text="{.FI}Гарда{.nn} Имперского Меча-Мечника 002" />
+    <string id="str_wp_hammer_001_head" text="{.FI}Головка{.nn} Молота Жреца Воина" />
+    <string id="str_bretonnian_jousting_lance_blade_003" text="{.MI}Бретонский{.aj} {.MI}наконечник{.nn} для копья-пики" />
+    <string id="str_reiksguard_knight_sword_002_handle" text="{.FI}Рукоять{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_vc_skeleton_warrior_mace_004_blade" text="{.FI}Головка{.nn} скелетной булавы" />
+    <string id="str_chs_flail_mace_001_handle" text="{.FI}Рукоять{.nn} Хаотической Булавы" />
+    <string id="str_greenskin_weapon_2h_axe_002_head" text="{.NI}Лезвие{.nn} большого орочьего рубила" />
+    <string id="str_empire_greatsword_001_pommel" text="{.NI}Навершие{.nn} Имперского Меча-Молота" />
+    <string id="str_chaos_ud_lance_blade_001" text="{.MI}Клинок{.nn} копья Хаоса" />
+    <string id="str_dwarf_one_handed_axes_007_head" text="{.FI}Голова{.nn} дворфского топора с гравировкой" />
+    <string id="str_chaos_ud_lance_handle_001" text="{.NI}Древко{.nn} копья Хаоса" />
+    <string id="str_dwarf_2h_spanner_001_handle" text="{.NI}Древко{.nn} Дворфа-гаечного ключа" />
+    <string id="str_dwarf_1h_engineer_hammer_001_head" text="{.MI}Наконечник{.nn} Молота Инженера" />
+    <string id="str_bw_staff_001_handle" text="{.FI}Рукоять{.nn} палочки яркого мага" />
+    <string id="str_greenskin_weapon_sword_002_pommel" text="{.NI}Навершие{.nn} меча орочьего пацана" />
+    <string id="str_dwarf_2h_klad_brakak_head" text="{.FI}Головка{.nn} Клада Бракак" />
+    <string id="str_greenskin_weapon_mace_001_handle" text="{.FI}Рукоять{.nn} орочьей дробилки" />
+    <string id="str_vampire_sword_003_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_beastmen_ungor_axe_004_blade" text="{.FI}Головка{.nn} топора Унгора" />
+    <string id="str_empire_rapier_004_handle" text="{.FI}Рукоять{.nn} рапиры Империи" />
+    <string id="str_chaos_sword_01_pommel" text="{.NI}Навершие{.nn} меча Хаоса" />
+    <string id="str_bretonnian_sword_002_pommel" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} меча" />
+    <string id="str_bretonnian_sword_001_blade" text="{.MI}Клинок{.nn} бретонского меча" />
+    <string id="str_vampire_sword_004_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_warboss_mace_2h_001_handle" text="{.NI}Древко{.nn} Булавы Вожака 'Андле' с шипами" />
+    <string id="str_greenskin_weapon_sword_001_handle" text="{.FI}Рукоять{.nn} меча орочьего пацана" />
+    <string id="str_magic_orb_head" text="{.FI}Магический{.aj} {.FI}сфера{.nn}" />
+    <string id="str_empire_spear_002_head" text="{.MI}Наконечник{.nn} копья Империи" />
+    <string id="str_runefang_001_blade" text="{.MI}Клинок{.nn} Руненфэнга" />
+    <string id="str_jousting_lance_guard_long_colored_redwhite" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (красная/белая)" />
+    <string id="str_dwarf_2h_pickaxe_004_head" text="{.FI}Головка{.nn} дворфской лопаты 004" />
+    <string id="str_empire_rapier_004_guard" text="{.FI}Гарда{.nn} рапиры Империи" />
+    <string id="str_jousting_lance_pommel" text="{.NI}Навершие{.nn} копья для турниров" />
+    <string id="str_vampire_sword_002_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_wp_twohanded_hammer_003_head" text="{.FI}Головка{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_mannfred_sword_blade" text="{.MI}Клинок{.nn} меча Маннфреда" />
+    <string id="str_bret_squire_longsword_001_pommel" text="{.NI}Навершие{.nn} Меча-Клинка Бретонского Рыцаря" />
+    <string id="str_wood_scythe_blade" text="{.MI}Клинок{.nn} деревянной косы" />
+    <string id="str_dwarf_1h_axe_of_grimnir_handle" text="{.FI}Рукоять{.nn} топора Гримнира" />
+    <string id="str_reiksguard_circle_sword_001_blade" text="{.MI}Клинок{.nn} Меча Внутреннего Круга Рейксгвардии" />
+    <string id="str_vampire_greataxe_001_handle" text="{.NI}Древко{.nn} вампирского топора 001" />
+    <string id="str_raven_scythe_handle" text="{.NI}Древко{.nn} косы Ворона" />
+    <string id="str_grave_guard_sword_001_guard" text="{.FI}Гарда{.nn} могильного меча 001" />
+    <string id="str_grave_guard_greatsword_001_guard" text="{.FI}Гарда{.nn} Меча-Мечника Могильного Стража 001" />
+    <string id="str_empire_greatsword_002_pommel" text="{.NI}Навершие{.nn} Имперского Меча-Мечника 002" />
     <string id="str_default_weapon_guard" text="Без гарды" />
-    <string id="str_bretonnian_halberd_002_shaft" text="Древко бретонской вульжиера" />
-    <string id="str_empire_halberd_005_head" text="Наконечник Имперской Алебарды" />
-    <string id="str_empire_light_wizard_head" text="Наконечник посоха светлого мага Империи" />
-    <string id="str_lance_iron_guard" text="Железная гарда копья" />
-    <string id="str_dwarf_2h_pickaxe_005_head" text="Головка дворфской лопаты 005" />
-    <string id="str_skeleton_warrior_sword_005_blade" text="Клинок скелетного меча 005" />
-    <string id="str_orc_shaman_staff_001_head" text="Навершие Посоха Орк-Шамана" />
-    <string id="str_de_sword_001_pommel" text="Тёмноэльфийское навершие меча" />
-    <string id="str_bret_squire_longsword_002_blade" text="Клинок Меча-Клинка Бретонского Рыцаря" />
-    <string id="str_grave_guard_sword_001_pommel" text="Навершие могильного меча" />
-    <string id="str_chaos_2h_greataxe_001_handle" text="Древко Хаосного Меча-Гревата" />
-    <string id="str_dwarf_2h_hammer_002_head" text="Наконечник Дворфского Молота 002" />
-    <string id="str_ghal_maraz_head" text="Наконечник Гхал-Мараза" />
-    <string id="str_dwarf_2h_pickaxe_004_handle" text="Древко дворфской лопаты 004" />
-    <string id="str_greenskin_weapon_axe_001_handle" text="Рукоять Орк-Рубила" />
-    <string id="str_he_halberd_phoenix_001_head" text="Голова алебарды Стражей Феникса Высокого Эльфийского Царства" />
-    <string id="str_runefang_007_guard" text="Гарда Рунфэнга" />
-    <string id="str_we_spear_001_head" text="Головка эльфийского копья" />
-    <string id="str_dwarf_2h_hammer_006_handle" text="Древко Громового Молота Воина-Дворфа" />
-    <string id="str_greenskin_weapon_mace_002_head" text="Набалдашник Шипастой Орк-Дробилки" />
-    <string id="str_skeleton_warrior_sword_005_hilt" text="Рукоять скелетного меча 005" />
-    <string id="str_dwarf_deamon_slayer_2h_axe_001_blade" text="Клинок демонотерза Дворфа" />
-    <string id="str_bretonnian_spear_002_shaft" text="Бретонское древко копья" />
-    <string id="str_greenskin_weapon_2h_sword_001_pommel" text="Навершие Большой Орк-Рубаки Бигги" />
-    <string id="str_bretonnian_halberd_001_head" text="Наконечник Бретонского Вульжиера" />
-    <string id="str_we_wildrider_spear_001_head" text="Головка копья Вайдрайдера" />
-    <string id="str_runefang_011_guard" text="Гарда Меча Руназуба" />
-    <string id="str_jousting_lance_guard_long_colored_blackred" text="Цветная гарда копья для турниров (черная/красная)" />
-    <string id="str_runefang_006_guard" text="Гарда Рунфэнга" />
-    <string id="str_we_greatsword_001_blade" text="Клинок большого меча Древнего Эльфа" />
-    <string id="str_bret_squire_longsword_002_pommel" text="Навершие большого меча Бретонского оруженосца 002" />
-    <string id="str_bretonnian_halberd_001_shaft" text="Древко бретонской вульжиера" />
-    <string id="str_beastmen_ungor_axe_001_blade" text="Клинок топора Унгора" />
-    <string id="str_beastmen_ungor_spear_003_head" text="Наконечник копья Унгора" />
-    <string id="str_bretonnian_spear_003_pommel" text="Бретонское навершие копья" />
-    <string id="str_vampire_sword_006_pommel" text="Навершие Меча Вампира" />
-    <string id="str_bret_squire_longsword_003_handle" text="Рукоять большого меча Бретонского оруженосца 003" />
-    <string id="str_dwarf_1h_spanner_001_head" text="Головка Дворфа-Ключа" />
-    <string id="str_vampiric_scythe_handle" text="Древко косы Вампирической" />
-    <string id="str_runefang_010_guard" text="Гарда Меча Руназуба" />
-    <string id="str_bretonnian_halberd_004_head" text="Наконечник бретонского вульжиера" />
-    <string id="str_bretonnian_jousting_lance_pommel_001" text="Навершие бретонского турнирного копья" />
-    <string id="str_beastmen_ungor_sword_001_guard" text="Гарда меча Унгора" />
-    <string id="str_reiksguard_knight_lance_handle_001" text="Древко копья рыцаря Рейксгарда" />
-    <string id="str_jousting_lance_guard_long_colored_bluewhite" text="Цветная гарда копья для турниров (синяя/белая)" />
-    <string id="str_balthazar_gelt_staff_handle" text="Рукоять палочки Балтазара" />
-    <string id="str_vampire_sword_009_guard" text="Гарда вампирского меча" />
-    <string id="str_greenskin_weapon_ornateaxe_001_handle" text="Рукоять Шипастого Орк-Рубила" />
-    <string id="str_empire_rapier_003_pommel" text="Навершие рапиры Империи" />
-    <string id="str_bretonnian_jousting_lance_handle_002" text="Бретонское древко для копья-пика" />
-    <string id="str_skeleton_warrior_sword_001_hilt" text="Рукоять скелетного меча воина" />
-    <string id="str_vampire_greatsword_001_guard" text="Гарда Меча Вампира Великого" />
-    <string id="str_de_spear_002_head" text="Тёмноэльфийский наконечник копья" />
-    <string id="str_greenskin_weapon_sword_004_blade" text="Клинок Рубаки Орк-Босса" />
-    <string id="str_sword_de_lyonesse_blade" text="Клинок Меча де Лионесс" />
-    <string id="str_dwarf_2h_pickaxe_003_head" text="Наконечник дворфского ломокола" />
-    <string id="str_skeleton_warrior_sword_004_pommel" text="Навершие скелетного меча 004" />
-    <string id="str_we_sword_001_handle" text="Рукоять Древнего Эльфийного Меча" />
-    <string id="str_mannfred_sword_pommel" text="Навершие меча Маннфреда" />
-    <string id="str_dwarf_giant_slayer_2h_axe_001_handle" text="Древко гигантотерза Дворфа" />
-    <string id="str_skeleton_warrior_sword_004_hilt" text="Рукоять скелетного меча 004" />
-    <string id="str_runefang_005_guard" text="Гарда Рунфэнга" />
-    <string id="str_empire_rapier_003_guard" text="Гарда рапиры Империи" />
-    <string id="str_vampire_sword_007_blade" text="Клинок Меча Вампира" />
-    <string id="str_he_greatsword_001_handle" text="Рукоять великого меча Высокого Эльфа" />
-    <string id="str_grave_guard_greataxe_001_blade" text="Клинок большого топора Могильного Стража" />
-    <string id="str_flagellant_flail_head_001" text="Головка цепного молота Флагеллянта" />
-    <string id="str_troll_2h_hammer_001_head" text="Голова Каменного Молота Тролля" />
+    <string id="str_bretonnian_halberd_002_shaft" text="{.NI}Древко{.nn} бретонской вульжиера" />
+    <string id="str_empire_halberd_005_head" text="{.MI}Наконечник{.nn} Имперской Алебарды" />
+    <string id="str_empire_light_wizard_head" text="{.MI}Наконечник{.nn} посоха светлого мага Империи" />
+    <string id="str_lance_iron_guard" text="{.FI}Железный{.aj} {.FI}гарда{.nn} копья" />
+    <string id="str_dwarf_2h_pickaxe_005_head" text="{.FI}Головка{.nn} дворфской лопаты 005" />
+    <string id="str_skeleton_warrior_sword_005_blade" text="{.MI}Клинок{.nn} скелетного меча 005" />
+    <string id="str_orc_shaman_staff_001_head" text="{.NI}Навершие{.nn} посоха орочьего шамана" />
+    <string id="str_de_sword_001_pommel" text="{.NI}Тёмноэльфийский{.aj} {.NI}навершие{.nn} меча" />
+    <string id="str_bret_squire_longsword_002_blade" text="{.MI}Клинок{.nn} Меча-Клинка Бретонского Рыцаря" />
+    <string id="str_grave_guard_sword_001_pommel" text="{.NI}Навершие{.nn} могильного меча" />
+    <string id="str_chaos_2h_greataxe_001_handle" text="{.NI}Древко{.nn} двуручного топора Хаоса" />
+    <string id="str_dwarf_2h_hammer_002_head" text="{.MI}Наконечник{.nn} Дворфского Молота 002" />
+    <string id="str_ghal_maraz_head" text="{.MI}Наконечник{.nn} Гхал-Мараза" />
+    <string id="str_dwarf_2h_pickaxe_004_handle" text="{.NI}Древко{.nn} дворфской лопаты 004" />
+    <string id="str_greenskin_weapon_axe_001_handle" text="{.FI}Рукоять{.nn} орочьего рубила" />
+    <string id="str_he_halberd_phoenix_001_head" text="{.FI}Голова{.nn} алебарды Стражей Феникса Высокого Эльфийского Царства" />
+    <string id="str_runefang_007_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_we_spear_001_head" text="{.FI}Головка{.nn} эльфийского копья" />
+    <string id="str_dwarf_2h_hammer_006_handle" text="{.NI}Древко{.nn} Громового Молота Воина-Дворфа" />
+    <string id="str_greenskin_weapon_mace_002_head" text="{.MI}Набалдашник{.nn} шипастой орочьей дробилки" />
+    <string id="str_skeleton_warrior_sword_005_hilt" text="{.FI}Рукоять{.nn} скелетного меча 005" />
+    <string id="str_dwarf_deamon_slayer_2h_axe_001_blade" text="{.MI}Клинок{.nn} демонотерза Дворфа" />
+    <string id="str_bretonnian_spear_002_shaft" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} копья" />
+    <string id="str_greenskin_weapon_2h_sword_001_pommel" text="{.NI}Навершие{.nn} большого орочьего двуручного меча" />
+    <string id="str_bretonnian_halberd_001_head" text="{.MI}Наконечник{.nn} Бретонского Вульжиера" />
+    <string id="str_we_wildrider_spear_001_head" text="{.FI}Головка{.nn} копья Вайдрайдера" />
+    <string id="str_runefang_011_guard" text="{.FI}Гарда{.nn} Меча Руназуба" />
+    <string id="str_jousting_lance_guard_long_colored_blackred" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (черная/красная)" />
+    <string id="str_runefang_006_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_we_greatsword_001_blade" text="{.MI}Клинок{.nn} большого меча Древнего Эльфа" />
+    <string id="str_bret_squire_longsword_002_pommel" text="{.NI}Навершие{.nn} большого меча Бретонского оруженосца 002" />
+    <string id="str_bretonnian_halberd_001_shaft" text="{.NI}Древко{.nn} бретонской вульжиера" />
+    <string id="str_beastmen_ungor_axe_001_blade" text="{.MI}Клинок{.nn} топора Унгора" />
+    <string id="str_beastmen_ungor_spear_003_head" text="{.MI}Наконечник{.nn} копья Унгора" />
+    <string id="str_bretonnian_spear_003_pommel" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} копья" />
+    <string id="str_vampire_sword_006_pommel" text="{.NI}Навершие{.nn} Меча Вампира" />
+    <string id="str_bret_squire_longsword_003_handle" text="{.FI}Рукоять{.nn} большого меча Бретонского оруженосца 003" />
+    <string id="str_dwarf_1h_spanner_001_head" text="{.FI}Головка{.nn} Дворфа-Ключа" />
+    <string id="str_vampiric_scythe_handle" text="{.NI}Древко{.nn} косы Вампирической" />
+    <string id="str_runefang_010_guard" text="{.FI}Гарда{.nn} Меча Руназуба" />
+    <string id="str_bretonnian_halberd_004_head" text="{.MI}Наконечник{.nn} бретонского вульжиера" />
+    <string id="str_bretonnian_jousting_lance_pommel_001" text="{.NI}Навершие{.nn} бретонского турнирного копья" />
+    <string id="str_beastmen_ungor_sword_001_guard" text="{.FI}Гарда{.nn} меча Унгора" />
+    <string id="str_reiksguard_knight_lance_handle_001" text="{.NI}Древко{.nn} копья рыцаря Рейксгарда" />
+    <string id="str_jousting_lance_guard_long_colored_bluewhite" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (синяя/белая)" />
+    <string id="str_balthazar_gelt_staff_handle" text="{.FI}Рукоять{.nn} палочки Балтазара" />
+    <string id="str_vampire_sword_009_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_greenskin_weapon_ornateaxe_001_handle" text="{.FI}Рукоять{.nn} шипастого орочьего рубила" />
+    <string id="str_empire_rapier_003_pommel" text="{.NI}Навершие{.nn} рапиры Империи" />
+    <string id="str_bretonnian_jousting_lance_handle_002" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} для копья-пика" />
+    <string id="str_skeleton_warrior_sword_001_hilt" text="{.FI}Рукоять{.nn} скелетного меча воина" />
+    <string id="str_vampire_greatsword_001_guard" text="{.FI}Гарда{.nn} Меча Вампира Великого" />
+    <string id="str_de_spear_002_head" text="{.MI}Тёмноэльфийский{.aj} {.MI}наконечник{.nn} копья" />
+    <string id="str_greenskin_weapon_sword_004_blade" text="{.MI}Клинок{.nn} меча орочьего босса" />
+    <string id="str_sword_de_lyonesse_blade" text="{.MI}Клинок{.nn} Меча де Лионесс" />
+    <string id="str_dwarf_2h_pickaxe_003_head" text="{.MI}Наконечник{.nn} дворфского ломокола" />
+    <string id="str_skeleton_warrior_sword_004_pommel" text="{.NI}Навершие{.nn} скелетного меча 004" />
+    <string id="str_we_sword_001_handle" text="{.FI}Рукоять{.nn} Древнего Эльфийного Меча" />
+    <string id="str_mannfred_sword_pommel" text="{.NI}Навершие{.nn} меча Маннфреда" />
+    <string id="str_dwarf_giant_slayer_2h_axe_001_handle" text="{.NI}Древко{.nn} гигантотерза Дворфа" />
+    <string id="str_skeleton_warrior_sword_004_hilt" text="{.FI}Рукоять{.nn} скелетного меча 004" />
+    <string id="str_runefang_005_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_empire_rapier_003_guard" text="{.FI}Гарда{.nn} рапиры Империи" />
+    <string id="str_vampire_sword_007_blade" text="{.MI}Клинок{.nn} Меча Вампира" />
+    <string id="str_he_greatsword_001_handle" text="{.FI}Рукоять{.nn} великого меча Высокого Эльфа" />
+    <string id="str_grave_guard_greataxe_001_blade" text="{.MI}Клинок{.nn} большого топора Могильного Стража" />
+    <string id="str_flagellant_flail_head_001" text="{.FI}Головка{.nn} цепного молота Флагеллянта" />
+    <string id="str_troll_2h_hammer_001_head" text="{.FI}Голова{.nn} Каменного Молота Тролля" />
     <string id="str_default_weapon_pommel" text="Без навершия" />
-    <string id="str_vampire_sword_002_handle" text="Рукоять вампирского меча" />
-    <string id="str_vampire_sword_004_pommel" text="Навершие вампирского меча" />
-    <string id="str_ghost_sickle_handle_1" text="Древко косы Хозяина Призраков" />
-    <string id="str_beastmen_ungor_sword_002_handle" text="Рукоять меча Унгора" />
-    <string id="str_skeleton_spear_guard" text="Старая гарда копья скелета" />
-    <string id="str_troll_2h_hammer_001_handle" text="Древко Каменного Молота Тролля" />
-    <string id="str_beastmen_ungor_spear_002_shaft" text="Древко копья Унгора" />
-    <string id="str_rapier_001_guard" text="Гарда Рапиры Империи" />
-    <string id="str_dwarf_one_handed_axes_010_handle" text="Древко благородного дворфского топора" />
-    <string id="str_dwarf_two_handed_axe_002_003_head" text="Лезвие Громадного Топора Дворфа с Драгоценными Камнями" />
-    <string id="str_greenskin_weapon_sword_004_guard" text="Гарда Рубаки Орк-Босса" />
-    <string id="str_bretonnian_spear_001_pommel" text="Бретонское навершие копья 001" />
-    <string id="str_vc_skeleton_warrior_mace_002_blade" text="Булава Скелетного Воина" />
-    <string id="str_greenskin_weapon_2h_axe_001_head" text="Лезвие Большого Орк-Рубила" />
-    <string id="str_bw_staff_002_handle" text="Рукоять палочки яркого мага" />
-    <string id="str_wp_hammer_004_head" text="Наконечник Молота Воина-Жреца" />
-    <string id="str_he_whitelion_2h_axe_001_handle" text="Рукоять белого льва высоких эльфов" />
-    <string id="str_raven_scythe_blade" text="Клинок косы Ворона" />
-    <string id="str_vc_halberd_001_head" text="Старая Голова Алебарды" />
-    <string id="str_reiksguard_circle_sword_001_pommel" text="Навершие Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_vampire_greatsword_001_hilt" text="Рукоять Меча Вампира Великого" />
-    <string id="str_beastmen_ungor_spear_003_shaft" text="Древко копья Унгора" />
-    <string id="str_greenskin_orc_boss_axe_001_blade" text="Клинок Рубила Орк-Босса" />
-    <string id="str_skeleton_warrior_sword_003_blade" text="Клинок скелетного меча воина" />
-    <string id="str_greenskin_weapon_spear_002_handle" text="Древко Бигга-Тыкалки" />
-    <string id="str_greenskin_weapon_sword_003_guard" text="Гарда Рубаки Орк-Пацана" />
-    <string id="str_sword_de_lyonesse_handle" text="Рукоять Меча де Лионесс" />
-    <string id="str_bretonnian_jousting_lance_guard_004" text="Гарда бретонского турнирного копья" />
-    <string id="str_dwarf_one_handed_axes_003_head" text="Головка дворфа с гравировкой" />
-    <string id="str_empire_greatsword_002_blade" text="Клинок Имперского Меча-Молота" />
-    <string id="str_greenskin_weapon_2h_axe_003_head" text="Лезвие Большого Орк-Тесака" />
-    <string id="str_empire_rapier_005_handle" text="Рукоять рапиры Империи" />
-    <string id="str_bretonnian_jousting_lance_guard_003" text="Бретонская гарда для копья-пики" />
-    <string id="str_greenskin_orc_boss_axe_002_handle" text="Рукоять Рубила Орк-Босса" />
-    <string id="str_wp_polehammer_001_head" text="Голова жезло-молота священника воина" />
-    <string id="str_black_orc_1h_axe_001_handle" text="Рукоять Топора Чёрного Орка" />
-    <string id="str_bretonnian_greatsword_001_guard" text="Гарда Бретонского Меча-Клинка" />
-    <string id="str_wp_polehammer_003_head" text="Голова жезло-молота священника воина" />
-    <string id="str_greenskin_weapon_2h_axe_005_handle" text="Рукоять Большого Орк-Черепокола" />
-    <string id="str_black_orc_axe_2h_001_blade" text="Лезвие Большого Топора Чёрного Орка" />
-    <string id="str_vampire_greataxe_001_blade" text="Клинок вампирского топора 001" />
-    <string id="str_skeleton_warrior_sword_002_pommel" text="Навершие скелетного меча воина" />
-    <string id="str_wp_twohanded_hammer_002_handle" text="Древко Двуручного Молота Воина-Жреца" />
-    <string id="str_empire_morr_scythe_002_pole" text="Древко косы Морра" />
-    <string id="str_chaos_ud_lance_guard_001" text="Гарда хаосного копья" />
-    <string id="str_bretonnian_sword_002_handle" text="Бретонская рукоять меча" />
-    <string id="str_vampire_sword_007_guard" text="Гарда Меча Вампира" />
-    <string id="str_lance_iron_handle_x" text="Железное древко копья (усиленное)" />
-    <string id="str_bret_squire_longsword_002_handle" text="Рукоять большого меча Бретонского оруженосца 002" />
-    <string id="str_dwarf_1h_axe_of_grimnir_head" text="Наконечник топора Гримнира" />
-    <string id="str_greenskin_weapon_2h_sword_002_blade" text="Клинок Настоящей Большой Орк-Рубаки" />
-    <string id="str_greenskin_weapon_2h_sword_002_guard" text="Гарда Настоящей Большой Орк-Рубаки" />
-    <string id="str_reiksguard_knight_sword_003_guard" text="Гарда Меча Рыцаря Рейксгвардии" />
-    <string id="str_wp_polehammer_002_head" text="Голова жезло-молота священника воина" />
-    <string id="str_grave_guard_greataxe_001_handle" text="Рукоять большого топора Могильного Стража" />
-    <string id="str_wp_hammer_001_handle" text="Древко Молота Воина-Жреца" />
-    <string id="str_dwarf_one_handed_axes_004_handle" text="Древко топора дворфа" />
-    <string id="str_flagellant_mace_002_head" text="Наконечник Булавы Флагелланта" />
-    <string id="str_greenskin_weapon_sword_002_handle" text="Рукоять Рубаки Орк-Пацана" />
-    <string id="str_we_greatsword_001_guard" text="Гарда большого меча Древнего Эльфа" />
-    <string id="str_empire_greatsword_002_hilt" text="Рукоять Имперского Меча-Мечника 002" />
-    <string id="str_bw_staff_002_head" text="Головка палочки яркого мага" />
-    <string id="str_empire_light_wizard_002_handle" text="Рукоять посоха светлого мага Империи (вариант 2)" />
-    <string id="str_vampire_sword_007_pommel" text="Навершие вампирского меча" />
-    <string id="str_we_2h_axe_001_blade" text="Клинок деревянного эльфийского топора" />
-    <string id="str_reiksguard_circle_sword_003_pommel" text="Навершие меча Внутреннего круга Рейксгарда" />
-    <string id="str_empire_morr_scythe_003_blade" text="Клинок косы Морра" />
-    <string id="str_bretonnian_halberd_005_head" text="Наконечник бретонского вульжиера" />
-    <string id="str_skeleton_warrior_sword_004_blade" text="Клинок скелетного меча воина" />
-    <string id="str_empire_hammer_001_handle" text="Древко Имперского Молота" />
-    <string id="str_nurgle_greataxe_001_handle" text="Древко Гриваста Нургла" />
-    <string id="str_grave_guard_sword_001_blade" text="Клинок могильного меча 001" />
-    <string id="str_wp_hammer_003_handle" text="Древко Молота Воина-Жреца" />
-    <string id="str_wp_hammer_002_head" text="Наконечник Молота Воина-Жреца" />
-    <string id="str_we_greatsword_001_handle" text="Рукоять большого меча Древнего Эльфа" />
-    <string id="str_vampire_sword_003_blade" text="Клинок вампирского меча" />
-    <string id="str_empire_rapier_002_pommel" text="Навершие Рапиры Империи" />
-    <string id="str_dwarf_1h_hammer_of_angrund_handle" text="Рукоять Молота Ангрунда" />
-    <string id="str_dwarf_1h_hammer_of_angrund_head" text="Наконечник Молота Ангрунда" />
-    <string id="str_de_spear_001_shaft" text="Древко Тёмного Эльфийского Копья" />
-    <string id="str_he_greatsword_001_pommel" text="Навершие великого меча Высокого Эльфа" />
-    <string id="str_dwarf_one_handed_axes_003_handle" text="Древко топора дворфа с гравировкой" />
-    <string id="str_dwarf_one_handed_axes_004_head" text="Головка топора дворфа" />
-    <string id="str_vampire_greatmace_001_head" text="Клинок двуручной булавы вампира" />
-    <string id="str_reiksguard_circle_sword_003_guard" text="Гарда Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_bretonnian_jousting_lance_pommel_003" text="Бретонское навершие для копья-пики" />
-    <string id="str_dwarf_two_handed_axe_002_004_head" text="Лезвие Громадного Топора Дворфа с Драгоценными Камнями" />
-    <string id="str_vampiric_scythe_blade" text="Клинок косы Вампирической" />
-    <string id="str_vc_khopesh_001_blade" text="Клинок кхопеша" />
-    <string id="str_we_spear_004_head" text="Древко Эльфийского Копья" />
-    <string id="str_reiksguard_circle_sword_002_pommel" text="Навершие Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_empire_light_wizard_handle" text="Рукоять посоха светлого мага Империи" />
-    <string id="str_bretonnian_jousting_lance_handle_001" text="Древко бретонского турнирного копья" />
-    <string id="str_vampire_sword_008_guard" text="Гарда вампирского меча" />
-    <string id="str_prophetess_staff_001_head" text="Наконечник жезла пророчицы" />
-    <string id="str_vampire_sword_009_pommel" text="Навершие вампирского меча" />
-    <string id="str_dwarf_one_handed_axes_002_head" text="Голова топора дворфа" />
-    <string id="str_empire_light_wizard_003_head" text="Наконечник посоха светлого мага Империи (вариант 3)" />
-    <string id="str_runefang_004_guard" text="Гарда Рунфэнга" />
-    <string id="str_grave_guard_greatsword_001_blade" text="Клинок Меча-Мечника Могильного Стража 001" />
-    <string id="str_dwarf_1h_axe_001_head" text="Орнаментированная голова топора дворфа" />
-    <string id="str_bretonnian_jousting_lance_guard_001" text="Гарда бретонского турнирного копья" />
-    <string id="str_empire_spear_001_head" text="Наконечник копья Империи" />
-    <string id="str_dwarf_two_handed_axe_001_handle" text="Древко топора Громбриндала с рунами" />
-    <string id="str_vampire_sword_005_pommel" text="Навершие Меча Вампира" />
-    <string id="str_balthazar_gelt_staff_head" text="Головка палочки Балтазара" />
-    <string id="str_dwarf_two_handed_axe_002_handle" text="Древко Громадного Топора Дворфа с Драгоценными Камнями" />
-    <string id="str_bretonnian_halberd_004_shaft" text="Древко бретонской вульжиера" />
-    <string id="str_reiksguard_circle_sword_002_blade" text="Клинок Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_we_greatsword_001_pommel" text="Навершие большого меча Древнего Эльфа" />
-    <string id="str_vampire_greataxe_002_blade" text="Клинок вампирского топора 002" />
-    <string id="str_bretonnian_spear_001_shaft" text="Бретонское древко копья 001" />
-    <string id="str_volkmar_staff_head" text="Головка палочки Фолькмара Грозного" />
-    <string id="str_beastmen_ungor_spear_001_shaft" text="Древко копья Унгора" />
-    <string id="str_reiksguard_knight_lance_blade_002" text="Клинок копья рыцаря Рейксгвардии" />
-    <string id="str_greenskin_orc_boss_axe_003_handle" text="Рукоять Рубила Орк-Босса" />
-    <string id="str_bretonnian_jousting_lance_handle_003" text="Бретонское древко для копья-пика" />
-    <string id="str_black_knight_lance_001_guard" text="Гарда копья Чёрного Рыцаря" />
-    <string id="str_flagellant_mace_001_head" text="Наконечник Булавы Флагелланта" />
-    <string id="str_flagellant_flail_head_003" text="Головка цепного молота Флагеллянта" />
-    <string id="str_troll_club_handle_001" text="Древко Костяной Дубины Тролля" />
-    <string id="str_empire_hammer_002_head" text="Головка Имперского Молота" />
-    <string id="str_bret_squire_longsword_001_guard" text="Гарда Меча-Клинка Бретонского Рыцаря" />
-    <string id="str_dwarf_two_handed_axe_002_001_head" text="Клинок дворфского топора 001" />
-    <string id="str_dwarf_1h_spanner_001_handle" text="Рукоять Дворфа-Ключа" />
-    <string id="str_ghost_sickle_blade_1" text="Клинок косы Хозяина Призраков" />
-    <string id="str_wp_polehammer_003_handle" text="Древко жезла-молота священника воина" />
-    <string id="str_reiksguard_knight_sword_001_blade" text="Клинок Меча Рыцаря Рейксгвардии" />
-    <string id="str_jousting_lance_guard_long_colored_redyellow" text="Цветная гарда копья для турниров (красная/желтая)" />
-    <string id="str_greenskin_weapon_axe_003_handle" text="Рукоять Настоящего Орк-Рубила" />
-    <string id="str_greenskin_weapon_sword_004_handle" text="Рукоять Рубаки Орк-Босса" />
-    <string id="str_dwarf_troll_slayer_2h_axe_001_handle" text="Древко Большого Топора Истребителя Троллей" />
-    <string id="str_skeleton_spear_pommel" text="Старое навершие копья скелета" />
-    <string id="str_bretonnian_halberd_006_head" text="Головка бретонского вульжа" />
-    <string id="str_greenskin_weapon_2h_sword_002_handle" text="Рукоять Настоящей Большой Орк-Рубаки" />
-    <string id="str_bret_squire_longsword_003_guard" text="Гарда большого меча Бретонского оруженосца 003" />
-    <string id="str_dwarf_one_handed_axes_009_handle" text="Рукоять одноручного дворфского топора 009" />
-    <string id="str_vc_halberd_002_head" text="Старая Голова Алебарды" />
-    <string id="str_bretonnian_jousting_lance_blade_001" text="Клинок бретонского турнирного копья" />
-    <string id="str_flagellant_mace_001_handle" text="Древко булавы Флагеллянта" />
-    <string id="str_greenskin_weapon_spear_003_handle" text="Древко Орк-Смертотыка" />
-    <string id="str_we_spear_003_head" text="Древко Эльфийского Копья" />
-    <string id="str_greenskin_weapon_axe_001_blade" text="Лезвие Орк-Рубила" />
-    <string id="str_dwarf_two_handed_axe_005_head" text="Лезвие Громадного Топора Дворфа с Крыльями" />
-    <string id="str_bretonnian_jousting_lance_pommel_004" text="Навершие бретонского турнирного копья" />
-    <string id="str_empire_spear_005_head" text="Наконечник копья Империи" />
-    <string id="str_greenskin_weapon_spear_002_blade" text="Наконечник Бигга-Тыкалки" />
-    <string id="str_greenskin_weapon_2h_sword_002_pommel" text="Навершие Настоящей Большой Орк-Рубаки" />
-    <string id="str_greenskin_weapon_axe_002_handle" text="Рукоять Орк-Рубила" />
-    <string id="str_dwarf_giant_slayer_2h_axe_001_blade" text="Лезвие Громадного Топора Убийцы Гигантов" />
-    <string id="str_we_lord_sword_001_pommel" text="Навершие меча Лорда Глейда" />
-    <string id="str_bret_squire_longsword_002_guard" text="Гарда большого меча Бретонского оруженосца 002" />
-    <string id="str_bret_squire_longsword_003_blade" text="Клинок большого меча Бретонского оруженосца 003" />
-    <string id="str_wp_twohanded_hammer_001_head" text="Головка Двуручного Молота Воина-Жреца" />
-    <string id="str_flagellant_flail_head_002" text="Головка цепного молота Флагеллянта" />
-    <string id="str_nm_staff_001_head" text="Наконечник некромантического посоха" />
-    <string id="str_stoneaxe_of_taal_handle" text="Рукоять каменного топора Таала" />
-    <string id="str_orc_shaman_staff_001_handle" text="Древко Посоха Орк-Шамана" />
-    <string id="str_beastmen_ungor_sword_003_blade" text="Клинок меча Унгора" />
-    <string id="str_greenskin_orc_boss_axe_001_handle" text="Рукоять Рубила Орк-Босса" />
-    <string id="str_dwarf_troll_slayer_2h_axe_001_blade" text="Лезвие Большого Топора Истребителя Троллей" />
-    <string id="str_reiksguard_knight_lance_pommel_002" text="Навершие копья рыцаря Рейксгвардии" />
-    <string id="str_wp_twohanded_hammer_002_head" text="Головка Двуручного Молота Воина-Жреца" />
-    <string id="str_greenskin_weapon_sword_003_pommel" text="Навершие Рубаки Орк-Пацана" />
-    <string id="str_beastmen_ungor_spear_001_head" text="Наконечник копья Унгора" />
-    <string id="str_jousting_lance_handle_small_x" text="Тяжёлое древко турнирного копья" />
-    <string id="str_grave_guard_greatsword_001_handle" text="Рукоять Меча-Мечника Могильного Стража 001" />
-    <string id="str_greenskin_weapon_sword_003_handle" text="Рукоять Рубаки Орк-Пацана" />
-    <string id="str_runefang_008_guard" text="Гарда Рунфэнга" />
-    <string id="str_greenskin_weapon_mace_001_head" text="Набалдашник Орк-Дробилки" />
-    <string id="str_vc_skeleton_warrior_mace_002_handle" text="Рукоять Булавы Скелетного Воина" />
-    <string id="str_mannfred_sword_guard" text="Гарда меча Маннфреда" />
-    <string id="str_vampire_sword_008_pommel" text="Навершие меча вампира" />
-    <string id="str_dwarf_slayer_axe_1h_001_head" text="Головка убийственного топора" />
-    <string id="str_exiled_wizard_dragon_staff_001_handle" text="Рукоять жезла дракона изгнанного мага" />
-    <string id="str_vampire_sword_008_handle" text="Рукоять вампирского меча" />
-    <string id="str_greenskin_weapon_ornateaxe_001_head" text="Лезвие Шипастого Орк-Рубила" />
-    <string id="str_we_sword_001_blade" text="Древний Эльфийный Клинок" />
-    <string id="str_greenskin_weapon_spear_001_guard" text="Гарда Орк-Тыкалки" />
-    <string id="str_empire_morr_scythe_002_blade" text="Клинок косы Морра" />
-    <string id="str_lhm_fist_weapon_handle" text="Рукоять оружия кулака монстра" />
-    <string id="str_wp_polehammer_002_handle" text="Древко жезло-молота священника воина" />
-    <string id="str_beastmen_ungor_axe_003_blade" text="Клинок топора Унгора" />
-    <string id="str_dwarf_2h_hammer_007_handle" text="Древко Дворфа-орнаментированного Могучего Молота" />
-    <string id="str_bretonnian_jousting_lance_handle_004" text="Древко бретонского турнирного копья" />
-    <string id="str_vampire_sword_002_guard" text="Гарда вампирского меча" />
-    <string id="str_dwarf_one_handed_axes_008_head" text="Лезвие карельского топора" />
-    <string id="str_beastmen_ungor_sword_002_blade" text="Клинок меча Унгора" />
-    <string id="str_vampire_sword_001_guard" text="Гарда вампирского меча" />
-    <string id="str_empire_rapier_004_pommel" text="Навершие рапиры Империи" />
-    <string id="str_empire_greatsword_001_hilt" text="Рукоять Имперского Меча-Молота" />
-    <string id="str_grave_guard_greatsword_001_pommel" text="Навершие Меча-Мечника Могильного Стража 001" />
-    <string id="str_dwarf_2h_klad_brakak_handle" text="Рукоять Клада Бракак" />
-    <string id="str_runefang_009_guard" text="Гарда Рунфэнга" />
-    <string id="str_empire_greatsword_001_guard" text="Гарда Имперского Меча-Молота" />
-    <string id="str_greenskin_weapon_2h_sword_001_blade" text="Клинок огромного сабли Оркин-Рубака" />
-    <string id="str_dwarf_2h_spanner_001_head" text="Головка Дворфа-гаечного ключа" />
-    <string id="str_sword_de_lyonesse_guard" text="Гарда Меча де Лионесс" />
-    <string id="str_wp_polehammer_001_handle" text="Древко жезло-молота священника воина" />
-    <string id="str_beastmen_2h_axe_001_blade" text="Клинок минотаврского топора" />
-    <string id="str_runefang_003_guard" text="Гарда Рунфэнга" />
-    <string id="str_wp_hammer_002_handle" text="Древко Молота Воина-Жреца" />
-    <string id="str_beastmen_ungor_sword_002_guard" text="Гарда меча Унгора" />
-    <string id="str_flagellant_mace_002_handle" text="Древко Жесточащей Булавы" />
-    <string id="str_vampire_sword_009_handle" text="Рукоять вампирского меча" />
-    <string id="str_empire_halberd_006_head" text="Наконечник Имперской Алебарды" />
-    <string id="str_empire_rapier_003_handle" text="Рукоять Рапиры Империи" />
-    <string id="str_bretonnian_spear_003_head" text="Бретонская головка копья" />
-    <string id="str_dwarf_2h_hammer_002_handle" text="Древко Дворфского Молота 002" />
-    <string id="str_chaos_2h_greataxe_001_blade" text="Клинок Хаосного Меча-Гревата" />
-    <string id="str_empire_halberd_003_head" text="Наконечник имперской алебарды" />
-    <string id="str_vampire_sword_004_blade" text="Клинок вампирского меча" />
-    <string id="str_dwarf_one_handed_axes_002_handle" text="Древко топора дворфа" />
-    <string id="str_greenskin_weapon_2h_axe_003_handle" text="Рукоять Большого Орк-Тесака" />
-    <string id="str_bretonnian_spear_003_shaft" text="Бретонское древко копья" />
-    <string id="str_reiksguard_knight_sword_002_blade" text="Клинок Меча Рыцаря Рейксгвардии" />
-    <string id="str_lance_iron_blade" text="Железный наконечник копья" />
-    <string id="str_lance_blade_9" text="Наконечник копья" />
-    <string id="str_empire_spear_004_head" text="Наконечник копья Империи" />
-    <string id="str_holy_silver_hammer_handle" text="Рукоять Священного Серебряного Молота" />
-    <string id="str_we_lord_sword_001_handle" text="Рукоять Меча Лорда Глея" />
-    <string id="str_vc_khopesh_001_guard" text="Гарда кхопеша" />
-    <string id="str_reiksguard_circle_sword_001_guard" text="Гарда Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_jousting_lance_pommel_x" text="Тяжёлое наконечник копья для турниров" />
-    <string id="str_dwarf_2h_engineer_hammer_001_head" text="Головка Дворфа-инженера Могучего Молота с зубцами" />
-    <string id="str_lhm_fist_weapon_blade" text="Клинок оружия кулака монстра" />
-    <string id="str_empire_halberd_003_shaft" text="Древко имперской алебарды" />
-    <string id="str_chaos_sword_01_guard" text="Гарда хаосного меча" />
-    <string id="str_greenskin_weapon_sword_003_blade" text="Клинок Рубаки Орк-Пацана" />
-    <string id="str_empire_halberd_004_head" text="Наконечник имперской алебарды" />
-    <string id="str_rapier_001_handle" text="Рукоять Рапиры Империи" />
-    <string id="str_black_orc_1h_axe_001_head" text="Лезвие Топора Чёрного Орка" />
-    <string id="str_nurgle_hammer_001_handle" text="Рукоять Молота Нургла" />
-    <string id="str_empire_halberd_head" text="Наконечник имперской алебарды" />
-    <string id="str_sword_de_lyonesse_pommel" text="Навершие Меча де Лионесс" />
-    <string id="str_greenskin_weapon_2h_axe_001_handle" text="Рукоять Большого Орк-Рубила" />
-    <string id="str_reiksguard_knight_lance_guard_002" text="Гарда копья рыцаря Рейксгвардии" />
-    <string id="str_vampire_greatmace_001_handle" text="Древко двуручной булавы вампира" />
-    <string id="str_default_jousting_lance_guard" text="Гарда тренировочного турнирного копья" />
-    <string id="str_dwarf_2h_pickaxe_005_handle" text="Древко дворфской лопаты 005" />
-    <string id="str_wp_twohanded_hammer_001_handle" text="Древко Двуручного Молота Воина-Жреца" />
-    <string id="str_skeleton_spear_head" text="Старый наконечник копья" />
-    <string id="str_greenskin_weapon_sword_002_guard" text="Гарда Рубаки Орк-Пацана" />
-    <string id="str_black_axe_of_krell_handle" text="Древко чёрного топора Крелла" />
-    <string id="str_vampire_sword_007_handle" text="Рукоять Меча Вампира" />
-    <string id="str_runefang_002_guard" text="Гарда Рунфэнга" />
-    <string id="str_comet_flail_handle" text="Древко Косы Комета" />
-    <string id="str_he_greatsword_001_guard" text="Гарда великого меча Высокого Эльфа" />
-    <string id="str_greenskin_weapon_sword_001_guard" text="Гарда Рубаки Орк-Пацана" />
-    <string id="str_de_sword_001_guard" text="Тёмноэльфийская гарда меча" />
-    <string id="str_wp_hammer_003_head" text="Наконечник Молота Воина-Жреца" />
-    <string id="str_greenskin_weapon_2h_axe_004_handle" text="Рукоять Бигга Орк-Рубила" />
-    <string id="str_greenskin_weapon_sword_001_pommel" text="Навершие Рубаки Орк-Пацана" />
-    <string id="str_empire_rapier_004_blade" text="Клинок рапиры Империи" />
-    <string id="str_empire_greatsword_001_blade" text="Клинок Имперского Меча-Молота" />
-    <string id="str_dwarf_ungrim_2h_axe_001_blade" text="Клинок Топора Дарго" />
-    <string id="str_empire_celestial_wizard_head" text="Наконечник небесного посоха" />
-    <string id="str_bretonnian_jousting_lance_blade_004" text="Наконечник бретонского турнирного копья" />
-    <string id="str_empire_rapier_005_pommel" text="Навершие рапиры Империи" />
-    <string id="str_beastmen_ungor_spear_004_head" text="Наконечник копья Унгора" />
-    <string id="str_bret_axe_of_brionne_head" text="Наконечник бретонского топора Брионн" />
-    <string id="str_dwarf_one_handed_axes_010_head" text="Головка благородного дворфского топора" />
-    <string id="str_skeleton_warrior_sword_001_blade" text="Клинок скелетного меча воина" />
-    <string id="str_dwarf_one_handed_axes_005_head" text="Головка крылатого топора дворфа" />
-    <string id="str_greenskin_savage_axe_001_blade" text="Лезвие Костяного Орк-Рубила" />
-    <string id="str_wp_twohanded_hammer_003_handle" text="Древко Двуручного Молота Воина-Жреца" />
-    <string id="str_reiksguard_knight_sword_003_pommel" text="Навершие Меча Рыцаря Рейксгвардии" />
-    <string id="str_greenskin_weapon_sword_002_blade" text="Клинок Рубаки Орк-Пацана" />
-    <string id="str_dwarf_one_handed_axes_008_handle" text="Деревянная рукоять карельского топора" />
-    <string id="str_he_spearmen_spear_001_head" text="Наконечник Высокого Эльфийского Копья" />
-    <string id="str_he_halberd_phoenix_001_shaft" text="Древко алебарды Стражей Феникса Высокого Эльфийского Царства" />
-    <string id="str_lance_iron_pommel" text="Железное навершие копья" />
-    <string id="str_jousting_lance_guard_long_colored_blueyellow" text="Цветная гарда копья для турниров (синяя/желтая)" />
-    <string id="str_stoneaxe_of_taal_head" text="Наконечник каменного топора Таала" />
-    <string id="str_dwarf_slayer_axe_1h_001_handle" text="Древко убийственного топора" />
-    <string id="str_reiksguard_circle_sword_001_handle" text="Рукоять Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_empire_hammer_002_handle" text="Древко Имперского Молота" />
-    <string id="str_vc_skeleton_warrior_mace_003_blade" text="Булава Скелетного Воина" />
-    <string id="str_reiksguard_circle_sword_003_blade" text="Клинок Меча Внутреннего Круга Рейксгварда" />
-    <string id="str_troll_club_head_001" text="Головка Костяной Дубины Тролля" />
-    <string id="str_greenskin_weapon_sword_004_pommel" text="Навершие Рубаки Орк-Босса" />
-    <string id="str_runefang_001_guard" text="Гарда Руненфэнга" />
-    <string id="str_de_sword_001_blade" text="Тёмный Эльфийный Клинок" />
-    <string id="str_empire_light_wizard_003_handle" text="Рукоять посоха светлого мага Империи (вариант 3)" />
-    <string id="str_vampire_sword_004_handle" text="Рукоять вампирского меча" />
-    <string id="str_reiksguard_knight_lance_blade_001" text="Наконечник копья рыцаря Рейксгарда" />
-    <string id="str_vampire_sword_003_pommel" text="Навершие вампирского меча" />
-    <string id="str_greenskin_weapon_spear_003_pommel" text="Навершие Орк-Смертотыка" />
-    <string id="str_bretonnian_sword_001_guard" text="Бретонская гарда меча" />
-    <string id="str_jousting_lance_guard_long_colored_blackwhite" text="Цветная гарда копья для турниров (черная/белая)" />
-    <string id="str_bretonnian_trident_spear_head" text="Бретонская головка тризды" />
-    <string id="str_dwarf_1h_engineer_hammer_001_handle" text="Рукоять Молота Инженера" />
-    <string id="str_we_2h_axe_001_handle" text="Рукоять деревянного эльфийского топора" />
-    <string id="str_bretonnian_greatsword_001_handle" text="Рукоять Бретонского Меча-Клинка" />
-    <string id="str_dwarf_2h_hammer_006_head" text="Наконечник Громового Молота Воина-Дворфа" />
-    <string id="str_we_sword_001_guard" text="Гарда Древнего Эльфийного Меча" />
-    <string id="str_empire_halberd_005_shaft" text="Древко Имперской Алебарды" />
-    <string id="str_vc_skeleton_warrior_mace_003_handle" text="Древко скелетного меча" />
-    <string id="str_vampire_sword_008_blade" text="Клинок вампирского меча" />
-    <string id="str_vc_khopesh_001_handle" text="Рукоять кхопеша" />
-    <string id="str_we_spear_002_head" text="Древко Эльфийского Копья" />
-    <string id="str_prophetess_staff_001_handle" text="Рукоять жезла пророчицы" />
-    <string id="str_vampire_sword_003_guard" text="Гарда вампирского меча" />
-    <string id="str_empire_huss_hammer_handle" text="Древко молота Лютора Хусса" />
-    <string id="str_bretonnian_halberd_003_head" text="Наконечник бретонского вульжиера" />
-    <string id="str_vampire_sword_001_handle" text="Рукоять вампирского меча" />
-    <string id="str_bretonnian_jousting_lance_pommel_002" text="Бретонское навершие для копья-пики" />
-    <string id="str_vc_skeleton_warrior_mace_001_blade" text="Булава Скелетного Воина" />
-    <string id="str_dwarf_one_handed_axes_006_head" text="Головка топора дворфа" />
-    <string id="str_beastmen_ungor_axe_001_handle" text="Рукоять топора Унгора" />
-    <string id="str_dwarf_2h_hammer_001_handle" text="Древко Дворфского Молота 001" />
-    <string id="str_empire_morr_scythe_001_blade" text="Клинок косы Морра" />
-    <string id="str_he_spearmen_spear_001_shaft" text="Древко Высокого Эльфийского Копья" />
-    <string id="str_skeleton_warrior_sword_003_pommel" text="Навершие скелетного меча воина" />
-    <string id="str_volkmar_staff_handle" text="Рукоять палочки Фолькмара Грозного" />
-    <string id="str_dwarf_2h_pickaxe_003_handle" text="Древко дворфского ломокола" />
-    <string id="str_greenskin_weapon_2h_axe_004_head" text="Лезвие Бигга Орк-Рубила" />
-    <string id="str_skeleton_warrior_sword_002_guard" text="Гарда скелетного меча воина" />
-    <string id="str_comet_flail_head" text="Наконечник Косы Комета" />
-    <string id="str_vc_skeleton_warrior_mace_001_handle" text="Рукоять Булавы Скелетного Воина" />
-    <string id="str_empire_morr_scythe_001_pole" text="Древко косы Морраа" />
-    <string id="str_mannfred_sword_handle" text="Рукоять меча Маннфреда" />
-    <string id="str_grave_guard_sword_001_hilt" text="Рукоять могильного меча 001" />
-    <string id="str_vampire_greatsword_001_pommel" text="Навершие Меча Вампира Великого" />
-    <string id="str_vampire_sword_002_pommel" text="Навершие вампирского меча" />
-    <string id="str_exiled_wizard_dragon_staff_001_head" text="Головка жезла дракона изгнанного мага" />
-    <string id="str_ghal_maraz_handle" text="Рукоять Гхал-Мараза" />
-    <string id="str_bretonnian_greatsword_001_blade" text="Клинок Бретонского Меча Великого" />
-    <string id="str_runefang_012_guard" text="Гарда Меча Руназуба" />
-    <string id="str_we_sword_002_handle" text="Рукоять Древнего Эльфийного Меча" />
-    <string id="str_flagellant_flail_handle_001" text="Древко цепного молота Флагеллянта" />
-    <string id="str_rapier_001_blade" text="Клинок Рапиры Империи" />
-    <string id="str_reiksguard_knight_sword_001_handle" text="Рукоять Меча Рыцаря Рейксгвардии" />
-    <string id="str_greenskin_weapon_spear_001_handle" text="Древко Орк-Тыкалки" />
-    <string id="str_greenskin_orc_boss_axe_003_blade" text="Клинок Рубила Орк-Босса" />
-    <string id="str_dwarf_2h_engineer_hammer_001_handle" text="Древко Дворфа-инженера Могучего Молота с зубцами" />
-    <string id="str_beastmen_ungor_axe_003_handle" text="Рукоять топора Унгора" />
-    <string id="str_empire_rapier_005_guard" text="Гарда рапиры Империи" />
-    <string id="str_empire_spear_003_head" text="Наконечник копья Империи" />
-    <string id="str_bretonnian_spear_001_head" text="Бретонская головка копья 001" />
-    <string id="str_we_spear_001_shaft" text="Древко Эльфийского Копья" />
-    <string id="str_greenskin_weapon_2h_axe_002_handle" text="Рукоять Большого Орк-Рубила" />
-    <string id="str_dwarf_one_handed_axes_007_handle" text="Деревянная рукоять карельского топора" />
-    <string id="str_vampire_sword_005_handle" text="Рукоять вампирского меча" />
-    <string id="str_bretonnian_sword_002_guard" text="Бретонская гарда меча" />
-    <string id="str_empire_rapier_003_blade" text="Клинок Рапиры Империи" />
-    <string id="str_wp_hammer_004_handle" text="Древко Молота Воина-Жреца" />
-    <string id="str_dwarf_ungrim_2h_axe_001_handle" text="Древко Топора Дарго" />
-    <string id="str_greenskin_weapon_2h_axe_005_head" text="Лезвие Большого Орк-Черепокола" />
-    <string id="str_dwarf_two_handed_axe_002_002_head" text="Клинок украшенного дворфского топора" />
-    <string id="str_vampire_greatsword_001_blade" text="Клинок Меча-Мечника Вампира 001" />
-    <string id="str_bretonnian_halberd_003_shaft" text="Древко бретонской вульжиера" />
-    <string id="str_rapier_001_pommel" text="Навершие Рапиры Империи" />
-    <string id="str_reiksguard_knight_sword_003_handle" text="Рукоять Меча Рыцаря Рейксгвардии" />
-    <string id="str_he_greatsword_001_blade" text="Клинок эльфийского большого меча 001" />
-    <string id="str_jousting_lance_guard_long_x" text="Тяжёлая гарда турнирного копья" />
-    <string id="str_greenskin_savage_axe_001_handle" text="Рукоять Костяного Орк-Рубила" />
-    <string id="str_dwarf_deamon_slayer_2h_axe_001_handle" text="Древко демонотерза Дворфа" />
-    <string id="str_reiksguard_knight_sword_001_pommel" text="Навершие Меча Рыцаря Рейксгвардии" />
-    <string id="str_wood_scythe_handle" text="Древко косы" />
-    <string id="str_bretonnian_sword_002_blade" text="Бретонский клинок меча" />
-    <string id="str_dwarf_one_handed_axes_005_handle" text="Древко крылатого топора дворфа" />
-    <string id="str_empire_rapier_005_blade" text="Клинок рапиры Империи" />
-    <string id="str_beastmen_2h_axe_001_handle" text="Рукоять минотаврского топора" />
-    <string id="str_nurgle_greataxe_001_blade" text="Клинок Гриваста Нургла" />
-    <string id="str_dwarf_one_handed_axes_009_head" text="Головка дворфского топора" />
-    <string id="str_skeleton_warrior_sword_003_hilt" text="Рукоять скелетного меча воина" />
-    <string id="str_bretonnian_sword_001_handle" text="Бретонская рукоять меча" />
-    <string id="str_vampire_sword_005_guard" text="Гарда вампирского меча" />
-    <string id="str_chaos_ud_lance_pommel_001" text="Навершие хаосного копья" />
-    <string id="str_vampire_sword_001_pommel" text="Навершие вампирского меча" />
-    <string id="str_greenskin_weapon_spear_003_blade" text="Наконечник Орк-Смертотыка" />
-    <string id="str_vampire_sword_006_handle" text="Рукоять Меча Вампира" />
-    <string id="str_warboss_mace_2h_001_head" text="Голова Булавы Вожака 'Эад' с шипами" />
-    <string id="str_greenskin_weapon_spear_001_blade" text="Наконечник Орк-Тыкалки" />
-    <string id="str_empire_halberd_004_shaft" text="Древко Имперской Алебарды" />
-    <string id="str_vampire_sword_005_blade" text="Клинок вампирского меча" />
-    <string id="str_reiksguard_knight_sword_001_guard" text="Гарда Меча Рыцаря Рейксгвардии" />
-    <string id="str_empire_hammer_001_head" text="Наконечник имперского молота" />
-    <string id="str_black_orc_axe_2h_001_handle" text="Рукоять Большого Топора Чёрного Орка" />
-    <string id="str_reiksguard_knight_sword_003_blade" text="Клинок Меча Рыцаря Рейксгвардии" />
-    <string id="str_runefang_001_handle" text="Рукоять Руненфэнга" />
-    <string id="str_empire_halberd_shaft" text="Древко имперской алебарды" />
-    <string id="str_empire_light_wizard_002_head" text="Наконечник посоха светлого мага Империи (вариант 2)" />
-    <string id="str_greenskin_weapon_axe_002_blade" text="Лезвие Орк-Рубила" />
-    <string id="str_bretonnian_spear_002_head" text="Бретонская головка копья 002" />
-    <string id="str_bretonnian_jousting_lance_guard_002" text="Бретонская гарда для копья-пики" />
-    <string id="str_greenskin_weapon_axe_003_blade" text="Лезвие Настоящего Орк-Рубила" />
-    <string id="str_empire_halberd_002_head" text="Наконечник имперской алебарды" />
-    <string id="str_reiksguard_knight_lance_handle_002" text="Древко копья рыцаря Рейксгвардии" />
-    <string id="str_greenskin_weapon_2h_sword_001_guard" text="Гарда Большой Орк-Рубаки Бигги" />
-    <string id="str_greenskin_weapon_mace_002_handle" text="Рукоять Шипастой Орк-Дробилки" />
-    <string id="str_we_lord_sword_001_blade" text="Клинок Меча Лорда Глея" />
-    <string id="str_empire_halberd_002_shaft" text="Древко имперской алебарды" />
-    <string id="str_beastmen_ungor_sword_001_blade" text="Клинок меча Унгора" />
-    <string id="str_nm_staff_001_handle" text="Рукоять жезла некроманта" />
-    <string id="str_dwarf_2h_hammer_001_head" text="Наконечник Дворфского Молота 001" />
-    <string id="str_black_knight_lance_001_pommel" text="Навершие копья Чёрного Рыцаря" />
-    <string id="str_vampire_greataxe_002_handle" text="Древко вампирского топора 002" />
-    <string id="str_bretonnian_spear_002_pommel" text="Бретонское навершие копья" />
+    <string id="str_vampire_sword_002_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_vampire_sword_004_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_ghost_sickle_handle_1" text="{.NI}Древко{.nn} косы Хозяина Призраков" />
+    <string id="str_beastmen_ungor_sword_002_handle" text="{.FI}Рукоять{.nn} меча Унгора" />
+    <string id="str_skeleton_spear_guard" text="{.FI}Старый{.aj} {.FI}гарда{.nn} копья скелета" />
+    <string id="str_troll_2h_hammer_001_handle" text="{.NI}Древко{.nn} Каменного Молота Тролля" />
+    <string id="str_beastmen_ungor_spear_002_shaft" text="{.NI}Древко{.nn} копья Унгора" />
+    <string id="str_rapier_001_guard" text="{.FI}Гарда{.nn} Рапиры Империи" />
+    <string id="str_dwarf_one_handed_axes_010_handle" text="{.NI}Древко{.nn} благородного дворфского топора" />
+    <string id="str_dwarf_two_handed_axe_002_003_head" text="{.NI}Лезвие{.nn} Громадного Топора Дворфа с Драгоценными Камнями" />
+    <string id="str_greenskin_weapon_sword_004_guard" text="{.FI}Гарда{.nn} меча орочьего босса" />
+    <string id="str_bretonnian_spear_001_pommel" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} копья 001" />
+    <string id="str_vc_skeleton_warrior_mace_002_blade" text="{.FI}Булава{.nn} Скелетного Воина" />
+    <string id="str_greenskin_weapon_2h_axe_001_head" text="{.NI}Лезвие{.nn} большого орочьего рубила" />
+    <string id="str_bw_staff_002_handle" text="{.FI}Рукоять{.nn} палочки яркого мага" />
+    <string id="str_wp_hammer_004_head" text="{.MI}Наконечник{.nn} Молота Воина-Жреца" />
+    <string id="str_he_whitelion_2h_axe_001_handle" text="{.FI}Рукоять{.nn} белого льва высоких эльфов" />
+    <string id="str_raven_scythe_blade" text="{.MI}Клинок{.nn} косы Ворона" />
+    <string id="str_vc_halberd_001_head" text="{.FI}Старый{.aj} {.FI}Голова{.nn} Алебарды" />
+    <string id="str_reiksguard_circle_sword_001_pommel" text="{.NI}Навершие{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_vampire_greatsword_001_hilt" text="{.FI}Рукоять{.nn} Меча Вампира Великого" />
+    <string id="str_beastmen_ungor_spear_003_shaft" text="{.NI}Древко{.nn} копья Унгора" />
+    <string id="str_greenskin_orc_boss_axe_001_blade" text="{.MI}Клинок{.nn} рубила орочьего босса" />
+    <string id="str_skeleton_warrior_sword_003_blade" text="{.MI}Клинок{.nn} скелетного меча воина" />
+    <string id="str_greenskin_weapon_spear_002_handle" text="{.NI}Древко{.nn} Бигга-Тыкалки" />
+    <string id="str_greenskin_weapon_sword_003_guard" text="{.FI}Гарда{.nn} меча орочьего пацана" />
+    <string id="str_sword_de_lyonesse_handle" text="{.FI}Рукоять{.nn} Меча де Лионесс" />
+    <string id="str_bretonnian_jousting_lance_guard_004" text="{.FI}Гарда{.nn} бретонского турнирного копья" />
+    <string id="str_dwarf_one_handed_axes_003_head" text="{.FI}Головка{.nn} дворфа с гравировкой" />
+    <string id="str_empire_greatsword_002_blade" text="{.MI}Клинок{.nn} Имперского Меча-Молота" />
+    <string id="str_greenskin_weapon_2h_axe_003_head" text="{.NI}Лезвие{.nn} большого орочьего тесака" />
+    <string id="str_empire_rapier_005_handle" text="{.FI}Рукоять{.nn} рапиры Империи" />
+    <string id="str_bretonnian_jousting_lance_guard_003" text="{.FI}Бретонский{.aj} {.FI}гарда{.nn} для копья-пики" />
+    <string id="str_greenskin_orc_boss_axe_002_handle" text="{.FI}Рукоять{.nn} рубила орочьего босса" />
+    <string id="str_wp_polehammer_001_head" text="{.FI}Голова{.nn} жезло-молота священника воина" />
+    <string id="str_black_orc_1h_axe_001_handle" text="{.FI}Рукоять{.nn} Топора Чёрного Орка" />
+    <string id="str_bretonnian_greatsword_001_guard" text="{.FI}Гарда{.nn} Бретонского Меча-Клинка" />
+    <string id="str_wp_polehammer_003_head" text="{.FI}Голова{.nn} жезло-молота священника воина" />
+    <string id="str_greenskin_weapon_2h_axe_005_handle" text="{.FI}Рукоять{.nn} большого орочьего черепокола" />
+    <string id="str_black_orc_axe_2h_001_blade" text="{.NI}Лезвие{.nn} Большого Топора Чёрного Орка" />
+    <string id="str_vampire_greataxe_001_blade" text="{.MI}Клинок{.nn} вампирского топора 001" />
+    <string id="str_skeleton_warrior_sword_002_pommel" text="{.NI}Навершие{.nn} скелетного меча воина" />
+    <string id="str_wp_twohanded_hammer_002_handle" text="{.NI}Древко{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_empire_morr_scythe_002_pole" text="{.NI}Древко{.nn} косы Морра" />
+    <string id="str_chaos_ud_lance_guard_001" text="{.FI}Гарда{.nn} копья Хаоса" />
+    <string id="str_bretonnian_sword_002_handle" text="{.FI}Бретонский{.aj} {.FI}рукоять{.nn} меча" />
+    <string id="str_vampire_sword_007_guard" text="{.FI}Гарда{.nn} Меча Вампира" />
+    <string id="str_lance_iron_handle_x" text="{.NI}Железный{.aj} {.NI}древко{.nn} копья (усиленное)" />
+    <string id="str_bret_squire_longsword_002_handle" text="{.FI}Рукоять{.nn} большого меча Бретонского оруженосца 002" />
+    <string id="str_dwarf_1h_axe_of_grimnir_head" text="{.MI}Наконечник{.nn} топора Гримнира" />
+    <string id="str_greenskin_weapon_2h_sword_002_blade" text="{.MI}Клинок{.nn} настоящего большого орочьего двуручного меча" />
+    <string id="str_greenskin_weapon_2h_sword_002_guard" text="{.FI}Гарда{.nn} настоящего большого орочьего двуручного меча" />
+    <string id="str_reiksguard_knight_sword_003_guard" text="{.FI}Гарда{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_wp_polehammer_002_head" text="{.FI}Голова{.nn} жезло-молота священника воина" />
+    <string id="str_grave_guard_greataxe_001_handle" text="{.FI}Рукоять{.nn} большого топора Могильного Стража" />
+    <string id="str_wp_hammer_001_handle" text="{.NI}Древко{.nn} Молота Воина-Жреца" />
+    <string id="str_dwarf_one_handed_axes_004_handle" text="{.NI}Древко{.nn} топора дворфа" />
+    <string id="str_flagellant_mace_002_head" text="{.MI}Наконечник{.nn} Булавы Флагелланта" />
+    <string id="str_greenskin_weapon_sword_002_handle" text="{.FI}Рукоять{.nn} меча орочьего пацана" />
+    <string id="str_we_greatsword_001_guard" text="{.FI}Гарда{.nn} большого меча Древнего Эльфа" />
+    <string id="str_empire_greatsword_002_hilt" text="{.FI}Рукоять{.nn} Имперского Меча-Мечника 002" />
+    <string id="str_bw_staff_002_head" text="{.FI}Головка{.nn} палочки яркого мага" />
+    <string id="str_empire_light_wizard_002_handle" text="{.FI}Рукоять{.nn} посоха светлого мага Империи (вариант 2)" />
+    <string id="str_vampire_sword_007_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_we_2h_axe_001_blade" text="{.MI}Клинок{.nn} деревянного эльфийского топора" />
+    <string id="str_reiksguard_circle_sword_003_pommel" text="{.NI}Навершие{.nn} меча Внутреннего круга Рейксгарда" />
+    <string id="str_empire_morr_scythe_003_blade" text="{.MI}Клинок{.nn} косы Морра" />
+    <string id="str_bretonnian_halberd_005_head" text="{.MI}Наконечник{.nn} бретонского вульжиера" />
+    <string id="str_skeleton_warrior_sword_004_blade" text="{.MI}Клинок{.nn} скелетного меча воина" />
+    <string id="str_empire_hammer_001_handle" text="{.NI}Древко{.nn} Имперского Молота" />
+    <string id="str_nurgle_greataxe_001_handle" text="{.NI}Древко{.nn} двуручного топора Нургла" />
+    <string id="str_grave_guard_sword_001_blade" text="{.MI}Клинок{.nn} могильного меча 001" />
+    <string id="str_wp_hammer_003_handle" text="{.NI}Древко{.nn} Молота Воина-Жреца" />
+    <string id="str_wp_hammer_002_head" text="{.MI}Наконечник{.nn} Молота Воина-Жреца" />
+    <string id="str_we_greatsword_001_handle" text="{.FI}Рукоять{.nn} большого меча Древнего Эльфа" />
+    <string id="str_vampire_sword_003_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_empire_rapier_002_pommel" text="{.NI}Навершие{.nn} Рапиры Империи" />
+    <string id="str_dwarf_1h_hammer_of_angrund_handle" text="{.FI}Рукоять{.nn} Молота Ангрунда" />
+    <string id="str_dwarf_1h_hammer_of_angrund_head" text="{.MI}Наконечник{.nn} Молота Ангрунда" />
+    <string id="str_de_spear_001_shaft" text="{.NI}Древко{.nn} Тёмного Эльфийского Копья" />
+    <string id="str_he_greatsword_001_pommel" text="{.NI}Навершие{.nn} великого меча Высокого Эльфа" />
+    <string id="str_dwarf_one_handed_axes_003_handle" text="{.NI}Древко{.nn} топора дворфа с гравировкой" />
+    <string id="str_dwarf_one_handed_axes_004_head" text="{.FI}Головка{.nn} топора дворфа" />
+    <string id="str_vampire_greatmace_001_head" text="{.MI}Клинок{.nn} двуручной булавы вампира" />
+    <string id="str_reiksguard_circle_sword_003_guard" text="{.FI}Гарда{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_bretonnian_jousting_lance_pommel_003" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} для копья-пики" />
+    <string id="str_dwarf_two_handed_axe_002_004_head" text="{.NI}Лезвие{.nn} Громадного Топора Дворфа с Драгоценными Камнями" />
+    <string id="str_vampiric_scythe_blade" text="{.MI}Клинок{.nn} косы Вампирической" />
+    <string id="str_vc_khopesh_001_blade" text="{.MI}Клинок{.nn} кхопеша" />
+    <string id="str_we_spear_004_head" text="{.NI}Древко{.nn} Эльфийского Копья" />
+    <string id="str_reiksguard_circle_sword_002_pommel" text="{.NI}Навершие{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_empire_light_wizard_handle" text="{.FI}Рукоять{.nn} посоха светлого мага Империи" />
+    <string id="str_bretonnian_jousting_lance_handle_001" text="{.NI}Древко{.nn} бретонского турнирного копья" />
+    <string id="str_vampire_sword_008_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_prophetess_staff_001_head" text="{.MI}Наконечник{.nn} жезла пророчицы" />
+    <string id="str_vampire_sword_009_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_dwarf_one_handed_axes_002_head" text="{.FI}Голова{.nn} топора дворфа" />
+    <string id="str_empire_light_wizard_003_head" text="{.MI}Наконечник{.nn} посоха светлого мага Империи (вариант 3)" />
+    <string id="str_runefang_004_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_grave_guard_greatsword_001_blade" text="{.MI}Клинок{.nn} Меча-Мечника Могильного Стража 001" />
+    <string id="str_dwarf_1h_axe_001_head" text="{.FI}Орнаментированный{.aj} {.FI}голова{.nn} топора дворфа" />
+    <string id="str_bretonnian_jousting_lance_guard_001" text="{.FI}Гарда{.nn} бретонского турнирного копья" />
+    <string id="str_empire_spear_001_head" text="{.MI}Наконечник{.nn} копья Империи" />
+    <string id="str_dwarf_two_handed_axe_001_handle" text="{.NI}Древко{.nn} топора Громбриндала с рунами" />
+    <string id="str_vampire_sword_005_pommel" text="{.NI}Навершие{.nn} Меча Вампира" />
+    <string id="str_balthazar_gelt_staff_head" text="{.FI}Головка{.nn} палочки Балтазара" />
+    <string id="str_dwarf_two_handed_axe_002_handle" text="{.NI}Древко{.nn} Громадного Топора Дворфа с Драгоценными Камнями" />
+    <string id="str_bretonnian_halberd_004_shaft" text="{.NI}Древко{.nn} бретонской вульжиера" />
+    <string id="str_reiksguard_circle_sword_002_blade" text="{.MI}Клинок{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_we_greatsword_001_pommel" text="{.NI}Навершие{.nn} большого меча Древнего Эльфа" />
+    <string id="str_vampire_greataxe_002_blade" text="{.MI}Клинок{.nn} вампирского топора 002" />
+    <string id="str_bretonnian_spear_001_shaft" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} копья 001" />
+    <string id="str_volkmar_staff_head" text="{.FI}Головка{.nn} палочки Фолькмара Грозного" />
+    <string id="str_beastmen_ungor_spear_001_shaft" text="{.NI}Древко{.nn} копья Унгора" />
+    <string id="str_reiksguard_knight_lance_blade_002" text="{.MI}Клинок{.nn} копья рыцаря Рейксгвардии" />
+    <string id="str_greenskin_orc_boss_axe_003_handle" text="{.FI}Рукоять{.nn} рубила орочьего босса" />
+    <string id="str_bretonnian_jousting_lance_handle_003" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} для копья-пика" />
+    <string id="str_black_knight_lance_001_guard" text="{.FI}Гарда{.nn} копья Чёрного Рыцаря" />
+    <string id="str_flagellant_mace_001_head" text="{.MI}Наконечник{.nn} Булавы Флагелланта" />
+    <string id="str_flagellant_flail_head_003" text="{.FI}Головка{.nn} цепного молота Флагеллянта" />
+    <string id="str_troll_club_handle_001" text="{.NI}Древко{.nn} Костяной Дубины Тролля" />
+    <string id="str_empire_hammer_002_head" text="{.FI}Головка{.nn} Имперского Молота" />
+    <string id="str_bret_squire_longsword_001_guard" text="{.FI}Гарда{.nn} Меча-Клинка Бретонского Рыцаря" />
+    <string id="str_dwarf_two_handed_axe_002_001_head" text="{.MI}Клинок{.nn} дворфского топора 001" />
+    <string id="str_dwarf_1h_spanner_001_handle" text="{.FI}Рукоять{.nn} Дворфа-Ключа" />
+    <string id="str_ghost_sickle_blade_1" text="{.MI}Клинок{.nn} косы Хозяина Призраков" />
+    <string id="str_wp_polehammer_003_handle" text="{.NI}Древко{.nn} жезла-молота священника воина" />
+    <string id="str_reiksguard_knight_sword_001_blade" text="{.MI}Клинок{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_jousting_lance_guard_long_colored_redyellow" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (красная/желтая)" />
+    <string id="str_greenskin_weapon_axe_003_handle" text="{.FI}Рукоять{.nn} настоящего орочьего рубила" />
+    <string id="str_greenskin_weapon_sword_004_handle" text="{.FI}Рукоять{.nn} меча орочьего босса" />
+    <string id="str_dwarf_troll_slayer_2h_axe_001_handle" text="{.NI}Древко{.nn} Большого Топора Истребителя Троллей" />
+    <string id="str_skeleton_spear_pommel" text="{.NI}Старый{.aj} {.NI}навершие{.nn} копья скелета" />
+    <string id="str_bretonnian_halberd_006_head" text="{.FI}Головка{.nn} бретонского вульжа" />
+    <string id="str_greenskin_weapon_2h_sword_002_handle" text="{.FI}Рукоять{.nn} настоящего большого орочьего двуручного меча" />
+    <string id="str_bret_squire_longsword_003_guard" text="{.FI}Гарда{.nn} большого меча Бретонского оруженосца 003" />
+    <string id="str_dwarf_one_handed_axes_009_handle" text="{.FI}Рукоять{.nn} одноручного дворфского топора 009" />
+    <string id="str_vc_halberd_002_head" text="{.FI}Старый{.aj} {.FI}Голова{.nn} Алебарды" />
+    <string id="str_bretonnian_jousting_lance_blade_001" text="{.MI}Клинок{.nn} бретонского турнирного копья" />
+    <string id="str_flagellant_mace_001_handle" text="{.NI}Древко{.nn} булавы Флагеллянта" />
+    <string id="str_greenskin_weapon_spear_003_handle" text="{.NI}Древко{.nn} орочьего смертотыка" />
+    <string id="str_we_spear_003_head" text="{.NI}Древко{.nn} Эльфийского Копья" />
+    <string id="str_greenskin_weapon_axe_001_blade" text="{.NI}Лезвие{.nn} орочьего рубила" />
+    <string id="str_dwarf_two_handed_axe_005_head" text="{.NI}Лезвие{.nn} Громадного Топора Дворфа с Крыльями" />
+    <string id="str_bretonnian_jousting_lance_pommel_004" text="{.NI}Навершие{.nn} бретонского турнирного копья" />
+    <string id="str_empire_spear_005_head" text="{.MI}Наконечник{.nn} копья Империи" />
+    <string id="str_greenskin_weapon_spear_002_blade" text="{.MI}Наконечник{.nn} Бигга-Тыкалки" />
+    <string id="str_greenskin_weapon_2h_sword_002_pommel" text="{.NI}Навершие{.nn} настоящего большого орочьего двуручного меча" />
+    <string id="str_greenskin_weapon_axe_002_handle" text="{.FI}Рукоять{.nn} орочьего рубила" />
+    <string id="str_dwarf_giant_slayer_2h_axe_001_blade" text="{.NI}Лезвие{.nn} Громадного Топора Убийцы Гигантов" />
+    <string id="str_we_lord_sword_001_pommel" text="{.NI}Навершие{.nn} меча Лорда Глейда" />
+    <string id="str_bret_squire_longsword_002_guard" text="{.FI}Гарда{.nn} большого меча Бретонского оруженосца 002" />
+    <string id="str_bret_squire_longsword_003_blade" text="{.MI}Клинок{.nn} большого меча Бретонского оруженосца 003" />
+    <string id="str_wp_twohanded_hammer_001_head" text="{.FI}Головка{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_flagellant_flail_head_002" text="{.FI}Головка{.nn} цепного молота Флагеллянта" />
+    <string id="str_nm_staff_001_head" text="{.MI}Наконечник{.nn} некромантического посоха" />
+    <string id="str_stoneaxe_of_taal_handle" text="{.FI}Рукоять{.nn} каменного топора Таала" />
+    <string id="str_orc_shaman_staff_001_handle" text="{.NI}Древко{.nn} посоха орочьего шамана" />
+    <string id="str_beastmen_ungor_sword_003_blade" text="{.MI}Клинок{.nn} меча Унгора" />
+    <string id="str_greenskin_orc_boss_axe_001_handle" text="{.FI}Рукоять{.nn} рубила орочьего босса" />
+    <string id="str_dwarf_troll_slayer_2h_axe_001_blade" text="{.NI}Лезвие{.nn} Большого Топора Истребителя Троллей" />
+    <string id="str_reiksguard_knight_lance_pommel_002" text="{.NI}Навершие{.nn} копья рыцаря Рейксгвардии" />
+    <string id="str_wp_twohanded_hammer_002_head" text="{.FI}Головка{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_greenskin_weapon_sword_003_pommel" text="{.NI}Навершие{.nn} меча орочьего пацана" />
+    <string id="str_beastmen_ungor_spear_001_head" text="{.MI}Наконечник{.nn} копья Унгора" />
+    <string id="str_jousting_lance_handle_small_x" text="{.NI}Тяжёлый{.aj} {.NI}древко{.nn} турнирного копья" />
+    <string id="str_grave_guard_greatsword_001_handle" text="{.FI}Рукоять{.nn} Меча-Мечника Могильного Стража 001" />
+    <string id="str_greenskin_weapon_sword_003_handle" text="{.FI}Рукоять{.nn} меча орочьего пацана" />
+    <string id="str_runefang_008_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_greenskin_weapon_mace_001_head" text="{.MI}Набалдашник{.nn} орочьей дробилки" />
+    <string id="str_vc_skeleton_warrior_mace_002_handle" text="{.FI}Рукоять{.nn} Булавы Скелетного Воина" />
+    <string id="str_mannfred_sword_guard" text="{.FI}Гарда{.nn} меча Маннфреда" />
+    <string id="str_vampire_sword_008_pommel" text="{.NI}Навершие{.nn} меча вампира" />
+    <string id="str_dwarf_slayer_axe_1h_001_head" text="{.FI}Головка{.nn} убийственного топора" />
+    <string id="str_exiled_wizard_dragon_staff_001_handle" text="{.FI}Рукоять{.nn} жезла дракона изгнанного мага" />
+    <string id="str_vampire_sword_008_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_greenskin_weapon_ornateaxe_001_head" text="{.NI}Лезвие{.nn} шипастого орочьего рубила" />
+    <string id="str_we_sword_001_blade" text="{.MI}Древний{.aj} эльфийный{.aj} {.MI}Клинок{.nn}" />
+    <string id="str_greenskin_weapon_spear_001_guard" text="{.FI}Гарда{.nn} орочьей тыкалки" />
+    <string id="str_empire_morr_scythe_002_blade" text="{.MI}Клинок{.nn} косы Морра" />
+    <string id="str_lhm_fist_weapon_handle" text="{.FI}Рукоять{.nn} оружия кулака монстра" />
+    <string id="str_wp_polehammer_002_handle" text="{.NI}Древко{.nn} жезло-молота священника воина" />
+    <string id="str_beastmen_ungor_axe_003_blade" text="{.MI}Клинок{.nn} топора Унгора" />
+    <string id="str_dwarf_2h_hammer_007_handle" text="{.NI}Древко{.nn} Дворфа-орнаментированного Могучего Молота" />
+    <string id="str_bretonnian_jousting_lance_handle_004" text="{.NI}Древко{.nn} бретонского турнирного копья" />
+    <string id="str_vampire_sword_002_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_dwarf_one_handed_axes_008_head" text="{.NI}Лезвие{.nn} карельского топора" />
+    <string id="str_beastmen_ungor_sword_002_blade" text="{.MI}Клинок{.nn} меча Унгора" />
+    <string id="str_vampire_sword_001_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_empire_rapier_004_pommel" text="{.NI}Навершие{.nn} рапиры Империи" />
+    <string id="str_empire_greatsword_001_hilt" text="{.FI}Рукоять{.nn} Имперского Меча-Молота" />
+    <string id="str_grave_guard_greatsword_001_pommel" text="{.NI}Навершие{.nn} Меча-Мечника Могильного Стража 001" />
+    <string id="str_dwarf_2h_klad_brakak_handle" text="{.FI}Рукоять{.nn} Клада Бракак" />
+    <string id="str_runefang_009_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_empire_greatsword_001_guard" text="{.FI}Гарда{.nn} Имперского Меча-Молота" />
+    <string id="str_greenskin_weapon_2h_sword_001_blade" text="{.MI}Клинок{.nn} огромного сабли Оркин-Рубака" />
+    <string id="str_dwarf_2h_spanner_001_head" text="{.FI}Головка{.nn} Дворфа-гаечного ключа" />
+    <string id="str_sword_de_lyonesse_guard" text="{.FI}Гарда{.nn} Меча де Лионесс" />
+    <string id="str_wp_polehammer_001_handle" text="{.NI}Древко{.nn} жезло-молота священника воина" />
+    <string id="str_beastmen_2h_axe_001_blade" text="{.MI}Клинок{.nn} минотаврского топора" />
+    <string id="str_runefang_003_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_wp_hammer_002_handle" text="{.NI}Древко{.nn} Молота Воина-Жреца" />
+    <string id="str_beastmen_ungor_sword_002_guard" text="{.FI}Гарда{.nn} меча Унгора" />
+    <string id="str_flagellant_mace_002_handle" text="{.NI}Древко{.nn} Жесточащей Булавы" />
+    <string id="str_vampire_sword_009_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_empire_halberd_006_head" text="{.MI}Наконечник{.nn} Имперской Алебарды" />
+    <string id="str_empire_rapier_003_handle" text="{.FI}Рукоять{.nn} Рапиры Империи" />
+    <string id="str_bretonnian_spear_003_head" text="{.FI}Бретонский{.aj} {.FI}головка{.nn} копья" />
+    <string id="str_dwarf_2h_hammer_002_handle" text="{.NI}Древко{.nn} Дворфского Молота 002" />
+    <string id="str_chaos_2h_greataxe_001_blade" text="{.MI}Клинок{.nn} двуручного топора Хаоса" />
+    <string id="str_empire_halberd_003_head" text="{.MI}Наконечник{.nn} имперской алебарды" />
+    <string id="str_vampire_sword_004_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_dwarf_one_handed_axes_002_handle" text="{.NI}Древко{.nn} топора дворфа" />
+    <string id="str_greenskin_weapon_2h_axe_003_handle" text="{.FI}Рукоять{.nn} большого орочьего тесака" />
+    <string id="str_bretonnian_spear_003_shaft" text="{.NI}Бретонский{.aj} {.NI}древко{.nn} копья" />
+    <string id="str_reiksguard_knight_sword_002_blade" text="{.MI}Клинок{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_lance_iron_blade" text="{.MI}Железный{.aj} {.MI}наконечник{.nn} копья" />
+    <string id="str_lance_blade_9" text="{.MI}Наконечник{.nn} копья" />
+    <string id="str_empire_spear_004_head" text="{.MI}Наконечник{.nn} копья Империи" />
+    <string id="str_holy_silver_hammer_handle" text="{.FI}Рукоять{.nn} Священного Серебряного Молота" />
+    <string id="str_we_lord_sword_001_handle" text="{.FI}Рукоять{.nn} Меча Лорда Глея" />
+    <string id="str_vc_khopesh_001_guard" text="{.FI}Гарда{.nn} кхопеша" />
+    <string id="str_reiksguard_circle_sword_001_guard" text="{.FI}Гарда{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_jousting_lance_pommel_x" text="{.MI}Тяжёлый{.aj} {.MI}наконечник{.nn} копья для турниров" />
+    <string id="str_dwarf_2h_engineer_hammer_001_head" text="{.FI}Головка{.nn} Дворфа-инженера Могучего Молота с зубцами" />
+    <string id="str_lhm_fist_weapon_blade" text="{.MI}Клинок{.nn} оружия кулака монстра" />
+    <string id="str_empire_halberd_003_shaft" text="{.NI}Древко{.nn} имперской алебарды" />
+    <string id="str_chaos_sword_01_guard" text="{.FI}Гарда{.nn} меча Хаоса" />
+    <string id="str_greenskin_weapon_sword_003_blade" text="{.MI}Клинок{.nn} меча орочьего пацана" />
+    <string id="str_empire_halberd_004_head" text="{.MI}Наконечник{.nn} имперской алебарды" />
+    <string id="str_rapier_001_handle" text="{.FI}Рукоять{.nn} Рапиры Империи" />
+    <string id="str_black_orc_1h_axe_001_head" text="{.NI}Лезвие{.nn} Топора Чёрного Орка" />
+    <string id="str_nurgle_hammer_001_handle" text="{.FI}Рукоять{.nn} Молота Нургла" />
+    <string id="str_empire_halberd_head" text="{.MI}Наконечник{.nn} имперской алебарды" />
+    <string id="str_sword_de_lyonesse_pommel" text="{.NI}Навершие{.nn} Меча де Лионесс" />
+    <string id="str_greenskin_weapon_2h_axe_001_handle" text="{.FI}Рукоять{.nn} большого орочьего рубила" />
+    <string id="str_reiksguard_knight_lance_guard_002" text="{.FI}Гарда{.nn} копья рыцаря Рейксгвардии" />
+    <string id="str_vampire_greatmace_001_handle" text="{.NI}Древко{.nn} двуручной булавы вампира" />
+    <string id="str_default_jousting_lance_guard" text="{.FI}Гарда{.nn} тренировочного турнирного копья" />
+    <string id="str_dwarf_2h_pickaxe_005_handle" text="{.NI}Древко{.nn} дворфской лопаты 005" />
+    <string id="str_wp_twohanded_hammer_001_handle" text="{.NI}Древко{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_skeleton_spear_head" text="{.MI}Старый{.aj} {.MI}наконечник{.nn} копья" />
+    <string id="str_greenskin_weapon_sword_002_guard" text="{.FI}Гарда{.nn} меча орочьего пацана" />
+    <string id="str_black_axe_of_krell_handle" text="{.NI}Древко{.nn} чёрного топора Крелла" />
+    <string id="str_vampire_sword_007_handle" text="{.FI}Рукоять{.nn} Меча Вампира" />
+    <string id="str_runefang_002_guard" text="{.FI}Гарда{.nn} Рунфэнга" />
+    <string id="str_comet_flail_handle" text="{.NI}Древко{.nn} Косы Комета" />
+    <string id="str_he_greatsword_001_guard" text="{.FI}Гарда{.nn} великого меча Высокого Эльфа" />
+    <string id="str_greenskin_weapon_sword_001_guard" text="{.FI}Гарда{.nn} меча орочьего пацана" />
+    <string id="str_de_sword_001_guard" text="{.FI}Тёмноэльфийский{.aj} {.FI}гарда{.nn} меча" />
+    <string id="str_wp_hammer_003_head" text="{.MI}Наконечник{.nn} Молота Воина-Жреца" />
+    <string id="str_greenskin_weapon_2h_axe_004_handle" text="{.FI}Рукоять{.nn} большого орочьего рубила" />
+    <string id="str_greenskin_weapon_sword_001_pommel" text="{.NI}Навершие{.nn} меча орочьего пацана" />
+    <string id="str_empire_rapier_004_blade" text="{.MI}Клинок{.nn} рапиры Империи" />
+    <string id="str_empire_greatsword_001_blade" text="{.MI}Клинок{.nn} Имперского Меча-Молота" />
+    <string id="str_dwarf_ungrim_2h_axe_001_blade" text="{.MI}Клинок{.nn} Топора Дарго" />
+    <string id="str_empire_celestial_wizard_head" text="{.MI}Наконечник{.nn} небесного посоха" />
+    <string id="str_bretonnian_jousting_lance_blade_004" text="{.MI}Наконечник{.nn} бретонского турнирного копья" />
+    <string id="str_empire_rapier_005_pommel" text="{.NI}Навершие{.nn} рапиры Империи" />
+    <string id="str_beastmen_ungor_spear_004_head" text="{.MI}Наконечник{.nn} копья Унгора" />
+    <string id="str_bret_axe_of_brionne_head" text="{.MI}Наконечник{.nn} бретонского топора Брионн" />
+    <string id="str_dwarf_one_handed_axes_010_head" text="{.FI}Головка{.nn} благородного дворфского топора" />
+    <string id="str_skeleton_warrior_sword_001_blade" text="{.MI}Клинок{.nn} скелетного меча воина" />
+    <string id="str_dwarf_one_handed_axes_005_head" text="{.FI}Головка{.nn} крылатого топора дворфа" />
+    <string id="str_greenskin_savage_axe_001_blade" text="{.NI}Лезвие{.nn} костяного орочьего рубила" />
+    <string id="str_wp_twohanded_hammer_003_handle" text="{.NI}Древко{.nn} Двуручного Молота Воина-Жреца" />
+    <string id="str_reiksguard_knight_sword_003_pommel" text="{.NI}Навершие{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_greenskin_weapon_sword_002_blade" text="{.MI}Клинок{.nn} меча орочьего пацана" />
+    <string id="str_dwarf_one_handed_axes_008_handle" text="{.FI}Деревянный{.aj} {.FI}рукоять{.nn} карельского топора" />
+    <string id="str_he_spearmen_spear_001_head" text="{.MI}Наконечник{.nn} Высокого Эльфийского Копья" />
+    <string id="str_he_halberd_phoenix_001_shaft" text="{.NI}Древко{.nn} алебарды Стражей Феникса Высокого Эльфийского Царства" />
+    <string id="str_lance_iron_pommel" text="{.NI}Железный{.aj} {.NI}навершие{.nn} копья" />
+    <string id="str_jousting_lance_guard_long_colored_blueyellow" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (синяя/желтая)" />
+    <string id="str_stoneaxe_of_taal_head" text="{.MI}Наконечник{.nn} каменного топора Таала" />
+    <string id="str_dwarf_slayer_axe_1h_001_handle" text="{.NI}Древко{.nn} убийственного топора" />
+    <string id="str_reiksguard_circle_sword_001_handle" text="{.FI}Рукоять{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_empire_hammer_002_handle" text="{.NI}Древко{.nn} Имперского Молота" />
+    <string id="str_vc_skeleton_warrior_mace_003_blade" text="{.FI}Булава{.nn} Скелетного Воина" />
+    <string id="str_reiksguard_circle_sword_003_blade" text="{.MI}Клинок{.nn} Меча Внутреннего Круга Рейксгварда" />
+    <string id="str_troll_club_head_001" text="{.FI}Головка{.nn} Костяной Дубины Тролля" />
+    <string id="str_greenskin_weapon_sword_004_pommel" text="{.NI}Навершие{.nn} меча орочьего босса" />
+    <string id="str_runefang_001_guard" text="{.FI}Гарда{.nn} Руненфэнга" />
+    <string id="str_de_sword_001_blade" text="{.MI}Тёмный{.aj} эльфийный{.aj} {.MI}Клинок{.nn}" />
+    <string id="str_empire_light_wizard_003_handle" text="{.FI}Рукоять{.nn} посоха светлого мага Империи (вариант 3)" />
+    <string id="str_vampire_sword_004_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_reiksguard_knight_lance_blade_001" text="{.MI}Наконечник{.nn} копья рыцаря Рейксгарда" />
+    <string id="str_vampire_sword_003_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_greenskin_weapon_spear_003_pommel" text="{.NI}Навершие{.nn} орочьего смертотыка" />
+    <string id="str_bretonnian_sword_001_guard" text="{.FI}Бретонский{.aj} {.FI}гарда{.nn} меча" />
+    <string id="str_jousting_lance_guard_long_colored_blackwhite" text="{.FI}Цветный{.aj} {.FI}гарда{.nn} копья для турниров (черная/белая)" />
+    <string id="str_bretonnian_trident_spear_head" text="{.FI}Бретонский{.aj} {.FI}головка{.nn} тризды" />
+    <string id="str_dwarf_1h_engineer_hammer_001_handle" text="{.FI}Рукоять{.nn} Молота Инженера" />
+    <string id="str_we_2h_axe_001_handle" text="{.FI}Рукоять{.nn} деревянного эльфийского топора" />
+    <string id="str_bretonnian_greatsword_001_handle" text="{.FI}Рукоять{.nn} Бретонского Меча-Клинка" />
+    <string id="str_dwarf_2h_hammer_006_head" text="{.MI}Наконечник{.nn} Громового Молота Воина-Дворфа" />
+    <string id="str_we_sword_001_guard" text="{.FI}Гарда{.nn} Древнего Эльфийного Меча" />
+    <string id="str_empire_halberd_005_shaft" text="{.NI}Древко{.nn} Имперской Алебарды" />
+    <string id="str_vc_skeleton_warrior_mace_003_handle" text="{.NI}Древко{.nn} скелетного меча" />
+    <string id="str_vampire_sword_008_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_vc_khopesh_001_handle" text="{.FI}Рукоять{.nn} кхопеша" />
+    <string id="str_we_spear_002_head" text="{.NI}Древко{.nn} Эльфийского Копья" />
+    <string id="str_prophetess_staff_001_handle" text="{.FI}Рукоять{.nn} жезла пророчицы" />
+    <string id="str_vampire_sword_003_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_empire_huss_hammer_handle" text="{.NI}Древко{.nn} молота Лютора Хусса" />
+    <string id="str_bretonnian_halberd_003_head" text="{.MI}Наконечник{.nn} бретонского вульжиера" />
+    <string id="str_vampire_sword_001_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_bretonnian_jousting_lance_pommel_002" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} для копья-пики" />
+    <string id="str_vc_skeleton_warrior_mace_001_blade" text="{.FI}Булава{.nn} Скелетного Воина" />
+    <string id="str_dwarf_one_handed_axes_006_head" text="{.FI}Головка{.nn} топора дворфа" />
+    <string id="str_beastmen_ungor_axe_001_handle" text="{.FI}Рукоять{.nn} топора Унгора" />
+    <string id="str_dwarf_2h_hammer_001_handle" text="{.NI}Древко{.nn} Дворфского Молота 001" />
+    <string id="str_empire_morr_scythe_001_blade" text="{.MI}Клинок{.nn} косы Морра" />
+    <string id="str_he_spearmen_spear_001_shaft" text="{.NI}Древко{.nn} Высокого Эльфийского Копья" />
+    <string id="str_skeleton_warrior_sword_003_pommel" text="{.NI}Навершие{.nn} скелетного меча воина" />
+    <string id="str_volkmar_staff_handle" text="{.FI}Рукоять{.nn} палочки Фолькмара Грозного" />
+    <string id="str_dwarf_2h_pickaxe_003_handle" text="{.NI}Древко{.nn} дворфского ломокола" />
+    <string id="str_greenskin_weapon_2h_axe_004_head" text="{.NI}Лезвие{.nn} большого орочьего рубила" />
+    <string id="str_skeleton_warrior_sword_002_guard" text="{.FI}Гарда{.nn} скелетного меча воина" />
+    <string id="str_comet_flail_head" text="{.MI}Наконечник{.nn} Косы Комета" />
+    <string id="str_vc_skeleton_warrior_mace_001_handle" text="{.FI}Рукоять{.nn} Булавы Скелетного Воина" />
+    <string id="str_empire_morr_scythe_001_pole" text="{.NI}Древко{.nn} косы Морраа" />
+    <string id="str_mannfred_sword_handle" text="{.FI}Рукоять{.nn} меча Маннфреда" />
+    <string id="str_grave_guard_sword_001_hilt" text="{.FI}Рукоять{.nn} могильного меча 001" />
+    <string id="str_vampire_greatsword_001_pommel" text="{.NI}Навершие{.nn} Меча Вампира Великого" />
+    <string id="str_vampire_sword_002_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_exiled_wizard_dragon_staff_001_head" text="{.FI}Головка{.nn} жезла дракона изгнанного мага" />
+    <string id="str_ghal_maraz_handle" text="{.FI}Рукоять{.nn} Гхал-Мараза" />
+    <string id="str_bretonnian_greatsword_001_blade" text="{.MI}Клинок{.nn} Бретонского Меча Великого" />
+    <string id="str_runefang_012_guard" text="{.FI}Гарда{.nn} Меча Руназуба" />
+    <string id="str_we_sword_002_handle" text="{.FI}Рукоять{.nn} Древнего Эльфийного Меча" />
+    <string id="str_flagellant_flail_handle_001" text="{.NI}Древко{.nn} цепного молота Флагеллянта" />
+    <string id="str_rapier_001_blade" text="{.MI}Клинок{.nn} Рапиры Империи" />
+    <string id="str_reiksguard_knight_sword_001_handle" text="{.FI}Рукоять{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_greenskin_weapon_spear_001_handle" text="{.NI}Древко{.nn} орочьей тыкалки" />
+    <string id="str_greenskin_orc_boss_axe_003_blade" text="{.MI}Клинок{.nn} рубила орочьего босса" />
+    <string id="str_dwarf_2h_engineer_hammer_001_handle" text="{.NI}Древко{.nn} Дворфа-инженера Могучего Молота с зубцами" />
+    <string id="str_beastmen_ungor_axe_003_handle" text="{.FI}Рукоять{.nn} топора Унгора" />
+    <string id="str_empire_rapier_005_guard" text="{.FI}Гарда{.nn} рапиры Империи" />
+    <string id="str_empire_spear_003_head" text="{.MI}Наконечник{.nn} копья Империи" />
+    <string id="str_bretonnian_spear_001_head" text="{.FI}Бретонский{.aj} {.FI}головка{.nn} копья 001" />
+    <string id="str_we_spear_001_shaft" text="{.NI}Древко{.nn} Эльфийского Копья" />
+    <string id="str_greenskin_weapon_2h_axe_002_handle" text="{.FI}Рукоять{.nn} большого орочьего рубила" />
+    <string id="str_dwarf_one_handed_axes_007_handle" text="{.FI}Деревянный{.aj} {.FI}рукоять{.nn} карельского топора" />
+    <string id="str_vampire_sword_005_handle" text="{.FI}Рукоять{.nn} вампирского меча" />
+    <string id="str_bretonnian_sword_002_guard" text="{.FI}Бретонский{.aj} {.FI}гарда{.nn} меча" />
+    <string id="str_empire_rapier_003_blade" text="{.MI}Клинок{.nn} Рапиры Империи" />
+    <string id="str_wp_hammer_004_handle" text="{.NI}Древко{.nn} Молота Воина-Жреца" />
+    <string id="str_dwarf_ungrim_2h_axe_001_handle" text="{.NI}Древко{.nn} Топора Дарго" />
+    <string id="str_greenskin_weapon_2h_axe_005_head" text="{.NI}Лезвие{.nn} большого орочьего черепокола" />
+    <string id="str_dwarf_two_handed_axe_002_002_head" text="{.MI}Клинок{.nn} украшенного дворфского топора" />
+    <string id="str_vampire_greatsword_001_blade" text="{.MI}Клинок{.nn} Меча-Мечника Вампира 001" />
+    <string id="str_bretonnian_halberd_003_shaft" text="{.NI}Древко{.nn} бретонской вульжиера" />
+    <string id="str_rapier_001_pommel" text="{.NI}Навершие{.nn} Рапиры Империи" />
+    <string id="str_reiksguard_knight_sword_003_handle" text="{.FI}Рукоять{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_he_greatsword_001_blade" text="{.MI}Клинок{.nn} эльфийского большого меча 001" />
+    <string id="str_jousting_lance_guard_long_x" text="{.FI}Тяжёлый{.aj} {.FI}гарда{.nn} турнирного копья" />
+    <string id="str_greenskin_savage_axe_001_handle" text="{.FI}Рукоять{.nn} костяного орочьего рубила" />
+    <string id="str_dwarf_deamon_slayer_2h_axe_001_handle" text="{.NI}Древко{.nn} демонотерза Дворфа" />
+    <string id="str_reiksguard_knight_sword_001_pommel" text="{.NI}Навершие{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_wood_scythe_handle" text="{.NI}Древко{.nn} косы" />
+    <string id="str_bretonnian_sword_002_blade" text="{.MI}Бретонский{.aj} {.MI}клинок{.nn} меча" />
+    <string id="str_dwarf_one_handed_axes_005_handle" text="{.NI}Древко{.nn} крылатого топора дворфа" />
+    <string id="str_empire_rapier_005_blade" text="{.MI}Клинок{.nn} рапиры Империи" />
+    <string id="str_beastmen_2h_axe_001_handle" text="{.FI}Рукоять{.nn} минотаврского топора" />
+    <string id="str_nurgle_greataxe_001_blade" text="{.MI}Клинок{.nn} двуручного топора Нургла" />
+    <string id="str_dwarf_one_handed_axes_009_head" text="{.FI}Головка{.nn} дворфского топора" />
+    <string id="str_skeleton_warrior_sword_003_hilt" text="{.FI}Рукоять{.nn} скелетного меча воина" />
+    <string id="str_bretonnian_sword_001_handle" text="{.FI}Бретонский{.aj} {.FI}рукоять{.nn} меча" />
+    <string id="str_vampire_sword_005_guard" text="{.FI}Гарда{.nn} вампирского меча" />
+    <string id="str_chaos_ud_lance_pommel_001" text="{.NI}Навершие{.nn} копья Хаоса" />
+    <string id="str_vampire_sword_001_pommel" text="{.NI}Навершие{.nn} вампирского меча" />
+    <string id="str_greenskin_weapon_spear_003_blade" text="{.MI}Наконечник{.nn} орочьего смертотыка" />
+    <string id="str_vampire_sword_006_handle" text="{.FI}Рукоять{.nn} Меча Вампира" />
+    <string id="str_warboss_mace_2h_001_head" text="{.FI}Голова{.nn} Булавы Вожака 'Эад' с шипами" />
+    <string id="str_greenskin_weapon_spear_001_blade" text="{.MI}Наконечник{.nn} орочьей тыкалки" />
+    <string id="str_empire_halberd_004_shaft" text="{.NI}Древко{.nn} Имперской Алебарды" />
+    <string id="str_vampire_sword_005_blade" text="{.MI}Клинок{.nn} вампирского меча" />
+    <string id="str_reiksguard_knight_sword_001_guard" text="{.FI}Гарда{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_empire_hammer_001_head" text="{.MI}Наконечник{.nn} имперского молота" />
+    <string id="str_black_orc_axe_2h_001_handle" text="{.FI}Рукоять{.nn} Большого Топора Чёрного Орка" />
+    <string id="str_reiksguard_knight_sword_003_blade" text="{.MI}Клинок{.nn} Меча Рыцаря Рейксгвардии" />
+    <string id="str_runefang_001_handle" text="{.FI}Рукоять{.nn} Руненфэнга" />
+    <string id="str_empire_halberd_shaft" text="{.NI}Древко{.nn} имперской алебарды" />
+    <string id="str_empire_light_wizard_002_head" text="{.MI}Наконечник{.nn} посоха светлого мага Империи (вариант 2)" />
+    <string id="str_greenskin_weapon_axe_002_blade" text="{.NI}Лезвие{.nn} орочьего рубила" />
+    <string id="str_bretonnian_spear_002_head" text="{.FI}Бретонский{.aj} {.FI}головка{.nn} копья 002" />
+    <string id="str_bretonnian_jousting_lance_guard_002" text="{.FI}Бретонский{.aj} {.FI}гарда{.nn} для копья-пики" />
+    <string id="str_greenskin_weapon_axe_003_blade" text="{.NI}Лезвие{.nn} настоящего орочьего рубила" />
+    <string id="str_empire_halberd_002_head" text="{.MI}Наконечник{.nn} имперской алебарды" />
+    <string id="str_reiksguard_knight_lance_handle_002" text="{.NI}Древко{.nn} копья рыцаря Рейксгвардии" />
+    <string id="str_greenskin_weapon_2h_sword_001_guard" text="{.FI}Гарда{.nn} большого орочьего двуручного меча" />
+    <string id="str_greenskin_weapon_mace_002_handle" text="{.FI}Рукоять{.nn} шипастой орочьей дробилки" />
+    <string id="str_we_lord_sword_001_blade" text="{.MI}Клинок{.nn} Меча Лорда Глея" />
+    <string id="str_empire_halberd_002_shaft" text="{.NI}Древко{.nn} имперской алебарды" />
+    <string id="str_beastmen_ungor_sword_001_blade" text="{.MI}Клинок{.nn} меча Унгора" />
+    <string id="str_nm_staff_001_handle" text="{.FI}Рукоять{.nn} жезла некроманта" />
+    <string id="str_dwarf_2h_hammer_001_head" text="{.MI}Наконечник{.nn} Дворфского Молота 001" />
+    <string id="str_black_knight_lance_001_pommel" text="{.NI}Навершие{.nn} копья Чёрного Рыцаря" />
+    <string id="str_vampire_greataxe_002_handle" text="{.NI}Древко{.nn} вампирского топора 002" />
+    <string id="str_bretonnian_spear_002_pommel" text="{.NI}Бретонский{.aj} {.NI}навершие{.nn} копья" />
   </strings>
 </base>
