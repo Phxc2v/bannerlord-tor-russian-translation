@@ -1317,7 +1317,7 @@
     <string id="str_tor_companion_leave_p_tor_wanderer_empire_1" text="Прощай пока." />
     <string id="str_tor_ability_frontal_cone_only_text" text="Можно использовать только в конусе перед собой" />
     <string id="tor_cc_option_3_gs_path_of_boss_label_str" text="Боссы" />
-    <string id="str_tor_careerchoice_description_MagicOfAthelLorenKeystone" text="Гнев лесов: убийства, совершённые сухарами, восстанавливают 0.5 ёмкости 'ветров магии' на 10 сек." />
+    <string id="str_tor_careerchoice_description_MagicOfAthelLorenKeystone" text="Гнев Леса: убийства, совершённые дриадами, восстанавливают 0,5 ёмкости «Ветров магии» на 10 сек." />
     <string id="str_tor_career_rank1_name_Waywatcher" text="Разведчик" />
     <string id="str_tor_perk_piercing_shots_1" text="Ваши выстрелы игнорируют 50% брони врагов и пробивают щиты." />
     <string id="str_tor_faction_ruler_empire" text="курфюрст Граф" />
@@ -1335,7 +1335,7 @@
     <string id="str_tor_orc_boss_quest2_log_arena" text="Победить в {REQUIRED} тренировочных боях или турнирах (считаются за 1 и 3 соответственно)" />
     <string id="str_tor_greenskin_teef_tribute_text" text="Дань жубами" />
     <string id="tor_cc_option5_text_str" text="Вино — это кровь Вуртбада, и ваша семья сделала свое дело, развивая эту торговлю по реке Стир и через всю Империю. Ваше раннее детство было наполнено постоянными путешествиями." />
-    <string id="str_tor_career_decline_reconsider_Necrarch" text="Переподумав, я решил ещё подумать об этом." />
+    <string id="str_tor_career_decline_reconsider_Necrarch" text="Подумав ещё, я решил пока повременить с этим." />
     <string id="str_tor_backstory_c_tor_wanderer_empire_13" text="Остался только я, без возможности наследовать что-либо или получать привилегии. Мне приходится начинать с нуля, как любому простолюдину, если я хочу добиться чего-то в жизни." />
     <string id="str_tor_hire_accept_p_tor_wanderer_mousillon_3" text="Так тому и быть… Возьми эти {GOLD_AMOUNT}." />
     <string id="tor_lore_metal_desc" text="Возвышающийся Орел с певером пеющий мир металлами и рудой Непостижимая загадка материи для разгадки На золотых дверях знания вечно стучат золотые проказники, или алхимики, — мастера Логи Металла и занимаются практическими аспектами магии, такими как металлургия, химия, алхимия или даже травничество. Действительно, быть Проказником Металла означает стремиться к логике и разумности превыше всего. Именно этот фокус на земных делах возвысил золотой Орден до богатейшего из Имперских Колледжей. Однако завистливые или подозрительные умы часто обвиняют алхимиков в превращении свинца в золото." />
@@ -1564,7 +1564,7 @@
     <string id="str_tor_weapon_usage_TorOrcOneHandedMace" text="Орочья булава" />
     <string id="str_tor_dw_guildmaster_info_p_miner" text="Можете объяснить обязанности Гильдии Горняков?" />
     <string id="str_tor_inky_overturnedcart_start1" text="Ваша группа движется по дороге, и вы видите повозку вдалеке." />
-    <string id="str_tor_career_decline_reconsider_MinorVampire" text="Переподумав, я решил ещё подумать об этом." />
+    <string id="str_tor_career_decline_reconsider_MinorVampire" text="Подумав ещё, я решил пока повременить с этим." />
     <string id="str_tor_career_rank3_name_GrailKnight" text="Рыцарь Грааля" />
     <string id="str_tor_careerchoice_description_GuiltyByAssociationKeystone" text="Спутники также накапливают Обвинение. Отряд теперь получает бонусы от вашего знака." />
     <string id="str_tor_prebackstory_tor_wanderer_greenskins_2" text="Я приду и разобью мозги этим маленьким хулиганам и заставлю их встать в ряд!" />
@@ -1846,7 +1846,7 @@
     <string id="str_tor_enchanter_hub_open_enchanter_p_battania" text="Можно ли мне воспользоваться вашими ритуальными пространствами для собственных дел?" />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_bretonnia_4" text="Зовут меня {PLAYER.NAME}. Чем вы занимаетесь здесь?" />
     <string id="str_tor_career_choicegroup_name_NestCleansing" text="Очищение Гнёзд" />
-    <string id="str_tor_careerchoice_description_KnightOldWorldRoot" text="Убивайте врагов Империи ударом Рыцаря! Получите +20% к личному физическому уру от ближнего боя при следующем попадании в цель в течение 15 сек. Каждое открытое «Ключевое» карьерное умение даёт +1 заряд Удара Рыцаря. Каждый уровень навыка «Одноручное оружие» увеличивает урон Удара Рыцаря на 1%. (заряды восстанавливаются при нанесении физического урона от ближнего боя.)" />
+    <string id="str_tor_careerchoice_description_KnightOldWorldRoot" text="Сразите врагов Империи Ударом Рыцаря! Получите +20% к личному физическому урону ближнего боя при следующем попадании в цель в течение 15 сек. Каждое открытое «Ключевое» карьерное умение даёт +1 заряд Удара Рыцаря. Каждый уровень навыка «Одноручное оружие» увеличивает урон Удара Рыцаря на 1%. (Заряды восстанавливаются при нанесении физического урона в ближнем бою.)" />
     <string id="str_tor_powerstone_death_magic_surv_100_desc" text="Шанс выживания юнита +100%" />
     <string id="str_tor_careerchoice_description_ChiselAndHammerPassive2" text="Убийства оружием с 'Руной' дают опыт мастерства заклинаний." />
     <string id="tor_cc_option39_label_str" text="Ученик ремесленника" />
@@ -1856,7 +1856,7 @@
     <string id="str_tor_faction_official_eonir" text="a Лорд" />
     <string id="str_tor_careerchoice_description_ScourgeOfBretonniaPassive4" text="Повеленные судьбой Рыцарские спутники медленно обращают Бретонских Рыцарей в Рыцарей Музильона." />
     <string id="str_tor_career_choicegroup_name_Hawkeyed" text="Ястребиный Глаз" />
-    <string id="str_tor_careerchoice_description_FuryOfTheForestKeystone" text="Гнев лесов призывает +1 Дерева. Если используется в миссии — 10 пухарей вместо них." />
+    <string id="str_tor_careerchoice_description_FuryOfTheForestKeystone" text="Гнев Леса призывает +1 Древо. Если используется в миссии — 10 дриад вместо них." />
     <string id="str_tor_feudal_oath_line4_quenelles" text="Как истинный рыцарь Квенели, я приму идеалы рыцарства, защищая наше королевство и сохраняя его вечную грацию и красоту." />
     <string id="str_tor_priest_blessing_party_1" text="Пусть божественный свет направит ваши шаги. Ваша группа теперь благословлена." />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_empire_13" text="Меня зовут {PLAYER.NAME}. Пропустим любезности и перейдём к делу." />
@@ -2166,10 +2166,10 @@
     <string id="str_tor_powerstone_death_res_30_debuff_name" text="Малый Камень Онемения" />
     <string id="str_tor_career_choicegroup_name_Courtley" text="Придворные" />
     <string id="str_tor_spelltrainer_magictest_vc_vampire_player_specialize_lore" text="Я чувствую, как моя темная сила растет. Учите меня дальше, пока я не нашел себе нового «наставника». Спешите найти свой Гримуар, пока я не захотел в ваше отсутствие..." />
-    <string id="str_tor_career_decline_reconsider_BloodKnight" text="Переподумав, я решил ещё подумать об этом." />
+    <string id="str_tor_career_decline_reconsider_BloodKnight" text="Подумав ещё, я решил пока повременить с этим." />
     <string id="str_tor_careerchoice_description_WardenOfArgwylonPassive4" text="+15 ёмкости «Ветра Магии» для всех спутников-магов." />
-    <string id="str_tor_hireling_flee_text" text="Флее" />
-    <string id="str_tor_careerchoice_description_OrcBossRoot" text="Возьми свой топор и разнеси его по всем чертям, заставь их кричать. Некоторые топоры лучше подходят для других дел: маленькие топоры и блоки хороши, когда ты в переплете, и это время для некоторых быстрых «тактик». Большие топоры лучше всего подходят для толп чертей. Они становятся слабее с каждым ударом по ним. Длинные топоры теперь полезны для верховой езды и против проклятых зверей. И если ты думаешь, что не можешь рубить больше, тебе просто нужно подождать, а затем рубить еще!" />
+    <string id="str_tor_hireling_flee_text" text="Бежать" />
+    <string id="str_tor_careerchoice_description_OrcBossRoot" text="Бери топор и руби гитов так, чтоб они визжали! Каждый топор хорош для своего дела. Маленькие топоры и щиты — для тесной свалки, когда нужна быстрая «тактика». Большие топоры — для толпы: каждый удар выбивает из гитов силу. Длинные топоры годятся для верхового боя и проклятых зверей. А если думаешь, что больше рубить нет мочи — переведи дух, и руби дальше!" />
     <string id="str_tor_greenskin_brawl_disabled" text="Тебе нужно подождать хотя бы {COOLDOWN_DAYS} дней" />
     <string id="str_tor_customsettlement_intro_shallya_shrine_01" text="Вы прибыли к храму {RELIGION_LINK}. Сестринство ухаживает за ранеными." />
     <string id="str_tor_feudal_oath_line2_bloody_spearz" text="Я буду внушать страх сердцам дворфов и гитов племени Красного Лица, мягкотелым и слабакам!" />
@@ -2569,7 +2569,7 @@
     <string id="str_tor_powerstone_metal_dmg_20_greater_name" text="Великий золотой Камень Разложения" />
     <string id="str_tor_dw_rune_smith_deliver_steel_item_hint_regularsteel" text="Доставьте {STEEL_COUNT} качественной стали, получите {OATH_GOLD_GAIN_STEEL} золота Клятвы" />
     <string id="str_tor_career_title_Ironbreaker" text="Железнобородый" />
-    <string id="str_tor_career_decline_reconsider_BlackGrailKnight" text="Переподумав, я решил ещё подумать об этом." />
+    <string id="str_tor_career_decline_reconsider_BlackGrailKnight" text="Подумав ещё, я решил пока повременить с этим." />
     <string id="str_tor_troll_greeting" text="*ГРРАААВВВ* *чих* *чих* ...МЯСО!" />
     <string id="str_tor_enchanter_donate_items_2_mousillon" text="Это всё? Тогда давай двигаться дальше." />
     <string id="str_eonir_spellsinger_troop_refill_accept_text" text="Это было бы добрым делом. Я уверен, что однажды мы сможем отплатить тем же. Я приму сторону лесных эльфов." />
@@ -2615,7 +2615,7 @@
     <string id="str_tor_careerchoice_description_SwiftProcedureKeystone" text="«Обвинение» также масштабируется от Атлетики и замедляет скорость атаки/движения." />
     <string id="str_tor_careerchoice_description_HungerForKnowledgePassive2" text="'Призрачные' войска невосприимчивы к дружественному 'заклинанию'." />
     <string id="str_tor_engineer_quest_close_shop" text="Чем ещё могу помочь?" />
-    <string id="str_tor_short_term_for_faction_montfort" text="Монтфорт" />
+    <string id="str_tor_short_term_for_faction_montfort" text="Монфор" />
     <string id="str_tor_powerstone_heavens_trait2_name" text="Великие Усиливающие Истинные сапфиры" />
     <string id="str_tor_quest_plagued_village_accept_player" text="Сделано." />
     <string id="str_tor_backstory_c_tor_wanderer_vampire_1" text="Я — неопытный вампир, могущественный и бессмертный." />
@@ -4503,7 +4503,7 @@
     <string id="str_tor_orc_shaman_quest2_log_teef" text="Обменять всего {REQUIRED} золота на жубы" />
     <string id="str_tor_priest_train_hub_quit_p_EmpireMagister" text="Прости, я передумал." />
     <string id="str_tor_enchanter_donate_items_2_sturgia" text="Какие предметы вы хотите пожертвовать?" />
-    <string id="str_tor_hireling_join_battle_text" text="Йоин Битва" />
+    <string id="str_tor_hireling_join_battle_text" text="Вступить в бой" />
     <string id="str_tor_careerchoice_description_VisionsUvDaOrcaynePassive3" text="Больше мяса и блестяшек после разграбления идолов" />
     <string id="str_tor_response_1_tor_wanderer_mousillon_2" text="Жизнь в изоляции в опасных болотах Музильона. Это кажется подозрительным…" />
     <string id="str_tor_careerchoice_description_PaymasterPassive1" text="Раненые войска быстрее восстанавливаются." />

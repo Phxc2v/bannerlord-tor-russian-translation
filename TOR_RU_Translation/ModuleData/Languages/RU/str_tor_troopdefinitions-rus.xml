@@ -56,7 +56,7 @@
     <string id="str_tor_vc_grave_guardian" text="{.MA}Могильный{.aj} {.MA}Страж{.nn}" />
     <string id="str_tor_ror_lionhearted_knight" text="{.MA}Львиносердечный{.aj} {.MA}Рыцарь{.nn}" />
     <string id="str_tor_br_caravan_ranged" text="{.MA}Бретонский{.aj} караванный{.aj} {.MA}Лучник{.nn}" />
-    <string id="str_tor_valiant_outrider_grenade" text="Имперский Всадник-Валиант (Ручница)" />
+    <string id="str_tor_valiant_outrider_grenade" text="{.MA}Имперский{.aj} {.MA}Всадник-Валиант{.nn} (Ручница)" />
     <string id="str_tor_br_peasant_archer" text="{.MA}Бретонский{.aj} {.MA}Лучник-Крестьянин{.nn}" />
     <string id="str_tor_eo_mounted_ranger" text="{.MA}Эонирский{.aj} конный{.aj} {.MA}Следопыт{.nn}" />
     <string id="str_tor_merc_free_company_volunteer" text="{.MA}Вольноротский{.aj} {.MA}Ополченец{.nn}" />
@@ -121,7 +121,7 @@
     <string id="str_tor_chaos_khorne_warrior" text="{.MA}Воин{.nn} Хаоса Кхорна" />
     <string id="str_tor_we_great_stag_knight" text="{.MA}Рыцарь{.nn} Великого Оленя" />
     <string id="str_tor_ror_hochland_longrifle" text="{.MA}Хошлендский{.aj} длинноствольный{.aj} {.MA}Мушкетёр{.nn}" />
-    <string id="str_tor_cult_bw_sorcerer_broken_wheel" text="Волшебник Разбитого Колеса" />
+    <string id="str_tor_cult_bw_sorcerer_broken_wheel" text="{.MA}Волшебник{.nn} Разбитого Колеса" />
     <string id="str_tor_gs_goblin_wolf_rida" text="{.MA}Гоблинский{.aj} {.MA}наездник{.nn} на волке" />
     <string id="str_tor_ror_sternieste_grave_guard" text="{.MA}Могильный{.aj} {.MA}Страж{.nn} Замка Штерниесте" />
     <string id="str_tor_dw_warrior" text="{.MA}Дворфский{.aj} {.MA}Воин{.nn}" />
@@ -132,12 +132,12 @@
     <string id="str_tor_dog_muktar_01" text="{.MA}Аравийский{.aj} {.MA}Наёмник-Всадник{.nn}" />
     <string id="str_tor_ror_altdorf_company_sergeant" text="{.MA}Альтдорфский{.aj} {.MA}Сержант{.nn}" />
     <string id="str_tor_ror_deathjack_longbowman" text="{.MA}Деджак-Лучник{.nn}" />
-    <string id="str_tor_bandit_norscan_marauder" text="Отступник Норсканского Мародёра" />
+    <string id="str_tor_bandit_norscan_marauder" text="{.MA}Отступник{.nn} Норсканского Мародёра" />
     <string id="str_tor_vc_grave_guard_seneschal" text="{.MA}Сенешаль{.nn} Могильной Стражи" />
     <string id="str_tor_empire_innercircle_knight" text="{.MA}Имперский{.aj} {.MA}Рыцарь{.nn} Внутреннего Круга" />
-    <string id="str_tor_bd_blooddragon_kastelan" text="Кастелян Кровавого Дракона" />
+    <string id="str_tor_bd_blooddragon_kastelan" text="{.MA}Кастелян{.nn} Кровавого Дракона" />
     <string id="str_tor_empire_caravan_ranged" text="{.MA}Имперский{.aj} {.MA}Арбалетчик{.nn}" />
-    <string id="str_tor_beast_ungor" text="Унгор" />
+    <string id="str_tor_beast_ungor" text="{.MA}Унгор{.nn}" />
     <string id="str_tor_we_caravan_elite_ranged" text="{.MA}Асрай{.nn} Элитный Страж Торговца" />
     <string id="str_tor_we_deepwood_scout" text="{.MA}Асрай{.nn} Разведчик Тёмной Чащи" />
     <string id="str_tor_chaos_aspiring_warrior" text="{.MA}Воин-Аспирант{.nn} Хаоса" />
@@ -145,7 +145,7 @@
     <string id="str_tor_dw_pilgrim" text="{.MA}Дворфский{.aj} {.MA}Пилигрим{.nn}" />
     <string id="str_tor_chaos_norscan_tribesman" text="{.MA}Норсканский{.aj} {.MA}Племянин{.nn}" />
     <string id="str_tor_empire_wolfbrother" text="{.MA}Волчий{.aj} {.MA}Брат{.nn}" />
-    <string id="str_tor_bd_blooddragon_templar" text="Храмовник Кровавого Дракона" />
+    <string id="str_tor_bd_blooddragon_templar" text="{.MA}Храмовник{.nn} Кровавого Дракона" />
     <string id="str_tor_br_bandit_scout" text="{.MA}Геримоль{.nn}" />
     <string id="str_tor_ror_ostland_shield" text="{.MI}Щит{.nn} Остланда" />
     <string id="str_tor_dw_prospector" text="{.MA}Дворфский{.aj} {.MA}Разведчик{.nn}" />
@@ -162,7 +162,7 @@
     <string id="str_tor_empire_pikeman" text="{.MA}Имперский{.aj} {.MA}Пикинёр{.nn}" />
     <string id="str_tor_ror_marienburg_sailor" text="{.MA}Мариенбургский{.aj} {.MA}Моряк{.nn}" />
     <string id="str_tor_we_glade_rider" text="{.MA}Асрай{.nn} Всадник Полян" />
-    <string id="str_tor_beast_gor" text="Гор" />
+    <string id="str_tor_beast_gor" text="{.MA}Гор{.nn}" />
     <string id="str_tor_chaos_caravan_ranged" text="{.MA}Очарованный{.aj} {.MA}Лучник{.nn} Каравана" />
     <string id="str_tor_m_longbowman" text="{.MA}Музильонский{.aj} {.MA}Длиннолучник{.nn}" />
     <string id="str_tor_eo_kithband_aspirant" text="{.MA}Эонирский{.aj} {.MA}Аспирант{.nn} Отряда Сородичей" />
@@ -170,7 +170,7 @@
     <string id="str_tor_empire_caravan_guard" text="{.MA}Имперский{.aj} {.MA}Страж{.nn}" />
     <string id="str_tor_empire_wolfkin" text="{.MA}Волчий{.aj} {.MA}Кин{.nn}" />
     <string id="str_tor_chaos_cult_magister" text="{.MA}Павший{.aj} {.MA}Магистр{.nn}" />
-    <string id="str_tor_cult_bw_expelled_magister" text="Изгнанный Магистр" />
+    <string id="str_tor_cult_bw_expelled_magister" text="{.MA}Изгнанный{.aj} {.MA}Магистр{.nn}" />
     <string id="str_tor_eo_caravan_captain" text="{.MA}Эонирский{.aj} {.MA}Мастер{.nn} Каравана" />
     <string id="str_tor_br_bandit_leader" text="{.MA}Весёлый{.aj} {.MA}человек{.nn}" />
     <string id="str_tor_ror_bergerac_ranger" text="{.MA}Следопыт{.nn} Берерака" />
@@ -183,13 +183,13 @@
     <string id="str_tor_he_white_lion_chrace" text="{.MA}Белый{.aj} {.MA}Лев{.nn} Красса" />
     <string id="str_tor_ror_lyonesse_knight_errant" text="{.MA}Лионессский{.aj} {.MA}странствующий{.nn} рыцарь" />
     <string id="str_tor_ror_son_of_altdorf" text="{.MA}Сын{.nn} Альтдорфа" />
-    <string id="str_tor_beast_gor_foerender" text="Гор Разрушитель Врагов" />
+    <string id="str_tor_beast_gor_foerender" text="{.MA}Гор-Разрушитель{.nn} Врагов" />
     <string id="str_tor_br_caravan_captain" text="{.MA}Бретонский{.aj} караванный{.aj} {.MA}Мастер{.nn}" />
     <string id="str_tor_dog_miragliano_03" text="{.MA}Лучник{.nn} из Миральяно" />
     <string id="str_tor_demigryph_knight" text="{.MA}Имперский{.aj} {.MA}Рыцарь-Демигриф{.nn}" />
-    <string id="str_tor_bandit_norscan_raider" text="Отступник Норсканского Разбойника" />
-    <string id="str_tor_bd_blooddragon_initiate" text="Посвящённый Кровавого Дракона" />
-    <string id="str_tor_wh_retinue_hunter" text="Охотник Отряда" />
+    <string id="str_tor_bandit_norscan_raider" text="{.MA}Отступник{.nn} Норсканского Разбойника" />
+    <string id="str_tor_bd_blooddragon_initiate" text="{.MA}Посвящённый{.nn} Кровавого Дракона" />
+    <string id="str_tor_wh_retinue_hunter" text="{.MA}Охотник{.nn} Отряда" />
     <string id="str_tor_dog_leopard_03" text="Леопардов {.MA}Пикинёр{.nn} Леопольда" />
     <string id="str_tor_de_darkshard" text="{.MI}Даручий{.aj} {.MI}Даркшард{.nn}" />
     <string id="str_tor_we_bladesinger" text="{.MA}Асрай{.nn} Певец Клинков" />
@@ -203,7 +203,7 @@
     <string id="str_tor_gs_black_orc_boss" text="{.MA}Босс{.nn} чёрных орков" />
     <string id="str_tor_gs_bandit_raider_arrer" text="{.MA}Орочий{.aj} {.MA}налётчик{.nn}-стрелок" />
     <string id="str_tor_he_seaelf_sentinel" text="{.MA}Часовой{.nn} Морских Эльфов" />
-    <string id="str_tor_beast_ungor_chief_raider" text="Унгорский Полурогий Разбойник" />
+    <string id="str_tor_beast_ungor_chief_raider" text="{.MA}Унгорский{.aj} полурогий{.aj} {.MA}Разбойник{.nn}" />
     <string id="str_tor_dog_miragliano_02" text="{.MA}Лучник{.nn} из Миральяно" />
     <string id="str_tor_m_outcast_errant" text="{.MA}Музильонский{.aj} странствующий{.aj} {.MA}Изгой{.nn}" />
     <string id="str_tor_gs_black_orc_berzerka" text="{.MA}Чёрный{.aj} {.MA}орк{.nn}-берсерк" />
@@ -211,7 +211,7 @@
     <string id="str_tor_chaos_cult_darksoul" text="{.FA}Тёмный{.aj} {.FA}Душа{.nn} Хаоса" />
     <string id="str_tor_dog_ricco_02" text="{.MA}Пикинёр{.nn} Ремана" />
     <string id="str_tor_we_militia" text="{.MA}Асрай{.nn} Ополченец" />
-    <string id="str_tor_wh_retinue_headhunter" text="Головорез Отряда" />
+    <string id="str_tor_wh_retinue_headhunter" text="{.MA}Головорез{.nn} Отряда" />
     <string id="str_tor_gs_trolls" text="{.MA}Тролль{.nn}" />
     <string id="str_tor_ror_horned_hunter" text="{.MA}Рогатый{.aj} {.MA}Охотник{.nn}" />
     <string id="str_tor_ror_blazing_sun_preceptor" text="{.MA}Преподобный{.nn} Солнца Пламени" />
@@ -228,7 +228,7 @@
     <string id="str_tor_dog_braganza_02" text="{.MA}Осаждающий{.nn} Арбалетчик" />
     <string id="str_tor_m_manatarms" text="{.MA}Музильонский{.aj} {.MA}Латник{.nn}" />
     <string id="str_tor_vc_skeleton_spearman" text="{.MA}Скелет-Копейщик{.nn}" />
-    <string id="str_tor_wh_retinue" text="Ученик Отряда" />
+    <string id="str_tor_wh_retinue" text="{.MA}Ученик{.nn} Отряда" />
     <string id="str_tor_br_caravan_guard" text="{.MA}Бретонский{.aj} караванный{.aj} {.MA}Всадник{.nn}" />
     <string id="str_tor_dog_ricco_03" text="{.MA}Страж{.nn} Рикко" />
     <string id="str_tor_dog_voland_01" text="{.MA}Венатор{.nn} Всадник-Наёмник" />
@@ -248,7 +248,7 @@
     <string id="str_tor_ror_kragsburg_house_guard" text="{.MA}Страж{.nn} Дома фон Крагсбург" />
     <string id="str_tor_we_waywatcher" text="{.MA}Асрай{.nn} Странствующий Дозорный" />
     <string id="str_tor_vc_grave_guard_warrior" text="{.MA}Воин{.nn} Могильной Стражи" />
-    <string id="str_tor_cult_coi_beacon" text="Фонарь" />
+    <string id="str_tor_cult_coi_beacon" text="{.MI}Фонарь{.nn}" />
     <string id="str_tor_we_eternal_warden" text="{.MA}Асрай{.nn} Вечный Хранитель" />
     <string id="str_tor_ror_blazing_sun_knight" text="{.MA}Рыцарь{.nn} Солнца Пламени" />
     <string id="str_tor_merc_free_company_bowman" text="{.MA}Вольноротский{.aj} {.MA}Лучник{.nn}" />
@@ -262,7 +262,7 @@
     <string id="str_tor_ror_hochland_drakwald_patrol" text="{.MA}Патруль{.nn} Драквальда Хошленда" />
     <string id="str_tor_eo_envoy_guard" text="{.MA}Страж{.nn} Посланника Эонир" />
     <string id="str_tor_br_villager" text="{.MA}Бретонский{.aj} {.MA}Крестьянин{.nn}" />
-    <string id="str_tor_beast_ungor_raider" text="Унгорский Разбойник" />
+    <string id="str_tor_beast_ungor_raider" text="{.MA}Унгорский{.aj} {.MA}Разбойник{.nn}" />
     <string id="str_tor_vc_empire_sergeant" text="{.MA}Сильванский{.aj} {.MA}Сержант{.nn}" />
     <string id="str_tor_ror_blazing_sun_demigryph_innercircle" text="{.MA}Демигриф{.nn} Внутреннего Круга Пламенного Солнца" />
     <string id="str_tor_dw_ranger" text="{.MA}Дворфский{.aj} {.MA}Следопыт{.nn}" />
@@ -294,7 +294,7 @@
     <string id="str_tor_dog_voland_03" text="{.MA}Всадник-Наёмник{.nn} Воланда" />
     <string id="str_tor_dog_leopard_01" text="{.MA}Леопардовый{.aj} {.MA}Наёмник{.nn}" />
     <string id="str_tor_m_knight_of_misfortune" text="{.MA}Музильонский{.aj} {.MA}Рыцарь{.nn} Невзгод" />
-    <string id="str_tor_bd_blooddragon_knight" text="Рыцарь Кровавого Дракона" />
+    <string id="str_tor_bd_blooddragon_knight" text="{.MA}Рыцарь{.nn} Кровавого Дракона" />
     <string id="str_tor_ror_peasant_knight" text="{.MA}Бретонский{.aj} {.MA}Рыцарь-Крестьянин{.nn}" />
     <string id="str_tor_eo_kithband_sentinel" text="{.MA}Эонирский{.aj} {.MA}Странствующий{.nn} Дозорный" />
     <string id="str_tor_empire_associate_engineer" text="{.MA}Инженер-Помощник{.nn}" />
@@ -302,7 +302,7 @@
     <string id="str_tor_he_seaelf_spearman" text="{.MA}Копейщик{.nn} Морских Эльфов" />
     <string id="str_tor_m_caravan_captain" text="{.MA}Музильонский{.aj} {.MA}Караванщик{.nn}" />
     <string id="str_tor_br_longbowman" text="{.MA}Бретонский{.aj} {.MA}Лучник{.nn}" />
-    <string id="str_tor_cult_coi_order_of_star_acolyte" text="Послушник Звездного Ордена" />
+    <string id="str_tor_cult_coi_order_of_star_acolyte" text="{.MA}Послушник{.nn} Звёздного Ордена" />
     <string id="str_tor_gs_goblin_wolf_rida_boss" text="{.MA}Босс{.nn} наездников на волках" />
     <string id="str_tor_dog_cursed_company_02" text="{.MA}Проклятый{.aj} {.MA}Воин{.nn}" />
     <string id="str_tor_gs_orc_boss" text="{.MA}Орочий{.aj} {.MA}босс{.nn}" />
@@ -349,14 +349,14 @@
     <string id="str_tor_ror_blazing_sun_innercircle" text="{.MA}Рыцарь{.nn} Внутреннего Круга Пламенного Солнца" />
     <string id="str_tor_de_dreadspear" text="{.MI}Даручий{.aj} {.MI}Дредспир{.nn}" />
     <string id="str_tor_gs_goblin_stikka" text="{.MA}Гоблинский{.aj} {.MA}копейщик{.nn}" />
-    <string id="str_tor_cult_fsf_puer_ulceris" text="Пуэр Улерис" />
+    <string id="str_tor_cult_fsf_puer_ulceris" text="{.MA}Пуэр{.nn} Улерис" />
     <string id="str_tor_empire_handgunner" text="{.MA}Имперский{.aj} {.MA}Мушкетёр{.nn}" />
-    <string id="str_tor_roaming_undead_skeleton" text="Блуждающий Скелет" />
+    <string id="str_tor_roaming_undead_skeleton" text="{.MA}Блуждающий{.aj} {.MA}Скелет{.nn}" />
     <string id="str_tor_vc_drakenhof_templar" text="{.MA}Храмовник{.nn} Дракенхофа" />
     <string id="str_tor_gs_orc_bully" text="{.MA}Орочий{.aj} {.MA}громила{.nn}" />
     <string id="str_tor_empire_sergeant" text="{.MA}Имперский{.aj} {.MA}Сержант{.nn}" />
     <string id="str_tor_vc_skeleton_guard" text="{.MA}Скелет-Страж{.nn}" />
-    <string id="str_tor_beast_ungor_chief" text="Вожак Унгоров" />
+    <string id="str_tor_beast_ungor_chief" text="{.MA}Вожак{.nn} Унгоров" />
     <string id="str_tor_we_wildwood_ranger" text="Китрали {.MA}Следопыт{.nn} Дикого Леса" />
     <string id="str_tor_we_ancient_treeman" text="{.MA}Древний{.aj} {.MA}Древень{.nn}" />
     <string id="str_tor_ror_griffon_initiate" text="Гриффон {.MA}Инициат{.nn}" />
@@ -369,24 +369,24 @@
     <string id="str_tor_chaos_pugulist" text="{.MA}Гладиатор{.nn} Хаоса" />
     <string id="str_tor_we_wardancer" text="{.MA}Асрай{.nn} Боевой Танцор" />
     <string id="str_tor_vc_crypt_wraith" text="{.MA}Призрак{.nn} Склепа" />
-    <string id="str_tor_roaming_undead_warrior" text="Блуждающий Воинство Духов" />
+    <string id="str_tor_roaming_undead_warrior" text="{.NI}Блуждающий{.aj} {.NI}Воинство{.nn} Духов" />
     <string id="str_tor_eo_thug" text="{.MA}Эонирский{.aj} {.MA}Бандит{.nn}" />
     <string id="str_tor_br_villein" text="{.MA}Бретонский{.aj} {.MA}Виллан{.nn}" />
     <string id="str_tor_empire_trainee_artillery_crew" text="{.MA}Имперский{.aj} {.MA}Артиллерист-Подмастерье{.nn}" />
     <string id="str_tor_chaos_gladiator" text="{.MA}Гладиатор{.nn} Хаоса" />
-    <string id="str_tor_bandit_norscan_champion" text="Избранный Норсканский Мародёр" />
+    <string id="str_tor_bandit_norscan_champion" text="{.MA}Избранный{.aj} норсканский{.aj} {.MA}Мародёр{.nn}" />
     <string id="str_tor_dw_longbeard" text="{.MA}Дворфский{.aj} {.MA}Длиннобородый{.nn}" />
     <string id="str_tor_empire_iron_company_troop" text="{.MA}Железнобокий{.nn}" />
     <string id="str_tor_br_knight_errant" text="{.MA}Бретонский{.aj} {.MA}Рыцарь-Путник{.nn}" />
-    <string id="str_tor_ti_vittorio" text="Витторио де Лука" />
+    <string id="str_tor_ti_vittorio" text="{.MA}Витторио{.nn} де Лука" />
     <string id="str_tor_eo_cityborn_militia" text="{.MA}Эонирский{.aj} городской{.aj} {.MA}Ополченец{.nn}" />
     <string id="str_tor_eo_queens_guard_sword" text="{.MA}Чемпион{.nn} Королевы Эониров" />
     <string id="str_tor_ror_corduin_knightly_mariner" text="{.MA}Рыцарский{.nn} Мореход Кордуина" />
     <string id="str_tor_vc_caravan_ranged" text="{.MA}Сильванский{.aj} {.MA}Арбалетчик{.nn}" />
-    <string id="str_tor_cult_fsf_ulcerator" text="Улцератор" />
+    <string id="str_tor_cult_fsf_ulcerator" text="{.MA}Улцератор{.nn}" />
     <string id="str_tor_m_peasant_levy" text="{.MA}Музильонский{.aj} крестьянский{.aj} {.MA}Ополченец{.nn}" />
     <string id="str_tor_empire_marksman_crossbowman" text="{.MA}Имперский{.aj} точный{.aj} {.MA}Стрелок{.nn} Арбалетчик" />
-    <string id="str_tor_valiant_outrider" text="Имперский Рыцарь-Всадник Валлиант" />
+    <string id="str_tor_valiant_outrider" text="{.MA}Имперский{.aj} {.MA}Рыцарь-Всадник{.nn} Валлиант" />
     <string id="str_tor_br_noble" text="{.MA}Бретонский{.aj} {.MA}Нобель{.nn}" />
     <string id="str_tor_ror_blazing_sun_demigryph_knight" text="{.MA}Рыцарь-Демигриф{.nn} Пламенного Солнца" />
     <string id="str_tor_m_caravan_guard" text="{.MA}Музильонский{.aj} караванный{.aj} {.MA}Всадник{.nn}" />
@@ -394,9 +394,9 @@
     <string id="str_tor_dw_oldguard" text="{.MA}Дворфский{.aj} {.MA}Страж{.nn}" />
     <string id="str_tor_dw_artillery_crew" text="{.MA}Дворфский{.aj} {.MA}Артиллерист{.nn}" />
     <string id="str_tor_ror_longshank_ranger" text="{.MA}Дворфский{.aj} {.MA}Следопыт{.nn}" />
-    <string id="str_tor_bandit_norscan_whaler" text="Отступник Норсканского Китобоя" />
+    <string id="str_tor_bandit_norscan_whaler" text="{.MA}Отступник{.nn} Норсканского Китобоя" />
     <string id="str_tor_gs_orc_arrer_boy" text="{.MA}Орочий{.aj} {.MA}лучник{.nn}" />
-    <string id="str_tor_cult_coi_unlit_candle" text="Незажженная Свеча" />
+    <string id="str_tor_cult_coi_unlit_candle" text="{.FI}Незажжённый{.aj} {.FI}Свеча{.nn}" />
     <string id="str_tor_empire_veteran_swordsman" text="{.MA}Имперский{.aj} {.MA}Ветеран{.nn} Мечник" />
     <string id="str_tor_empire_warrior_ulric" text="{.MA}Воин{.nn} Ульрика" />
     <string id="str_tor_vc_summoned_skeleton" text="{.MA}Вызванный{.aj} {.MA}Скелет{.nn}" />
@@ -407,7 +407,7 @@
     <string id="str_tor_ror_anguille_sailor" text="{.MA}Мореход{.nn} Л'Ангильи" />
     <string id="str_tor_m_caravan_ranged" text="{.MA}Музильонский{.aj} караванный{.aj} {.MA}Лучник{.nn}" />
     <string id="str_tor_dw_irondrake_trollhammer" text="{.MA}Дворфский{.aj} {.MA}Молотобоец{.nn} Огнедракон" />
-    <string id="str_tor_cult_bw_vengeful_cultist" text="Мстительный Культист" />
+    <string id="str_tor_cult_bw_vengeful_cultist" text="{.MA}Мстительный{.aj} {.MA}Культист{.nn}" />
     <string id="str_tor_br_manatarms" text="{.MA}Бретонский{.aj} {.MA}Латник{.nn}" />
     <string id="str_tor_m_mounted_yeoman" text="{.MA}Музильонский{.aj} конный{.aj} {.MA}Йомен{.nn}" />
     <string id="str_tor_ror_ostland_blackguard" text="{.FI}Чёрный{.aj} {.FI}Гвардия{.nn} Остланда" />
@@ -418,7 +418,7 @@
     <string id="str_tor_chaos_slaanesh_warrior" text="{.MA}Воин{.nn} Слаанеша" />
     <string id="str_tor_chaos_norscan_reaver" text="{.MA}Норсканский{.aj} {.MA}Разбойник{.nn}" />
     <string id="str_tor_empire_caravan_vetguard" text="{.MA}Имперский{.aj} {.MA}Рыцарь{.nn}" />
-    <string id="str_tor_reiksguard_preceptor_innercircle" text="Имперский Страж Рейксгарда Преподобный Рыцарь Внутреннего Круга" />
+    <string id="str_tor_reiksguard_preceptor_innercircle" text="{.MA}Имперский{.aj} {.MA}Страж{.nn} Рейксгарда Преподобный Рыцарь Внутреннего Круга" />
     <string id="str_tor_ror_gundermans_surefire" text="{.MA}Огнестрел{.nn} Гундермана" />
     <string id="str_tor_m_illfated_squire" text="{.MA}Музильонский{.aj} злополучный{.aj} {.MA}Оруженосец{.nn}" />
     <string id="str_tor_gs_goblin_beast_prodda" text="{.MA}Гоблинский{.aj} {.MA}погонщик{.nn} зверей" />
@@ -431,11 +431,11 @@
     <string id="str_tor_br_battle_pilgrim" text="{.MA}Боевой{.aj} {.MA}Пилигрим{.nn}" />
     <string id="str_tor_empire_greatsword" text="{.MI}Имперский{.aj} {.MI}Двуручник{.nn}" />
     <string id="str_tor_dog_miragliano_01" text="{.MA}Арбалетчик{.nn} из Миральяно" />
-    <string id="str_tor_cult_fsf_ulcus_frater" text="Улкус Фратер" />
+    <string id="str_tor_cult_fsf_ulcus_frater" text="{.MA}Улкус{.nn} Фратер" />
     <string id="str_tor_ror_bergerac_herrimault" text="{.MA}Почтенный{.aj} {.MA}Эримо{.nn}" />
     <string id="str_tor_empire_crossbowman" text="{.MA}Имперский{.aj} {.MA}Арбалетчик{.nn}" />
-    <string id="str_tor_beast_gor_manripper" text="Гор Раскалыватель Людей" />
-    <string id="str_tor_beast_minotaur" text="Минотавр" />
+    <string id="str_tor_beast_gor_manripper" text="{.MA}Гор-Раскалыватель{.nn} Людей" />
+    <string id="str_tor_beast_minotaur" text="{.MA}Минотавр{.nn}" />
     <string id="str_tor_empire_prophet" text="{.MA}Имперский{.aj} {.MA}Пророк{.nn} Судьбы" />
     <string id="str_tor_dw_giant_slayer" text="{.MA}Дворф-Истребитель{.nn} Великанов" />
     <string id="str_tor_dw_artillery_gunner" text="{.MA}Дворф-Артиллерист{.nn}" />

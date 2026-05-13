@@ -6,7 +6,7 @@
   <strings>
     <string id="str_tor_eo_arrows_stealth" text="{.FI}Стрелы{.nnp} призрачного всадника" />
     <string id="str_tor_neutral_weapon_ammo_broken_weapon" text="{.NI}Сломанный{.aj} {.NI}оружие{.nn}" />
-    <string id="str_TheGreenEye" text="Зелёный глаз" />
+    <string id="str_TheGreenEye" text="{.MI}Зелёный{.aj} {.MI}глаз{.nn}" />
     <string id="str_tor_neutral_weapon_ammo_musket_ball" text="{.FI}Пули{.nnp} Мушкета" />
     <string id="str_tor_orc_arrow_003" text="{.FI}Тяжёлый{.ajp} орочий{.ajp} {.FI}стрелы{.nnp}" />
     <string id="str_tor_orc_arrow_001" text="{.FI}Костяной{.ajp} орочий{.ajp} {.FI}стрелы{.nnp}" />
@@ -21,7 +21,7 @@
     <string id="str_tor_we_arrows_stealth" text="{.FI}Стрелы{.nnp} путника" />
     <string id="str_tor_dw_weapon_blasting_charges" text="{.MI}Дворфский{.ajp} взрывчатый{.ajp} {.MI}заряды{.nnp}" />
     <string id="str_tor_neutral_weapon_ammo_stone_musket_ball" text="{.FI}Каменный{.ajp} {.FI}Пули{.nnp} Мушкета" />
-    <string id="str_AmberSpear" text="Янтарное Копьё" />
+    <string id="str_AmberSpear" text="{.NI}Янтарный{.aj} {.NI}Копьё{.nn}" />
     <string id="str_tor_neutral_weapon_ammo_musket_ball_scatter" text="{.FI}Дробь{.nn} для мушкетов" />
     <string id="str_tor_dw_weapon_ammo_musket_ball" text="{.FI}Пули{.nnp} мушкета дворфа" />
     <string id="str_tor_empire_weapon_ammo_grenade" text="{.FI}Гранаты{.nnp}" />

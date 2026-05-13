@@ -13,10 +13,10 @@
     <string id="str_tor_chaos_leg_boots_khorne_warrior_001" text="{.MI}Доспешный{.ajp} {.MI}сапоги{.nnp} воина Кхорна" />
     <string id="str_tor_empire_body_armor_swadian_cuirass_001" text="{.FI}Кираса{.nn} из полосатой стали" />
     <string id="str_tor_empire_head_helm_balthazar_gelt" text="{.FI}Маска{.nn} Балтазара Гельта" />
-    <string id="str_tor_bretonnian_leg_boots_louen_leoncoeur" text="Сапоги Блеска Луэна Леонкёра" />
+    <string id="str_tor_bretonnian_leg_boots_louen_leoncoeur" text="{.MI}Сапоги{.nnp} Блеска Луэна Леонкёра" />
     <string id="str_tor_we_body_armor_wildrider_001" text="{.MI}Доспех{.nn} Вайдрайдера" />
 <!-- rev: QHYyUGhvZW5peA== -->
-    <string id="str_tor_bretonnian_head_helm_pilgrim_002" text="Боевой капюшон пилигрима" />
+    <string id="str_tor_bretonnian_head_helm_pilgrim_002" text="{.MI}Боевой{.aj} {.MI}капюшон{.nn} пилигрима" />
     <string id="str_tor_empire_body_undercloth_statetroop_001" text="{.FI}Имперский{.aj} {.FI}форма{.nn} штатного солдата" />
     <string id="str_tor_we_body_armor_treeman_001" text="{.MI}Кожаный{.aj} {.MI}нагрудник{.nn} Дерева" />
     <string id="str_tor_greenskin_body_armour_orc_boyz_001" text="{.FI}Хламовый{.aj} орочий{.aj} {.FI}броня{.nn}" />
@@ -36,7 +36,7 @@
     <string id="str_tor_greenskin_boots_orc_big_un_001" text="{.FI}Шипастый{.ajp} орочий{.ajp} {.FI}обмотки{.nnp}" />
     <string id="str_tor_empire_head_helm_sallet_002" text="{.MI}Шлем{.nn} Саллет без щитка" />
     <string id="str_tor_vc_body_basic_robe_necrarch_001" text="{.FI}Роба{.nn} Некрарха" />
-    <string id="str_tor_bretonnian_shoulder_pauldron_knight_003" text="Бретонские наплечники с плащом" />
+    <string id="str_tor_bretonnian_shoulder_pauldron_knight_003" text="{.MI}Бретонский{.ajp} {.MI}наплечники{.nnp} с плащом" />
     <string id="str_tor_empire_arm_gauntlet_valten" text="{.FI}Перчатки{.nnp} Валтена" />
     <string id="str_tor_empire_head_helm_kobs_002" text="{.MI}Шлем{.nn} Армет «Плывущее Солнце»" />
     <string id="str_tor_dw_head_helm_irondrake_001" text="{.MI}Шлем{.nn} Железодракон" />
@@ -97,7 +97,7 @@
     <string id="str_tor_dw_head_helm_ungrim_001" text="{.FI}Корона{.nn} Унгрима" />
     <string id="str_tor_empire_head_helm_militia_001" text="{.MI}Имперский{.aj} {.MI}шлем{.nn} для ополченцев" />
     <string id="str_tor_tilean_body_armor_knight_003" text="Тилейская кираса поверх кольчухи" />
-    <string id="str_tor_bretonnian_shoulder_questing_knight_002" text="Наплечники Рыцаря-Странника с плащом" />
+    <string id="str_tor_bretonnian_shoulder_questing_knight_002" text="{.MI}Наплечники{.nnp} Рыцаря-Странника с плащом" />
     <string id="str_tor_we_body_armor_gladeguard_001" text="{.MI}Доспех{.nn} Стража Полян" />
     <string id="str_tor_dw_shoulder_cape_ranger_002" text="{.MI}Плащ{.nn} дворфа-разведчика" />
     <string id="str_tor_we_spellsinger_crown_001" text="{.FI}Корона{.nn} Песнопевца" />
@@ -122,7 +122,7 @@
     <string id="str_tor_empire_head_helm_kotww_001" text="{.MI}Шлем{.nn} Рыцаря Белого Волка" />
     <string id="str_tor_we_arm_bracers_eternalguard_001" text="{.MI}Браслеты{.nnp} Вечной Гвардии" />
     <string id="str_tor_empire_head_helm_vlandian" text="{.MI}Плоский{.aj} {.MI}шлем{.nn} с щитком" />
-    <string id="str_tor_bretonnian_leg_boots_knight_001" text="Доспешные сапоги" />
+    <string id="str_tor_bretonnian_leg_boots_knight_001" text="{.MI}Доспешный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_we_leg_boots_exiled_wizard_001" text="{.MI}Сапоги{.nnp} Изгнанного Волшебника" />
     <string id="str_tor_we_leg_boots_militia_003" text="{.MI}Эльфийский{.ajp} {.MI}Сапоги{.nnp} Милиции" />
     <string id="str_tor_empire_arm_gauntlet_volkmar" text="{.FI}Перчатки{.nnp} Фолькмара Жестокого" />
@@ -141,7 +141,7 @@
     <string id="str_tor_greenskin_boots_orc_black_5_001" text="{.MI}Супертяжёлый{.ajp} орочий{.ajp} {.MI}топтуны{.nnp}" />
     <string id="str_tor_empire_body_armor_witch_hunter_001" text="{.MI}Усиленный{.aj} кожаный{.aj} {.MI}доспех{.nn}" />
     <string id="str_tor_we_arm_arms_ancient_treeman_001" text="{.FI}Древний{.ajp} {.FI}Руки{.nnp} Кожы Древа" />
-    <string id="str_tor_bretonnian_arm_gauntlet_kotr_001" text="Латные перчатки Рыцаря Королевства" />
+    <string id="str_tor_bretonnian_arm_gauntlet_kotr_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Рыцаря Королевства" />
     <string id="str_tor_he_body_armour_spearmen_001" text="{.MI}Доспех{.nn} Копейщиков Высших Эльфов" />
     <string id="str_tor_empire_leg_boots_empire_knight_004" text="{.MI}Латный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_vc_leg_armor_undead_champion" text="{.MI}Сапоги{.nnp} Чемпиона Нежити" />
@@ -185,13 +185,13 @@
     <string id="str_tor_vc_body_breastplate_skeleton_001" text="{.MI}Скелетный{.aj} {.MI}нагрудник{.nn} воина" />
     <string id="str_tor_greenskin_boots_orc_arrer_boyz_001" text="{.MI}Кожаный{.ajp} орочий{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_vc_head_helm_cairn_wraith_005" text="{.MI}Шлем{.nn} Призрака Кирна" />
-    <string id="str_tor_bretonnian_head_prophetess_001" text="Пророческий хеннин" />
+    <string id="str_tor_bretonnian_head_prophetess_001" text="{.MI}Пророческий{.aj} {.MI}хеннин{.nn}" />
     <string id="str_tor_greenskin_body_armour_orc_black_2_001" text="{.MI}Крепкий{.aj} орочий{.aj} {.MI}нагрудник{.nn}" />
     <string id="str_tor_beastmen_arm_bracers_gor_001" text="{.FI}Перчатки{.nnp} Гор" />
     <string id="str_tor_empire_leg_boots_pistolier_003" text="{.MI}Имперский{.ajp} кожаный{.ajp} {.MI}Сапоги{.nnp}" />
     <string id="str_tor_greenskin_body_armour_goblin_mid_001" text="{.FI}Гоблинский{.aj} {.FI}броня{.nn} получше" />
     <string id="str_tor_bretonnia_body_armor_manatarms_004" text="{.FI}Поясный{.aj} {.FI}кожа{.nn} поверх кольчуги" />
-    <string id="str_tor_bretonnian_leg_boots_grail_001" text="Благословлённые доспешные сапоги рыцаря" />
+    <string id="str_tor_bretonnian_leg_boots_grail_001" text="{.MI}Благословлённый{.ajp} доспешный{.ajp} {.MI}сапоги{.nnp} рыцаря" />
     <string id="str_tor_chaos_shoulder_cape_marauder_001" text="{.MI}Наплечники{.nnp} с плащом мародёра Хаоса" />
     <string id="str_tor_empire_body_robe_balthazar_gelt" text="{.NI}Тело{.nn} Бальтазара Гельта" />
     <string id="str_tor_chaos_shoulder_cape_chaos_warrior_001" text="{.MI}Наплечники{.nnp} с плащом воина Хаоса" />
@@ -204,13 +204,13 @@
     <string id="str_tor_empire_head_helm_lion_001" text="{.MI}Шлем{.nn} Барбют «Чёрный Лев Империи»" />
     <string id="str_tor_chaos_body_armor_marauder_002" text="{.MI}Штаны{.nnp} мародёра Хаоса" />
     <string id="str_tor_empire_arm_bracers_celestial_wizard_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} небесного мага Империи" />
-    <string id="str_tor_bretonnian_arm_gauntlet_questing_knight_001" text="Перчатки Рыцаря-Странника" />
+    <string id="str_tor_bretonnian_arm_gauntlet_questing_knight_001" text="{.FI}Перчатки{.nnp} Рыцаря-Странника" />
     <string id="str_tor_empire_shoulder_pauldron_lord_001" text="{.MI}Имперский{.ajp} {.MI}наплечники{.nnp} лорда" />
     <string id="str_tor_chaos_head_hat_chaos_cultist_002" text="{.FI}Маска-капюшон{.nn} культиста Хаоса" />
     <string id="str_tor_greenskin_bracers_goblin_mid_001" text="{.MI}Гоблинский{.ajp} {.MI}наручи{.nnp}" />
     <string id="str_tor_greenskin_orc_boar_boyz_helmet_001" text="{.MI}Орочий{.aj} {.MI}шлем{.nn}-череп" />
     <string id="str_tor_empire_head_hat_cannon_crew_001" text="{.FI}Кепка{.nn} Артиллерийского Экипажа" />
-    <string id="str_tor_bretonnian_leg_boots_prophetess_002" text="Сапоги Пророчицы" />
+    <string id="str_tor_bretonnian_leg_boots_prophetess_002" text="{.MI}Сапоги{.nnp} Пророчицы" />
     <string id="str_tor_empire_leg_boots_marius_leitdorf" text="{.MI}Сапоги{.nnp} генерала Аверландии" />
     <string id="str_tor_we_body_dress_female_001" text="{.NI}Древний{.aj} эльфийский{.aj} {.NI}Платье{.nn}" />
     <string id="str_tor_we_leg_boots_dancer_001" text="{.MI}Сапоги{.nnp} Стражницы-Танцовщицы" />
@@ -221,9 +221,9 @@
     <string id="str_tor_greenskin_boots_orc_shaman_001" text="{.MI}Сапоги{.nnp} орочьего шамана" />
     <string id="str_tor_vc_arm_gauntlet_blood_knight_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Рыцаря Крови" />
     <string id="str_tor_chaos_arm_gauntlet_slaneesh_warrior_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} воина Слаанеша" />
-    <string id="str_tor_bretonnian_head_helm_kotr_001" text="Великий шлем Рыцаря Королевства" />
+    <string id="str_tor_bretonnian_head_helm_kotr_001" text="{.MI}Великий{.aj} {.MI}шлем{.nn} Рыцаря Королевства" />
     <string id="str_tor_dw_head_helm_militia_001" text="{.MI}Шлем{.nn} Милиции Дворфов" />
-    <string id="str_tor_bretonnian_head_louen_leoncoeur" text="Корона Бретонни" />
+    <string id="str_tor_bretonnian_head_louen_leoncoeur" text="{.FI}Корона{.nn} Бретонни" />
     <string id="str_tor_empire_head_hat_tracker_001" text="{.MI}Берет{.nn} Лесоруба" />
     <string id="str_tor_empire_head_helm_general_002" text="{.MI}Шлем{.nn} Генерала Империи" />
     <string id="str_tor_greenskin_body_armour_goblin_001" text="{.FI}Кожаный{.ajp} гоблинский{.ajp} {.FI}шмотки{.nnp}" />
@@ -246,7 +246,7 @@
     <string id="str_tor_bretonnia_body_armor_manatarms_002" text="{.FI}Тяжёлый{.aj} бретонский{.aj} {.FI}ткань{.nn} поверх кольчуги" />
     <string id="str_tor_empire_body_armor_general_001" text="{.MI}Имперский{.aj} {.MI}доспех{.nn} генерала" />
     <string id="str_tor_chaos_leg_boots_marauder_001" text="{.MI}Сапоги{.nnp} мародёра" />
-    <string id="str_tor_mousillon_leg_boots_bgk_001" text="Сапоги Черного Грааля" />
+    <string id="str_tor_mousillon_leg_boots_bgk_001" text="{.MI}Сапоги{.nnp} Чёрного Грааля" />
     <string id="str_tor_greenskin_body_armour_orc_black_3_001" text="{.FI}Тяжёлый{.ajp} орочий{.ajp} {.FI}шмотки{.nnp}" />
     <string id="str_tor_vc_arm_bracers_wight_king_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Короля-Могильника" />
     <string id="str_tor_vc_shoulder_pauldron_dh_templar_001" text="{.MI}Наплечники{.nnp} Храмовника Дракенхофа" />
@@ -261,7 +261,7 @@
     <string id="str_tor_dw_leg_boots_militia_001" text="{.MI}Дворфский{.ajp} {.MI}сапоги{.nnp} (милития)" />
     <string id="str_tor_empire_body_armor_swadian_cuirass_002" text="{.FI}Полосатый{.aj} {.FI}кираса{.nn}" />
     <string id="str_tor_empire_head_hat_woodsman_001" text="{.FI}Кожаный{.aj} {.FI}шляпа{.nn} с полями" />
-    <string id="str_tor_bretonnian_head_helm_kotr_003" text="Великий шлем Рыцаря Королевства" />
+    <string id="str_tor_bretonnian_head_helm_kotr_003" text="{.MI}Великий{.aj} {.MI}шлем{.nn} Рыцаря Королевства" />
     <string id="str_tor_we_shoulder_cape_lord_001" text="{.MI}Плащ{.nn} Лорда Глея" />
     <string id="str_tor_empire_head_helm_pistolier_001" text="{.MI}Имперский{.aj} {.MI}шлем{.nn} с ремнями" />
     <string id="str_tor_greenskin_boots_orc_choppa_001" text="{.MI}Кожаный{.ajp} орочий{.ajp} {.MI}сапоги{.nnp}" />
@@ -279,8 +279,8 @@
     <string id="str_tor_he_leg_boots_whitelion_001" text="{.MI}Сапоги{.nnp} Белого Льва Высших Эльфов" />
     <string id="str_tor_chaos_body_armor_tzeentch_warrior_001" text="{.MI}Доспех{.nn} Тзинча" />
     <string id="str_tor_vc_head_helm_dh_templar_001" text="{.MI}Шлем{.nn} Храмовника Дракенхофа" />
-    <string id="str_tor_bretonnian_shoulder_questing_knight_003" text="Парадный наплечник Рыцаря-Странника" />
-    <string id="str_tor_bretonnian_head_helm_002" text="Бретонский тканевый шлем с плоской вершиной" />
+    <string id="str_tor_bretonnian_shoulder_questing_knight_003" text="{.MI}Парадный{.aj} {.MI}наплечник{.nn} Рыцаря-Странника" />
+    <string id="str_tor_bretonnian_head_helm_002" text="{.MI}Бретонский{.aj} тканевый{.aj} {.MI}шлем{.nn} с плоской вершиной" />
     <string id="str_tor_empire_shoulder_pauldron_marius_leitdorf" text="{.MI}Наплечники{.nnp} Имперского Генерала" />
     <string id="str_tor_dw_shoulder_shoulderpads_journeyman_001" text="{.MI}Наплечники{.nnp} инженера-подмастерья" />
     <string id="str_tor_we_shoulder_cape_eternalguard_001" text="{.MI}Плащ{.nn} Вечного Стража" />
@@ -291,7 +291,7 @@
     <string id="str_tor_greenskin_orc_boyz_helmet_001" text="{.MI}Крепкий{.aj} орочий{.aj} {.MI}шлем{.nn}" />
     <string id="str_tor_greenskin_shoulderpads_goblin_001" text="{.MI}Шипастый{.ajp} гоблинский{.ajp} {.MI}наплечники{.nnp}" />
     <string id="str_tor_greenskin_bracers_goblin_001" text="{.FI}Гоблинский{.ajp} {.FI}лапищи{.nnp}" />
-    <string id="str_tor_mousillon_arm_gauntlet_kotr_001" text="Латные перчатки Рыцаря Несчастья Музильона" />
+    <string id="str_tor_mousillon_arm_gauntlet_kotr_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Рыцаря Несчастья Музильона" />
     <string id="str_tor_chaos_head_helm_marauder_004" text="{.MI}Шлем{.nn} мародёра Хаоса" />
     <string id="str_tor_tilean_leg_boots_knight_001" text="Доспешные сапоги" />
     <string id="str_tor_empire_shoulder_cape_gold_wizard_001" text="{.MI}Золотой{.aj} {.MI}Плащ{.nn} Волшебника" />
@@ -305,7 +305,7 @@
     <string id="str_tor_empire_leg_boots_volkmar" text="{.MI}Сапоги{.nnp} Фолькмара Грозного" />
     <string id="str_tor_greenskin_shoulderpads_orc_shaman_003" text="{.MI}Наплечники{.nnp} орочьего шамана" />
     <string id="str_tor_we_leg_legs_ancient_treeman_001" text="{.MI}Древний{.ajp} древкодерный{.ajp} {.MI}Поножи{.nnp}" />
-    <string id="str_tor_bretonnian_head_helm_005" text="Бретонский кольчужный шлем типа котелок" />
+    <string id="str_tor_bretonnian_head_helm_005" text="{.MI}Бретонский{.aj} кольчужный{.aj} {.MI}шлем{.nn} типа котелок" />
     <string id="str_tor_vc_shoulder_pauldron_wight_king_001" text="{.MI}Наплечники{.nnp} Короля-Могильника" />
     <string id="str_tor_greenskin_shoulderpads_orc_black_5_001" text="{.MI}Железобетонный{.ajp} орочий{.ajp} {.MI}наплечники{.nnp}" />
     <string id="str_tor_greenskin_orc_arrer_boyz_hood_002" text="{.MI}Орочий{.aj} {.MI}капюшон{.nn}" />
@@ -334,7 +334,7 @@
     <string id="str_tor_greenskin_bracers_orc_black_1_001" text="{.FI}Орочий{.ajp} {.FI}лапищи{.nnp}" />
     <string id="str_tor_we_head_mask_leather_001" text="{.FI}Маска{.nn} лесного рейнджера" />
     <string id="str_tor_greenskin_leg_shroom_003" text="{.MI}Скальный{.aj} {.MI}грибок{.nn}" />
-    <string id="str_tor_mousillon_head_helm_kotr_001" text="Головной убор рыцаря Музильона Несчастья" />
+    <string id="str_tor_mousillon_head_helm_kotr_001" text="{.MI}Головной{.aj} {.MI}убор{.nn} рыцаря Музильона Несчастья" />
     <string id="str_tor_chaos_leg_boots_tzeentch_warrior_001" text="{.MI}Доспешный{.ajp} {.MI}сапоги{.nnp} воина Тзинча" />
     <string id="str_tor_dw_body_armour_slayer_adept_001" text="{.MI}Поножи{.nnp} убийцы троллей" />
     <string id="str_tor_empire_body_robe_gold_wizard_001" text="{.FI}Золотой{.aj} {.FI}мантия{.nn} волшебника" />
@@ -406,7 +406,7 @@
     <string id="str_tor_chaos_shoulder_pauldron_slaneesh_warrior_001" text="{.MI}Наплечники{.nnp} Служителя Слаанеша" />
     <string id="str_tor_greenskin_leg_boots_troll_001" text="{.FI}Вонючий{.ajp} {.FI}обмотки{.nnp} тролля" />
     <string id="str_tor_greenskin_body_armour_troll_001" text="{.FI}Вонючий{.ajp} {.FI}шмотки{.nnp} тролля" />
-    <string id="str_tor_bretonnian_arm_gauntlet_pilgrim_001" text="Защитник Боевого Паломника" />
+    <string id="str_tor_bretonnian_arm_gauntlet_pilgrim_001" text="{.MI}Защитник{.nn} Боевого Паломника" />
     <string id="str_tor_vc_body_armor_cairn_wraith_002" text="{.MI}Доспех{.nn} Тенистого Призрака Кирна" />
     <string id="str_tor_chaos_body_robe_cultist_001" text="{.FI}Роба{.nn} культиста" />
     <string id="str_tor_dw_shoulderpads_warrior_001" text="{.MI}Дворфский{.ajp} воинский{.ajp} {.MI}наплечники{.nnp}" />
@@ -420,8 +420,8 @@
     <string id="str_tor_empire_leg_boots_cannon_crew_003" text="{.MI}Сапоги{.nnp} инженера" />
     <string id="str_tor_chaos_leg_boots_chaos_warrior_001" text="{.MI}Сапоги{.nnp} воина Хаоса" />
     <string id="str_tor_bretonnia_body_armor_peasant_001" text="{.FI}Бретонский{.aj} крестьянский{.aj} {.FI}одежда{.nn}" />
-    <string id="str_tor_mousillon_body_armor_kotr_001" text="Доспехи Рыцаря Несчастья Музильона" />
-    <string id="str_tor_bretonnian_head_helm_greathelm_001" text="Бретонский великий шлем" />
+    <string id="str_tor_mousillon_body_armor_kotr_001" text="{.MI}Доспехи{.nnp} Рыцаря Несчастья Музильона" />
+    <string id="str_tor_bretonnian_head_helm_greathelm_001" text="{.MI}Бретонский{.aj} великий{.aj} {.MI}шлем{.nn}" />
     <string id="str_tor_empire_head_helm_lion_003" text="{.MI}Шлем{.nn} Сержанта Империи" />
     <string id="str_tor_empire_head_helm_pigface_bascinet_001" text="{.MI}Баскет{.nn}" />
     <string id="str_tor_greenskin_bracers_orc_black_3_001" text="{.FI}Тяжёлый{.ajp} орочий{.ajp} {.FI}перчатки{.nnp}" />
@@ -433,14 +433,14 @@
     <string id="str_tor_empire_leg_boots_lord_002" text="{.MI}Сапоги{.nnp} Имперского Лорда" />
     <string id="str_tor_dw_shoulder_shoulderpads_ungrim_001" text="{.MI}Плащ{.nn} Дракона Фирскара" />
     <string id="str_tor_dw_shoulder_shoulderpads_noble_001" text="{.MI}Наплечники{.nnp} дворянина-дворфа" />
-    <string id="str_tor_mousillon_shoulder_pauldron_bgk_001" text="Наплечник Рыцаря Чёрной Грааля" />
+    <string id="str_tor_mousillon_shoulder_pauldron_bgk_001" text="{.MI}Наплечник{.nn} Рыцаря Чёрного Грааля" />
     <string id="str_tor_dw_body_armour_warrior_002" text="{.MI}Дворфский{.aj} {.MI}доспех{.nn} воина" />
-    <string id="str_tor_bretonnian_shoulder_pauldron_knight_001" text="Бретонский наплечник рыцаря" />
+    <string id="str_tor_bretonnian_shoulder_pauldron_knight_001" text="{.MI}Бретонский{.aj} {.MI}наплечник{.nn} рыцаря" />
     <string id="str_tor_greenskin_bracers_orc_boyz_003" text="{.FI}Крепкий{.ajp} орочий{.ajp} {.FI}лапищи{.nnp}" />
     <string id="str_tor_greenskin_shoulderpads_orc_boyz_002" text="{.MI}Шипастый{.ajp} {.MI}наплечники{.nnp} орочьего пацана" />
-    <string id="str_tor_bretonnian_leg_boots_questing_knight_001" text="Латные сапоги Рыцаря-Странника" />
+    <string id="str_tor_bretonnian_leg_boots_questing_knight_001" text="{.MI}Латный{.ajp} {.MI}сапоги{.nnp} Рыцаря-Странника" />
     <string id="str_tor_dw_body_armour_irondrake_001" text="{.MI}Дворфский{.aj} {.MI}доспех{.nn} Железного Дракона" />
-    <string id="str_tor_bretonnian_shoulder_pauldron_pilgrim_001" text="Боевое плечо пилигрима" />
+    <string id="str_tor_bretonnian_shoulder_pauldron_pilgrim_001" text="{.NI}Боевой{.aj} {.NI}плечо{.nn} пилигрима" />
     <string id="str_tor_beastmen_body_armour_gor_001" text="{.MI}Доспехи{.nnp} Гор" />
     <string id="str_tor_empire_head_helm_taal_002" text="{.MI}Рогатый{.aj} черепной{.aj} {.MI}шлем{.nn} Таала" />
     <string id="str_tor_we_head_mask_fabric_001" text="{.FI}Маска{.nn} Стража Леса из ткани" />
@@ -480,7 +480,7 @@
     <string id="str_tor_empire_body_armor_valten" text="{.MI}Валтенский{.aj} {.MI}Доспех{.nn}" />
     <string id="str_tor_chaos_head_hat_chaos_cultist_001" text="{.MI}Капюшон{.nn} культиста Хаоса" />
     <string id="str_tor_vc_shoulder_pauldron_hell_knight_001" text="{.MI}Наплечники{.nnp} Рыцарей Ада" />
-    <string id="str_tor_bretonnian_leg_boots_prophetess_001" text="Сапоги Пророчицы" />
+    <string id="str_tor_bretonnian_leg_boots_prophetess_001" text="{.MI}Сапоги{.nnp} Пророчицы" />
     <string id="str_tor_dw_leg_boots_irondrake_001" text="{.MI}Сапоги{.nnp} Железодракона" />
     <string id="str_tor_vc_leg_boots_vlad" text="{.MI}Сапоги{.nnp} фон Карштайна" />
     <string id="str_tor_we_arm_bracers_gladeguard_001" text="{.MI}Браслеты{.nnp} Стражей Полян" />
@@ -490,7 +490,7 @@
     <string id="str_tor_he_head_helm_spearmen_002" text="{.MI}Шлем{.nn} Копейщиков Высших Эльфов" />
     <string id="str_tor_greenskin_body_armour_orc_black_4_001" text="{.FI}Тяжёлый{.ajp} орочий{.ajp} {.FI}доспехи{.nnp}" />
     <string id="str_tor_vc_head_helm_grave_guard_002" text="{.MI}Шлем{.nn} могильного стража с кольчужными пластинами" />
-    <string id="str_tor_bretonnian_shoulder_questing_knight_001" text="Наплечник Рыцаря-Странника" />
+    <string id="str_tor_bretonnian_shoulder_questing_knight_001" text="{.MI}Наплечник{.nn} Рыцаря-Странника" />
     <string id="str_tor_empire_shoulder_pauldron_luthor_huss" text="{.MI}Изящный{.ajp} {.MI}наплечники{.nnp} воина-жреца" />
     <string id="str_tor_empire_body_breastplate_kragsburg_001" text="{.MI}Нагрудник{.nn} фон Крагсбурга" />
     <string id="str_tor_greenskin_boots_savage_001" text="{.MI}Раскрашенный{.ajp} {.MI}сапоги{.nnp} дикого пацана" />
@@ -498,7 +498,7 @@
     <string id="str_tor_empire_leg_boots_general_001" text="{.MI}Сапоги{.nnp} генералов Империи" />
     <string id="str_tor_greenskin_orc_black_5_helmet_001" text="{.MI}Железобетонный{.aj} орочий{.aj} {.MI}налобник{.nn}" />
     <string id="str_tor_empire_arm_gauntlet_general_002" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} генералов Империи" />
-    <string id="str_tor_bretonnian_arm_gauntlet_grail_001" text="Благословленные Латные Перчатки Рыцаря" />
+    <string id="str_tor_bretonnian_arm_gauntlet_grail_001" text="{.FI}Благословлённый{.ajp} латный{.ajp} {.FI}перчатки{.nnp} Рыцаря" />
     <string id="str_tor_bretonnia_body_armor_pilgrim_001" text="{.MI}Доспехи{.nnp} Пилигрима-Воина" />
     <string id="str_tor_dw_head_helm_slayer_deamon_001" text="{.MI}Шлем{.nn} убийцы демонов" />
     <string id="str_tor_greenskin_bracers_goblin_002" text="{.MI}Гоблинский{.ajp} {.MI}наручи{.nnp} «руки и кости»" />
@@ -509,13 +509,13 @@
     <string id="str_tor_eo_head_dragon_helmet_001" text="{.MI}Драконий{.aj} {.MI}Шлем{.nn} Отряда Сородичей Эониров" />
     <string id="str_tor_empire_shoulder_pauldron_greatsword_002" text="{.MI}Имперский{.aj} {.MI}наплечник{.nn}" />
     <string id="str_tor_we_leg_boots_ranger_001" text="{.MI}Сапоги{.nnp} Лесного Эльфа-Разведчика" />
-    <string id="str_tor_bretonnian_head_helm_pilgrim_001" text="Боевой капюшон пилигрима" />
+    <string id="str_tor_bretonnian_head_helm_pilgrim_001" text="{.MI}Боевой{.aj} {.MI}капюшон{.nn} пилигрима" />
     <string id="str_tor_greenskin_shoulderpads_orc_boyz_003" text="{.MI}Шипастый{.ajp} {.MI}наплечники{.nnp} орочьего пацана" />
     <string id="str_tor_empire_head_hat_light_wizard_001" text="{.FI}Шапка{.nn} легкого мага" />
     <string id="str_tor_we_leg_boots_gladeguard_001" text="{.MI}Сапоги{.nnp} Стражей Полян" />
     <string id="str_tor_empire_head_mask_gold_wizard_001" text="{.FI}Золотой{.aj} {.FI}маска{.nn} мага" />
     <string id="str_tor_greenskin_hood_shaman_003" text="{.FI}Шапка{.nn} орочьего шамана" />
-    <string id="str_tor_bretonnian_arm_bracers_prophetess_001" text="Браслеты Пророкини" />
+    <string id="str_tor_bretonnian_arm_bracers_prophetess_001" text="{.MI}Браслеты{.nnp} Пророчицы" />
     <string id="str_tor_vc_head_helm_cairn_wraith_001" text="{.MI}Шлем{.nn} призрака могильной кучи" />
     <string id="str_tor_dw_head_helm_ranger_003" text="{.MI}Дворфский{.aj} {.MI}капюшон{.nn} разведчика" />
     <string id="str_tor_bretonnia_body_armor_knight_002" text="{.FI}Бретонский{.aj} нагрудный{.aj} {.FI}накидка{.nn} поверх хауберка" />
@@ -529,8 +529,8 @@
     <string id="str_tor_vc_shoulder_pauldron_blood_knight_002" text="{.MI}Кровавый{.ajp} {.MI}Наплечники{.nnp} Рыцаря Крови" />
     <string id="str_tor_we_arm_bracers_wildrider_001" text="{.MI}Браслеты{.nnp} Дикого Рыцаря" />
     <string id="str_tor_empire_head_helm_sallet_003" text="{.MI}Крылатый{.aj} {.MI}шлем{.nn} Саллет" />
-    <string id="str_tor_bretonnian_arm_gauntlet_louen_leoncoeur" text="Латные Перчатки Блесна" />
-    <string id="str_tor_bretonnian_shoulder_pauldron_knight_002" text="Бретонские наплечники с плащом" />
+    <string id="str_tor_bretonnian_arm_gauntlet_louen_leoncoeur" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Блеска" />
+    <string id="str_tor_bretonnian_shoulder_pauldron_knight_002" text="{.MI}Бретонский{.ajp} {.MI}наплечники{.nnp} с плащом" />
     <string id="str_tor_empire_head_hat_master_engineer_001" text="{.FI}Инженерный{.aj} {.FI}Шляпа{.nn}" />
     <string id="str_tor_greenskin_leg_shroom_005" text="{.MI}Шамбл{.nn} вулканический" />
     <string id="str_tor_chaos_body_armor_slaneesh_warrior_001" text="{.MI}Доспех{.nn} Сланиша" />
@@ -539,7 +539,7 @@
     <string id="str_tor_vc_head_helm_grave_guard_001" text="{.MI}Шлем{.nn} могильного стража с кольчужными пластинами" />
     <string id="str_tor_empire_arm_gauntlet_karl_franz" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Карла Франца" />
     <string id="str_tor_greenskin_leg_shroom_001" text="{.MI}Шамбл{.nn} аридный" />
-    <string id="str_tor_bretonnian_head_prophetess_002" text="Шапка пророчицы Хеннин" />
+    <string id="str_tor_bretonnian_head_prophetess_002" text="{.FI}Шапка{.nn} пророчицы (хеннин)" />
     <string id="str_tor_chaos_shoulder_pauldron_tzeentch_warrior_001" text="{.MI}Тзинчский{.ajp} {.MI}наплечники{.nnp}" />
     <string id="str_tor_greenskin_orc_arrer_boyz_hood_001" text="{.MI}Капюшон{.nn} орка" />
     <string id="str_tor_chaos_arm_bracer_chaos_warrior_001" text="{.MI}Наручи{.nnp} воина Хаоса" />
@@ -549,7 +549,7 @@
     <string id="str_tor_vc_arm_bracers_skeleton_warrior_003" text="{.MA}Скелетный{.aj} {.MA}Страж{.nn} Латные Перчатки" />
     <string id="str_tor_greenskin_orc_choppa_helmet_001" text="{.FI}Орочий{.aj} {.FI}шапка{.nn}" />
     <string id="str_tor_greenskin_mask_savage_001" text="{.FI}Маска{.nn} дикого пацана" />
-    <string id="str_tor_bretonnian_head_helm_003" text="Бретонский кольчужный капюшон" />
+    <string id="str_tor_bretonnian_head_helm_003" text="{.MI}Бретонский{.aj} кольчужный{.aj} {.MI}капюшон{.nn}" />
     <string id="str_tor_empire_shoulder_pauldron_karl_franz" text="{.MI}Наплечники{.nnp} Карла Франца" />
     <string id="str_tor_chaos_arm_gauntlet_hallow" text="{.FI}Священный{.ajp} латный{.ajp} {.FI}перчатки{.nnp}" />
     <string id="str_tor_empire_head_helm_warrior_priest_001" text="{.MI}Шагообразный{.aj} {.MI}Ободок{.nn} Воина-Жреца" />
@@ -559,7 +559,7 @@
     <string id="str_tor_greenskin_body_armour_orc_shaman_002" text="{.NI}Облачение{.nn} орочьего шамана" />
     <string id="str_tor_dw_head_engineer_001" text="{.MI}Дворфский{.aj} {.MI}шлем{.nn} мастера инженера" />
     <string id="str_tor_chaos_body_armor_marauder_001" text="{.MI}Штаны{.nnp} мародёра с упряжью" />
-    <string id="str_tor_bretonnian_head_helm_hood_001" text="Бретонская капюшонная пизайна" />
+    <string id="str_tor_bretonnian_head_helm_hood_001" text="{.FI}Бретонский{.aj} капюшонный{.aj} {.FI}пизайна{.nn}" />
     <string id="str_tor_we_body_armor_sister_001" text="{.MI}Доспех{.nn} Сестры Шипа" />
     <string id="str_tor_estalia_body_armor_noble_003" text="Эсталийский дворянский доспех" />
     <string id="str_tor_chaos_shoulder_fur_marauder_001" text="{.MI}Меховый{.ajp} {.MI}плечи{.nnp} мародёра" />
@@ -568,10 +568,10 @@
     <string id="str_tor_empire_head_hat_beast_wizard_001" text="{.FI}Медвежий{.aj} {.FI}шапка{.nn} мага зверя" />
     <string id="str_tor_vc_leg_boots_mannfred" text="{.MI}Сапоги{.nnp} Маннфреда фон Карштайна" />
     <string id="str_tor_empire_body_armour_kotww_001" text="{.MI}Доспех{.nn} Рыцаря Белого Волка" />
-    <string id="str_tor_bretonnian_shoulder_grail_knight_001" text="Плащ рыцаря Грааля" />
+    <string id="str_tor_bretonnian_shoulder_grail_knight_001" text="{.MI}Плащ{.nn} рыцаря Грааля" />
     <string id="str_tor_empire_head_hat_noble_001" text="{.MI}Берет{.nn} дворянина Империи" />
     <string id="str_tor_dw_arm_bracers_ironbreaker_001" text="{.MI}Браслеты{.nnp} Железолома" />
-    <string id="str_tor_mousillon_arm_gauntlet_bgk_001" text="Латные перчатки Черного Граального Рыцаря" />
+    <string id="str_tor_mousillon_arm_gauntlet_bgk_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Чёрного Граального Рыцаря" />
     <string id="str_tor_greenskin_shoulderpads_orc_shaman_001" text="{.MI}Черепастый{.ajp} {.MI}наплечники{.nnp} орочьего шамана" />
     <string id="str_tor_vc_leg_boots_blood_dragon_knight_001" text="{.MI}Сапоги{.nnp} рыцаря Кровавого Дракона" />
     <string id="str_tor_dw_arm_gloves_journeyman_001" text="{.FI}Перчатки{.nnp} мастера инженера-дворфа" />
@@ -641,11 +641,11 @@
     <string id="str_tor_empire_arm_gauntlet_cannon_crew_003" text="{.FI}Перчатки{.nnp} инженера Империи" />
     <string id="str_tor_dw_leg_boots_slayer_legend_001" text="{.MI}Сапоги{.nnp} Убийцы Гигантов" />
     <string id="str_tor_vc_arm_gauntlet_red_duke" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Великого Магистра Крестовой Башни" />
-    <string id="str_tor_bretonnian_leg_boots_manatarms_001" text="Старые кожаные сапоги" />
+    <string id="str_tor_bretonnian_leg_boots_manatarms_001" text="{.MI}Старый{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_vc_shoulder_pauldron_vlad" text="{.MI}Плечи{.nnp} фон Карштайна" />
     <string id="str_tor_bretonnia_body_armor_questing_knight_001" text="{.MI}Доспехи{.nnp} Рыцаря-Странника" />
     <string id="str_tor_dw_shoulder_shoulderpads_runelord_001" text="{.MI}Наплечники{.nnp} Лорда Руны" />
-    <string id="str_tor_bretonnian_head_helm_001" text="Бретонский кольчужный шлем с плоской вершиной" />
+    <string id="str_tor_bretonnian_head_helm_001" text="{.MI}Бретонский{.aj} кольчужный{.aj} {.MI}шлем{.nn} с плоской вершиной" />
     <string id="str_tor_dw_shoulder_shoulderpads_longbeard_001" text="{.MI}Дворфский{.ajp} {.MI}наплечники{.nnp} Длиннобородого" />
     <string id="str_tor_empire_head_helm_morion_001" text="{.MI}Тяжёлый{.aj} имперский{.aj} {.MI}шлем{.nn} морьон" />
     <string id="str_tor_tilean_head_helm_knight_002" text="Тилейная кепка" />
@@ -680,7 +680,7 @@
     <string id="str_tor_dw_head_helm_runelord_001" text="{.MI}Шлем{.nn} Лорда Руны" />
     <string id="str_tor_tilean_shoulder_pauldron_knight_001" text="Тилейские наплечники рыцаря" />
     <string id="str_tor_chaos_arm_gauntlet_khorne_warrior_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} воина Кхорна" />
-    <string id="str_tor_bretonnian_head_helm_004" text="Бретонский набивной капюшон" />
+    <string id="str_tor_bretonnian_head_helm_004" text="{.MI}Бретонский{.aj} набивной{.aj} {.MI}капюшон{.nn}" />
     <string id="str_tor_empire_arm_gauntlet_balthazar_gelt" text="{.FI}Перчатки{.nnp} Балтазара Гельта" />
     <string id="str_tor_vc_body_armor_cairn_wraith_001" text="{.MI}Доспех{.nn} Тенистого Призрака Кирна" />
     <string id="str_tor_empire_body_undercloth_statetroop_002" text="{.FI}Имперский{.aj} {.FI}форма{.nn} штатного солдата" />
@@ -703,7 +703,7 @@
     <string id="str_tor_empire_head_hat_cannon_crew_002" text="{.FI}Кепка{.nn} Артиллерийского Экипажа" />
     <string id="str_tor_dw_shoulder_shoulderpads_apprentice_001" text="{.MI}Наплечники{.nnp} артиллериста-ученика" />
     <string id="str_tor_greenskin_orc_black_4_helmet_001" text="{.MI}Настоящий{.aj} крепкий{.aj} орочий{.aj} {.MI}налобник{.nn}" />
-    <string id="str_tor_mousillon_leg_boots_kotr_001" text="Сапоги Рыцаря Несчастья Музильона" />
+    <string id="str_tor_mousillon_leg_boots_kotr_001" text="{.MI}Сапоги{.nnp} Рыцаря Несчастья Музильона" />
     <string id="str_tor_greenskin_boots_orc_warboss_001" text="{.MI}Сапоги{.nnp} варбосса" />
     <string id="str_tor_greenskin_boots_orc_black_3_001" text="{.MI}Тяжёлый{.ajp} орочий{.ajp} {.MI}топтуны{.nnp}" />
     <string id="str_tor_vc_body_breastplate_cairn_wraith_001" text="{.FI}Кираса{.nn} Призрака Кирна" />
@@ -711,9 +711,9 @@
     <string id="str_tor_we_body_armor_militia_002" text="{.MI}Доспехи{.nnp} эльфийской милиции" />
     <string id="str_tor_greenskin_bracers_orc_boyz_002" text="{.FI}Крепкий{.ajp} орочий{.ajp} {.FI}лапищи{.nnp}" />
     <string id="str_tor_empire_body_armor_swadian_plate_002" text="{.MI}Полосатый{.ajp} {.MI}доспехи{.nnp}" />
-    <string id="str_tor_bretonnian_head_helm_006" text="Бретонский набивной шлем типа котелок" />
+    <string id="str_tor_bretonnian_head_helm_006" text="{.MI}Бретонский{.aj} набивной{.aj} {.MI}шлем{.nn} типа котелок" />
     <string id="str_tor_vc_arm_bracers_grave_guard_002" text="{.MA}Могильный{.aj} {.MA}Страж{.nn} Латные Перчатки" />
-    <string id="str_tor_bretonnian_leg_boots_kotr_001" text="Сапоги Рыцаря Миров" />
+    <string id="str_tor_bretonnian_leg_boots_kotr_001" text="{.MI}Сапоги{.nnp} Рыцаря Королевства" />
     <string id="str_tor_empire_body_breastplate_statetrooper_001" text="{.FI}Имперский{.aj} {.FI}кираса{.nn}" />
     <string id="str_tor_greenskin_shoulderpads_orc_big_un_003" text="{.MI}Настоящий{.ajp} орочий{.ajp} {.MI}наплечники{.nnp}" />
     <string id="str_tor_dw_head_helm_miner_001" text="{.MI}Шлем{.nn} дворфа-шахтёра" />
@@ -722,7 +722,7 @@
     <string id="str_tor_we_body_armor_lord_001" text="{.MI}Доспех{.nn} Лорда Глея" />
     <string id="str_tor_dw_body_armour_militia_001" text="{.MI}Доспех{.nn} Дворфской Милиции" />
     <string id="str_tor_vc_shoulder_pauldron_red_duke" text="{.MI}Наплечники{.nnp} Великого Магистра Кровной Крепости" />
-    <string id="str_tor_mousillon_head_helm_bgk_001" text="Шлем рыцаря Чёрного Грааля" />
+    <string id="str_tor_mousillon_head_helm_bgk_001" text="{.MI}Шлем{.nn} рыцаря Чёрного Грааля" />
     <string id="str_tor_vc_body_breastplate_grave_guard_001" text="{.MI}Незавершённый{.aj} {.MI}Нагрудник{.nn} Могильного Стража" />
     <string id="str_tor_vc_shoulder_pauldron_grave_guard_001" text="{.MI}Наплечники{.nnp} Могильного Стража" />
     <string id="str_tor_vc_head_helm_wight_king_001" text="{.MI}Шлем{.nn} Короля-Могильника" />
@@ -734,14 +734,14 @@
     <string id="str_tor_vc_blood_keep_grandmaster_helm" text="{.MI}Шлем{.nn} Великого Магистра Кровной Крепости" />
     <string id="str_tor_we_head_arahan_mask_001" text="{.FI}Маска{.nn} Сестёр Рассвета Арахан" />
     <string id="str_tor_vc_body_breastplate_dh_templar_001" text="{.MI}Доспех{.nn} Храмовника Дракенхофа" />
-    <string id="str_tor_bretonnian_head_helm_questing_knight_002" text="Бретонский армет" />
+    <string id="str_tor_bretonnian_head_helm_questing_knight_002" text="{.MI}Бретонский{.aj} {.MI}армет{.nn}" />
     <string id="str_tor_chaos_head_helm_marauder_003" text="{.MI}Шлем{.nn} мародёра с рогами" />
     <string id="str_tor_bretonnia_body_armor_manatarms_001" text="{.FI}Тяжёлый{.aj} бретонский{.aj} {.FI}ткань{.nn} поверх камзола" />
-    <string id="str_tor_mousillon_body_armor_bgk_001" text="Доспехи Черного Грааля" />
+    <string id="str_tor_mousillon_body_armor_bgk_001" text="{.MI}Доспехи{.nnp} Чёрного Грааля" />
     <string id="str_tor_empire_shoulder_cape_balthazar_gelt" text="{.MI}Наплечники{.nnp} Балтазара Гельта" />
     <string id="str_tor_empire_body_breastplate_statetrooper_004" text="{.FI}Имперский{.aj} {.FI}кираса{.nn} с наплечником" />
     <string id="str_tor_he_shoulder_cape_whitelion_001" text="{.MI}Плащ{.nn} Белого Льва Высших Эльфов" />
-    <string id="str_tor_mousillon_shoulder_grail_knight_001" text="Плащ Рыцаря Чёрной Грааля" />
+    <string id="str_tor_mousillon_shoulder_grail_knight_001" text="{.MI}Плащ{.nn} Рыцаря Чёрного Грааля" />
     <string id="str_tor_empire_arm_gauntlet_witch_hunter_001" text="{.FI}Прочный{.ajp} кожаный{.ajp} {.FI}перчатки{.nnp}" />
     <string id="str_tor_empire_leg_boots_kotww_001" text="{.MI}Сапоги{.nnp} Рыцаря Белого Волка" />
     <string id="str_tor_he_body_armour_phoenix_002" text="{.MI}Доспех{.nn} Стражи Королевы Эониров с длинными рукавами" />
@@ -761,8 +761,8 @@
     <string id="str_tor_dw_head_helm_noble_003" text="{.MI}Шлем{.nn} благородного дворфа" />
     <string id="str_tor_dw_arm_bracers_longbeard_001" text="{.MI}Браслеты{.nnp} Длиннобородого" />
     <string id="str_tor_empire_head_helm_burgonet_001" text="{.MI}Имперский{.aj} {.MI}шлем-салад{.nn}" />
-    <string id="str_tor_bretonnian_shoulder_pauldron_louen_leoncoeur" text="Наплечник Блеска" />
-    <string id="str_tor_bretonnian_head_helm_kotr_002" text="Великий шлем Рыцаря Королевства" />
+    <string id="str_tor_bretonnian_shoulder_pauldron_louen_leoncoeur" text="{.MI}Наплечник{.nn} Блеска" />
+    <string id="str_tor_bretonnian_head_helm_kotr_002" text="{.MI}Великий{.aj} {.MI}шлем{.nn} Рыцаря Королевства" />
     <string id="str_tor_vc_shoulder_pauldron_blood_dragon_knight_001" text="{.MI}Наплечники{.nnp} Драконьего Рыцаря Крови" />
     <string id="str_tor_greenskin_shoulderpads_goblin_warboss_001" text="{.MI}Наплечники{.nnp} гоблинского варбосса" />
     <string id="str_tor_vc_shoulder_basic_cape_necrarch_001" text="{.MI}Базовый{.aj} {.MI}Плащ{.nn} Некрарха" />
@@ -786,7 +786,7 @@
     <string id="str_tor_chaos_arm_gauntlet_khorne_warrior_002" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} воина Кхорна (вариант 2)" />
     <string id="str_tor_empire_arm_bracers_bright_wizard_001" text="{.MI}Яркий{.ajp} {.MI}Браслеты{.nnp} Мага" />
     <string id="str_tor_greenskin_leg_shroom_002" text="{.MI}Шамбл{.nn} лесной" />
-    <string id="str_tor_bretonnian_arm_gauntlet_questing_knight_002" text="Латные перчатки Рыцаря-Странника" />
+    <string id="str_tor_bretonnian_arm_gauntlet_questing_knight_002" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Рыцаря-Странника" />
     <string id="str_tor_empire_body_robe_beast_wizard_001" text="{.FI}Мантия{.nn} звериного волшебника" />
     <string id="str_tor_greenskin_leg_boots_goblin_001" text="{.FI}Гоблинский{.ajp} ножной{.ajp} {.FI}обмотки{.nnp}" />
     <string id="str_tor_we_arm_bracers_spellsinger_001" text="{.MI}Браслеты{.nnp} Магического Певца" />
