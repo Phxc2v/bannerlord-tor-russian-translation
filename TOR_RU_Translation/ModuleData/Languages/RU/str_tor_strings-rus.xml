@@ -340,7 +340,7 @@
     <string id="tor_cc_option_1_gs_snowy_terrain_label_str" text="Снежную местность" />
     <string id="str_tor_hireling_odds_slight_disadvantage" text="Небольшое отставание" />
     <string id="str_tor_powerstone_beast_phys_15_name" text="Малый защитный призрачный янтарь" />
-    <string id="str_tor_feudal_oath_line4_artois" text="Как рыцарь Гизореу, я клянусь, что зло не одолеет мой народ." />
+    <string id="str_tor_feudal_oath_line4_artois" text="Как рыцарь Жизоро, я клянусь, что зло не одолеет мой народ." />
     <string id="str_tor_feudal_oath_line1_lyonesse" text="Я отдаю свой меч и щит благословлённому герцогству Лионесс." />
     <string id="str_tor_enchanter_dialog_start_1_sturgia" text="{PLAYER_CLAN}, Давонгр! У тебя есть дела с Рунами?" />
     <string id="str_tor_blackgrail_dontbotherme" text="Тогда подумайте об этом в другом месте. Мы закончили здесь." />
@@ -595,7 +595,7 @@
     <string id="str_tor_response_2_tor_wanderer_mousillon_2" text="Ты говоришь о колдовстве?" />
     <string id="str_tor_graveyard_title" text="Гравеярд" />
     <string id="str_tor_careerchoice_description_BrutalCunninKeystone" text="Зов Великого Зелёного даёт Пацанам +10% стойкости на время" />
-    <string id="str_tor_short_term_for_faction_quenelles" text="Квенеллес" />
+    <string id="str_tor_short_term_for_faction_quenelles" text="Кенель" />
     <string id="str_tor_engineer_quest_rogue_engineer_encounter_player_after_battle_answer" text="Ваши планы заканчиваются здесь." />
     <string id="str_tor_careerchoice_description_RunesOfTheWhiteWolfPassive3" text="+20% длительности молитв." />
     <string id="str_tor_grail_envoy_stop_war_faction1" text="Прекрати войну с {FACTION_NAME_1}." />
@@ -843,7 +843,7 @@
     <string id="str_tor_perk_bomb_suit_2" text="Войска вашей формации получают на 10% меньше урона от осадной артиллерии и взрывов." />
     <string id="str_tor_backstory_d_tor_wanderer_vampire_3" text="Я графиня рода Лахианов, искусная как в военном деле, так и в дипломатии. С моей помощью откроются двери, которые иначе остались бы закрыты." />
     <string id="str_tor_backstory_b_tor_wanderer_empire_11" text="Ульрик — мой отец. Я обязан ему своей силой и даром. И я пролью кровь за него, когда представится случай." />
-    <string id="str_tor_feudal_oath_line4_couronne" text="Да здравствует король Луон Леонкоэр!" />
+    <string id="str_tor_feudal_oath_line4_couronne" text="Да здравствует король Луан Леонкёр!" />
     <string id="str_tor_careerchoice_description_MartialleKeystone" text="+30% к времени накопления Туманного облика, но его эффекты сохраняются немного дольше после использования, +20% к скорости атаки." />
     <string id="str_tor_backstory_d_tor_wanderer_eonir_0" text="Я — Призрачный странник касты Ториур, мастер искусства засады. Я принесу правосудие Эонир." />
     <string id="tor_lore_heavens_desc" text="Воздух и сферы, движущиеся высоко над нами
@@ -1235,7 +1235,7 @@
     <string id="str_tor_custom_resource_name_councilfavor" text="Благосклонность совета Эонир" />
     <string id="str_tor_spelltrainer_greenskin_start" text="Эй, ты кто? Чего хочешь?" />
     <string id="tor_cc_option10_label_str" text="Студент инженерного дела" />
-    <string id="str_tor_feudal_oath_line4_gisoreux" text="Как истинный сын Гизора, я буду чтить ценности Гизора и умру за его славу." />
+    <string id="str_tor_feudal_oath_line4_gisoreux" text="Как истинный сын Жизоро, я буду чтить ценности Жизоро и умру за его славу." />
     <string id="str_tor_hire_companion_begone_tor_wanderer_empire_3" text="Уходи! Твоё племя здесь нежелательно!" />
     <string id="str_tor_careerchoice_description_DuelistPassive4" text="Личная скорость лечения увеличена на +1." />
     <string id="str_tor_career_choicegroup_name_WardenOfWydrioth" text="Хранитель Вудриота" />
@@ -1391,7 +1391,7 @@
     <string id="str_tor_careerchoice_description_GrimoireNecrisPassive1" text="+10% урона от ближнего боя типа «Магический» для войск типа «Меньшая нежить»." />
     <string id="str_tor_careerchoice_description_PathOfVigilancePassive3" text="Удары ниже 15 урона больше не сбивают вас с ног." />
     <string id="str_tor_customsettlement_disabled_gork_shrine_02" text="Святилище лежит в руинах. Здесь больше ничего не делается." />
-    <string id="str_tor_feudal_oath_line2_couronne" text="Я клянусь защищать, служить и повиноваться королю Бретоннии Луну Леонкоэру." />
+    <string id="str_tor_feudal_oath_line2_couronne" text="Я клянусь защищать, служить и повиноваться королю Бретоннии Луану Леонкёру." />
     <string id="str_tor_feudal_oath_line2_bastonne" text="Я объявляю свою верность почтенному герцогу Боэмонду, маяку мужества и рыцарства." />
     <string id="str_tor_customsettlement_disabled_worldroot_02" text="Вы нашли конец Мирового Корня в лесу Лаурелорн." />
     <string id="str_tor_response_2_tor_wanderer_eonir_1" text="Многие утверждают, что происходят от великих героев прошлого." />
@@ -1702,7 +1702,7 @@
     <string id="str_tor_hirelingactivity2_Necromancer" text="Проводы опыты на трупах" />
     <string id="str_tor_dw_rune_smith_deliver_steel_item_title_lessersteel" text="Доставьте металлы низкого качества" />
     <string id="str_tor_hire_companion_p_tor_wanderer_eonir_1" text="Дар магии действительно ценен." />
-    <string id="str_tor_feudal_oath_line3_quenelles" text="Я клянусь защищать земли Квенели, его народ и священные святилища, чтящие Даму Озера." />
+    <string id="str_tor_feudal_oath_line3_quenelles" text="Я клянусь защищать земли Кенеля, его народ и священные святилища, чтящие Даму Озера." />
     <string id="str_tor_response_1_tor_wanderer_mousillon_4" text="Бессмертие — дар действительно редкий." />
     <string id="str_tor_career_switch_explanation_MinorVampire" text="Примите, и вы станете вампиром фон Карштайна. Это решение необратимо.{newline}
  {newline}
@@ -1770,7 +1770,7 @@
     <string id="str_tor_cc_profession_aserai" text="Прежде чем покинуть племя, вы были одним из..." />
     <string id="str_tor_hire_companion_tell_me_p_tor_wanderer_empire_5" text="Меня зовут {PLAYER.NAME}. Расскажите о себе." />
     <string id="str_tor_dw_guildmaster_rune_smith_hub_rune_lord_career_runelord" text="С тех пор как времена Торэка или даже Крагга ни один Рунк не проявлял такого мастерства в искусстве руны!" />
-    <string id="str_tor_culture_description_vlandia" text="Королевство Бретонния — земля, славящаяся могучими рыцарями и их сильной чувством рыцарства. Под руководством Феи-Волшебницы и Дамселей Леди крестьяне трудятся, пока их благородные лорды защищают их от множества угроз, угрожающих их выживанию. В времена войны всё королевство может объединиться, возглавляемое в крестовом походе против своих врагов королём Луэном Леонкёром, против которого ни один враг не знал победы." />
+    <string id="str_tor_culture_description_vlandia" text="Королевство Бретонния — земля, славящаяся могучими рыцарями и их сильной чувством рыцарства. Под руководством Феи-Волшебницы и Дамселей Леди крестьяне трудятся, пока их благородные лорды защищают их от множества угроз, угрожающих их выживанию. В времена войны всё королевство может объединиться, возглавляемое в крестовом походе против своих врагов королём Луаном Леонкёром, против которого ни один враг не знал победы." />
     <string id="str_tor_crafting_template_TorOrcOneHandedAxe" text="ТОР-Орочьи Мечи" />
     <string id="str_tor_careerunlock_level_2_spellsinger" text="Требуется известность клана: 2" />
     <string id="str_tor_ability_on_cooldown" text="Он Перезарядка" />
@@ -1857,7 +1857,7 @@
     <string id="str_tor_careerchoice_description_ScourgeOfBretonniaPassive4" text="Повеленные судьбой Рыцарские спутники медленно обращают Бретонских Рыцарей в Рыцарей Музильона." />
     <string id="str_tor_career_choicegroup_name_Hawkeyed" text="Ястребиный Глаз" />
     <string id="str_tor_careerchoice_description_FuryOfTheForestKeystone" text="Гнев Леса призывает +1 Древо. Если используется в миссии — 10 дриад вместо них." />
-    <string id="str_tor_feudal_oath_line4_quenelles" text="Как истинный рыцарь Квенели, я приму идеалы рыцарства, защищая наше королевство и сохраняя его вечную грацию и красоту." />
+    <string id="str_tor_feudal_oath_line4_quenelles" text="Как истинный рыцарь Кенеля, я приму идеалы рыцарства, защищая наше королевство и сохраняя его вечную грацию и красоту." />
     <string id="str_tor_priest_blessing_party_1" text="Пусть божественный свет направит ваши шаги. Ваша группа теперь благословлена." />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_empire_13" text="Меня зовут {PLAYER.NAME}. Пропустим любезности и перейдём к делу." />
     <string id="str_tor_customsettlement_intro_ulric_shrine_03" text="Вы прибыли в святилище {RELIGION_LINK}. Голова Волка словно следит за каждым вашим шагом своим взглядом." />
@@ -2237,7 +2237,7 @@
     <string id="tor_cc_option14_effect_str" text="Карьера Охотника на ведьм" />
     <string id="str_tor_backstory_b_tor_wanderer_woodelf_2" text="Бестии, чудовища, люди или даже другие эльфы — любое существо, угрожающее лесу, почувствует острую боль моих стрел." />
     <string id="tor_lore_life_name" text="Гхьран, зелёный Ветер" />
-    <string id="str_tor_feudal_oath_line2_moot" text="Я провозглашаю старейшего Хисме Стаутхарт своим законным сюзереном." />
+    <string id="str_tor_feudal_oath_line2_moot" text="Я провозглашаю старейшину Хизме Храброе Сердце своим законным сюзереном." />
     <string id="str_tor_companion_leave_p_tor_wanderer_empire_13" text="Прощайте." />
     <string id="str_tor_careerchoice_description_StoneAndSteelKeystone" text="Заклинатель-Разрушитель отнимает на +50% больше 'Ветров Магии'." />
     <string id="str_tor_careerchoice_description_VividVisionsPassive1" text="+5 к личному объёму 'Ветров магии'." />
@@ -2283,7 +2283,7 @@
     <string id="str_tor_careerchoice_description_MagicOfAthelLorenPassive2" text="+5 к личной ёмкости 'ветров магии'." />
     <string id="str_tor_damage_type_magical" text="Магикал" />
     <string id="str_tor_ability_effect_type_tactical_reposition" text="Тактическая переброска" />
-    <string id="str_tor_feudal_oath_line1_gisoreux" text="Я клянусь защищать почтенные земли герцогства Гизор." />
+    <string id="str_tor_feudal_oath_line1_gisoreux" text="Я клянусь защищать почтенные земли герцогства Жизоро." />
     <string id="str_tor_career_choicegroup_name_GrimoireNecris" text="Гримор Некрис" />
     <string id="str_tor_hireling_battle_enemy" text="Враг: {ENEMY_LEADER}" />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_mousillon_0" text="Меня зовут {PLAYER.NAME}. Чем вы занимаетесь здесь?" />
@@ -2320,7 +2320,7 @@
     <string id="str_tor_perk_novice_prayer_1" text="Получите доступ ко всем молитвам битвы начального уровня." />
     <string id="str_tor_careerchoice_description_SoulBindingPassive1" text="+5 к личному запасу «Ветров Магии»." />
     <string id="str_tor_feudal_oath_line4_mousillon" text="Я узнаю тебя, мой суверенный повелитель, и буду стоять непоколебимо перед презрением мира к нашему дому, объединившись под твоим знаменем." />
-    <string id="str_tor_feudal_oath_line1_quenelles" text="С честью и скромностью я клянусь верность благородному герцогству Квенель." />
+    <string id="str_tor_feudal_oath_line1_quenelles" text="С честью и скромностью я клянусь верность благородному герцогству Кенель." />
     <string id="str_tor_customsettlement_intro_mork_shrine_04" text="Вы прибыли в святилище {RELIGION_LINK}. Грубый алтарь Морку, хитро жестокому, наполняет воздух чувством безжалостности и амбиций." />
     <string id="str_tor_spelltrainer_close_book" text="Хм, ладно. Я научу тебя тому, что могу." />
     <string id="str_tor_custom_resource_eo_hireling" text="Признание совета Эонир" />
@@ -3140,7 +3140,7 @@
     <string id="str_tor_damage_display_spell_damage" text="{ICON} {SPELL_NAME} нанес {DAMAGE} урона типа {DAMAGE_TYPE} по {COUNT} {TARGET_TEXT}" />
     <string id="str_tor_engineer_upgrade_decline" text="Я не могу позволить себе такое предприятие." />
     <string id="str_tor_magical_items_trait_nameComposition" text="{NAMEMODIFIER} {NAMEOFITEM}" />
-    <string id="str_tor_feudal_oath_line3_gisoreux" text="Я буду охранять вершины гор Палых сестёр и равнины Гизора так же, как защищаю свою семью." />
+    <string id="str_tor_feudal_oath_line3_gisoreux" text="Я буду охранять вершины гор Палых сестёр и равнины Жизоро так же, как защищаю свою семью." />
     <string id="str_tor_hire_accept_p_tor_wanderer_chaos_0" text="Пусть будет так… Возьми эти {GOLD_AMOUNT}." />
     <string id="str_tor_career_choicegroup_name_ProtectorOfTheWoods" text="Хранитель Лесов" />
     <string id="tor_priest_sigmar_name" text="Воин-священник Сигмара" />
@@ -3949,7 +3949,7 @@
     <string id="str_tor_damagetype_holy" text="Святой" />
     <string id="tor_cc_option_1_we_mountain_label_str" text="Ветеран Горных Войн" />
     <string id="str_tor_hire_accept_p_tor_wanderer_empire_2" text="Пусть будет так… Возьмите эти {GOLD_AMOUNT}." />
-    <string id="str_tor_companion_leave_p_tor_wanderer_greenskins_3" text="ИДИ СЮДА, ТЫ КАРЛИК! МНЕ НИКТО НЕ НУЖЕН В ЭТОМ ВААГХЕ, КРОМЕ КРУПНЫХ ЗЕЛЁНЫХ ПАРНЕЙ!" />
+    <string id="str_tor_companion_leave_p_tor_wanderer_greenskins_3" text="ИДИ СЮДА, ТЫ КОРОТЫШКА! МНЕ НИКТО НЕ НУЖЕН В ЭТОМ ВААГХЕ, КРОМЕ КРУПНЫХ ЗЕЛЁНЫХ ПАРНЕЙ!" />
     <string id="str_tor_hirelingactivity1_WarriorPriest" text="Тренируйтесь с боевым молотом" />
     <string id="str_tor_enchanter_donate_items_1_negative_vlandia" text="Увы, вы ничего не несёте, что было бы полезно для королевства." />
     <string id="str_tor_priest_hub_blessingshop_p_cult_of_shallya" text="Расскажите мне больше о священных томах Шаллы." />
@@ -4070,7 +4070,7 @@
     <string id="str_tor_response_1_tor_wanderer_empire_6" text="Понимаю." />
     <string id="str_tor_careerchoice_description_GetToDaChoppasPassive4" text="+50% жубов после дуэлей с варбоссами" />
     <string id="str_tor_enchanter_gift_items_hub_return_p_vlandia" text="Извините, мне нужно подумать об этом ещё." />
-    <string id="str_tor_short_term_for_faction_gisoreux" text="Гисореукс" />
+    <string id="str_tor_short_term_for_faction_gisoreux" text="Жизоро" />
     <string id="str_tor_priest_train_hub_quit_p" text="На сегодня хватит. Спасибо." />
     <string id="str_tor_hirelingactivity3_Necromancer" text="Отправьте своих подчинённых впереди армии" />
     <string id="str_tor_perk_blessed_2" text="Пока у вашей партии активна благословлённость, религиозные отряды в вашей партии получают 10 опыта каждый день." />
@@ -4360,7 +4360,7 @@
     <string id="str_tor_villagetype_wolffarm" text="Овчарня" />
     <string id="str_tor_comment_noble_introduces_self_and_clan_empire_boasting" text="Я {CONVERSATION_CHARACTER.LINK}, из дома {CLAN_NAME}, одного из самых прославленных родов в летописях Империи." />
     <string id="tor_cc_option12_text_str" text="Ваш дар управлять Ветрами Магии обеспечил вам место в Колледжах Альтдорфа. Со временем вы научились овладевать основами своей силы и постигнуть природу своего ветра." />
-    <string id="str_tor_feudal_oath_line3_artois" text="Мой щит — для народа Гизореу, которого я защищу своим телом и душой, ибо я истинный рыцарь Бретоннии." />
+    <string id="str_tor_feudal_oath_line3_artois" text="Мой щит — для народа Жизоро, которого я защищу своим телом и душой, ибо я истинный рыцарь Бретоннии." />
     <string id="str_tor_response_2_tor_wanderer_dawi_2" text="Я слышал о том Макайссоне и его «изобретениях». Как я могу доверять вам, что ваши сработают?" />
     <string id="str_tor_careerchoice_description_CodexMortificaPassive2" text="+5 к личному запасу «Ветров магии»." />
     <string id="str_tor_feudal_oath_line4_red_eye" text="И если я подставлю парней, то буду кормить драконов до самой смерти." />
