@@ -77,7 +77,7 @@
     <string id="empire_female_133" text="Еннелеин" />
     <string id="empire_female_370" text="Теда" />
     <string id="empire_male_8" text="Адолф" />
-    <string id="str_tor_greenskins_clan_name_24" text="Племя Чёрной Крови" />
+    <string id="str_tor_greenskins_clan_name_24" text="Грязные Копатели" />
     <string id="empire_female_192" text="Гутел" />
     <string id="empire_male_623" text="Реикерт" />
     <string id="empire_male_213" text="Гербер" />
@@ -115,14 +115,14 @@
     <string id="empire_male_135" text="Донатус" />
     <string id="bretonnia_male_name_176" text="Пиерре" />
     <string id="empire_female_199" text="Хелена" />
-    <string id="str_tor_greenskins_clan_name_21" text="Медношкуры" />
+    <string id="str_tor_greenskins_clan_name_21" text="Большие Мыслители" />
     <string id="empire_female_261" text="Китти" />
     <string id="dwarf_male_name_19" text="Далед" />
     <string id="dwarf_male_name_38" text="Гораз" />
     <string id="empire_male_687" text="Сифрит" />
     <string id="greenskins_male_name_160" text="Гордрак" />
     <string id="empire_male_649" text="Рубен" />
-    <string id="str_tor_greenskins_clan_name_52" text="" />
+    <string id="str_tor_greenskins_clan_name_52" text="Племя Бешеной Ветки" />
     <string id="empire_male_732" text="Улфред" />
     <string id="dwarf_male_name_146" text="Глоин" />
     <string id="wood_elf_female_name_39" text="Лираелле" />
@@ -130,7 +130,7 @@
     <string id="empire_female_388" text="Вилфриеда" />
     <string id="empire_male_662" text="Руперт" />
     <string id="empire_male_281" text="Хадвин" />
-    <string id="str_tor_greenskins_clan_name_6" text="Стреляющие Клыки" />
+    <string id="str_tor_greenskins_clan_name_6" text="Кишкокруты" />
     <string id="empire_male_226" text="Гирлач" />
     <string id="empire_female_37" text="Анне" />
     <string id="empire_male_200" text="Фриедеберт" />
@@ -159,7 +159,7 @@
     <string id="greenskins_male_name_123" text="Угдуг" />
     <string id="empire_male_671" text="Себастиан" />
     <string id="bretonnia_female_name_147" text="Гиса" />
-    <string id="str_tor_greenskins_clan_name_44" text="Мокрые" />
+    <string id="str_tor_greenskins_clan_name_44" text="Убийцы-Дохляки" />
     <string id="empire_male_151" text="Елбел" />
     <string id="bretonnia_male_name_181" text="Рене" />
     <string id="empire_female_326" text="Нора" />
@@ -300,7 +300,7 @@
     <string id="wood_elf_male_name_8" text="Арантир" />
     <string id="empire_female_27" text="Алтеа" />
     <string id="bretonnia_male_name_217" text="Валкелин" />
-    <string id="str_tor_greenskins_clan_name_2" text="Кривая Ухмылка" />
+    <string id="str_tor_greenskins_clan_name_2" text="Гоб-Глоты" />
     <string id="wood_elf_female_name_24" text="Еаллирл" />
     <string id="empire_male_36" text="Андрик" />
     <string id="empire_male_658" text="Руланд" />
@@ -313,7 +313,7 @@
     <string id="empire_male_218" text="Герлакус" />
     <string id="empire_male_609" text="Квинтус" />
     <string id="empire_male_651" text="Руделофф" />
-    <string id="str_tor_greenskins_clan_name_45" text="Парни Горячих Камней" />
+    <string id="str_tor_greenskins_clan_name_45" text="Мокрые" />
     <string id="empire_male_152" text="Елдред" />
     <string id="str_darkelves_culture" text="Дручии" />
     <string id="bretonnia_male_name_80" text="Енгуерран" />
@@ -385,12 +385,12 @@
     <string id="empire_male_241" text="Госберт" />
     <string id="empire_female_368" text="Сзине" />
     <string id="empire_female_188" text="Грунхилда" />
-    <string id="str_tor_greenskins_clan_name_8" text="Племя Красной Карги" />
+    <string id="str_tor_greenskins_clan_name_8" text="Большие Здоровяки" />
     <string id="empire_male_629" text="Реинхолд" />
     <string id="bretonnia_male_name_118" text="Госсе" />
     <string id="empire_male_695" text="Стехмахр" />
     <string id="empire_male_657" text="Руфус" />
-    <string id="str_tor_greenskins_clan_name_43" text="Убийцы-Дохляки" />
+    <string id="str_tor_greenskins_clan_name_43" text="Племя Больших Рёбер" />
     <string id="empire_male_347" text="Хенсло" />
     <string id="empire_male_389" text="Йандерке" />
     <string id="bretonnia_female_name_100" text="Еделина" />
@@ -520,7 +520,7 @@
     <string id="empire_male_703" text="Танкред" />
     <string id="empire_female_110" text="Елисинда" />
     <string id="empire_female_13" text="Агнетта" />
-    <string id="str_tor_greenskins_clan_name_1" text="Гоб-Глоты" />
+    <string id="str_tor_greenskins_clan_name_1" text="Кривокапюшонники" />
     <string id="empire_male_268" text="Гундолф" />
     <string id="greenskins_male_name_29" text="Дагдак" />
     <string id="bretonnia_male_name_205" text="Тео" />
@@ -614,7 +614,7 @@
     <string id="empire_male_746" text="Валтен" />
     <string id="empire_female_350" text="Росалинде" />
     <string id="empire_male_9" text="Адолфус" />
-    <string id="str_tor_greenskins_clan_name_25" text="Глазотыкалы" />
+    <string id="str_tor_greenskins_clan_name_25" text="Племя Чёрной Крови" />
     <string id="empire_male_231" text="Гислерус" />
     <string id="empire_male_212" text="Георгиус" />
     <string id="dwarf_male_name_123" text="Тик" />
@@ -637,7 +637,7 @@
     <string id="wood_elf_male_name_93" text="Нимлоре" />
     <string id="bretonnia_female_name_211" text="Парва" />
     <string id="bretonnia_female_name_232" text="Сароилде" />
-    <string id="str_tor_greenskins_clan_name_39" text="Лесные Безумцы" />
+    <string id="str_tor_greenskins_clan_name_39" text="Парни Блестящей Хижины" />
     <string id="empire_male_639" text="Риго" />
     <string id="empire_male_428" text="Клауде" />
     <string id="empire_male_613" text="Рамунг" />
@@ -665,7 +665,7 @@
     <string id="empire_male_491" text="Лутолф" />
     <string id="empire_male_684" text="Зигфрид" />
     <string id="empire_male_646" text="Ролф" />
-    <string id="str_tor_greenskins_clan_name_51" text="Племя Бешеной Ветки" />
+    <string id="str_tor_greenskins_clan_name_51" text="Племя Стрелоголовых" />
     <string id="empire_male_356" text="Хергард" />
     <string id="wood_elf_female_name_40" text="Лорелеи" />
     <string id="empire_male_398" text="Йеско" />
@@ -676,7 +676,7 @@
     <string id="str_exotic_culture" text="Экзотическая культура" />
     <string id="bretonnia_male_name_83" text="Едоварт" />
     <string id="empire_female_346" text="Росабел" />
-    <string id="str_tor_greenskins_clan_name_7" text="Большие Здоровяки" />
+    <string id="str_tor_greenskins_clan_name_7" text="Стреляющие Клыки" />
     <string id="empire_male_624" text="Реихардт" />
     <string id="empire_male_194" text="Фредеманн" />
     <string id="bretonnia_female_name_181" text="Лукрессе" />
@@ -758,7 +758,7 @@
     <string id="v5bWtXj1" text="Описание культуры. Не уверен, где вы это видите. Если видите это, пожалуйста, сообщите с точным местоположением!" />
     <string id="dwarf_male_name_64" text="Казран" />
     <string id="empire_male_440" text="Кругар" />
-    <string id="str_tor_greenskins_clan_name_50" text="Племя Стрелоголовых" />
+    <string id="str_tor_greenskins_clan_name_50" text="Племя Ловцов Блестяшек" />
     <string id="wood_elf_male_name_112" text="Олоек" />
     <string id="wood_elf_male_name_131" text="Улоек" />
     <string id="empire_female_311" text="Маи" />
@@ -790,7 +790,7 @@
     <string id="bretonnia_female_name_141" text="Геневоте" />
     <string id="empire_female_109" text="Елисе" />
     <string id="wood_elf_female_name_17" text="Еловин" />
-    <string id="str_tor_greenskins_clan_name_30" text="Жукоеды" />
+    <string id="str_tor_greenskins_clan_name_30" text="Гремучие" />
     <string id="empire_male_582" text="Парзивал" />
     <string id="empire_female_193" text="Ханна" />
     <string id="empire_female_17" text="Алеид" />
@@ -840,7 +840,7 @@
     <string id="greenskins_male_name_6" text="Азгор" />
     <string id="greenskins_male_name_117" text="Скарбад" />
     <string id="empire_female_277" text="Летикиа" />
-    <string id="str_tor_greenskins_clan_name_4" text="Большие Дубины" />
+    <string id="str_tor_greenskins_clan_name_4" text="Дробилы Коротышей" />
     <string id="empire_male_625" text="Реиналд" />
     <string id="empire_male_204" text="Фритшолд" />
     <string id="empire_male_441" text="Кунеманн" />
@@ -897,7 +897,7 @@
     <string id="wood_elf_male_name_99" text="Наел" />
     <string id="wood_elf_male_name_57" text="Фаелоек" />
     <string id="wood_elf_male_name_74" text="Хакурнос" />
-    <string id="str_tor_greenskins_clan_name_14" text="Носопроткнуты" />
+    <string id="str_tor_greenskins_clan_name_14" text="Ржавые Крюки" />
     <string id="greenskins_male_name_142" text="Заголг" />
     <string id="empire_male_433" text="Клосел" />
     <string id="empire_male_337" text="Хенлин" />
@@ -919,7 +919,7 @@
     <string id="empire_male_304" text="Хартлип" />
     <string id="bretonnia_female_name_64" text="Бенкелине" />
     <string id="wood_elf_male_name_48" text="Елдрин" />
-    <string id="str_tor_greenskins_clan_name_28" text="Пучеглазые Безумцы" />
+    <string id="str_tor_greenskins_clan_name_28" text="Племя Мёрзлой Трещины" />
     <string id="empire_female_179" text="Гина" />
     <string id="empire_female_196" text="Хеидрун" />
     <string id="empire_male_438" text="Крафт" />
@@ -943,7 +943,7 @@
     <string id="wood_elf_male_name_52" text="Фаерандор" />
     <string id="empire_female_166" text="Геле" />
     <string id="empire_female_189" text="Гудрадис" />
-    <string id="str_tor_greenskins_clan_name_9" text="Глубокодумы" />
+    <string id="str_tor_greenskins_clan_name_9" text="Племя Красной Карги" />
     <string id="empire_female_382" text="Уте" />
     <string id="bretonnia_male_name_117" text="Гидие" />
     <string id="empire_female_225" text="Ирмел" />
@@ -969,7 +969,7 @@
     <string id="greenskins_male_name_67" text="Гротсник" />
     <string id="greenskins_male_name_88" text="Мордракка" />
     <string id="bretonnia_female_name_243" text="Гуеррите" />
-    <string id="str_tor_greenskins_clan_name_10" text="Золотозубы" />
+    <string id="str_tor_greenskins_clan_name_10" text="Глубокодумы" />
     <string id="bretonnia_female_name_148" text="Гислилде" />
     <string id="bretonnia_female_name_192" text="Мадалене" />
     <string id="bretonnia_female_name_116" text="Ерембоурк" />
@@ -1004,7 +1004,7 @@
     <string id="greenskins_male_name_71" text="Гурак" />
     <string id="bretonnia_female_name_205" text="Омбеллине" />
     <string id="empire_male_468" text="Лиебинк" />
-    <string id="str_tor_greenskins_clan_name_46" text="Парни в Тумане" />
+    <string id="str_tor_greenskins_clan_name_46" text="Парни Горячих Камней" />
     <string id="empire_male_722" text="Трубалд" />
     <string id="empire_female_279" text="Либесте" />
     <string id="empire_female_258" text="Кирстен" />
@@ -1073,7 +1073,7 @@
     <string id="blooddragonfaction" text="Кровавые Драконы" />
     <string id="greenskins_male_name_50" text="Горбак" />
     <string id="empire_female_340" text="Филомелиа" />
-    <string id="str_tor_greenskins_clan_name_36" text="Мутноглазы" />
+    <string id="str_tor_greenskins_clan_name_36" text="Племя Чёрного Болота" />
     <string id="empire_male_209" text="Гелфрат" />
     <string id="empire_male_411" text="Йордан" />
     <string id="empire_male_432" text="Клемет" />
@@ -1095,9 +1095,9 @@
     <string id="empire_male_210" text="Гелфрид" />
     <string id="bretonnia_female_name_3" text="Алдуса" />
     <string id="bretonnia_male_name_4" text="Аделард" />
-    <string id="str_tor_greenskins_clan_name_3" text="Дробилы Коротышей" />
+    <string id="str_tor_greenskins_clan_name_3" text="Кривая Ухмылка" />
     <string id="bretonnia_female_name_150" text="Гуиллелма" />
-    <string id="str_tor_greenskins_clan_name_33" text="Древотыкалы" />
+    <string id="str_tor_greenskins_clan_name_33" text="Слизнешкуры" />
     <string id="empire_male_486" text="Лупполт" />
     <string id="empire_male_444" text="Курласс" />
     <string id="empire_male_467" text="Лиеберт" />
@@ -1123,7 +1123,7 @@
     <string id="empire_female_146" text="Естер" />
     <string id="empire_male_674" text="Сегемунд" />
     <string id="empire_male_655" text="Рудолф" />
-    <string id="str_tor_greenskins_clan_name_41" text="Большие Топтуны" />
+    <string id="str_tor_greenskins_clan_name_41" text="Племя Пустой Кости" />
     <string id="empire_male_364" text="Хервин" />
     <string id="empire_male_345" text="Хенсел" />
     <string id="empire_male_387" text="Йакоб" />
@@ -1191,7 +1191,7 @@
     <string id="empire_female_181" text="Гирлин" />
     <string id="empire_male_422" text="Кастар" />
     <string id="empire_male_211" text="Георге" />
-    <string id="str_tor_greenskins_clan_name_32" text="Слизнешкуры" />
+    <string id="str_tor_greenskins_clan_name_32" text="Племя Гнилой Ноги" />
     <string id="empire_female_128" text="Эммануэл" />
     <string id="dwarf_male_name_122" text="Турбок" />
     <string id="bretonnia_male_name_2" text="Арнауд" />
@@ -1222,7 +1222,7 @@
     <string id="empire_female_366" text="Силма" />
     <string id="empire_male_348" text="Хентшел" />
     <string id="empire_male_392" text="Йекел" />
-    <string id="str_tor_greenskins_clan_name_40" text="Племя Пустой Кости" />
+    <string id="str_tor_greenskins_clan_name_40" text="Лесные Безумцы" />
     <string id="bretonnia_male_name_39" text="Бернард" />
     <string id="bretonnia_male_name_18" text="Аубери" />
     <string id="empire_male_316" text="Хеимар" />
@@ -1287,7 +1287,7 @@
     <string id="bretonnia_female_name_26" text="Агнесона" />
     <string id="empire_female_22" text="Алике" />
     <string id="empire_male_240" text="Горан" />
-    <string id="str_tor_greenskins_clan_name_34" text="Смерть-Катальщики" />
+    <string id="str_tor_greenskins_clan_name_34" text="Древотыкалы" />
     <string id="wood_elf_female_name_49" text="Мидинваеф" />
     <string id="bretonnia_male_name_33" text="Асклеттин" />
     <string id="wood_elf_male_name_116" text="Силванвинт" />
@@ -1295,7 +1295,7 @@
     <string id="empire_male_367" text="Хилдебрандтус" />
     <string id="dwarf_male_name_77" text="Норгрим" />
     <string id="wood_elf_female_name_72" text="Тодриел" />
-    <string id="str_tor_greenskins_clan_name_23" text="Грязные Копатели" />
+    <string id="str_tor_greenskins_clan_name_23" text="Парни Большой Лапы" />
     <string id="empire_male_109" text="Константин" />
     <string id="greenskins_male_name_53" text="Горгрок" />
     <string id="empire_female_96" text="Дортилда" />
@@ -1364,7 +1364,7 @@
     <string id="bretonnia_male_name_46" text="Багот" />
     <string id="empire_male_549" text="Никуш" />
     <string id="greenskins_male_name_147" text="Зоглог" />
-    <string id="str_tor_greenskins_clan_name_29" text="Гремучие" />
+    <string id="str_tor_greenskins_clan_name_29" text="Пучеглазые Безумцы" />
     <string id="greenskins_male_name_80" text="Краггул" />
     <string id="empire_female_390" text="Винифред" />
     <string id="empire_female_151" text="Еуфемиа" />
@@ -1422,13 +1422,13 @@
     <string id="bretonnia_female_name_173" text="Йеханнетте" />
     <string id="empire_male_111" text="Дагмар" />
     <string id="empire_male_714" text="Тиетмарус" />
-    <string id="str_tor_greenskins_clan_name_17" text="Племя Бородавчатого Носа" />
+    <string id="str_tor_greenskins_clan_name_17" text="Племя Большой Пятки" />
     <string id="wood_elf_male_name_14" text="Амалоек" />
     <string id="empire_male_672" text="Сеел" />
     <string id="empire_male_242" text="Госвинус" />
     <string id="empire_female_365" text="Сигруд" />
     <string id="empire_female_344" text="Рената" />
-    <string id="str_tor_greenskins_clan_name_5" text="Кишкокруты" />
+    <string id="str_tor_greenskins_clan_name_5" text="Большие Дубины" />
     <string id="empire_female_386" text="Ванда" />
     <string id="empire_female_229" text="Исабелла" />
     <string id="greenskins_male_name_150" text="Золок" />
@@ -1557,7 +1557,7 @@
     <string id="wood_elf_male_name_105" text="Нолоек" />
     <string id="bretonnia_male_name_209" text="Тристан" />
     <string id="empire_female_120" text="Елин" />
-    <string id="str_tor_greenskins_clan_name_15" text="Костоголовы" />
+    <string id="str_tor_greenskins_clan_name_15" text="Носопроткнуты" />
     <string id="wood_elf_male_name_16" text="Бриархеарт" />
     <string id="dwarf_male_name_5" text="Бардин" />
     <string id="str_tor_chaos_male_name_31" text="Сколлден" />
@@ -1619,7 +1619,7 @@
     <string id="empire_female_209" text="Хилдегарт" />
     <string id="empire_male_215" text="Герхардт" />
     <string id="greenskins_male_name_42" text="Голак" />
-    <string id="str_tor_greenskins_clan_name_48" text="Песокоглазы" />
+    <string id="str_tor_greenskins_clan_name_48" text="Пылеломы" />
     <string id="empire_male_310" text="Хартуш" />
     <string id="dwarf_male_name_55" text="Хорброк" />
     <string id="empire_female_244" text="Каролине" />
@@ -1660,7 +1660,7 @@
     <string id="empire_female_186" text="Грите" />
     <string id="empire_male_92" text="Бургардт" />
     <string id="wood_elf_female_name_68" text="Талара" />
-    <string id="str_tor_greenskins_clan_name_31" text="Племя Гнилой Ноги" />
+    <string id="str_tor_greenskins_clan_name_31" text="Жукоеды" />
     <string id="bretonnia_female_name_104" text="Евелин" />
     <string id="bretonnia_male_name_165" text="Меровеч" />
     <string id="empire_male_353" text="Хердан" />
@@ -1802,7 +1802,7 @@
     <string id="greenskins_male_name_115" text="Скаргрог" />
     <string id="greenskins_male_name_136" text="Ваграз" />
     <string id="str_tor_chaos_male_name_5" text="Баудрос" />
-    <string id="str_tor_greenskins_clan_name_20" text="Большие Мыслители" />
+    <string id="str_tor_greenskins_clan_name_20" text="Длинноклыки" />
     <string id="empire_male_448" text="Ланфриед" />
     <string id="bretonnia_female_name_96" text="Доминилде" />
     <string id="empire_male_482" text="Лудовикус" />
@@ -1821,7 +1821,7 @@
     <string id="empire_female_53" text="Берлинда" />
     <string id="dwarf_male_name_108" text="Тингал" />
     <string id="empire_male_202" text="Фриедерик" />
-    <string id="str_tor_greenskins_clan_name_16" text="Племя Большой Пятки" />
+    <string id="str_tor_greenskins_clan_name_16" text="Костоголовы" />
     <string id="bretonnia_male_name_24" text="Аирард" />
     <string id="wood_elf_male_name_132" text="Ушиндир" />
     <string id="empire_male_89" text="Брокуфф" />
@@ -1837,7 +1837,7 @@
     <string id="greenskins_male_name_22" text="Боргрог" />
     <string id="empire_female_380" text="Урсула" />
     <string id="wood_elf_male_name_9" text="Алдариел" />
-    <string id="str_tor_greenskins_clan_name_13" text="Ржавые Крюки" />
+    <string id="str_tor_greenskins_clan_name_13" text="Костопийцы" />
     <string id="empire_male_690" text="Сотелин" />
     <string id="empire_male_280" text="Хадред" />
     <string id="empire_male_99" text="Карл" />
@@ -1859,7 +1859,7 @@
     <string id="empire_male_358" text="Херменчин" />
     <string id="bretonnia_female_name_190" text="Маисант" />
     <string id="empire_female_303" text="Маргрета" />
-    <string id="str_tor_greenskins_clan_name_27" text="Племя Мёрзлой Трещины" />
+    <string id="str_tor_greenskins_clan_name_27" text="Колоногнёты" />
     <string id="dwarf_male_name_95" text="Скорригни" />
     <string id="empire_male_4" text="Адельберт" />
     <string id="empire_male_480" text="Лудевикус" />
@@ -1870,7 +1870,7 @@
     <string id="bretonnia_female_name_110" text="Емелиссе" />
     <string id="empire_male_21" text="Алдхеим" />
     <string id="bretonnia_male_name_54" text="Белигулф" />
-    <string id="str_tor_greenskins_clan_name_37" text="Дохлоруки" />
+    <string id="str_tor_greenskins_clan_name_37" text="Мутноглазы" />
     <string id="greenskins_male_name_57" text="Гролотраг" />
     <string id="empire_male_80" text="Бертолдт" />
     <string id="wood_elf_female_name_9" text="Ангастра" />
@@ -1889,7 +1889,7 @@
     <string id="empire_male_251" text="Готтзше" />
     <string id="str_tor_chaos_female_name_7" text="Атарине" />
     <string id="empire_male_400" text="Йокоб" />
-    <string id="str_tor_greenskins_clan_name_11" text="Мозоленоги" />
+    <string id="str_tor_greenskins_clan_name_11" text="Золотозубы" />
     <string id="bretonnia_female_name_176" text="Линот" />
     <string id="empire_female_203" text="Хербург" />
     <string id="str_tor_chaos_male_name_21" text="Огракс" />
@@ -1934,13 +1934,13 @@
     <string id="bretonnia_female_name_224" text="Робертине" />
     <string id="empire_female_379" text="Улрике" />
     <string id="bretonnia_female_name_200" text="Наталис" />
-    <string id="str_tor_greenskins_clan_name_12" text="Костопийцы" />
+    <string id="str_tor_greenskins_clan_name_12" text="Мозоленоги" />
     <string id="empire_female_204" text="Херлинде" />
     <string id="empire_male_617" text="Рандулф" />
     <string id="dwarf_male_name_119" text="Трунгни" />
     <string id="empire_male_98" text="Калвин" />
     <string id="dwarf_male_name_53" text="Хугрим" />
-    <string id="str_tor_greenskins_clan_name_47" text="Пылеломы" />
+    <string id="str_tor_greenskins_clan_name_47" text="Парни в Тумане" />
     <string id="empire_male_173" text="Ерманрич" />
     <string id="empire_female_195" text="Хеиди" />
     <string id="empire_male_517" text="Мекел" />
@@ -1995,7 +1995,7 @@
     <string id="bretonnia_female_name_171" text="Йакквине" />
     <string id="empire_male_68" text="Бастиан" />
     <string id="greenskins_male_name_77" text="Крагдрук" />
-    <string id="str_tor_greenskins_clan_name_19" text="Длинноклыки" />
+    <string id="str_tor_greenskins_clan_name_19" text="Горячие Набольшие" />
     <string id="empire_male_122" text="Диетмар" />
     <string id="empire_female_174" text="Герлинде" />
     <string id="dwarf_male_name_9" text="Енлаг" />
@@ -2046,7 +2046,7 @@
     <string id="wood_elf_male_name_36" text="Дхалсит" />
     <string id="empire_female_233" text="Йанна" />
     <string id="bretonnia_male_name_152" text="Лоеис" />
-    <string id="str_tor_greenskins_clan_name_18" text="Горячие Набольшие" />
+    <string id="str_tor_greenskins_clan_name_18" text="Племя Бородавчатого Носа" />
     <string id="bretonnia_female_name_166" text="Исабеа" />
     <string id="dwarf_male_name_6" text="Торнир" />
     <string id="bretonnia_female_name_185" text="Мауде" />
@@ -2149,13 +2149,13 @@
     <string id="empire_male_409" text="Йонас" />
     <string id="empire_male_233" text="Глокриан" />
     <string id="empire_female_287" text="Мадге" />
-    <string id="str_tor_greenskins_clan_name_35" text="Племя Чёрного Болота" />
+    <string id="str_tor_greenskins_clan_name_35" text="Смерть-Катальщики" />
     <string id="wood_elf_female_name_7" text="Ариел" />
     <string id="dwarf_male_name_32" text="Бомбур" />
     <string id="bretonnia_female_name_99" text="Дулкелина" />
     <string id="greenskins_male_name_49" text="Горбаг" />
     <string id="empire_male_456" text="Леонхард" />
-    <string id="str_tor_greenskins_clan_name_26" text="Колоногнёты" />
+    <string id="str_tor_greenskins_clan_name_26" text="Глазотыкалы" />
     <string id="empire_male_146" text="Егидиус" />
     <string id="bretonnia_female_name_153" text="Хилдиард" />
     <string id="empire_male_184" text="Фасолт" />
@@ -2182,7 +2182,7 @@
     <string id="empire_male_328" text="Хеиронимоус" />
     <string id="wood_elf_female_name_23" text="Елисиа" />
     <string id="bretonnia_female_name_20" text="Аделет" />
-    <string id="str_tor_greenskins_clan_name_22" text="Парни Большой Лапы" />
+    <string id="str_tor_greenskins_clan_name_22" text="Медношкуры" />
     <string id="empire_male_761" text="Валбречт" />
     <string id="empire_male_742" text="Валдрик" />
     <string id="wood_elf_male_name_76" text="Ионак" />
@@ -2196,7 +2196,7 @@
     <string id="empire_male_663" text="Руппел" />
     <string id="dwarf_male_name_96" text="Сторри" />
     <string id="dwarf_male_name_58" text="Киндрек" />
-    <string id="str_tor_greenskins_clan_name_42" text="Племя Больших Рёбер" />
+    <string id="str_tor_greenskins_clan_name_42" text="Большие Топтуны" />
     <string id="str_tor_chaos_male_name_27" text="Свен" />
     <string id="dwarf_male_name_111" text="Тори" />
     <string id="empire_male_512" text="Меинер" />
@@ -2216,7 +2216,7 @@
     <string id="dwarf_male_name_93" text="Скалл" />
     <string id="empire_male_473" text="Лифардус" />
     <string id="dwarf_male_name_100" text="Свен" />
-    <string id="str_tor_greenskins_clan_name_49" text="Племя Ловцов Блестяшек" />
+    <string id="str_tor_greenskins_clan_name_49" text="Песокоглазы" />
     <string id="bretonnia_female_name_80" text="Келине" />
     <string id="empire_female_325" text="Нете" />
     <string id="empire_female_272" text="Лени" />
@@ -2240,7 +2240,7 @@
     <string id="empire_male_726" text="Тшепан" />
     <string id="empire_male_161" text="Энгельберт" />
     <string id="empire_male_127" text="Дирске" />
-    <string id="str_tor_greenskins_clan_name_38" text="Парни Блестящей Хижины" />
+    <string id="str_tor_greenskins_clan_name_38" text="Дохлоруки" />
     <string id="bretonnia_male_name_218" text="Валвеин" />
     <string id="wood_elf_male_name_138" text="Веркурноус" />
     <string id="empire_male_60" text="Бартелм" />

@@ -22,3 +22,19 @@ Description_RU.txt
 ModuleIcon.png
 BEST_RU_Ink/
 **/install_log.txt
+
+# Dev tooling artefacts
+.serena/
+crash_analysis_*.md
+tor_core_dll_string_ids.txt
+WORKLOG_*.md
+TODO_*.md
+audit_*.csv
+bugs_*.csv
+*_report.txt
+*_report.csv
+settlements_*.tsv
+bretonnia_audit.tsv
+mixed_words_report.txt
+ink_pick_report.csv
+broken_strings_report.csv
