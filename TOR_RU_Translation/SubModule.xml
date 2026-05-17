@@ -2,7 +2,7 @@
 <Module>
   <Name value="The Old Realms — Русский перевод" />
   <Id value="TOR_RU_Translation" />
-  <Version value="v1.3.15.18" />
+  <Version value="v1.3.15.19" />
   <ModuleCategory value="Singleplayer" />
   <ModuleType value="Community" />
   <Official value="false" />
@@ -21,8 +21,8 @@
     <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" />
     <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
     <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
-    <DependedModuleMetadata id="TOR_Core" order="LoadAfterThis" />
-    <DependedModuleMetadata id="TOR_Armory" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="TOR_Core" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="TOR_Armory" order="LoadBeforeThis" optional="true" />
   </DependedModuleMetadatas>
   <SubModules>
     <SubModule>
