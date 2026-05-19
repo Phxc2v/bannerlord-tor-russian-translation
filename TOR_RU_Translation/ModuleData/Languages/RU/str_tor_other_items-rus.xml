@@ -10,55 +10,55 @@
     <string id="ZQv5Bcl2" text="{.MI}Лук{.nn} племенного воина" />
     <string id="olamAwhb" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх тканевой повязки на голову" />
     <string id="nUarDXVH" text="{.MI}Железный{.aj} круглый{.aj} {.MI}котелок{.nn} поверх кожи" />
-    <string id="jhFSLdve" text="{.MI}Пробитый{.nn} двуручный топор" />
+    <string id="jhFSLdve" text="{.MI}Сверлёный{.aj} {.MI}двуручный топор{.nn}" />
     <string id="RcCtV0aS" text="{.MI}Лук{.nn} из тиса лесных земель" />
     <string id="jAbn05Vg" text="{.MI}Простой{.aj} каплевидный{.aj} {.MI}Щит{.nn} Рыцаря" />
-    <string id="p2jR7Urm" text="{.NI}Выносливый{.aj} {.NI}седло{.nn}" />
-    <string id="IK2IPJi1" text="{.FI}Соль{.nn}" />
+    <string id="p2jR7Urm" text="{.NI}Прочное{.aj} {.NI}седло{.nn}" />
+    <string id="IK2IPJi1" text="{.FI}Соль{.nn}{@Plural}{.MI}Мешки соли{\@}" />
     <string id="2XEbqNQz" text="{.FI}Украшенный{.ajp} имперский{.ajp} латный{.ajp} {.FI}перчатки{.nnp}" />
     <string id="LePDTpFD" text="{.MI}Укреплённый{.ajp} бронзовый{.ajp} {.MI}наплечники{.nnp} из чешуи" />
     <string id="ZbsGBv10" text="{.FA}Свинья{.nn}" />
-    <string id="QbfOXJas" text="{.NI}Подбитый{.aj} {.NI}мундирное{.nn} пальто" />
+    <string id="QbfOXJas" text="{.MI}Стёганый{.aj} пехотный{.aj} {.MI}мундир{.nn}" />
     <string id="HAcujhib" text="{.MA}Верблюд{.nn}" />
     <string id="TOf8dVcn" text="{.FI}Роскошный{.aj} чешуйчатый{.aj} {.FI}броня{.nn}" />
     <string id="YQ9ybgmj" text="{.FI}Спарринговый{.aj} {.FI}глефа{.nn}" />
     <string id="iEbP2INp" text="{.FI}Украшенный{.aj} {.FI}каскара{.nn}" />
     <string id="Z6Ak3H6G" text="{.MI}Джиред{.nn}" />
     <string id="ArbBALwc" text="{.MI}Шлем{.nn} рыцаря с бронзовой маской" />
-    <string id="DI9P2HDG" text="{.MI}Скопированный{.ajp} {.MI}наконечники{.nnp} для стрел" />
-    <string id="WUArer5A" text="{.MI}Открытый{.aj} подушечный{.aj} {.MI}чепец{.nn}" />
+    <string id="DI9P2HDG" text="{.FI}Связка{.nn} гранёных стрел" />
+    <string id="WUArer5A" text="{.MI}Открытый{.aj} стёганый{.aj} {.MI}подшлемник{.nn}" />
     <string id="str_tor_learn_dw_rune_fury" text="{.FI}Руна{.nn} Гнева" />
     <string id="ebHdQfbX" text="{.MI}Шпильхельм{.nn} с набивной тканью" />
     <string id="8mpp8ZCL" text="{.MA}Рыцарский{.nn} арминг-меч" />
     <string id="str_tor_learn_we_enchant_tranquillity_cadai" text="{.MI}Мир{.nn} Кадая" />
-    <string id="HP1GzM8l" text="{.MI}Огнеметный{.aj} {.MI}сосуд{.nn}" />
+    <string id="HP1GzM8l" text="{.MI}Огневой{.aj} {.MI}горшок{.nn}" />
     <string id="FhTUc64z" text="{.MA}Гусь{.nn}" />
     <string id="str_tor_learn_emp_enchant_ghur_whisper" text="{.MI}Шёпот{.nn} Гхура" />
-    <string id="1WxLaeQE" text="{.MI}Двойной{.aj} {.MI}меч{.nn} из тонкой стали" />
+    <string id="1WxLaeQE" text="{.MI}Двуручный{.aj} {.MI}меч{.nn} из тонкой стали" />
     <string id="EPaqJLSg" text="{.MI}Коронованный{.aj} {.MI}шлем{.nn}" />
     <string id="str_tor_book_spellcraft_003" text="{.MI}Ветры{.nnp} Магии: Ашкы" />
     <string id="hytuHaoA" text="{.MI}Кольчужно-ободковый{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
-    <string id="yy7RvQKN" text="{.MI}Короткий{.aj} {.MI}посох{.nn}" />
-    <string id="WSk5Sibs" text="{.MI}Сыр{.nn}" />
+    <string id="yy7RvQKN" text="{.MI}Боевой{.aj} {.MI}посох{.nn} бо" />
+    <string id="WSk5Sibs" text="{.MI}Сыр{.nn}{@Plural}{.MI}Бочки сыра{\@}" />
     <string id="str_tor_book_bow_001" text="От лучника до меткого стрелка" />
-    <string id="e6WOD7Ra" text="{.MI}Парчовый{.aj} {.MI}плащ{.nn} с кистями" />
-    <string id="SV1pTR2P" text="{.MI}Подушечный{.aj} {.MI}капюшон{.nn}" />
+    <string id="e6WOD7Ra" text="{.MI}Плащ{.nn} с бахромой" />
+    <string id="SV1pTR2P" text="{.MI}Стёганый{.aj} {.MI}койф{.nn}" />
     <string id="lawHibbG" text="{.MI}Шлем{.nn} вождя поверх полной кольчуги" />
     <string id="hunterhorse" text="{.MA}Охотничий{.aj} {.MA}Конь{.nn}" />
     <string id="mRGIxvYh" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх кольчужной шапки" />
     <string id="fk42FxCE" text="{.FI}Слоистый{.aj} {.FI}ряса{.nn}" />
     <string id="G7AEWZ6c" text="{.FI}Украшенный{.aj} овальный{.aj} {.FI}Адарга{.nn}" />
-    <string id="HaK3y9yi" text="{.MI}Клюк{.nn} с шипами" />
+    <string id="HaK3y9yi" text="{.FI}Дубинка{.nn} с шипами" />
     <string id="k71X3WNK" text="{.FI}Роба{.nn} поверх кольчужной куртки" />
-    <string id="Qqdl6fbM" text="{.NI}Выносливый{.aj} бедуинский{.aj} {.NI}седло{.nn}" />
+    <string id="Qqdl6fbM" text="{.NI}Прочное{.aj} бедуинское{.aj} {.NI}седло{.nn}" />
     <string id="str_tor_learn_eo_enchant_sanctuary_saphery" text="{.NI}Убежище{.nn} Сафери" />
-    <string id="wLAL9NRB" text="{.MI}Напульсники{.nnp} рейнджера" />
+    <string id="wLAL9NRB" text="{.MI}Феановские{.ajp} {.MI}наручи{.nnp}" />
     <string id="str_tor_learn_dw_rune_unbinding" text="{.FI}Руна{.nn} Освобождения" />
-    <string id="oH8iFEv7" text="{.MI}Сложенный{.ajp} городский{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="oH8iFEv7" text="{.MI}Высокие{.ajp} городские{.ajp} {.MI}сапоги{.nnp}" />
     <string id="przGGaVm" text="{.MI}Бронзовый{.aj} укрепленный{.aj} высокий{.aj} большой{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_emp_enchant_ghur_wildform" text="{.MI}Дикий{.aj} {.MI}облик{.nn} Гхура" />
     <string id="xa7KRSCy" text="{.MI}Сшитый{.aj} кожаный{.aj} {.MI}жилет{.nn}" />
-    <string id="he5mGIMh" text="{.MA}Заряжающий{.aj} {.MA}Конь{.nn}" />
+    <string id="he5mGIMh" text="{.MA}Боевой{.aj} {.MA}конь{.nn}{@Plural}{.MA}боевые кони{\@}" />
     <string id="NNUXGwTc" text="{.MI}Карахан{.nn}" />
     <string id="2WQTvOLF" text="{.MI}Тканевый{.aj} {.MI}фартук{.nn}" />
     <string id="ALbtxxyC" text="{.FI}Конный{.aj} ламеллярный{.aj} {.FI}броня{.nn}" />
@@ -75,15 +75,15 @@
     <string id="Ag6dujzl" text="{.MI}Узкий{.aj} {.MI}Клинок{.nn}" />
     <string id="uqO6e6vN" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="knobbedclubweapon" text="{.MI}Клюк{.nn} с наконечником" />
-    <string id="deA729dQ" text="{.NI}Обрезанный{.aj} {.NI}платье{.nn} с мешочком" />
+    <string id="deA729dQ" text="{.NI}Платье{.nn} с разрезами и мешочком" />
     <string id="uvSXUgT8" text="{.MI}Сапоги{.nnp} всадника" />
     <string id="bxzrU99N" text="{.FI}Южный{.aj} кольчужный{.aj} {.FI}рубашка{.nn} с бронзовыми пластинами" />
-    <string id="VqFV9LS4" text="{.NI}Красный{.aj} {.NI}платье{.nn}" />
+    <string id="VqFV9LS4" text="{.NI}Красное{.aj} {.NI}платье{.nn}" />
     <string id="U7WGaQ45" text="Мастерски созданный{.aj} южный{.aj} чешуйчатый{.aj} {.FI}броня{.nn} поверх цепной куртки" />
     <string id="str_tor_learn_emp_enchant_chamon_laws" text="{.MI}Законы{.nnp} Шамона" />
     <string id="k4kivaf5" text="{.MI}Стальной{.aj} {.MI}шлем{.nn} с носовой гардой" />
     <string id="l5PPS5lG" text="{.FI}Кольчуга{.nn} поверх кожи для пехотинца" />
-    <string id="MChutiV6" text="{.MI}Круглый{.aj} {.MI}котелок{.nn} поверх ткани" />
+    <string id="MChutiV6" text="{.FI}Капеллина{.nn} с тканевой подкладкой" />
     <string id="4KYF5iCd" text="{.FI}Слоистый{.aj} кожаный{.aj} {.FI}туника{.nn}" />
     <string id="ndfDy5B8" text="{.FI}Связанный{.aj} {.FI}повязка{.nn} на голову" />
     <string id="3YhwjpQ0" text="{.MI}Узкий{.aj} {.MI}меч{.nn}" />
@@ -91,19 +91,19 @@
     <string id="FxnFBhrF" text="{.MI}Каплевидный{.aj} {.MI}Щит{.nn} Кавалерии" />
     <string id="agqzAXa9" text="{.MI}Шлем{.nn} с закрытым лицом поверх подкладочного капюшона" />
     <string id="1CamO1P3" text="{.MI}Классический{.aj} короткий{.aj} железный{.aj} {.MI}меч{.nn} тиланцев" />
-    <string id="cjH1WFwy" text="{.FI}Меховый{.aj} {.FI}шапка{.nn} с меховой окантовкой" />
+    <string id="cjH1WFwy" text="{.FI}Шапка{.nn} с меховой окантовкой" />
     <string id="TXpQetkh" text="{.MA}Военный{.aj} {.MA}Верблюд{.nn}" />
     <string id="str_tor_learn_vc_enchant_bonds_darkness" text="{.FI}Узы{.nnp} Тьмы" />
     <string id="str_tor_learn_asrai_enchant_vengeance_khaine" text="{.NI}Мщение{.nn} Кхейна" />
-    <string id="TwuAVsCn" text="{.FI}Меховый{.aj} {.FI}шапка{.nn}" />
+    <string id="TwuAVsCn" text="{.FI}Меховая{.aj} {.FI}шапка{.nn}" />
     <string id="jbxeZs8K" text="{.FI}Туника{.nn} простого человека" />
     <string id="U8QfF3Gw" text="{.FI}Длинная{.nn} шерстяная туника" />
-    <string id="Gcrqt90P" text="{.FI}Усиленный{.aj} высокогорный{.aj} {.FI}кольчуга{.nn}" />
+    <string id="Gcrqt90P" text="{.FI}Усиленная{.aj} высокогорная{.aj} {.FI}кольчуга{.nn}" />
     <string id="6q0nmVtg" text="{.MI}Лесной{.aj} {.MI}топор{.nn}" />
     <string id="txgUxMYw" text="{.MI}Гренадерский{.aj} {.MI}щит{.nn} с вырезом" />
     <string id="8pnCvnFR" text="{.MI}Стальный{.aj} {.MI}шестопёр{.nn}" />
     <string id="OLkncAaD" text="{.MI}Шлем{.nn} с закрытым кольчужным забралом и очками" />
-    <string id="ISCtxKub" text="{.MA}Морской{.aj} {.MA}разбойник:{.nn} шлем с очками" />
+    <string id="ISCtxKub" text="{.MI}Шлем{.nn} морского разбойника с очками" />
     <string id="D1webCRZ" text="{.MI}Спарринговый{.aj} широкий{.aj} {.MI}меч{.nn}" />
     <string id="YLplNGxb" text="{.FI}Граничный{.aj} {.FI}булава{.nn}" />
     <string id="a10taTGb" text="{.FI}Львиный{.aj} {.FI}Сабля{.nn} с Отпечатком" />
@@ -113,32 +113,32 @@
     <string id="XkL1Re8b" text="{.FI}Кожа{.nn} с шипами поверх подбитой робы" />
     <string id="veI9RcR3" text="{.MI}Укреплённый{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="27GO9o9K" text="{.MI}Железный{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="WahziEXA" text="{.MI}Обмотанный{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="WahziEXA" text="{.MI}Обмотанные{.ajp} кожаные{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_learn_bret_blessing_wisdom_virtue" text="{.FI}Мудрость{.nn} и Добродетель" />
     <string id="twbUeZph" text="{.MI}Железный{.aj} легионерский{.aj} {.MI}шлем{.nn} поверх ткани" />
     <string id="QA3k2I4A" text="{.MI}Широкий{.ajp} {.MI}клинки{.nnp} метательных ножей" />
-    <string id="93OHSnEV" text="{.FI}Украшенный{.aj} длинный{.aj} {.FI}сабля{.nn}" />
+    <string id="93OHSnEV" text="{.MI}Украшенный{.aj} длинный{.aj} {.MI}ятаган{.nn}" />
     <string id="QWqvGa1P" text="{.FA}Корова{.nn}" />
     <string id="Mb0CuONB" text="{.MI}Бородатый{.aj} {.MI}топор{.nn}" />
     <string id="jakLnIQv" text="{.MI}Шлем{.nn} с грубой чешуёй" />
     <string id="IuD9SaQM" text="{.NI}Платье{.nn} из мешковины" />
     <string id="1bdDdwub" text="{.MI}Насальный{.aj} {.MI}шлем{.nn} поверх кольчуги" />
-    <string id="mT1bvZxM" text="{.NI}Роскошный{.aj} {.NI}пальто{.nn} горожанина" />
+    <string id="mT1bvZxM" text="{.NI}Роскошное{.aj} {.NI}пальто{.nn} горожанина" />
     <string id="str_tor_learn_emp_enchant_hysh_sanctuary" text="{.NI}Святилище{.nn} Гиша" />
     <string id="vXYlLH6L" text="{.NI}Длинный{.aj} {.NI}копьё{.nn} с наконечником из громирала" />
     <string id="str_tor_learn_vc_enchant_caress_void" text="{.FI}Ласка{.nn} Пустоты" />
-    <string id="VbL6GFmy" text="{.NI}Масло{.nn}" />
-    <string id="XbwDj80t" text="{.FI}Степный{.ajp} {.FI}стрелы{.nnp}" />
+    <string id="VbL6GFmy" text="{.NI}Масло{.nn}{@Plural}{.MI}Бочонки масла{\@}" />
+    <string id="XbwDj80t" text="{.FI}Степные{.ajp} {.FI}стрелы{.nnp}" />
     <string id="BAsjzOiH" text="{.MI}Топор{.nn} палача" />
     <string id="zadVVah1" text="{.FI}Кольчуга{.nn} поверх полосатой кожи для пехотинца" />
     <string id="W8r7A7qH" text="{.FI}Полукольчатый{.aj} {.FI}попона{.nn}" />
     <string id="lZZOQsxc" text="{.NI}Суровый{.aj} конный{.aj} {.NI}седло{.nn}" />
     <string id="ArPvuBYK" text="{.MI}Тканный{.aj} {.MI}тюрбан{.nn}" />
-    <string id="AoJ4Ztl2" text="{.MI}Кожух{.nn} бандита" />
+    <string id="AoJ4Ztl2" text="{.MI}Кожаный{.aj} {.MI}капюшон{.nn} бандита" />
     <string id="str_tor_learn_dw_rune_reloading" text="{.FI}Руна{.nn} Перезарядки" />
     <string id="str_tor_learn_emp_enchant_ghur_crows" text="{.MA}Вороны{.nnp} Гхура" />
     <string id="str_tor_learn_dw_rune_speed" text="{.FI}Руна{.nn} Скорости" />
-    <string id="ulaMq9HL" text="{.FI}Латный{.ajp} полосатый{.ajp} латный{.ajp} {.FI}перчатки{.nnp}" />
+    <string id="ulaMq9HL" text="{.MI}Латные{.ajp} полосатые{.ajp} {.MI}наручи{.nnp}" />
     <string id="Vyw5KNxR" text="{.NI}Короткий{.aj} {.NI}копье{.nn} ополченца" />
     <string id="lULBZ714" text="{.NI}Масло{.nn}" />
     <string id="Cr5ak47X" text="{.MI}Украшенный{.aj} широкий{.aj} {.MI}меч{.nn}" />
@@ -148,7 +148,7 @@
     <string id="RzLZHrYT" text="{.NI}Короткий{.aj} простый{.aj} разбойничье {.NI}копье{.nn}" />
     <string id="LgftnHPs" text="{.MI}Тканевый{.aj} кожаный{.aj} {.MI}жилет{.nn}" />
     <string id="i6QMSiut" text="{.MI}Кафтан{.nn} с поясом" />
-    <string id="z4nryDlp" text="{.MI}Длинобрачный{.ajp} бронзовый{.ajp} {.MI}наплечники{.nnp} из чешуи" />
+    <string id="z4nryDlp" text="{.MI}Длиннорукавные{.ajp} бронзовые{.ajp} чешуйчатые{.ajp} {.MI}наплечники{.nnp}" />
     <string id="qc0P0b2r" text="{.MI}Шлем{.nn} с очками поверх кольчуги" />
     <string id="9X2l53vY" text="{.FI}Руда{.nn} серебра" />
     <string id="AobNdBBU" text="{.FI}Дешёвый{.ajp} {.FI}подкладки{.nnp}" />
@@ -156,30 +156,30 @@
     <string id="OjHwbgeY" text="{.MI}Мощный{.aj} {.MI}лук{.nn} племенного воина" />
     <string id="8WlRREMh" text="{.MI}Спарринговый{.aj} {.MI}топор{.nn} с бамбуковой рукоятью" />
     <string id="AQIH729X" text="{.MI}Железный{.aj} {.MI}назошлем{.nn} поверх кожи" />
-    <string id="9w40yGlZ" text="{.FI}Кожа{.nn} наплечник" />
+    <string id="9w40yGlZ" text="{.MI}Кожаный{.aj} {.MI}наплечник{.nn}" />
     <string id="KQ9h5eAe" text="{.MI}Тяжёлый{.aj} {.MI}плащ{.nn}" />
     <string id="fptsl0Qn" text="{.MI}Килт{.nn} поверх пластированной кожи" />
-    <string id="8jEDX9J4" text="{.MI}Двуручный{.aj} {.MI}меч{.nn}" />
+    <string id="8jEDX9J4" text="{.MI}Широкий{.aj} {.MI}меч{.nn}" />
     <string id="GrfnpDxu" text="{.MI}Высокогорный{.aj} метательный{.aj} {.MI}топор{.nn}" />
     <string id="JPByibJQ" text="{.MI}Железный{.aj} {.MI}Клинкор{.nn}" />
     <string id="zBUT90xQ" text="{.FI}Каскара{.nn} из стали Тамаскены" />
     <string id="QzAvlan7" text="{.FI}Короткий{.aj} подбитый{.aj} {.FI}ряса{.nn}" />
-    <string id="dVekhkIU" text="{.FI}Меховый{.aj} {.FI}накидка{.nn} поверх туники" />
-    <string id="HBaSQlSJ" text="{.MI}Бронзовый{.aj} {.MI}чекан{.nn} с козырьками и кисточками" />
+    <string id="dVekhkIU" text="{.FI}Меховая{.aj} {.FI}куртка{.nn} поверх туники" />
+    <string id="HBaSQlSJ" text="{.FI}Бронзовая{.aj} {.FI}шапка-шлем{.nn} с нащёчниками и бахромой" />
     <string id="ktJ6crBs" text="{.MI}Широкий{.aj} {.MI}фальшион{.nn}" />
-    <string id="FQdTo5ay" text="{.FI}Чешуйчатый{.ajp} {.FI}гарды{.nnp} на плече" />
-    <string id="h9PP7EWc" text="{.FI}Шапка{.nn} с воротником-фартуком" />
+    <string id="FQdTo5ay" text="{.MI}Чешуйчатые{.ajp} {.MI}наплечники{.nnp}" />
+    <string id="h9PP7EWc" text="{.FI}Шапка{.nn} с пелериной" />
     <string id="564PHXk3" text="{.FI}Украшенный{.aj} кожаный{.aj} {.FI}упряжь{.nn}" />
     <string id="YTST4rdh" text="{.MI}Южный{.ajp} усиленный{.ajp} кольчужный{.ajp} {.MI}доспехи{.nnp}" />
-    <string id="kaR27kWL" text="{.FI}Длинная{.nn} шотландская клетка" />
+    <string id="kaR27kWL" text="{.MI}Длинный{.aj} шотландский{.aj} {.MI}тартан{.nn}" />
     <string id="fHj6NbWy" text="{.FI}Железный{.aj} {.FI}флисса{.nn}" />
-    <string id="erlrhK2a" text="{.FI}Маскотный{.aj} чешуйчатый{.aj} {.FI}броня{.nn} вождя" />
+    <string id="erlrhK2a" text="{.MI}Чешуйчатый{.aj} {.MI}доспех{.nn} воеводы" />
     <string id="es77bJBa" text="{.MI}Спарринговый{.aj} метательный{.aj} {.MI}кинжал{.nn}" />
     <string id="vbPBXiPC" text="{.FI}Богатый{.aj} {.FI}Туника{.nn}" />
     <string id="EfRKaKs0" text="{.FI}Степный{.aj} меховый{.aj} {.FI}упряжь{.nn}" />
     <string id="quDh9Vlu" text="{.MA}Пустынный{.aj} {.MA}конь{.nn}" />
     <string id="VAO11FSu" text="{.MI}Двуручный{.aj} {.MI}меч{.nn} из громриловской стали" />
-    <string id="yTWOMSmv" text="{.MI}Лён{.nn} Туника" />
+    <string id="yTWOMSmv" text="{.FI}Конопляная{.aj} {.FI}туника{.nn}" />
     <string id="g7vxJhiz" text="{.MI}Легкий{.ajp} {.MI}болты{.nnp}" />
     <string id="jcOJqWGA" text="{.NI}Копьё{.nn} из тонкой стали" />
     <string id="HKRGEXqy" text="Охотничья {.FI}кольчуга{.nn}" />
@@ -215,7 +215,7 @@
     <string id="KKWEkA4P" text="{.FI}Грубый{.aj} медвежья {.FI}шкура{.nn}" />
     <string id="Lbm7asY3" text="{.MI}Высокий{.aj} геральдический{.aj} {.MI}щит{.nn}" />
     <string id="b6JvcSiQ" text="{.FA}Кошка{.nn}" />
-    <string id="xsu6bPTv" text="{.MI}Лён{.nn}" />
+    <string id="xsu6bPTv" text="{.MI}Лён{.nn}{@Plural}{.MI}Мешки льна{\@}" />
     <string id="AMIdBVZb" text="{.MI}Классический{.aj} тиланский{.aj} короткий{.aj} стальной{.aj} {.MI}кинжал{.nn}" />
     <string id="3TAnl7hb" text="{.MI}Украшённый{.aj} восточный{.aj} {.MI}щит{.nn}" />
     <string id="sAml91Z3" text="{.FI}Роскошный{.aj} {.FI}бригантина{.nn}" />
@@ -241,57 +241,57 @@
     <string id="str_tor_learn_we_enchant_song_doom" text="{.FI}Песнь{.nn} Гнева" />
     <string id="XpzvP7hE" text="{.MI}Укреплённый{.ajp} ламеллярный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="Ie0EazLn" text="{.MI}Тяжёлый{.ajp} ламеллярный{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="WQksMqMR" text="{.NI}Высокий{.aj} длинный{.aj} {.NI}копье{.nn} с наконечником" />
+    <string id="WQksMqMR" text="{.NI}Длинное{.aj} {.NI}копьё{.nn} с высоким наконечником" />
     <string id="dacwWKE2" text="{.MI}Изношенный{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
-    <string id="vRBg9ICF" text="{.FI}Тартановый{.aj} {.FI}упряжь{.nn} для плеча" />
+    <string id="vRBg9ICF" text="{.FI}Тартановая{.aj} наплечная{.aj} {.FI}перевязь{.nn}" />
     <string id="UMX05EQF" text="{.FI}Лёгкий{.aj} королевский{.aj} {.FI}булава{.nn}" />
     <string id="eaALL6uO" text="{.FI}Длинная{.nn} сабля" />
-    <string id="vPAHwC3X" text="{.NI}Украденный{.aj} {.NI}добро{.nn}" />
+    <string id="vPAHwC3X" text="{.NI}Краденое{.aj} {.NI}добро{.nn}" />
     <string id="1HWRwbwT" text="{.MI}Деревянный{.aj} {.MI}Меч{.nn}" />
-    <string id="HkwJao2z" text="{.MI}Стальной{.aj} {.MI}чекан{.nn} с козырьками и кисточками" />
+    <string id="HkwJao2z" text="{.FI}Стальная{.aj} {.FI}шапка-шлем{.nn} с нащёчниками и бахромой" />
     <string id="WYFDXE82" text="{.MI}Большой{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_vc_enchant_unholy_blessing" text="{.NI}Нечестивый{.aj} {.NI}Благословение{.nn}" />
-    <string id="b88lWWOo" text="{.FI}Тонкий{.aj} стальный{.aj} {.FI}булава{.nn}" />
-    <string id="atSRQkCE" text="{.FI}Тяжёлый{.aj} кольчужный{.aj} {.FI}куртка{.nn}" />
+    <string id="b88lWWOo" text="{.FI}Тонкая{.aj} стальная{.aj} {.FI}булава{.nn}" />
+    <string id="atSRQkCE" text="{.FI}Тяжёлая{.aj} кольчужная{.aj} {.FI}куртка{.nn}" />
     <string id="NaaM2O2g" text="{.MI}Кислевитский{.aj} широкий{.aj} двуручный{.aj} {.MI}меч{.nn} с вырезом" />
     <string id="JbV0WoO7" text="Мастерски созданный{.aj} южный{.aj} чешуйчатый{.aj} {.FI}кольчуга{.nn}" />
     <string id="m3Nv9rt2" text="{.MI}Пернатый{.aj} {.MI}шлем{.nn} кочевника" />
     <string id="OSHSIyhN" text="{.MI}Высокогорный{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="BmHJmxXz" text="{.MI}Укреплённый{.aj} {.MI}щит{.nn} конницы" />
     <string id="0lNp3f76" text="{.FI}Гравированный{.aj} угловатый{.aj} {.FI}каскара{.nn}" />
-    <string id="5kAqcWac" text="{.MI}Украшенный{.aj} меховой{.aj} {.MI}шлем{.nn}" />
+    <string id="5kAqcWac" text="{.MI}Драгоценный{.aj} меховой{.aj} {.MI}шлем{.nn}" />
     <string id="eND6ECxg" text="{.NI}Копье{.nn} катафрактариона" />
     <string id="B7tbURzI" text="{.FI}Голова{.nn} волка" />
     <string id="XiwTesky" text="{.MI}Шёлковый{.aj} {.MI}кафтан{.nn}" />
-    <string id="9BENgwRK" text="{.MI}Круглый{.aj} котлетный{.aj} {.MI}шлем{.nn} поверх тканевой подвязи" />
-    <string id="RXDyumYz" text="{.FI}Кожаный{.aj} {.FI}упряжь{.nn} с плащом" />
-    <string id="dRWKmbaa" text="{.MI}Малый{.aj} подкованный{.aj} {.MI}топор{.nn}" />
+    <string id="9BENgwRK" text="{.FI}Капеллина{.nn} поверх простёганной ткани" />
+    <string id="RXDyumYz" text="{.FI}Кожаная{.aj} {.FI}упряжь{.nn} с накидкой" />
+    <string id="dRWKmbaa" text="{.MI}Малый{.aj} шипастый{.aj} {.MI}топор{.nn}" />
     <string id="wSUN0Dmo" text="{.MI}Максимальный{.aj} {.MI}доспех{.nn} (фейк)" />
     <string id="str_tor_learn_emp_enchant_chamon_crucible" text="{.MI}Ковш{.nn} Шамона" />
     <string id="K2JbjKLG" text="{.MI}Простой{.aj} {.MI}кафтан{.nn}" />
-    <string id="8nNLS96w" text="{.FI}Укреплённый{.aj} овальный{.aj} {.FI}Адарга{.nn}" />
+    <string id="8nNLS96w" text="{.MI}Укреплённый{.aj} овальный{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_bret_blessing_shield_faith" text="{.MI}Щит{.nn} Веры" />
-    <string id="aQeOcLX4" text="{.FI}Бронзовый{.aj} {.FI}корона{.nn} с двумя рогами" />
+    <string id="aQeOcLX4" text="{.FI}Бронзовая{.aj} {.FI}корона{.nn} с двумя рогами" />
     <string id="avXZdUvi" text="{.NI}Меховый{.aj} {.NI}седло{.nn}" />
     <string id="JHef9oad" text="{.FI}Упряжь{.nn} для мула с мешками" />
     <string id="oV5AhcDl" text="{.NI}Низменный{.aj} {.NI}копьё{.nn}" />
     <string id="JsmnUp0T" text="{.NI}Платье{.nn} Дамы" />
-    <string id="oEJnxsQ1" text="{.FI}Рукавный{.ajp} {.FI}повязки{.nnp}" />
+    <string id="oEJnxsQ1" text="{.FI}Повязки{.nnp} на руки" />
     <string id="4YTJJaTG" text="{.FI}Тяжёлый{.aj} {.FI}сабля{.nn}" />
     <string id="6hwZwODh" text="{.MI}Глейв{.nn}" />
-    <string id="FOx5vZSJ" text="{.FI}Доспешный{.aj} медвежья {.FI}шкура{.nn}" />
-    <string id="cG1g4T3t" text="{.FI}Спарринговая{.nn} флейта" />
+    <string id="FOx5vZSJ" text="{.FI}Бронированная{.aj} медвежья{.aj} {.FI}шкура{.nn}" />
+    <string id="cG1g4T3t" text="{.FI}Тренировочная{.aj} {.FI}флисса{.nn}" />
     <string id="NJSYumaV" text="{.MI}Узорчатый{.ajp} {.MI}наплечники{.nnp}" />
     <string id="TbFLTHHm" text="{.MI}Тирхунг{.nn}" />
     <string id="str_tor_learn_emp_enchant_shyish_deathsight" text="{.NI}Благословение{.nn} Шыша: Смертный Взгляд" />
     <string id="str_tor_books_gunpowder_002" text="{.MA}Механический{.aj} теории {.MA}фон{.nn} Майнкопта о Вихревой Кавалькаде Смерти" />
     <string id="DFcMeRdB" text="{.MI}Простой{.aj} боевой{.aj} {.MI}топор{.nn} рейдера" />
     <string id="QxzcuhmA" text="Оленья {.FI}шкура{.nn} леопарда" />
-    <string id="o5kKAbRu" text="{.NI}Рыцарский{.aj} {.NI}Полукопьё{.nn}" />
+    <string id="o5kKAbRu" text="{.FI}Рыцарская{.aj} {.FI}пика{.nn}" />
     <string id="gT8WENO3" text="Выше среднего (фейк)" />
     <string id="YrAVxmFn" text="{.MI}Шотландский{.aj} широкий{.aj} {.MI}меч{.nn}" />
     <string id="NtsdmmW9" text="{.MI}Датский{.aj} {.MI}плод{.nn}" />
-    <string id="DMciP5z3" text="{.NI}Платье{.nn} в клетку с длинным кроем" />
+    <string id="DMciP5z3" text="{.NI}Длинное{.aj} клетчатое{.aj} {.NI}платье{.nn}" />
     <string id="HvjviTTW" text="{.MI}Стальной{.aj} {.MI}чекан{.nn} с козырьками" />
     <string id="C8bVbM65" text="{.FI}Туника{.nn} с кожаным жилетом" />
     <string id="GSiBXOfg" text="{.MA}Стургийский{.aj} {.MA}рысак{.nn}" />
@@ -311,12 +311,12 @@
     <string id="HVcwvRMF" text="{.NI}Усиленный{.aj} высокогорный{.aj} {.NI}копьё{.nn}" />
     <string id="j1pFE61w" text="{.MI}Тканевый{.ajp} {.MI}доспехи{.nnp} лесного типа" />
     <string id="FkqbAeoY" text="Свенрин {.MA}Пони{.nn}" />
-    <string id="zAvb7WKe" text="{.MI}Сегментированный{.aj} черепной{.aj} {.MI}колпак{.nn} поверх набивного капюшона" />
+    <string id="zAvb7WKe" text="{.MI}Сегментированный{.aj} {.MI}сервельер{.nn} поверх стёганого капюшона" />
     <string id="gFtu0j4T" text="{.FI}Стрелы{.nnp}" />
-    <string id="j4XraSN6" text="{.FI}Лёгкий{.aj} {.FI}Демиланс{.nn}" />
+    <string id="j4XraSN6" text="{.FI}Лёгкий{.aj} {.FI}пика{.nn}" />
     <string id="Qywm0F8B" text="{.MI}Кольчужный{.aj} {.MI}капюшон{.nn} с подкладкой шлема" />
     <string id="FbG3CW5p" text="{.FI}Военный{.aj} {.FI}вилка{.nn}" />
-    <string id="hsRwbHSk" text="{.FI}Мамлюкский{.aj} {.FI}Демиланс{.nn}" />
+    <string id="hsRwbHSk" text="{.FI}Мамлюкский{.aj} {.FI}пика{.nn}" />
     <string id="str_tor_books_engineering_001" text="{.FI}Собранные{.nnp} мудрости Леонардо да Мираглиано Фредрика Хаупстерзанда" />
     <string id="NZjbiEXg" text="{.MI}Тартановый{.aj} {.MI}плащ{.nn}" />
     <string id="kjzCaoMK" text="{.FI}Шейный{.aj} {.FI}защита{.nn} с бронзовыми наплечниками" />
@@ -330,30 +330,30 @@
     <string id="tMLH04n4" text="{.MI}Котелок{.nn} поверх кольчужного капюшона" />
     <string id="OJIRIm4j" text="{.FI}Простый{.aj} тканевый{.aj} {.FI}туника{.nn}" />
     <string id="CZvGrvzY" text="{.FI}Тяжёлый{.aj} кольчужный{.aj} {.FI}рубаха{.nn}" />
-    <string id="buaIafV6" text="{.MI}Окованный{.aj} геральдический{.aj} {.MI}щит{.nn}" />
+    <string id="buaIafV6" text="{.MI}Окованный{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="tsaSBPKu" text="{.MI}Тзикурьон{.nn}" />
-    <string id="QuaE76ua" text="{.FI}Академический{.aj} {.FI}ряса{.nn}" />
-    <string id="aOwcs7Un" text="{.MI}Круглый{.aj} {.MI}котелок{.nn} поверх кожи" />
+    <string id="QuaE76ua" text="{.FI}Академическая{.aj} {.FI}ряса{.nn}" />
+    <string id="aOwcs7Un" text="{.FI}Капеллина{.nn} поверх кожи" />
     <string id="str_tor_book_tactics_001" text="{.NI}Искусство{.nn} тотальной войны" />
     <string id="Jm3AiUo3" text="{.MI}Простой{.aj} {.MI}плащ{.nn}" />
     <string id="uLpnmNkZ" text="{.MI}Кожаный{.aj} {.MI}чепец{.nn}" />
     <string id="str_tor_learn_eo_enchant_wisdom_hoeth" text="{.FI}Мудрость{.nn} Хоэт" />
-    <string id="py7VUj47" text="{.MI}Остроконечный{.aj} {.MI}капюшон{.nn} поверх камзола" />
+    <string id="py7VUj47" text="{.MI}Остроконечный{.aj} {.MI}подшлемник{.nn} поверх гамбезона" />
     <string id="str_tor_learn_asrai_enchant_tree_lord" text="{.FI}Сделка{.nn} с Лесными Владетелями" />
     <string id="WASZXuec" text="{.MI}Пернач{.nn} Милиции" />
     <string id="17tuCyeb" text="{.MI}Аскарат{.nn}" />
     <string id="str_tor_empire_artillery_mortar_001" text="{.FI}Мортира{.nn}" />
-    <string id="18ZFPXsO" text="{.MI}Доспешный{.ajp} {.MI}сапоги{.nnp} гусарла" />
-    <string id="CjjzWA1r" text="{.MA}Пустынный{.aj} воинский{.aj} {.MA}конь{.nn}" />
+    <string id="18ZFPXsO" text="{.MI}Латные{.ajp} {.MI}сапоги{.nnp} хускарла" />
+    <string id="CjjzWA1r" text="{.MA}Пустынный{.aj} боевой{.aj} {.MA}конь{.nn}" />
     <string id="P8GrNSkF" text="{.MI}Сегментированный{.aj} {.MI}шлем-капюшон{.nn} поверх кольчуги" />
-    <string id="n7e0y95m" text="{.FI}Выделанный{.aj} кольчужно-кожаный{.aj} {.FI}броня{.nn}" />
-    <string id="CttLMqiq" text="{.MI}Плащ{.nn} из пластин хана" />
+    <string id="n7e0y95m" text="{.MI}Выделанный{.aj} клёпаный{.aj} кожаный{.aj} {.MI}доспех{.nn}" />
+    <string id="CttLMqiq" text="{.MI}Латный{.aj} {.MI}кафтан{.nn} хана" />
     <string id="DUp0MKZQ" text="{.NI}Одеяние{.nn} для холодной погоды" />
-    <string id="P9PcIk4q" text="{.MI}Зацепистый{.aj} конный{.aj} {.MI}топор{.nn}" />
+    <string id="P9PcIk4q" text="{.MI}Кавалерийский{.aj} {.MI}топор{.nn} с крюком" />
     <string id="0a6Vz7wi" text="{.MI}Кожаный{.aj} {.MI}табард{.nn}" />
     <string id="KTegaNPW" text="{.MI}Длинный{.aj} {.MI}лук{.nn}" />
-    <string id="4YxbZlbi" text="{.FI}Обмотанный{.ajp} {.FI}туфли{.nnp}" />
-    <string id="qH5VV8In" text="{.FI}Кожаный{.aj} {.FI}туника{.nn} деревенского жителя" />
+    <string id="4YxbZlbi" text="{.FI}Обмотанные{.ajp} {.FI}туфли{.nnp}" />
+    <string id="qH5VV8In" text="{.FI}Кожаная{.aj} {.FI}туника{.nn} деревенского жителя" />
     <string id="h1bcf5zn" text="{.FI}Шаль{.nn}" />
     <string id="U3SWNkFt" text="{.MA}Рабочий{.aj} {.MA}конь{.nn}" />
     <string id="efW2XbK8" text="{.MI}Шлем{.nn} эмира" />
@@ -367,14 +367,14 @@
     <string id="arBdK7st" text="{.MI}Простой{.aj} полуторный{.aj} {.MI}меч{.nn}" />
     <string id="XRaPBg6d" text="{.MI}Малый{.aj} {.MI}бит-топор{.nn}" />
     <string id="str_tor_learn_we_enchant_dusk_wood" text="{.MI}Закат{.nn} Леса" />
-    <string id="zPbDZ9VA" text="{.NI}Пустынный{.aj} {.NI}седло{.nn} кочевника" />
+    <string id="zPbDZ9VA" text="{.NI}Бедуинское{.aj} обычное{.aj} {.NI}седло{.nn}" />
     <string id="oEvhhNNR" text="{.MI}Кожаный{.ajp} кавалерийский{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_learn_emp_enchant_azyr_gale" text="{.MI}Порыв{.nn} Азир" />
     <string id="24MA4JLX" text="{.FI}Рифленый{.aj} {.FI}длинная{.nn} каскара" />
     <string id="4jmcs2Xm" text="{.MI}Турнирный{.ajp} {.MI}болты{.nnp}" />
     <string id="QjdyYS0m" text="{.FI}Железный{.aj} {.FI}Сабля{.nn}" />
     <string id="y3oIzUEp" text="{.FI}Туника{.nn} с наплечниками" />
-    <string id="PTKyNh2O" text="{.FI}Легиярный{.aj} {.FI}кольчуга{.nn}" />
+    <string id="PTKyNh2O" text="{.FI}Легионерская{.aj} {.FI}кольчуга{.nn}" />
     <string id="Kba6rxWK" text="{.FI}Спарринговый{.aj} {.FI}сабля{.nn}" />
     <string id="1WLiLoL5" text="{.FI}Зеркальный{.aj} кожаный{.aj} {.FI}броня{.nn}" />
     <string id="4xXPKRpE" text="{.MI}Шлем{.nn} вождя с перьями" />
@@ -386,11 +386,11 @@
     <string id="7LmUe8fQ" text="{.NI}Менавлион{.nn}" />
     <string id="Biq7t1xv" text="{.FI}Дальнобойный{.ajp} {.FI}стрелы{.nnp}" />
     <string id="amqJbdDV" text="{.FI}Кольчатый{.aj} {.FI}попона{.nn}" />
-    <string id="ZV1bKLUn" text="{.MI}Котелок{.nn} со шлемом из кожи" />
-    <string id="ZeU1fvdz" text="{.MI}Стек{.nn} гранат" />
-    <string id="ADJBbfbQ" text="{.FI}Шкура{.nn}" />
+    <string id="ZV1bKLUn" text="{.FI}Капеллина{.nn} с кожаной подкладкой" />
+    <string id="ZeU1fvdz" text="{.FI}Связка{.nn} картечи" />
+    <string id="ADJBbfbQ" text="{.MI}Мех{.nn}{@Plural}{.MI}Тюки меха{\@}" />
     <string id="3iq3rOh8" text="{.MI}Котелок{.nn} поверх плетеной шапки" />
-    <string id="Nv0eZmGL" text="{.MI}Стальной{.aj} {.MI}нагрудник{.nn} (насос)" />
+    <string id="Nv0eZmGL" text="{.FI}Стальная{.aj} {.FI}шапка-шлем{.nn} с наносником" />
     <string id="UC2XfY7V" text="{.MI}Тканевый{.aj} {.MI}капюшон{.nn}" />
     <string id="hXijcZyp" text="{.NI}Короткий{.aj} {.NI}пальто{.nn} из грубой ткани" />
     <string id="fuyj7s3F" text="{.FI}Длинный{.aj} тонкий{.aj} стальной{.aj} {.FI}сабля{.nn}" />
@@ -401,13 +401,13 @@
     <string id="wltdyF2j" text="{.MI}Охотничий{.aj} {.MI}лук{.nn}" />
     <string id="SvYpE52J" text="{.FI}Туника{.nn} с меховой отделкой" />
     <string id="6XxiMU52" text="{.MI}Кожаный{.aj} {.MI}табард{.nn} поверх кольчухи" />
-    <string id="Pd77RH8P" text="{.MA}Конь-пегас{.nn}" />
+    <string id="Pd77RH8P" text="{.MA}Раунси{.nn}{@Plural}{.MA}кони раунси{\@}" />
     <string id="str_tor_learn_gs_tuffness_gork" text="{.FI}Неуязвимость{.nn} Горка" />
     <string id="tcN9Vyn7" text="{.FI}Спарринговый{.aj} тупый{.aj} {.FI}дубина{.nn}" />
     <string id="dbbwszHd" text="{.MI}Украшённый{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="WWRKeqwD" text="{.MI}Метательный{.aj} {.MI}топор{.nn} рейдера" />
     <string id="4ryhrb9p" text="{.FI}Усиленный{.aj} {.FI}упряжь{.nn} с плащом" />
-    <string id="Fb7PrJuc" text="{.MI}Скелетный{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="Fb7PrJuc" text="{.MI}Шинированные{.ajp} {.MI}сапоги{.nnp}" />
     <string id="ZOWdFaUi" text="{.MI}Остроконечный{.aj} {.MI}капюшон{.nn} поверх кольчужного чепца" />
     <string id="8UMQ8ocB" text="{.MI}Восточный{.aj} {.MI}щит{.nn} конницы" />
     <string id="kxtSkGju" text="{.MA}Посол{.nn}" />
@@ -425,8 +425,8 @@
     <string id="YPUDAJDH" text="{.MI}Гарпун{.nn}" />
     <string id="gbRVBOLH" text="{.FI}Обычный{.aj} {.FI}Одежда{.nn}" />
     <string id="VSMpadvq" text="{.MI}Шкурный{.aj} {.MI}доспех{.nn}" />
-    <string id="N0ErUFHS" text="{.NI}Сестрый{.aj} {.NI}копьё{.nn}" />
-    <string id="0SsLGsXk" text="{.FI}Тяжёлый{.aj} набивный{.aj} {.FI}роба{.nn}" />
+    <string id="N0ErUFHS" text="{.MI}Зазубренный{.aj} {.MI}дротик{.nn}" />
+    <string id="0SsLGsXk" text="{.FI}Длинная{.aj} стёганая{.aj} {.FI}роба{.nn}" />
     <string id="NRB3V6yP" text="{.FI}Укреплённый{.aj} полудоспешный{.aj} {.FI}попона{.nn}" />
     <string id="t01v8qW7" text="{.FI}Парадный{.ajp} подушечный{.ajp} {.FI}перчатки{.nnp}" />
     <string id="MLBA8tej" text="{.NI}Платье{.nn}" />
@@ -440,14 +440,14 @@
     <string id="str_tor_gs_loot_pile" text="{.FI}Находки{.nnp}" />
     <string id="str_tor_learn_bret_blessing_grail_legacy" text="{.NI}Наследие{.nn} Грааля" />
     <string id="PeozdF9h" text="{.NI}Сшитый{.aj} выделанный{.aj} кожаный{.aj} {.NI}пальто{.nn}" />
-    <string id="4wQRk3f5" text="{.MI}Украшенный{.aj} длинный{.aj} {.MI}Меч{.nn} Войны" />
+    <string id="4wQRk3f5" text="{.MI}Украшенный{.aj} длинный{.aj} боевой{.aj} {.MI}меч{.nn}" />
     <string id="bubcrmTC" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх набитой ткани" />
     <string id="bK03bqdA" text="{.FI}Турнирный{.ajp} {.FI}стрелы{.nnp}" />
     <string id="str_tor_learn_vc_enchant_drinker_blood" text="{.MA}Пьющий{.nn} Кровь" />
-    <string id="mlJKNbbn" text="{.MI}Кожаный{.aj} {.MI}капюшон{.nn}" />
+    <string id="mlJKNbbn" text="{.MI}Кожаный{.aj} {.MI}койф{.nn}" />
     <string id="str_tor_learn_vc_enchant_mockery_asps" text="{.NI}Глумление{.nn} Аспидов" />
     <string id="mvTueU1y" text="{.MI}Ламелированный{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="RwpJFXxc" text="{.FI}Пика{.nn} из громирла" />
+    <string id="RwpJFXxc" text="{.FI}Дамасская{.aj} {.FI}пика{.nn}" />
     <string id="str_tor_learn_we_enchant_moon_stone" text="{.MI}Камень{.nn} Луны Путь Скрытых" />
     <string id="oQmUlQWp" text="{.FI}Простый{.aj} {.FI}Сабля{.nn}" />
     <string id="str_tor_learn_emp_blessing_sigmar_beacon" text="{.MI}Факел{.nn} Сигмара" />
@@ -458,19 +458,19 @@
     <string id="VpxHysbZ" text="{.MI}Прочный{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="FItBDuqh" text="{.MI}Хлопковый{.aj} {.MI}капюшон{.nn}" />
     <string id="dIfcfMbY" text="{.MI}Кожаный{.aj} {.MI}жилет{.nn} с шипами" />
-    <string id="e8amL6a1" text="{.FI}Широкий{.aj} {.FI}ильда{.nn}" />
+    <string id="e8amL6a1" text="{.FI}Широкая{.aj} {.FI}ильда{.nn}" />
     <string id="uEPRE33m" text="{.MI}Грубый{.ajp} завязанный{.ajp} {.MI}наручи{.nnp}" />
     <string id="XCnUaINR" text="{.MI}Бронзовый{.aj} носовой{.aj} {.MI}шлем{.nn} поверх кольчуги" />
-    <string id="aQN4Dlx2" text="{.FI}Тяжёлый{.aj} {.FI}акетонка{.nn}" />
+    <string id="aQN4Dlx2" text="{.MI}Тяжёлый{.aj} {.MI}акетон{.nn}" />
     <string id="CB97qhVM" text="{.MA}Мул{.nn}" />
     <string id="CcWpkREW" text="{.FI}Тяжёлый{.aj} кольчужный{.aj} {.FI}рубаха{.nn} с широким поясом" />
-    <string id="ZMPw2IPy" text="{.FI}Шерстяный{.aj} {.FI}поддева{.nn} поверх латных доспехов" />
+    <string id="ZMPw2IPy" text="{.MI}Грубый{.aj} {.MI}мех{.nn} поверх кольчуги" />
     <string id="79I1U8OC" text="{.FI}Бронзовый{.aj} {.FI}кираса{.nn}" />
     <string id="SGdY9jmK" text="{.MI}Полый{.aj} узкий{.aj} боевой{.aj} {.MI}меч{.nn}" />
-    <string id="Q19xluDy" text="{.FI}Усиленный{.aj} гвоздичный{.aj} шеечный{.aj} {.FI}защита{.nn}" />
+    <string id="Q19xluDy" text="{.MI}Усиленный{.aj} клёпаный{.aj} {.MI}латный воротник{.nn}" />
     <string id="CLTk2CMs" text="{.MI}Гамбезон{.nn} пехотинца с ремнями" />
     <string id="DQaV0i5W" text="{.MI}Железный{.aj} широкий{.aj} {.MI}меч{.nn}" />
-    <string id="wfhHGTbl" text="Война {.MI}лук{.nn} степняков" />
+    <string id="wfhHGTbl" text="{.MI}Степной{.aj} боевой{.aj} {.MI}лук{.nn}" />
     <string id="pGmYxauO" text="{.MI}Плащ{.nn} легионера" />
     <string id="VQSdhQE3" text="{.FI}Тяжёлый{.aj} чешуйчатый{.aj} {.FI}броня{.nn} поверх кольчужной рубахи" />
     <string id="LpN4YWb2" text="{.FI}Спарринговый{.aj} {.FI}сабля{.nn}" />
@@ -478,12 +478,12 @@
     <string id="str_tor_learn_asrai_enchant_morai_heg" text="{.FI}Козни{.nnp} Морай-Хег" />
     <string id="cMdtLfGB" text="{.FI}Ряса{.nn} с кисточками" />
     <string id="wWqavjat" text="{.MI}Лёгкий{.ajp} длинный{.ajp} подбитый{.ajp} {.MI}доспехи{.nnp}" />
-    <string id="w9RLq82l" text="{.MI}Железный{.aj} {.MI}меч{.nn} с наконечником для боя" />
-    <string id="gJPogg0J" text="{.MI}Простой{.aj} спартский{.aj} {.MI}топор{.nn}" />
+    <string id="w9RLq82l" text="{.MI}Железный{.aj} {.MI}арминг-меч{.nn}" />
+    <string id="gJPogg0J" text="{.MI}Простой{.aj} древковый{.aj} {.MI}топор{.nn}" />
     <string id="9pD32UdV" text="{.FI}Высокогорный{.aj} {.FI}булава{.nn}" />
-    <string id="l5JDrvbW" text="{.FI}Клетчатый{.aj} {.FI}туника{.nn}" />
+    <string id="l5JDrvbW" text="{.FI}Клетчатая{.aj} {.FI}туника{.nn}" />
     <string id="bxa4JHlU" text="{.MI}Кольчужный{.ajp} {.MI}наплечники{.nnp} с шипами" />
-    <string id="WLJOnehi" text="{.FI}Усиленный{.aj} толстый{.aj} {.FI}туника{.nn}" />
+    <string id="WLJOnehi" text="{.FI}Усиленная{.aj} плотная{.aj} {.FI}туника{.nn}" />
     <string id="4BfbPgkY" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх набивной шапки" />
     <string id="ekUvh8Em" text="{.MI}Узкий{.aj} {.MI}двуручник{.nn}" />
     <string id="CBUdkmIw" text="{.MI}Цветной{.aj} {.MI}кафтан{.nn}" />
@@ -500,7 +500,7 @@
     <string id="str_tor_learn_emp_blessing_sigmar_justice" text="{.FI}Справедливость{.nn} Сигмара" />
     <string id="ItUyYjdd" text="{.MI}Топор{.nn} казни" />
     <string id="str_tor_learn_emp_enchant_aqshy_whisper" text="{.MI}Шёпот{.nn} Акши" />
-    <string id="Ita1lG33" text="{.MI}Кожа-обтянутый{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
+    <string id="Ita1lG33" text="{.MI}Обтянутый{.aj} кожей каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="1CPdu9K0" text="{.MI}Камень{.nn}" />
     <string id="smHA8Apa" text="{.NI}Украшенный{.aj} {.NI}платье{.nn} кочевника" />
     <string id="FRWm800F" text="{.FI}Словенский{.aj} {.FI}кожа{.nn}" />
@@ -512,36 +512,36 @@
     <string id="Qpl5aCb0" text="{.MI}Топор{.nn} ветерана воина" />
     <string id="C8nk7NEf" text="{.FI}Толстый{.aj} меховый{.aj} {.FI}шапка{.nn}" />
     <string id="TBW9E2ao" text="{.MI}Связанный{.aj} {.MI}арбалет{.nn}" />
-    <string id="ELsDFwAD" text="{.NI}Вино{.nn}" />
+    <string id="ELsDFwAD" text="{.NI}Вино{.nn}{@Plural}{.FI}Амфоры вина{\@}" />
     <string id="zUFRE9y4" text="{.MI}Лом{.nn}" />
     <string id="HwO0AYul" text="{.MI}Широкий{.aj} ребристый{.aj} короткий{.aj} {.MI}меч{.nn}" />
     <string id="qVj5NqrL" text="{.MI}Полный{.aj} {.MI}шлем{.nn} поверх набивной шапки" />
     <string id="WvDZMmaj" text="{.MI}Шлем{.nn} кочевника" />
-    <string id="te48yHa8" text="{.MI}Метательный{.aj} {.MI}нож{.nn} Лифблейд" />
-    <string id="b7TdIRac" text="{.NI}Круглокачелье{.nn} поверх Кольчуги" />
+    <string id="te48yHa8" text="{.MI}Метательный{.aj} {.MI}нож{.nn} с лезвием-листом" />
+    <string id="b7TdIRac" text="{.FI}Капеллина{.nn} поверх кольчуги" />
     <string id="str_tor_book_athletics_001" text="{.MA}Голый{.nn} и бесстрашный" />
     <string id="1EhlbySK" text="{.MI}Короткий{.aj} {.MI}плащ{.nn}" />
-    <string id="OrMbh1dn" text="{.MI}Тяжёлый{.aj} {.MI}копьец-шлем{.nn}" />
+    <string id="OrMbh1dn" text="{.MI}Тяжёлый{.aj} {.MI}шлем{.nn} копейщика" />
     <string id="str_tor_learn_vc_enchant_touch_jet" text="{.NI}Прикосновение{.nn} Гагата" />
     <string id="E7miRMw1" text="{.MI}Тяжёлый{.aj} рекурсивный{.aj} {.MI}лук{.nn}" />
     <string id="P0FmQHgF" text="{.FI}Украшенный{.aj} кожаный{.aj} {.FI}упряжь{.nn} поверх кольчуги" />
     <string id="567zyLq5" text="{.MI}Выделанный{.ajp} гвоздичный{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="dIgaajLB" text="{.MI}Украшенный{.ajp} длиннобрачный{.ajp} бронзовый{.ajp} {.MI}наплечники{.nnp} из чешуи" />
+    <string id="dIgaajLB" text="{.MI}Украшенные{.ajp} длиннорукавные{.ajp} бронзовые{.ajp} чешуйчатые{.ajp} {.MI}наплечники{.nnp}" />
     <string id="QlpyR6uc" text="{.MI}Ламеллярный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="rUMPiiox" text="{.MI}Меховой{.aj} {.MI}шлем{.nn} рыцаря-копейщика" />
     <string id="str_tor_learn_emp_blessing_shallya_mercy" text="{.FI}Милость{.nn} Шаллии" />
-    <string id="btrf2AXp" text="{.MI}Объёмный{.ajp} {.MI}штаны{.nnp}" />
-    <string id="VP74qdJ3" text="{.NI}Копьё{.nn} Кёрсера" />
+    <string id="btrf2AXp" text="{.MI}Свободные{.ajp} {.MI}штаны{.nnp}" />
+    <string id="VP74qdJ3" text="{.FI}Курсерская{.aj} {.FI}пика{.nn}" />
     <string id="WrwO8xsN" text="{.MI}Сшитый{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="qPm3xaiP" text="{.NI}Платье{.nn} с фартуком" />
     <string id="APO9YcBv" text="{.MI}Спарринговый{.aj} двуручный{.aj} {.MI}топор{.nn}" />
-    <string id="46orXtt0" text="{.FI}Лесный{.ajp} {.FI}одежды{.nnp}" />
-    <string id="puNpMCgX" text="{.MI}Латный{.ajp} {.MI}доспехи{.nnp} с пряжками" />
+    <string id="46orXtt0" text="{.FI}Лесные{.ajp} {.FI}одежды{.nnp}" />
+    <string id="puNpMCgX" text="{.FI}Кольчуга{.nn} с пряжками" />
     <string id="R45H8quo" text="{.FI}Тога{.nn}" />
-    <string id="9Eyd2qGo" text="{.MI}Усиленный{.ajp} замшевый{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="9Eyd2qGo" text="{.MI}Усиленные{.ajp} замшевые{.ajp} {.MI}сапоги{.nnp}" />
     <string id="str_tor_learn_vc_enchant_ethereal_whispers" text="{.MI}Эфирный{.aj} {.MI}Шёпот{.nn}" />
     <string id="xYk4953c" text="{.FI}Стальный{.aj} {.FI}булава{.nn}" />
-    <string id="yQTBY9ie" text="{.NI}Ювелирный{.ajp} {.NI}изделия{.nnp}" />
+    <string id="yQTBY9ie" text="{.NI}Украшение{.nn}{@Plural}{.NI}Украшения{\@}" />
     <string id="OIcwZGmC" text="{.MI}Укреплённый{.aj} корзинный{.aj} {.MI}щит{.nn}" />
     <string id="e4lKZhgv" text="{.MI}Кожаный{.ajp} {.MI}напульсники{.nnp} с грубыми узлами" />
     <string id="D2ZuOT3H" text="{.MI}Укреплённый{.ajp} бронзовый{.ajp} ламеллярный{.ajp} {.MI}наплечники{.nnp}" />
@@ -588,12 +588,12 @@
     <string id="lW3smDRu" text="{.MI}Спарринговый{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="8SNS2wF9" text="{.MI}Тюрбан{.nn}" />
     <string id="str_tor_learn_emp_enchant_hysh_brilliance" text="{.MI}Блеск{.nn} Гиша" />
-    <string id="6EWm09LY" text="{.FA}Звездочка{.nn}" />
+    <string id="6EWm09LY" text="{.MI}Моргенштерн{.nn}" />
     <string id="ABWvOCTE" text="{.MA}Насахский{.aj} {.MA}верблюд{.nn}" />
-    <string id="MFYaL8FL" text="{.FI}Тяжёлый{.aj} ламеллярный{.aj} {.FI}броня{.nn} поверх кольчухи" />
+    <string id="MFYaL8FL" text="{.FI}Тяжёлая{.aj} ламеллярная{.aj} {.FI}броня{.nn} поверх кольчуги" />
     <string id="hz87PBsa" text="{.NI}Копьё{.nn} с широким лезвием" />
     <string id="kJzIZMBR" text="{.NI}Треугольный{.aj} метательный{.aj} {.NI}копьё{.nn}" />
-    <string id="hE8s9bpP" text="{.MI}Кривой{.aj} круглый{.aj} {.MI}щит{.nn}" />
+    <string id="hE8s9bpP" text="{.MI}Изогнутый{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_book_polearm_001" text="Быть человеком Остланда" />
     <string id="JkxPt29i" text="{.FI}Цепный{.aj} {.FI}броня{.nn} для коня" />
     <string id="SsCM14Xu" text="{.FI}Тяжелый{.aj} {.FI}туника{.nn} с рукавами" />
@@ -602,7 +602,7 @@
     <string id="k9ouZ59X" text="{.MI}Бронзовый{.ajp} чешуйчатый{.ajp} {.MI}наплечники{.nnp}" />
     <string id="2WB0qeAi" text="{.MA}Степной{.aj} {.MA}конь{.nn}" />
     <string id="7dAy51ln" text="{.MI}Шлем{.nn} цервельер поверх арминга-коифа" />
-    <string id="1bc4kTaz" text="{.MI}Стальной{.aj} {.MI}спатион{.nn} Громрила" />
+    <string id="1bc4kTaz" text="{.FI}Дамасская{.aj} стальная{.aj} {.FI}спата{.nn}" />
     <string id="vCywYDmp" text="{.FI}Легкий{.aj} набитый{.aj} {.FI}броня{.nn}" />
     <string id="h1jKICdp" text="{.MI}Простой{.aj} короткий{.aj} {.MI}лук{.nn}" />
     <string id="a47UTuL6" text="{.MA}Праведник{.nn}" />
@@ -631,7 +631,7 @@
     <string id="P96J2c61" text="{.MI}Бронзовый{.ajp} {.MI}наплечники{.nnp}" />
     <string id="WMqHlEvb" text="{.MI}Сегментированный{.aj} {.MI}кевельер{.nn} поверх кольчужного капюшона" />
     <string id="hELN8VXv" text="{.FI}Рваный{.aj} {.FI}ряса{.nn}" />
-    <string id="eHyxxxoK" text="{.MI}Гускарльский{.aj} {.MI}Нагрудник{.nn}" />
+    <string id="eHyxxxoK" text="{.FI}Хускарлская{.aj} {.FI}кольчуга{.nn}" />
     <string id="SUSbUAEl" text="{.MA}Тренировочный{.nn} лук" />
     <string id="ISQ0cdOc" text="{.MI}Тяжёлый{.aj} носовой{.aj} {.MI}шлем{.nn} поверх кольчуги" />
     <string id="QaysED62" text="{.FI}Туника{.nn} с свернутой тканью" />
@@ -640,19 +640,19 @@
     <string id="rtRGq1uU" text="{.MI}Широкий{.aj} {.MI}двуручник{.nn}" />
     <string id="smKogclC" text="{.FI}Туника{.nn} из грубой ткани" />
     <string id="jQKVnVNR" text="{.MI}Бронзовый{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="2Igdc86g" text="{.MI}Классический{.aj} тиланский{.aj} спарринговый{.aj} {.MI}кинжал{.nn}" />
-    <string id="SugbcP3D" text="{.FI}Женский{.aj} сельный{.aj} головный{.aj} {.FI}повязка{.nn}" />
+    <string id="2Igdc86g" text="{.FI}Тренировочная{.aj} {.FI}спата{.nn}" />
+    <string id="SugbcP3D" text="{.FI}Женская{.aj} сельская{.aj} {.FI}головная повязка{.nn}" />
     <string id="str_tor_book_learn_enchanting" text="{.NI}Волшебство{.nn} и артефакты" />
     <string id="str_tor_learn_dw_master_rune_skaldour" text="{.FI}Мастер-Руна{.nn} Скалдура" />
     <string id="LSaIs3DB" text="{.MI}Кожаный{.aj} {.MI}доспех{.nn}" />
     <string id="KD3OTFlE" text="{.MI}Пернатый{.aj} {.MI}шлем{.nn} рыцаря-копейщика с защитой шеи" />
-    <string id="w4RuDABQ" text="{.FI}Кираса{.nn} из пластины" />
+    <string id="w4RuDABQ" text="{.MI}Латный{.aj} {.MI}кафтан{.nn}" />
     <string id="str_tor_learn_emp_enchant_hysh_whisper" text="{.MI}Шёпот{.nn} Гиша" />
     <string id="KVG0Tzaa" text="{.FI}Усиленный{.aj} зеркальный{.aj} {.FI}броня{.nn}" />
     <string id="bLgnonyc" text="{.FI}Простый{.aj} крестьянский{.aj} {.FI}ряса{.nn}" />
     <string id="Rcc0JW6H" text="{.MI}Классический{.aj} украшенный{.aj} громриловый{.aj} тилейский{.aj} короткий{.aj} {.MI}меч{.nn}" />
-    <string id="uu9rXeYz" text="{.MI}Круглый{.aj} котлетный{.aj} {.MI}шлем{.nn} поверх набивки" />
-    <string id="33aaUcaX" text="{.FI}Украшенный{.aj} {.FI}упряжь{.nn} для лошади" />
+    <string id="uu9rXeYz" text="{.FI}Капеллина{.nn} поверх набивки" />
+    <string id="33aaUcaX" text="{.FI}Баттанийская{.aj} конская{.aj} {.FI}упряжь{.nn}" />
     <string id="EXLY9mEb" text="{.MI}Укреплённый{.aj} большой{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="wrbea2oa" text="{.MI}Болты{.nnp}" />
     <string id="EadnjRjs" text="{.MI}Длинный{.aj} боевой{.aj} {.MI}меч{.nn}" />
@@ -669,21 +669,21 @@
     <string id="dAgxHUsJ" text="{.FI}Южный{.aj} украшенный{.aj} кольчужный{.aj} {.FI}броня{.nn}" />
     <string id="XNQPPIaA" text="{.MI}Гамбесон{.nn} поверх кожаной куртки для пехотинца" />
     <string id="V4b2ZRTH" text="{.FI}Ромфайя{.nn}" />
-    <string id="pdtQybBM" text="{.MA}Песчаный{.aj} {.MA}тренировочный{.nn} круглый щит" />
+    <string id="pdtQybBM" text="{.MI}Пустынный{.aj} тренировочный{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="r0Ln9bAp" text="{.MI}Кожаный{.aj} {.MI}фартук{.nn}" />
     <string id="str_tor_learn_vc_enchant_unhallowed_pact" text="{.MI}Нечестивый{.nn} Пакт" />
     <string id="str_tor_learn_emp_blessing_sigmar_soulfire" text="{.NI}Благословение{.nn} Сигмара: Духопламя" />
     <string id="1w5StEM1" text="{.MI}Корзиновый{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_we_enchant_thorns_nettles" text="{.MI}«Шипы,{.nnp} Клевер и Колючки»" />
     <string id="str_tor_learn_emp_enchant_shyish_whisper" text="{.NI}Благословение{.nn} Шийша: Шепот" />
-    <string id="89OWzLBb" text="{.MI}Простой{.aj} {.MI}топор{.nn} с бамбуковой рукоятью" />
+    <string id="89OWzLBb" text="{.FI}Асция{.nn} с бамбуковой рукоятью" />
     <string id="oQSZ0XgP" text="{.FI}Украшенный{.aj} толстый{.aj} {.FI}туника{.nn}" />
     <string id="QaTkvy56" text="{.MI}Бронзовый{.aj} чешуйчатый{.aj} {.MI}нагрудник{.nn}" />
-    <string id="G7EbBKuA" text="{.NI}Узкий{.aj} {.NI}копье{.nn} с наконечником-головой" />
+    <string id="G7EbBKuA" text="{.NI}Длинное{.aj} {.NI}копьё{.nn} с узким наконечником" />
     <string id="Zcaucj4W" text="{.MI}Украшенный{.aj} {.MI}арминг-меч{.nn}" />
     <string id="t28VYqjP" text="{.NI}Длинный{.aj} {.NI}копьё{.nn} из тонкой стали" />
-    <string id="SW3lkPHe" text="{.MI}Цветной{.aj} {.MI}бист{.nn}" />
-    <string id="AB1mV5Pg" text="{.MI}Котелок{.nn} поверх завязанного коифа" />
+    <string id="SW3lkPHe" text="{.MI}Цветной{.aj} {.MI}бишт{.nn}" />
+    <string id="AB1mV5Pg" text="{.FI}Капеллина{.nn} поверх кольчужного капюшона" />
     <string id="lXwaLAYP" text="{.MI}Громрильский{.aj} стальной{.aj} {.MI}Меч{.nn} Войны" />
     <string id="FktkkUMK" text="{.MI}Стальной{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="s7siCSsh" text="{.FI}Укреплённый{.aj} шипованный{.aj} {.FI}упряжь{.nn} легионера" />
@@ -692,20 +692,20 @@
     <string id="GdM7iaV9" text="{.FI}Лордский{.aj} стальный{.aj} {.FI}шапка{.nn}" />
     <string id="str_tor_learn_dw_rune_protection" text="{.FI}Руна{.nn} Защиты" />
     <string id="9YbFEaZ1" text="{.MI}Лук{.nn} из тиса" />
-    <string id="NkV2c6YX" text="{.FI}Скопированный{.ajp} степный{.ajp} {.FI}стрелы{.nnp}" />
-    <string id="4B2i8oxo" text="{.MI}Плащ{.nn} с зеркальным поясом" />
+    <string id="NkV2c6YX" text="{.FI}Связка{.nn} степных стрел" />
+    <string id="4B2i8oxo" text="{.FI}Куртка{.nn} с зеркальным поясом" />
     <string id="sc2x2QRe" text="{.MI}Платок{.nn} с фезом" />
     <string id="FDEIHpIN" text="{.FI}Зеркальный{.aj} {.FI}бригантина{.nn}" />
     <string id="XH9f3yOX" text="{.MI}Меховый{.aj} {.MI}жилет{.nn} поверх туники" />
     <string id="EvW5Xzt2" text="{.MI}Южный{.ajp} усиленный{.ajp} безрукавный{.ajp} кольчужный{.ajp} {.MI}доспехи{.nnp}" />
-    <string id="s7jkSgba" text="{.FI}Когтистый{.ajp} {.FI}стрелы{.nnp}" />
+    <string id="s7jkSgba" text="{.FI}Зазубренные{.ajp} {.FI}стрелы{.nnp}" />
     <string id="str_tor_learn_emp_enchant_chamon_aegis" text="{.MI}Айгис{.nn} Шамона" />
     <string id="str_tor_learn_dw_rune_fortitude" text="{.FI}Руна{.nn} Твердости" />
-    <string id="M2wvaObX" text="{.MI}Классический{.aj} тилейский{.aj} короткий{.aj} {.MI}меч{.nn}" />
+    <string id="M2wvaObX" text="{.FI}Спата{.nn}" />
     <string id="K5XLb84w" text="{.FI}Имперский{.ajp} {.FI}стрелы{.nnp}" />
     <string id="str_tor_learn_gs_enchant_stunties_bane" text="{.NI}Проклятие{.nn} Стантисов" />
     <string id="2wFal5Nd" text="{.MA}Грозовой{.aj} {.MA}скакун{.nn}" />
-    <string id="HECAP8QW" text="{.FI}Короткодеревянный{.aj} {.FI}бацила{.nn}" />
+    <string id="HECAP8QW" text="{.MI}Короткодревковый{.aj} {.MI}бердыш{.nn}" />
     <string id="uIov9Yo9" text="{.MI}Усиленный{.ajp} замшевый{.ajp} {.MI}наплечники{.nnp}" />
     <string id="DvGueBrU" text="{.MI}Лен{.nn}" />
     <string id="wJ4Y9IFc" text="{.FI}Кольчуга{.nn} для конника" />
@@ -718,7 +718,7 @@
     <string id="NFT4sLva" text="{.NI}Высокий{.aj} {.NI}копье{.nn} с наконечником" />
     <string id="str_tor_learn_emp_enchant_azyr_wind" text="{.MI}Ветер{.nn} Азыра" />
     <string id="str_tor_learn_bret_blessing_mists_sacred_lake" text="{.MI}Туманы{.nnp} Священного Озера" />
-    <string id="4RTsybkx" text="{.NI}Военный{.aj} {.NI}лезвие{.nn}" />
+    <string id="4RTsybkx" text="{.FI}Боевая{.aj} {.FI}бритва{.nn}" />
     <string id="QodawBSN" text="{.MI}Железный{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="v7WQhge3" text="{.FI}Украшенный{.aj} {.FI}сабля{.nn}" />
     <string id="str_tor_learn_emp_enchant_aqshy_curtain" text="{.MI}Занавес{.nn} Акши" />
@@ -734,7 +734,7 @@
     <string id="n1A47HcZ" text="{.MI}Шлем{.nn} рыцаря-копейщика" />
     <string id="str_tor_learn_emp_enchant_azyr_azure_mirror" text="{.NI}Азеровое{.nn} Зеркало Азир" />
     <string id="g51zVsKU" text="{.FI}Кольчужный{.ajp} {.FI}перчатки{.nnp}" />
-    <string id="HpdJJO9g" text="{.MI}Классический{.aj} тилейский{.aj} короткий{.aj} {.MI}меч{.nn} с кольцевым навершием" />
+    <string id="HpdJJO9g" text="{.FI}Спата{.nn} с кольцевым навершием" />
     <string id="str_tor_book_crafting_001" text="{.MI}Грунгназ{.nn} Крон" />
     <string id="str_tor_learn_dw_master_rune_skalf" text="{.FI}Мастер-Руна{.nn} Скальфа Чёрного Ковка" />
     <string id="B58Ocaxw" text="{.NI}Цепный{.aj} меховый{.aj} {.NI}плаще{.nn}" />
@@ -746,7 +746,7 @@
     <string id="c7UNJSNi" text="{.MI}Сплетённый{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="vXvuViMT" text="{.MI}Временный{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_vc_enchant_chilling_hand" text="{.FI}Леденящий{.aj} {.FI}Рука{.nn}" />
-    <string id="tzoARfAm" text="{.FI}Тяжёлый{.ajp} {.FI}полукопья{.nnp} дружины" />
+    <string id="tzoARfAm" text="{.FI}Тяжёлая{.aj} дружинная{.aj} {.FI}пика{.nn}" />
     <string id="z6eTba5h" text="{.MI}Тяжёлый{.aj} насальный{.aj} {.MI}Шлем{.nn} поверх Сшитой Ткани" />
     <string id="str_tor_books_gunpowder_001" text="«Замок, ствол и дуло: полевый{.aj} {.NI}руководство{.nn} для мушкетёра»" />
     <string id="L7qYlJqn" text="{.MI}Лесный{.ajp} {.MI}сапоги{.nnp}" />
@@ -773,12 +773,12 @@
     <string id="kNDbSy6K" text="{.MI}Укреплённый{.aj} каплевидный{.aj} {.MI}Щит{.nn} Кавалерии" />
     <string id="2qisE5ys" text="{.MI}Котелок{.nn} поверх набитого чепца" />
     <string id="1mCmYNl6" text="{.MI}Полемический{.aj} {.MI}меч{.nn}" />
-    <string id="VbAHQ1BS" text="{.NI}Длинный{.aj} шкурный{.aj} {.NI}пальто{.nn}" />
+    <string id="VbAHQ1BS" text="{.FI}Длинная{.aj} меховая{.aj} {.FI}шуба{.nn}" />
     <string id="vDvj5zkG" text="{.MI}Гнев{.nn} Ветров" />
     <string id="IOOTPpYj" text="{.MI}Кожаный{.ajp} {.MI}сапоги{.nnp} с меховой окантовкой" />
     <string id="faiiCbbS" text="{.MI}Спарринговый{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="rSEXAMUx" text="{.MI}Шлем{.nn} легионера" />
-    <string id="mMtKWolp" text="{.FI}Гребенчатый{.aj} {.FI}сабля{.nn} великанша" />
+    <string id="mMtKWolp" text="{.FI}Гребенчатая{.aj} великая{.aj} {.FI}сабля{.nn}" />
     <string id="rF7Xm7C0" text="{.MI}Тяжёлый{.aj} геральдический{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_emp_enchant_chamon_feathers_lead" text="{.NI}Перья{.nnp} в свинец" />
     <string id="O37kzdXO" text="{.FI}Лёгкий{.aj} {.FI}упряжь{.nn}" />
@@ -786,27 +786,27 @@
     <string id="4n6n3KL7" text="{.FI}Пустынный{.aj} головный{.aj} {.FI}повязка{.nn}" />
     <string id="sJ1R62Tn" text="{.MI}Шлем{.nn} с перьями" />
     <string id="2MdVVkVL" text="{.FI}Котелок-шапка{.nn} поверх набитого коифа" />
-    <string id="b8AgXwbL" text="{.FI}Широкий{.aj} {.FI}арминг-сабля{.nn}" />
+    <string id="b8AgXwbL" text="{.MI}Широкий{.aj} {.MI}арминг-меч{.nn}" />
     <string id="pmabPgC0" text="{.MI}Племенной{.aj} степной{.aj} {.MI}щит{.nn}" />
-    <string id="Vqu67a3b" text="{.FI}Шерсть{.nn}" />
+    <string id="Vqu67a3b" text="{.MI}Шёлк-сырец{.nn}{@Plural}{.MI}Рулоны шёлка{\@}" />
     <string id="4KZekKff" text="{.MI}Связанный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="0e17RZrZ" text="{.MI}Арбалет{.nn}" />
-    <string id="whvMZZba" text="{.MI}Защищенный{.ajp} латный{.ajp} {.MI}наплечники{.nnp}" />
+    <string id="whvMZZba" text="{.MI}Стёганые{.ajp} {.MI}наручи{.nnp} с защитой" />
     <string id="str_tor_learn_bret_blessing_fey_guidance" text="{.NI}Наставление{.nn} Феи" />
     <string id="str_tor_learn_emp_enchant_hysh_providence" text="{.NI}Провидение{.nn} Гиша" />
-    <string id="3bqwOJ8z" text="{.FI}Перевернутый{.aj} меховый{.aj} {.FI}шапка{.nn}" />
+    <string id="3bqwOJ8z" text="{.FI}Меховая{.aj} {.FI}шапка{.nn} с заломом" />
     <string id="str_tor_learn_we_enchant_leylines_weave" text="Линии Магии и {.FI}Ткань{.nn}" />
-    <string id="jfWzICId" text="{.MI}Полый{.aj} длинный{.aj} {.MI}меч{.nn} войны" />
+    <string id="jfWzICId" text="{.MI}Длинный{.aj} боевой{.aj} {.MI}меч{.nn} с долом" />
     <string id="DOYS7dmq" text="{.MI}Кожаный{.ajp} {.MI}напульсники{.nnp} с ремнями" />
-    <string id="MKT5IzWm" text="{.FI}Толсторукавный{.aj} {.FI}ряса{.nn}" />
+    <string id="MKT5IzWm" text="{.FI}Ряса{.nn} с толстыми рукавами" />
     <string id="xqE9aycc" text="{.FI}Лесный{.ajp} {.FI}обмотки{.nnp} для ног" />
     <string id="2KQbV4To" text="{.FI}Шуба{.nn} купца" />
     <string id="5c4cHL9Z" text="{.MI}Боевой{.aj} {.MI}венец{.nn} степей" />
     <string id="ZsaukY0N" text="{.MI}Арминг-меч{.nn} с кругом" />
     <string id="uUGAMReu" text="{.MI}Изящный{.ajp} городский{.ajp} {.MI}сапоги{.nnp}" />
-    <string id="bz5lXkHS" text="{.MI}Безрукавный{.aj} подбитый{.aj} короткий{.aj} {.MI}плащ{.nn}" />
+    <string id="bz5lXkHS" text="{.FI}Стёганая{.aj} безрукавная{.aj} короткая{.aj} {.FI}куртка{.nn}" />
     <string id="F4xD8gjJ" text="{.FI}Франческа{.nn}" />
-    <string id="OvlG2Vu1" text="{.FI}Грубый{.aj} {.FI}бриандина{.nn}" />
+    <string id="OvlG2Vu1" text="{.FI}Грубая{.aj} {.FI}бригантина{.nn}" />
     <string id="str_tor_learn_we_enchant_emissaries_mirai" text="{.MA}Посланники{.nnp} Мирая" />
     <string id="45kZUyjh" text="{.FI}Оливки{.nnp}" />
     <string id="BryUh6yQ" text="{.MI}Стальной{.aj} {.MI}шлем{.nn}" />
@@ -818,24 +818,24 @@
     <string id="WpdmIlU5" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} с железной каймой" />
     <string id="str_tor_tradegood_dragonblood" text="{.FI}Кровь{.nn} Дракона" />
     <string id="E5b3gc6R" text="{.MI}Бронзовый{.aj} тюрбанный{.aj} {.MI}шлем{.nn} с кожаными клапанами" />
-    <string id="BUlmMbgH" text="{.MI}Круглый{.aj} котлетный{.aj} {.MI}шлем{.nn}" />
+    <string id="BUlmMbgH" text="{.FI}Круглая{.aj} {.FI}капеллина{.nn}" />
     <string id="iE9JNuZI" text="{.MI}Круглый{.aj} степной{.aj} {.MI}щит{.nn}" />
-    <string id="UsOgGylA" text="{.MI}Чугунный{.aj} {.MI}шлем{.nn} с кольчугой" />
-    <string id="bcjcw1o9" text="{.MI}Топор{.nn} Разрубающий Дерево" />
+    <string id="UsOgGylA" text="{.FI}Капеллина{.nn} с кольчугой" />
+    <string id="bcjcw1o9" text="{.MI}Колун{.nn}" />
     <string id="str_tor_learn_we_enchant_arcane_bodkins" text="{.MI}Арканный{.ajp} {.MI}наконечники{.nnp}" />
-    <string id="OLTUHPaD" text="{.FI}Тонкий{.aj} стальный{.aj} {.FI}парамерия{.nn}" />
+    <string id="OLTUHPaD" text="{.MI}Тонкий{.aj} стальной{.aj} {.MI}парамерион{.nn}" />
     <string id="lB4UF1GT" text="{.FI}Длинная{.nn} туника" />
-    <string id="BqAUrOpn" text="{.MI}Легкий{.ajp} {.MI}наконечники{.nnp} для стрел" />
+    <string id="BqAUrOpn" text="{.FI}Лёгкие{.ajp} гранёные{.ajp} {.FI}стрелы{.nnp}" />
     <string id="axaK9y6E" text="{.MI}Закрытый{.aj} {.MI}шлем{.nn} рыцаря" />
     <string id="DC0qJkVs" text="{.FI}Тупый{.ajp} {.FI}стрелы{.nnp}" />
     <string id="77RIGK7B" text="{.MI}Кольчужный{.aj} {.MI}капюшон{.nn}" />
     <string id="MedDPUNh" text="{.MA}Дестиер{.nn}" />
     <string id="2SUb8jNP" text="{.FI}Упряжь{.nn} для мула с корзинами" />
     <string id="str_tor_tradegood_amber_crystal" text="{.MI}Янтарный{.aj} {.MI}Кристалл{.nn}" />
-    <string id="tEimkEsU" text="{.MI}Кислевский{.aj} короткий{.aj} {.MI}лук{.nn}" />
+    <string id="tEimkEsU" text="{.MI}Норсский{.aj} короткий{.aj} {.MI}лук{.nn}" />
     <string id="beVFwINO" text="{.MI}Деревянный{.aj} {.MI}Молот{.nn}" />
     <string id="Pqua61u8" text="{.MI}Рифлёный{.aj} {.MI}шлем{.nn} вождя" />
-    <string id="hRHPPQQP" text="{.FI}Обмотанный{.aj} {.FI}повязка{.nn} на голову" />
+    <string id="hRHPPQQP" text="{.FI}Обмотанная{.aj} {.FI}повязка{.nn} на голову" />
     <string id="Wj98Otmo" text="{.MA}Степной{.aj} {.MA}скакун{.nn}" />
     <string id="aYoIrpe0" text="{.MI}Застёжный{.ajp} кольчужный{.ajp} {.MI}поножи{.nnp}" />
     <string id="GD4aQgl7" text="{.FA}Овца{.nn}" />
@@ -843,7 +843,7 @@
     <string id="elTXYb9f" text="{.MI}Клинк{.nn} фалкс" />
     <string id="NMSEAA4A" text="{.NI}Платье{.nn} с мехом" />
     <string id="x0x1gIbT" text="{.FI}Ранний{.aj} {.FI}Отставка{.nn}" />
-    <string id="fUmehyHq" text="{.MI}Тканый{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
+    <string id="fUmehyHq" text="{.MI}Плетёные{.ajp} кожаные{.ajp} {.MI}наручи{.nnp}" />
     <string id="RraboU6p" text="{.MI}Обмотанный{.aj} {.MI}шлем{.nn} с кольчугой-кафой" />
     <string id="ONaWEKSy" text="{.MI}Насальный{.aj} {.MI}шлем{.nn} поверх кожи" />
     <string id="7b8Cwogx" text="{.FI}Акетонка{.nn}" />
@@ -881,9 +881,9 @@
     <string id="str_tor_dw_artillery_cannon_001" text="{.NI}Дворфский{.aj} {.NI}орудие{.nn}" />
     <string id="OKn90ad7" text="{.MA}Имперский{.aj} {.MA}Скакун{.nn}" />
     <string id="whiQg21b" text="{.MI}Роскошный{.aj} {.MI}кафтан{.nn}" />
-    <string id="pEaYQqG9" text="{.MI}Корзиновый{.aj} квадратный{.aj} {.MI}баклер{.nn}" />
+    <string id="pEaYQqG9" text="{.MI}Плетёный{.aj} квадратный{.aj} {.MI}щит{.nn}" />
     <string id="S9htzkbe" text="{.FI}Мерчантский{.aj} {.FI}шляпа{.nn}" />
-    <string id="kR1blV2k" text="{.NI}Зубчатый{.aj} военный{.aj} {.NI}копьё{.nn}" />
+    <string id="kR1blV2k" text="{.FI}Зазубренные{.ajp} военные{.ajp} {.FI}вилы{.nnp}" />
     <string id="str_tor_learn_emp_enchant_azyr_whisper" text="{.MI}Шёпот{.nn} Азир" />
     <string id="QnyD1yWB" text="{.MI}Северный{.aj} широкий{.aj} {.MI}топор{.nn}" />
     <string id="1BXuUR3s" text="{.MI}Длинный{.aj} {.MI}гамбезон{.nn} пехотинца" />
@@ -901,7 +901,7 @@
     <string id="yCvBx27Z" text="{.NI}Порезанный{.aj} {.NI}копье{.nn}" />
     <string id="str_tor_book_rougery_001" text="{.FI}Рейдерские{.nnp} тени: Легенды" />
     <string id="uRsU67qC" text="{.MI}Бронзовый{.aj} южный{.aj} {.MI}шлем{.nn}" />
-    <string id="D358wBWJ" text="{.FI}Тяжёлый{.aj} ламеллярный{.aj} {.FI}броня{.nn} поверх камзола" />
+    <string id="D358wBWJ" text="{.MI}Тяжёлый{.aj} ламеллярный{.aj} {.MI}доспех{.nn} поверх кольчуги" />
     <string id="str_tor_tradegood_arcane_scroll" text="{.MI}Арканский{.aj} {.MI}свиток{.nn}" />
     <string id="hab2DsOW" text="{.MI}Килт{.nn} из клетки поверх штанин" />
     <string id="WzAJJQjP" text="{.MI}Пустынный{.aj} круглый{.aj} {.MI}щит{.nn}" />
@@ -923,7 +923,7 @@
     <string id="4eOHPops" text="{.FI}Массивный{.aj} чешуйчатый{.aj} {.FI}броня{.nn}" />
     <string id="20moIxs1" text="{.MI}Котелок{.nn} поверх шнурованного капюшона" />
     <string id="ha3rVEzP" text="{.MI}Рифленый{.aj} {.MI}Меч{.nn} С Наконечником" />
-    <string id="LoUxaFeE" text="{.MI}Кожаный{.ajp} {.MI}наколенники{.nnp}" />
+    <string id="LoUxaFeE" text="{.MI}Кожаные{.ajp} {.MI}наручи{.nnp}" />
     <string id="str_tor_learn_bret_blessing_eerie_touch" text="{.NI}Прикосновение{.nn} Эри" />
     <string id="str_tor_learn_we_enchant_touch_lileath" text="{.NI}Прикосновение{.nn} Лилеат" />
     <string id="uEcbnd5D" text="{.MI}Круглый{.aj} {.MI}щит{.nn}" />
@@ -935,7 +935,7 @@
     <string id="BvLhPmdK" text="{.MA}Королевский{.aj} {.MA}дестиер{.nn}" />
     <string id="WF14UrdR" text="{.FI}Золотый{.aj} лавровый{.aj} {.FI}корона{.nn}" />
     <string id="str_tor_book_leadership_001" text="{.MI}Трактат{.nn} о искусстве командования" />
-    <string id="KRuZuMFI" text="{.FA}Судьба{.nn}" />
+    <string id="KRuZuMFI" text="{.FA}Гибель{.nn}" />
     <string id="I67Avuos" text="{.FI}Лёгкий{.ajp} {.FI}стрелы{.nnp}" />
     <string id="Tp7zXWGa" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх набивного капюшона" />
     <string id="frwBm3Oh" text="{.FI}Тканевый{.aj} {.FI}повязка{.nn} на голову" />
@@ -949,7 +949,7 @@
     <string id="8hDoWBIa" text="{.FI}Куртка{.nn} простого человека" />
     <string id="atu9tCq8" text="{.NI}Сшитый{.aj} {.NI}платье{.nn}" />
     <string id="1GpTOIqU" text="{.MI}Котелок{.nn} поверх набивного коифа" />
-    <string id="qGzZ78bM" text="{.FI}Пробитый{.ajp} кожаный{.ajp} {.FI}полосы{.nnp}" />
+    <string id="qGzZ78bM" text="{.FI}Клёпаные{.ajp} кожаные{.ajp} {.FI}полосы{.nnp}" />
     <string id="Yh7Dorsr" text="{.FI}Полосатый{.aj} кожаный{.aj} {.FI}упряжь{.nn}" />
     <string id="SDBvC0ON" text="{.MI}Иглообразный{.aj} боевой{.aj} {.MI}топор{.nn}" />
     <string id="URZVE5aK" text="{.MI}Бронзовый{.ajp} {.MI}наплечники{.nnp} с воротником-гардой" />
@@ -993,7 +993,7 @@
     <string id="str_tor_learn_we_enchant_swift_shiver" text="{.MI}Осколки{.nnp} «Быстрый холод»" />
     <string id="YxglkaXU" text="{.MI}Белый{.aj} {.MI}табард{.nn} поверх кольчужной куртки" />
     <string id="1cYka5tR" text="{.MI}Безрукавный{.aj} меховой{.aj} {.MI}плащ{.nn}" />
-    <string id="4AfHO0BA" text="{.FI}Броня{.nn} из шипованной кожи без рукавов" />
+    <string id="4AfHO0BA" text="{.FI}Безрукавная{.aj} клёпаная{.aj} меховая{.aj} {.FI}броня{.nn}" />
     <string id="tMwsE9IR" text="{.MI}Замшевый{.ajp} {.MI}сапоги{.nnp} с ремнями" />
     <string id="mzvtFPPi" text="{.MI}Костолом{.nn}" />
     <string id="RU2EppgI" text="{.FI}Дамский{.ajp} {.FI}туфли{.nnp}" />
@@ -1023,7 +1023,7 @@
     <string id="qo8hwDNU" text="{.MI}Грубый{.aj} меховой{.aj} {.MI}доспех{.nn}" />
     <string id="SxqSJK8h" text="{.MI}Мокасины{.nnp}" />
     <string id="4vB2SPZa" text="{.MI}Королевский{.aj} катафрактный{.aj} {.MI}шлем{.nn}" />
-    <string id="GTaxqBcv" text="{.MI}Классический{.ajp} лёгкий{.ajp} {.MI}доспехи{.nnp} Тилея" />
+    <string id="GTaxqBcv" text="{.MI}Вспомогательный{.aj} {.MI}доспех{.nn}" />
     <string id="ufnnUxKb" text="{.FI}Кожа{.nn}" />
     <string id="Jkd2gmyj" text="{.NI}Треугольный{.aj} {.NI}копье{.nn}" />
     <string id="PL5SG9hI" text="{.FI}Кожаный{.aj} чешуйчатый{.aj} {.FI}броня{.nn}" />
@@ -1043,7 +1043,7 @@
     <string id="str_tor_learn_emp_enchant_chamon_transmutation" text="{.FI}Метаморфоза{.nn} Шамона" />
     <string id="cRCkC36E" text="{.MI}Короткий{.aj} {.MI}меч{.nn}" />
     <string id="H9hzBJz3" text="{.NI}Тренировочный{.aj} {.NI}Копьё{.nn}" />
-    <string id="VucrovFw" text="{.MI}Гравированный{.aj} обратный{.aj} {.MI}Меч{.nn}" />
+    <string id="VucrovFw" text="{.MI}Гравированный{.aj} {.MI}палаш{.nn}" />
     <string id="str_tor_learn_dw_rune_striking" text="{.FI}Руна{.nn} Ударов" />
     <string id="str_tor_learn_dw_master_rune_adamant" text="{.FI}Мастер-Руна{.nn} Адаманта" />
     <string id="d8DrtmwP" text="{.MI}Шлем{.nn} с закрытым лицом поверх кольчужного капюшона" />
@@ -1059,12 +1059,12 @@
     <string id="Kgnm0FkE" text="{.FI}Кожаный{.ajp} {.FI}туфли{.nnp}" />
     <string id="str_tor_book_spellcraft_002" text="{.MI}Взгляд{.nn} в Окулярный Разлом от Воланса" />
     <string id="JjLQ2VdT" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх подкладочного капюшона" />
-    <string id="VAcSEseI" text="{.FI}Широкий{.aj} полый{.aj} широкий{.aj} {.FI}арминг-сабля{.nn}" />
+    <string id="VAcSEseI" text="{.MI}Широкий{.aj} {.MI}арминг-меч{.nn} с долом" />
     <string id="oXrbTRJo" text="{.MA}Жнец{.nn}" />
     <string id="yfjqWrUx" text="{.FI}Одежда{.nn} лесного общинника" />
     <string id="TxAYmCjr" text="{.MI}Насальный{.aj} {.MI}шлем{.nn} с кожей" />
     <string id="S1XL4KJh" text="{.FI}Толстый{.aj} роскошный{.aj} {.FI}куртка{.nn}" />
-    <string id="wE7RWmIF" text="{.FI}Шуба{.nn} из свиной кожи" />
+    <string id="wE7RWmIF" text="{.FI}Куртка{.nn} из кабаньей кожи" />
     <string id="wxL5TdDv" text="{.FI}Булава{.nn} милиции" />
     <string id="eWf7bFGo" text="{.MI}Шкурный{.aj} {.MI}доспех{.nn} с ремнем" />
     <string id="BYPhysbH" text="{.NI}Падение{.nn} Рыцарей" />
@@ -1080,7 +1080,7 @@
     <string id="VwQJ4aLY" text="{.MI}Стальной{.aj} пехотный{.aj} {.MI}шлем{.nn}" />
     <string id="gadEbFyj" text="{.FI}Тонкий{.aj} стальный{.aj} {.FI}сабля{.nn}" />
     <string id="mTWvG1xz" text="{.MI}Лук{.nn} рейнджера" />
-    <string id="89bCqb0Z" text="{.MI}Кованый{.aj} квадратный{.aj} турнирный{.aj} {.MI}баклер{.nn}" />
+    <string id="89bCqb0Z" text="{.MI}Плетёный{.aj} квадратный{.aj} турнирный{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_learn_dw_rune_impact" text="{.FI}Руна{.nn} Урона" />
     <string id="hRKmfw2H" text="{.MI}Тяжёлый{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="ZLpYFYXo" text="{.NI}Пилеобразный{.aj} {.NI}копьё{.nn} из тонкой стали" />
@@ -1104,15 +1104,15 @@
     <string id="9efOcFRL" text="{.MI}Свободный{.aj} головной{.aj} {.MI}платок{.nn}" />
     <string id="8ndLVeN0" text="{.MI}Деревянный{.aj} каплевидный{.aj} {.MI}Щит{.nn}" />
     <string id="q1z4FQub" text="{.NI}Седло{.nn} для верблюда" />
-    <string id="uSBxV2Ob" text="{.MI}Прямоугольный{.aj} битый{.aj} {.MI}топор{.nn}" />
+    <string id="uSBxV2Ob" text="{.MI}Прямоугольный{.aj} {.MI}топор{.nn} с остриём" />
     <string id="ebPu5G8o" text="{.MI}Шлем{.nn} мамлюка с кольчугой" />
     <string id="bohbzGjg" text="{.FI}Украшенный{.aj} {.FI}сабля{.nn} с широкой рукоятью" />
-    <string id="WVqaRKUm" text="{.FI}Вата{.nn}" />
+    <string id="WVqaRKUm" text="{.FI}Шерсть{.nn}{@Plural}{.MI}Тюки шерсти{\@}" />
     <string id="vsavMoLZ" text="{.MI}Сегментированный{.aj} {.MI}шлем{.nn} поверх подкладочной ткани" />
     <string id="Rhfp7ath" text="{.MI}Остроконечный{.aj} {.MI}шлем{.nn} поверх связанного капюшона" />
     <string id="FAPHmzxQ" text="{.MI}Тхауб{.nn}" />
     <string id="hjYFbvcy" text="{.MI}Лесной{.aj} {.MI}плащ{.nn}" />
-    <string id="iAWzr8Q0" text="{.FI}Кожаный{.aj} {.FI}броня{.nn} с кольчугой" />
+    <string id="iAWzr8Q0" text="{.FI}Полосчатая{.aj} кожаная{.aj} {.FI}броня{.nn} поверх кольчуги" />
     <string id="Oub0aVl3" text="{.MI}Выделанный{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="NEupkuqV" text="{.MI}Пустынный{.aj} {.MI}платок{.nn}" />
     <string id="6QI8X6CY" text="{.FI}Легкий{.aj} {.FI}булава{.nn} с фаской" />
@@ -1125,7 +1125,7 @@
     <string id="str_tor_learn_asrai_enchant_trance_loec" text="{.MI}Транс{.nn} Лоэка" />
     <string id="3Z91Nxbf" text="{.MI}Шпильхельм{.nn} с кожей" />
     <string id="6Db7aDbF" text="{.FI}Стрелы{.nnp} баллисты" />
-    <string id="Cdecpigb" text="{.MA}Родной{.aj} {.MA}Стургианец{.nn}" />
+    <string id="Cdecpigb" text="{.MA}Стурджийский{.aj} местный{.aj} {.MA}конь{.nn}" />
     <string id="str_tor_books_engineering_002" text="{.NI}Чудо{.nn} эпохи" />
     <string id="IX3kafcb" text="{.MI}Железный{.aj} шипованный{.aj} {.MI}котелок{.nn} поверх кольчуги" />
     <string id="yDykmlS7" text="{.FI}Тога{.nn} из клетки" />
@@ -1141,19 +1141,19 @@
     <string id="SYvBTD0p" text="{.MI}Полный{.aj} {.MI}шлем{.nn} поверх ткановой повязки на голову" />
     <string id="str_tor_learn_emp_enchant_shyish_pall" text="{.NI}Благословение{.nn} Шыша: Палл" />
     <string id="str_tor_learn_emp_blessing_ulric_wrath" text="{.MI}Гнев{.nn} Ульрика" />
-    <string id="xlLoyxXT" text="{.FI}Лёгкий{.aj} ламеллярный{.aj} {.FI}броня{.nn}" />
+    <string id="xlLoyxXT" text="{.FI}Лёгкая{.aj} ламеллярная{.aj} {.FI}броня{.nn}" />
     <string id="str_tor_learn_gs_enchant_shadow_bad_moon" text="{.FI}Тень{.nn} Злого Луны" />
     <string id="ZFETxZKP" text="{.FI}Кефия{.nn} с шелковой лентой" />
     <string id="bVzkrtUc" text="{.MI}Пугио{.nn}" />
-    <string id="CLYcnUra" text="{.FI}Замшевый{.aj} {.FI}кираса{.nn} с ремнем" />
+    <string id="CLYcnUra" text="{.FI}Кожаная{.aj} {.FI}кираса{.nn} с ремнями" />
     <string id="N28bDEhh" text="{.NI}Копьё{.nn} из хорошей стали для рубящих ударов" />
-    <string id="Bl72Ribb" text="{.MI}Подушечный{.ajp} {.MI}плечи{.nnp} из кожи" />
-    <string id="xwWYJb5A" text="{.MI}Сложенный{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="Bl72Ribb" text="{.MI}Стёганые{.ajp} кожаные{.ajp} {.MI}наплечники{.nnp}" />
+    <string id="xwWYJb5A" text="{.MI}Складные{.ajp} кожаные{.ajp} {.MI}сапоги{.nnp}" />
     <string id="s7WRzaf2" text="{.MI}Мех{.nn} медведя" />
     <string id="str_tor_learn_emp_blessing_ulric_winterfather_gift" text="{.MI}Дар{.nn} Зимнего Отца" />
-    <string id="PLtQdf23" text="{.FI}Усиленный{.ajp} латный{.ajp} {.FI}перчатки{.nnp}" />
-    <string id="OrEgjXZ1" text="{.FI}Грубовязаный{.aj} {.FI}кефия{.nn}" />
-    <string id="nhaiQ9oX" text="{.MA}Пустынный{.aj} {.MA}Охотник{.nn}" />
+    <string id="PLtQdf23" text="{.FI}Усиленные{.ajp} стёганые{.ajp} {.FI}рукавицы{.nnp}" />
+    <string id="OrEgjXZ1" text="{.FI}Грубоплетёная{.aj} {.FI}куфия{.nn}" />
+    <string id="nhaiQ9oX" text="{.MA}Степной{.aj} {.MA}охотник{.nn}{@Plural}{.MA}степные охотники{\@}" />
     <string id="3daDQxwM" text="{.FI}Стрелы{.nnp} из низин" />
     <string id="hXB6gvD2" text="{.FI}Ламеллярный{.aj} {.FI}рубашка{.nn} из выделанной кожи" />
     <string id="HiSzYWeh" text="{.NI}Пиво{.nn}" />
@@ -1167,48 +1167,48 @@
     <string id="Mm1QAtPx" text="{.MI}Южный{.aj} усиленный{.aj} кольчужный{.aj} {.MI}жилет{.nn}" />
     <string id="C6f64ZyJ" text="{.MI}Усиленный{.ajp} узорчатый{.ajp} {.MI}наплечники{.nnp} поверх чешуи" />
     <string id="FWFDkjBk" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх шнурованного капюшона" />
-    <string id="7D3jvAfS" text="{.FI}Скин-шапка{.nn}" />
+    <string id="7D3jvAfS" text="{.FI}Шапка{.nn} из шкуры" />
     <string id="str_tor_learn_emp_enchant_ghyran_bloom" text="{.NI}Цветение{.nn} Гхьрана" />
-    <string id="Oa4h7TVi" text="{.NI}Платье{.nn} кочевника" />
+    <string id="Oa4h7TVi" text="{.FI}Шапка{.nn} кочевника" />
     <string id="str_tor_learn_emp_enchant_hysh_clarity" text="{.FI}Ясность{.nn} Гиша" />
     <string id="xTyib5ms" text="{.NI}Копье{.nn} с лопастным наконечником" />
     <string id="3UxfT9Bu" text="{.FI}Обмотанный{.aj} кожаный{.aj} {.FI}шапка{.nn}" />
-    <string id="kmdjRAoG" text="{.FI}Сшитый{.aj} тканевый{.aj} {.FI}коффа{.nn}" />
+    <string id="kmdjRAoG" text="{.MI}Тканевый{.aj} {.MI}койф{.nn} со шнуровкой" />
     <string id="dCbrowBV" text="{.FI}Длинный{.aj} тонкий{.aj} стальной{.aj} {.FI}каскара{.nn}" />
     <string id="str_tor_book_hybrid_003" text="Прибрежье вампиров: {.NI}Проклятие{.nn} Лустрии" />
     <string id="VylHwqVq" text="{.MI}Сегментированный{.aj} черепной{.aj} {.MI}колпак{.nn} поверх шнурованного капюшона" />
     <string id="GzgUzrFY" text="{.FI}Кольчужный{.aj} {.FI}рубаха{.nn}" />
-    <string id="NUHzapSv" text="{.FI}Длинная{.nn} льняная туника" />
+    <string id="NUHzapSv" text="{.FI}Длинная{.aj} конопляная{.aj} {.FI}туника{.nn}" />
     <string id="4q69NwNy" text="{.MI}Арминг-меч{.nn} с гардой в виде полумесяца" />
-    <string id="bFm9jOft" text="{.MI}Ременный{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
+    <string id="bFm9jOft" text="{.MI}Кожаные{.ajp} {.MI}сапоги{.nnp} с ремнями" />
     <string id="DbEzJcbD" text="{.MI}Ламеллярный{.ajp} {.MI}наплечники{.nnp}" />
     <string id="YGQ6UXCo" text="{.MI}Горный{.aj} охотничий{.aj} {.MI}лук{.nn}" />
     <string id="str_tor_book_spellcraft_001" text="{.MA}Хранители{.nnp} природы Эровина Грюнфельда" />
-    <string id="Ai7qIb9I" text="{.MI}Малый{.aj} гренадерский{.aj} {.MI}щит{.nn}" />
+    <string id="Ai7qIb9I" text="{.MI}Малый{.aj} каплевидный{.aj} {.MI}щит{.nn}" />
     <string id="yrCoCgJf" text="{.MI}Тяжёлый{.ajp} {.MI}наплечники{.nnp} вождя" />
     <string id="str_tor_learn_we_enchant_blackbriar_kiss" text="{.MI}Поцелуй{.nn} Чёрного Куста" />
     <string id="b2EDkbhD" text="{.MI}Обмотанный{.ajp} {.MI}налокотники{.nnp}" />
-    <string id="I0vRCZ7U" text="{.MI}Масштабный{.ajp} {.MI}напульсники{.nnp} вождя" />
-    <string id="NfFAgMUE" text="{.MI}Кольчужный{.ajp} {.MI}наручи{.nnp} ханов" />
-    <string id="yMi4ijgI" text="{.FI}Подушечный{.aj} {.FI}шапка{.nn} кочевника" />
+    <string id="I0vRCZ7U" text="{.MI}Чешуйчатые{.ajp} {.MI}наручи{.nnp} воеводы" />
+    <string id="NfFAgMUE" text="{.MI}Латные{.ajp} {.MI}наручи{.nnp} хана" />
+    <string id="yMi4ijgI" text="{.MI}Стёганый{.aj} {.MI}капюшон{.nn} кочевника" />
     <string id="GNdVXMue" text="{.MI}Шарф{.nn}" />
     <string id="6WcZ5Tr0" text="{.MI}Кузнечный{.aj} {.MI}молот{.nn}" />
     <string id="str_tor_learn_emp_enchant_ghur_savagery" text="{.FI}Свирепость{.nn} Гхура" />
-    <string id="1jqxlEkT" text="{.FI}Приправа{.nn}" />
+    <string id="1jqxlEkT" text="{.FI}Пряности{.nn}{@Plural}{.MI}Мешки пряностей{\@}" />
     <string id="HclLXEaT" text="{.MI}Кнут{.nn} для лошади" />
     <string id="b56X0QOh" text="{.FA}Вадарский{.aj} горячковый{.aj} {.FA}лошадь{.nn}" />
-    <string id="LzlQUcak" text="{.FI}Усиленный{.aj} кольчужный{.aj} {.FI}попона{.nn}" />
-    <string id="4pqIsPhp" text="{.MI}Подбитый{.aj} короткий{.aj} {.MI}плащ{.nn}" />
+    <string id="LzlQUcak" text="{.FI}Ламеллярная{.aj} {.FI}попона{.nn}" />
+    <string id="4pqIsPhp" text="{.FI}Стёганая{.aj} короткая{.aj} {.FI}куртка{.nn}" />
     <string id="AK0lNDmN" text="{.FI}Драгоценный{.aj} боевый{.aj} {.FI}корона{.nn} с перьями" />
     <string id="u5eafobF" text="{.FI}Имперский{.aj} драгоценный{.aj} {.FI}повязка{.nn}" />
-    <string id="NUmDuEqI" text="{.FI}Имперский{.aj} седельный{.aj} {.FI}упряжь{.nn}" />
-    <string id="GnkKOx5H" text="{.MI}Сегментированный{.aj} {.MI}шлем-капюшон{.nn} поверх тканого капюшона" />
+    <string id="NUmDuEqI" text="{.FI}Имперская{.aj} верховая{.aj} {.FI}упряжь{.nn}" />
+    <string id="GnkKOx5H" text="{.FI}Сегментная{.aj} {.FI}сервельерка{.nn} поверх кольчужного койфа" />
     <string id="str_tor_learn_emp_blessing_shallya_purity" text="{.FI}Чистота{.nn} Шаллии" />
     <string id="Rwp23MLA" text="{.MA}Тренировочный{.nn} клинок" />
     <string id="AdafHtud" text="{.MI}Остроконечный{.aj} {.MI}шлем{.nn} поверх кольчужной шапки" />
-    <string id="8tHbqjmB" text="{.FI}Остроконечный{.aj} меховый{.aj} {.FI}шапка{.nn}" />
+    <string id="8tHbqjmB" text="{.MI}Остроконечный{.aj} меховой{.aj} {.MI}капюшон{.nn}" />
     <string id="dkuzrKJF" text="{.FI}Хороший{.aj} {.FI}пика{.nn}" />
-    <string id="7uJkrHeg" text="{.FI}Плечевый{.aj} женский{.aj} {.FI}куртка{.nn}" />
+    <string id="7uJkrHeg" text="{.FI}Женская{.aj} {.FI}куртка{.nn} с передником" />
     <string id="Dj64aJKQ" text="{.MI}Крюк-топор{.nn}" />
     <string id="bdpjqoGe" text="{.FI}Сегментированный{.aj} {.FI}шлемница{.nn} поверх кольчуги" />
     <string id="zQv3w264" text="{.MI}Подушечный{.aj} половинчатый{.aj} {.MI}капюшон{.nn}" />
@@ -1217,8 +1217,8 @@
     <string id="Kv4zAMIh" text="{.FI}Катафрактовый{.aj} {.FI}булава{.nn}" />
     <string id="str_tor_empire_artillery_cannon_001" text="{.NI}Орудие{.nn}" />
     <string id="str_tor_learn_emp_enchant_ghyran_cloak" text="{.MI}Плащ{.nn} Гхьрана" />
-    <string id="EbWA5mcO" text="{.FI}Спарринговая{.nn} билхук" />
-    <string id="GyYsQlVd" text="{.MI}Классический{.aj} украшенный{.aj} тилейский{.aj} короткий{.aj} {.MI}меч{.nn}" />
+    <string id="EbWA5mcO" text="{.MI}Тренировочный{.aj} {.MI}крюк-косарь{.nn}" />
+    <string id="GyYsQlVd" text="{.FI}Украшенная{.aj} короткая{.aj} {.FI}спата{.nn}" />
     <string id="wvnJzwbU" text="{.MI}Латный{.aj} {.MI}шлем{.nn} вождя" />
     <string id="IIzhL9gt" text="{.MA}Воинский{.aj} {.MA}конь{.nn}" />
     <string id="mBVCyRY5" text="{.FI}Украшенный{.aj} легиярный{.aj} {.FI}кольчуга{.nn}" />
@@ -1242,37 +1242,37 @@
     <string id="p9cQARqf" text="{.MI}Кольчужный{.aj} {.MI}доспех{.nn} знатного рода" />
     <string id="DhHBBpPf" text="{.MI}Простый{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
     <string id="O8TpGSDA" text="{.MI}Бархат{.nn}" />
-    <string id="e9BpfZ9L" text="{.MI}Шлем{.nn} поверх ткановой повязки на голову" />
+    <string id="e9BpfZ9L" text="{.FI}Сервельерка{.nn} поверх тканевой повязки" />
     <string id="1zFYpSSY" text="{.MI}Окантованный{.aj} украшенный{.aj} стальной{.aj} {.MI}шлем{.nn} с боковыми щитками" />
     <string id="ZhcOdFgK" text="{.MI}Роскошный{.aj} головной{.aj} {.MI}платок{.nn}" />
     <string id="str_tor_learn_emp_enchant_shyish_blight" text="{.NI}Благословение{.nn} Шийша: Бич" />
-    <string id="YFg8x5QC" text="{.MI}Пернатый{.aj} {.MI}Шпангенхельм{.nn} поверх Капюльона" />
+    <string id="YFg8x5QC" text="{.MI}Пернатый{.aj} {.MI}шпангельм{.nn} поверх капюшона" />
     <string id="str_tor_learn_emp_enchant_aqshy_rage" text="{.MI}Гнев{.nn} Акши" />
-    <string id="KRhIG1cw" text="{.MI}Больший{.aj} {.MI}фанциска-топор{.nn}" />
-    <string id="ac9xJt2X" text="{.MI}Тяжёлый{.aj} насальный{.aj} {.MI}Шлем{.nn} поверх Подкладки" />
+    <string id="KRhIG1cw" text="{.FI}Большая{.aj} {.FI}франциска{.nn}" />
+    <string id="ac9xJt2X" text="{.MI}Тяжёлый{.aj} {.MI}шлем с наносником{.nn} поверх поддоспешника" />
     <string id="zVieddxB" text="{.MI}Южный{.ajp} усиленный{.ajp} короткий{.ajp} кольчужный{.ajp} {.MI}доспехи{.nnp}" />
     <string id="O3TTXEFe" text="{.MI}Лёгкий{.aj} каплевидный{.aj} {.MI}Щит{.nn} Кавалерии" />
-    <string id="VcbEaV7T" text="{.MI}Котелок{.nn} поверх набитой ткани" />
+    <string id="VcbEaV7T" text="{.FI}Капеллина{.nn} поверх стёганой ткани" />
     <string id="steppebowitem" text="{.MI}Степной{.aj} {.MI}лук{.nn}" />
-    <string id="Uo2t80GH" text="{.FI}Украшенный{.ajp} стальный{.ajp} ламеллярный{.ajp} {.FI}наплечные{.nnp} пластины" />
-    <string id="fwxHsC1h" text="{.MI}Легкий{.aj} набивной{.aj} {.MI}доспех{.nn} поверх туники" />
+    <string id="Uo2t80GH" text="{.FI}Украшенные{.ajp} стальные{.ajp} ламеллярные{.ajp} {.FI}наплечные пластины{.nnp}" />
+    <string id="fwxHsC1h" text="{.MI}Лёгкий{.aj} стёганый{.aj} {.MI}доспех{.nn} поверх туники" />
     <string id="w6EU77OH" text="{.MI}Степной{.aj} рекурсивный{.aj} {.MI}лук{.nn}" />
     <string id="1oQWbXJw" text="{.MI}Рыбный{.aj} {.MI}гарпун{.nn}" />
-    <string id="qrCVMyEk" text="{.FI}Грубый{.aj} {.FI}кольчуга{.nn}" />
+    <string id="qrCVMyEk" text="{.FI}Грубая{.aj} чешуйчатая{.aj} {.FI}кольчуга{.nn}" />
     <string id="nZ2MJWhM" text="{.MI}Племенной{.aj} {.MI}тюрбан{.nn}" />
-    <string id="QA5zGCKf" text="{.MI}Украшенный{.aj} {.MI}Меч{.nn} с Полостью" />
-    <string id="tQw4Zfwu" text="{.MI}Остриённый{.aj} {.MI}фальшион{.nn}" />
-    <string id="9ZiUK3JJ" text="{.MI}Широкий{.aj} двуручный{.aj} {.MI}меч{.nn} с вырезом" />
+    <string id="QA5zGCKf" text="{.MI}Украшенный{.aj} {.MI}меч{.nn} с долом" />
+    <string id="tQw4Zfwu" text="{.MI}Заострённый{.aj} {.MI}фальшион{.nn}" />
+    <string id="9ZiUK3JJ" text="{.MI}Широкий{.aj} двуручный{.aj} {.MI}меч{.nn} с долом" />
     <string id="str_tor_learn_emp_enchant_hysh_timewarp" text="{.NI}Искажение{.nn} времени Гиша" />
-    <string id="udQSdRXR" text="Искрящаяся {.FI}корона{.nn}" />
+    <string id="udQSdRXR" text="{.FI}Драгоценная{.aj} {.FI}корона{.nn}" />
     <string id="e3nslzlA" text="{.MI}Пернатый{.aj} {.MI}спангенхельм{.nn} поверх кожи" />
-    <string id="J3YHMkL3" text="{.FI}Подушечный{.ajp} {.FI}перчатки{.nnp}" />
-    <string id="dWr3nuBq" text="{.MI}Укреплённый{.aj} капилевидный{.aj} {.MI}щит{.nn} с железной каймой" />
-    <string id="0SpLcthg" text="{.MI}Высокогорный{.aj} {.MI}клюк{.nn} с шипами" />
-    <string id="ppiy9Cwl" text="{.NI}Широколезвийный{.aj} {.NI}копьё{.nn}" />
+    <string id="J3YHMkL3" text="{.FI}Стёганые{.ajp} {.FI}рукавицы{.nnp}" />
+    <string id="dWr3nuBq" text="{.MI}Укреплённый{.aj} каплевидный{.aj} {.MI}щит{.nn} с железной окантовкой" />
+    <string id="0SpLcthg" text="{.FI}Высокогорная{.aj} {.FI}дубинка{.nn} с шипами" />
+    <string id="ppiy9Cwl" text="{.MI}Дротик{.nn} с широким лезвием" />
     <string id="cmuMaYGR" text="{.MA}Тренировочный{.nn} длинный лук" />
     <string id="str_tor_learn_dw_rune_shielding" text="{.FI}Руна{.nn} Щита" />
-    <string id="XU9WgcIO" text="{.FI}Усиленный{.aj} замшевый{.aj} {.FI}броня{.nn}" />
+    <string id="XU9WgcIO" text="{.FI}Усиленная{.aj} замшевая{.aj} {.FI}броня{.nn}" />
     <string id="VXFwEF3M" text="{.MI}Пилигримский{.aj} {.MI}капюшон{.nn}" />
     <string id="ectdzWNx" text="{.MI}Тяжёлый{.aj} клетчатый{.aj} {.MI}шарф{.nn}" />
     <string id="str_tor_book_trade_001" text="{.FI}Тайны{.nnp} торговли Суиддока" />
@@ -1281,7 +1281,7 @@
     <string id="str_tor_learn_dw_rune_clear_sights" text="{.FI}Руна{.nn} Ясного Зрения" />
     <string id="7MlFqkJ8" text="{.MI}Временный{.aj} каплевидный{.aj} {.MI}Щит{.nn} Рыцаря" />
     <string id="cEhDJAQp" text="{.MI}Гамбезон{.nn} пехотинца с подолом" />
-    <string id="YGndAhTr" text="{.NI}Утяжеленный{.aj} степный{.aj} {.NI}копьё{.nn}" />
+    <string id="YGndAhTr" text="{.NI}Утяжелённое{.aj} степное{.aj} {.NI}копьё{.nn}" />
     <string id="ap2yulQ2" text="{.MI}Плоский{.aj} гренадерский{.aj} {.MI}щит{.nn}" />
     <string id="VqCS28U1" text="{.MA}Мул{.nn}" />
     <string id="ygfhbfr0" text="{.MI}Шипованный{.aj} {.MI}шлем{.nn}" />
@@ -1290,7 +1290,7 @@
     <string id="XuwQvSDo" text="{.MI}Железный{.aj} круглый{.aj} {.MI}котелок{.nn} поверх кольчуги" />
     <string id="62nIvqbA" text="{.MI}Бретонский{.aj} горный{.aj} {.MI}клинок{.nn}" />
     <string id="str_tor_learn_dw_rune_stone" text="{.FI}Руна{.nn} Камня" />
-    <string id="BACi0kaM" text="{.NI}Спарринговый{.aj} {.NI}копье{.nn} с зубцами" />
+    <string id="BACi0kaM" text="{.NI}Тренировочное{.aj} зазубренное{.aj} {.NI}копьё{.nn}" />
     <string id="HJdIkdm2" text="{.MI}Толстый{.aj} {.MI}шарф{.nn}" />
     <string id="KoyU5yeY" text="{.MI}Окантованный{.aj} украшенный{.aj} бронзовый{.aj} {.MI}шлем{.nn} с боковыми щитками" />
     <string id="LzqugHen" text="{.MI}Скальпель{.nn}" />
@@ -1302,20 +1302,20 @@
     <string id="tiTTWhpW" text="{.FI}Подбитый{.aj} кожаный{.aj} {.FI}рубаха{.nn}" />
     <string id="zf2GUNfh" text="{.MI}Узорчатый{.ajp} кожаный{.ajp} {.MI}наплечники{.nnp} из ламеллярной брони" />
     <string id="wQY1oqdK" text="{.MI}Рифленый{.aj} украшенный{.aj} стальной{.aj} {.MI}шлем{.nn} с боковыми щитками" />
-    <string id="E3XTFDXt" text="{.MI}Шлем{.nn} с очками поверх кожи" />
+    <string id="E3XTFDXt" text="{.MI}Шлем{.nn} с очками поверх кожаной подкладки" />
     <string id="zH0QF7mE" text="{.NI}Копье{.nn} с наконечником-шаром и бахромой" />
-    <string id="qILO0HdK" text="{.FI}Бесрукавный{.ajp} облегающий{.ajp} подбитый{.ajp} {.FI}одежды{.nnp}" />
-    <string id="QlvnKQbc" text="{.FI}Высокогорный{.aj} чешуйчатый{.aj} {.FI}броня{.nn} поверх кольчужной брони" />
+    <string id="qILO0HdK" text="{.FI}Безрукавный{.ajp} облегающий{.ajp} стёганый{.ajp} {.FI}одежды{.nnp}" />
+    <string id="QlvnKQbc" text="{.FI}Высокогорная{.aj} чешуйчатая{.aj} {.FI}броня{.nn} поверх кольчуги" />
     <string id="str_tor_learn_emp_enchant_azyr_divination" text="{.NI}Узнавание{.nn} Азир" />
     <string id="fz23ajFz" text="{.FI}Тяжёлый{.aj} кольчатый{.aj} {.FI}булава{.nn}" />
-    <string id="WDNKhjca" text="{.MI}Подпоясный{.ajp} {.MI}ремни{.nnp} легионера с набивкой" />
-    <string id="4Ea6pr5p" text="{.MA}Тренировочный{.nn} арбалет" />
-    <string id="aqrJqQqx" text="{.NI}Пустынный{.aj} кочевый{.aj} {.NI}седло{.nn} из ткани" />
+    <string id="WDNKhjca" text="{.MI}Поясные{.ajp} {.MI}ремни{.nnp} легионера со стёганой подкладкой" />
+    <string id="4Ea6pr5p" text="{.MI}Тренировочный{.aj} {.MI}арбалет{.nn}" />
+    <string id="aqrJqQqx" text="{.NI}Пустынный{.aj} кочевой{.aj} {.NI}седло{.nn} из ткани" />
     <string id="VkRIefyW" text="{.MI}Роскошный{.ajp} чешуйчатый{.ajp} {.MI}доспехи{.nnp}" />
     <string id="dSTxsYsh" text="{.FI}Булава{.nn} для кавалерии с канавкой" />
     <string id="ifzgMcrK" text="{.MI}Лук{.nn} кочевника" />
     <string id="YDibTDob" text="{.MI}Высокогорный{.aj} {.MI}шлем{.nn} с короной" />
-    <string id="j2IVY6G6" text="{.MI}Грубый{.aj} шкура {.MI}(доспех){.nn}" />
+    <string id="j2IVY6G6" text="{.MI}Грубый{.aj} {.MI}доспех{.nn} из шкуры" />
     <string id="str_tor_learn_emp_enchant_shyish_messengers" text="{.MA}Посланники{.nnp} Шийш" />
     <string id="pP0GacSW" text="{.MI}Круглый{.aj} битый{.aj} тонкий{.aj} стальной{.aj} {.MI}топорик{.nn}" />
     <string id="MamotK0a" text="{.MI}Латный{.ajp} {.MI}подлокотники{.nnp} с набивкой" />
@@ -1327,23 +1327,23 @@
     <string id="GXmDq2KR" text="{.FI}Голова{.nn} медведя" />
     <string id="a1BGHdaU" text="{.FI}Защищенный{.ajp} рукавный{.ajp} {.FI}повязки{.nnp}" />
     <string id="RddFH0BA" text="{.MI}Круглый{.aj} {.MI}щит{.nn} с железной каймой" />
-    <string id="b5BDaOva" text="{.NI}Бретонский{.aj} {.NI}увлечение{.nn}" />
+    <string id="b5BDaOva" text="{.FI}Баттанийская{.aj} {.FI}хобби-лошадь{.nn}{@Plural}{.FI}Баттанийские хобби-лошадки{\@}" />
     <string id="2iDtlgM0" text="{.MI}Закрытый{.aj} {.MI}шлем{.nn} вождя" />
     <string id="ahN0UNxw" text="{.MI}Бронзовый{.aj} южный{.aj} {.MI}шлем{.nn} с тюрбаном" />
     <string id="IDfl59yt" text="{.NI}Копье{.nn} с наконечником-шаром" />
     <string id="YmoddWwb" text="{.MI}Спарринговый{.aj} {.MI}сеакс{.nn}" />
     <string id="JzZJpbTB" text="{.MI}Укреплённый{.aj} {.MI}тарг{.nn}" />
-    <string id="JxV66l02" text="{.MI}Длинный{.aj} {.MI}Глейв{.nn}" />
-    <string id="UoHZGyZa" text="{.MI}Шлем{.nn} с Лицевой Гвардией" />
+    <string id="JxV66l02" text="{.FI}Длинный{.aj} {.FI}глефа{.nn}" />
+    <string id="UoHZGyZa" text="{.MI}Шлем{.nn} с забралом" />
     <string id="pjvwuVuc" text="{.MI}Одноручный{.aj} бородатый{.aj} {.MI}топор{.nn}" />
     <string id="jqWBGBo7" text="{.MI}Укреплённый{.aj} малый{.aj} {.MI}Щит{.nn} Кавалерии" />
     <string id="lIJ1EVBh" text="{.FI}Кожаный{.ajp} {.FI}перчатки{.nnp}" />
-    <string id="t6pQ6Vxc" text="{.MI}Усиленный{.ajp} гвоздичный{.ajp} замшевый{.ajp} {.MI}наплечники{.nnp}" />
-    <string id="iquQ9dro" text="{.MI}Полуметельный{.aj} конский{.aj} {.MI}доспех{.nn}" />
+    <string id="t6pQ6Vxc" text="{.MI}Усиленные{.ajp} клёпаные{.ajp} {.MI}наплечники{.nnp}" />
+    <string id="iquQ9dro" text="{.FI}Полу-кольчужная{.aj} {.FI}попона{.nn}" />
     <string id="wG582fzT" text="{.MI}Шлем{.nn} поверх подкладочной шапки" />
     <string id="63jCqJPA" text="{.MI}Доспех{.nn} Дикаря" />
     <string id="str_tor_gs_teef_bag" text="{.MI}Мешок{.nn} с жубами" />
-    <string id="T2POVRtg" text="{.MI}Классический{.ajp} лёгкий{.ajp} {.MI}доспехи{.nnp} Тилея с ремнями" />
+    <string id="T2POVRtg" text="{.MI}Вспомогательный{.aj} {.MI}доспех{.nn} с ремнями" />
     <string id="ZFwKlHIJ" text="{.MI}Длинный{.aj} {.MI}лук{.nn} лесных земель" />
     <string id="vRIpgxhi" text="{.MI}Выбор{.nn} Фортуны" />
     <string id="9cHyHQ7a" text="{.MI}Ламеллярный{.ajp} пластинчатый{.ajp} {.MI}сапоги{.nnp}" />
@@ -1369,9 +1369,9 @@
     <string id="PVgSGCYK" text="{.MI}Носовой{.aj} {.MI}шлем{.nn} поверх кольчужного капюшона" />
     <string id="JBVAeXx3" text="{.FI}Вилка{.nn}" />
     <string id="pzfbPbWW" text="{.FI}Глыба{.nn}" />
-    <string id="Mb1hQRyT" text="{.FI}Овальный{.aj} пустынный{.aj} {.FI}Адарга{.nn}" />
-    <string id="W8OGOfyt" text="{.MI}Кефиев{.nnp} с коричневой полосой" />
-    <string id="3yh33obu" text="{.FI}Дружинный{.aj} {.FI}Демиланс{.nn}" />
+    <string id="Mb1hQRyT" text="{.FI}Овальная{.aj} пустынная{.aj} {.FI}адарга{.nn}" />
+    <string id="W8OGOfyt" text="{.FI}Куфия{.nn} с коричневой повязкой" />
+    <string id="3yh33obu" text="{.FI}Дружинная{.aj} {.FI}пика{.nn}" />
     <string id="bXVSSptk" text="{.MI}Тяжёлый{.aj} конный{.aj} {.MI}шлем{.nn}" />
   </strings>
 </base>

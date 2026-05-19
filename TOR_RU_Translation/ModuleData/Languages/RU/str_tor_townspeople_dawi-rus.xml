@@ -24,28 +24,28 @@
     <string id="str_dawi_headman_2" text="{.MA}Консервативный{.aj} {.MA}тан{.nn} клана" />
     <string id="str_dawi_headman_3" text="{.MA}Коварный{.aj} {.MA}тан{.nn} клана" />
     <string id="str_prison_guard_dawi" text="{.MA}Страж{.nn} темницы" />
-    <string id="str_villager_dawi" text="{.MA}Дворф-селянин{.nn}" />
-    <string id="str_village_woman_dawi" text="{.FA}Дворф-селянка{.nn}" />
-    <string id="str_townsman_dawi" text="{.MA}Дворф-горожанин{.nn}" />
-    <string id="str_townswoman_dawi" text="{.FA}Дворф-горожанка{.nn}" />
-    <string id="str_merchant_dawi" text="{.MA}Дворф-торговец{.nn}" />
-    <string id="str_blacksmith_dawi" text="{.MA}Кузнец{.nn} Дворфы" />
-    <string id="str_weaponsmith_dawi" text="{.MA}Оружейник{.nn} Дворфы" />
-    <string id="str_armorer_dawi" text="{.MA}Бронник{.nn} Дворфы" />
-    <string id="str_horseMerchant_dawi" text="{.MA}Торговец{.nn} пони Дворфы" />
-    <string id="str_tavernkeeper_dawi" text="{.MA}Хозяин{.nn} таверны Дворфы" />
+    <string id="str_villager_dawi" text="{.MA}Дави-селянин{.nn}" />
+    <string id="str_village_woman_dawi" text="{.FA}Дави-селянка{.nn}" />
+    <string id="str_townsman_dawi" text="{.MA}Дави-горожанин{.nn}" />
+    <string id="str_townswoman_dawi" text="{.FA}Дави-горожанка{.nn}" />
+    <string id="str_merchant_dawi" text="{.MA}Дави-торговец{.nn}" />
+    <string id="str_blacksmith_dawi" text="{.MA}Кузнец{.nn} Дави" />
+    <string id="str_weaponsmith_dawi" text="{.MA}Оружейник{.nn} Дави" />
+    <string id="str_armorer_dawi" text="{.MA}Бронник{.nn} Дави" />
+    <string id="str_horseMerchant_dawi" text="{.MA}Торговец{.nn} пони Дави" />
+    <string id="str_tavernkeeper_dawi" text="{.MA}Хозяин{.nn} таверны Дави" />
     <string id="str_taverngamehost_dawi" text="{.MA}Распорядитель{.nn} игр" />
     <string id="str_tournament_master_dawi" text="{.MA}Мастер{.nn} состязаний" />
-    <string id="str_musician_dawi" text="{.MA}Сказитель{.nn} Дворфы" />
-    <string id="str_dancer_dawi" text="{.FA}Танцовщица{.nn} Дворфы" />
-    <string id="str_wench_dawi" text="{.FA}Подавальщица{.nn} Дворфы" />
-    <string id="str_barber_dawi" text="{.MA}Цирюльник{.nn} Дворфы" />
-    <string id="str_shop_worker_dawi" text="{.MA}Лавочник{.nn} Дворфы" />
-    <string id="str_artisan_notary_dawi" text="{.MA}Заверитель{.nn} ремесла Дворфы" />
-    <string id="str_merchant_notary_dawi" text="{.MA}Заверитель{.nn} торговли Дворфы" />
-    <string id="str_rural_notable_notary_dawi" text="{.MA}Сельский{.aj} {.MA}заверитель{.nn} Дворфы" />
-    <string id="str_ransom_broker_dawi" text="{.MA}Дворф{.nn} — выкупщик пленных" />
-    <string id="str_gangleader_bodyguard_dawi" text="{.MA}Телохранитель{.nn} главаря" />
-    <string id="str_beggar_dawi" text="{.MA}Дворф-изгой{.nn}" />
+    <string id="str_musician_dawi" text="{.MA}Сказитель{.nn} Дави" />
+    <string id="str_dancer_dawi" text="{.FA}Танцовщица{.nn} Дави" />
+    <string id="str_wench_dawi" text="{.FA}Подавальщица{.nn} Дави" />
+    <string id="str_barber_dawi" text="{.MA}Цирюльник{.nn} Дави" />
+    <string id="str_shop_worker_dawi" text="{.MA}Лавочник{.nn} Дави" />
+    <string id="str_artisan_notary_dawi" text="{.MA}Заверитель{.nn} ремесла Дави" />
+    <string id="str_merchant_notary_dawi" text="{.MA}Заверитель{.nn} торговли Дави" />
+    <string id="str_rural_notable_notary_dawi" text="{.MA}Сельский{.aj} {.MA}заверитель{.nn} Дави" />
+    <string id="str_ransom_broker_dawi" text="{.MA}Дави{.nn} — выкупщик пленных" />
+    <string id="str_gangleader_bodyguard_dawi" text="{.MA}Главарь{.nn} банды Дави" />
+    <string id="str_beggar_dawi" text="{.MA}Дави-изгой{.nn}" />
   </strings>
 </base>

@@ -17,9 +17,9 @@
     <string id="str_spc_notable_chaos_merch3" text="{.MA}Дерзкий{.aj} {.MA}торговец{.nn} Хаоса" />
     <string id="str_spc_notable_chaos_merch4" text="{.MA}Тихий{.aj} {.MA}торговец{.nn} Хаоса" />
     <string id="str_spc_notable_chaos_merch5" text="{FIRSTNAME} {.MA}Распорядитель{.nn}" />
-    <string id="str_spc_chaos_gangleader_1" text="{.MA}Главарь{.nn} налётчиков Хаоса" />
+    <string id="str_spc_chaos_gangleader_1" text="{.MA}Главарь{.nn} банды Хаоса" />
     <string id="str_spc_chaos_gangleader_2" text="{.FA}Атаманша{.nn} налётчиков Хаоса" />
-    <string id="str_spc_chaos_gangleader_3" text="{.MA}Вожак{.nn} налётчиков Хаоса" />
+    <string id="str_spc_chaos_gangleader_3" text="{.MA}Главарь{.nn} банды Хаоса" />
     <string id="str_spc_chaos_headman_1" text="{.MA}Мятежный{.aj} {.MA}вождь{.nn} племени Хаоса" />
     <string id="str_spc_chaos_headman_2" text="{.MA}Консервативный{.aj} {.MA}вождь{.nn} племени Хаоса" />
     <string id="str_spc_chaos_headman_3" text="{.MA}Коварный{.aj} {.MA}вождь{.nn} племени Хаоса" />

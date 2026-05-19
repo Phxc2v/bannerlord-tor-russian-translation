@@ -44,7 +44,7 @@
     <string id="str_tor_wanderer_eonir_2" text="{FIRSTNAME} Посланник" />
     <string id="str_tor_empire_dog5_lord_3" text=" " />
     <string id="str_tor_wanderer_empire_4" text="{FIRSTNAME} Небесный Маг" />
-    <string id="str_tor_kwartamasta_greenskins_0" text="Кварт-мейста {FIRSTNAME}" />
+    <string id="str_tor_kwartamasta_greenskins_0" text="Квартамаста {FIRSTNAME}" />
     <string id="str_tor_wanderer_greenskins_0" text="{FIRSTNAME}, Большой Босс" />
     <string id="str_tor_empire_dog7_lord_3" text=" " />
     <string id="str_tor_wanderer_vampire_1" text="{FIRSTNAME} Вампир" />

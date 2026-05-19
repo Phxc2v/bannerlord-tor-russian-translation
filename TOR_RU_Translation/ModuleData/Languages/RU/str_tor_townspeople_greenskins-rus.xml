@@ -6,16 +6,16 @@
   <strings>
     <string id="str_musician_greenskins" text="{.MA}Орочий{.aj} {.MA}песняр{.nn}" />
     <string id="str_greenskins_headman_1" text="Мятежный орк-вождь" />
-    <string id="str_greenskins_headman_2" text="Старый орк-вождь" />
+    <string id="str_greenskins_headman_2" text="Орк-консервативный вождь" />
     <string id="str_greenskins_headman_3" text="Коварный орк-вождь" />
-    <string id="str_prison_guard_greenskins" text="{.MA}Орочий{.aj} {.MA}яможор{.nn}" />
+    <string id="str_prison_guard_greenskins" text="{.MA}Орочий{.aj} {.MA}тюремщик{.nn}" />
     <string id="str_merchant_notary_greenskins" text="{.MA}Орочий{.aj} {.MA}писарь{.nn} купцов" />
     <string id="str_townswoman_greenskins" text="Орка" />
     <string id="str_townsman_greenskins" text="Орк" />
     <string id="str_horseMerchant_greenskins" text="{.MA}Орочий{.aj} {.MA}барышник{.nn}" />
     <string id="str_tor_notable_greenskins_1" text="{FIRSTNAME} Кладовщик" />
     <string id="str_tor_notable_greenskins_b" text="{FIRSTNAME} Наследница" />
-    <string id="str_tor_notable_greenskins_2" text="Правоверный проповедник" />
+    <string id="str_tor_notable_greenskins_2" text="Пуританский проповедник" />
     <string id="str_tor_notable_greenskins_3" text="Мятежница-проповедница" />
     <string id="str_villager_greenskins" text="{.MA}Орочий{.aj} {.MA}селянин{.nn}" />
     <string id="str_rural_notable_notary_greenskins" text="Сельский орк-писарь" />

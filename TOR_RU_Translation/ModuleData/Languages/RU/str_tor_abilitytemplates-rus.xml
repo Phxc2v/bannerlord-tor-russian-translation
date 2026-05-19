@@ -30,7 +30,7 @@
     <string id="dart_label_description_str" text="Бросает магический снаряд в противника. Он настигает цель и наносит 40 урона в радиусе 3 метров при попадании." />
     <string id="brain_bursta_label_str" text="Взрыв Мозга" />
     <string id="aura_of_the_lady_label_str" text="Аура Леди" />
-    <string id="fey_paths_label_str" text="Путь Феи" />
+    <string id="fey_paths_label_str" text="Тропы Фей" />
     <string id="storm_of_renewal_description_str" text="Сырая энергия течет по полю боя, восстанавливая утраченные силы и заживляя раны. Восстанавливает 30 здоровья мгновенно и 10 здоровья всем дружественным целям внутри зоны на 12 секунд." />
     <string id="doom_seeking_description_str" text="Способность карьеры Убийцы (не отображается)." />
     <string id="arcane_conduit_label_str" text="Канал Тайной Магии" />
@@ -44,7 +44,7 @@
     <string id="courage_of_aenarion_label_str" text="Мужество Аэнариона" />
     <string id="curse_of_years_description_str" text="Некромант произносит древнее проклятие, заставляющее врага стареть с ужасающей скоростью. Снижает скорость атаки и передвижения противника на 50% в течение 30 секунд." />
     <string id="comet_of_sigmar_description_str" text="Жрец бросает огненный снаряд в форме знаменитой Двухвостой Кометы Сигмара. Комета Сигмара — это священный снаряд, наносящий 30 урона. Она может сбивать юнитов с ног или выкидывать их из седла. Действует только против врагов." />
-    <string id="enchant_weapon_description_str" text="Присваивает союзнику дополнительное магическое урон от оружия." />
+    <string id="enchant_weapon_description_str" text="Зачаровывает оружие союзника, чтобы оно наносило дополнительный магический урон." />
     <string id="net_of_amyntok_description_str" text="Волшебник создаёт арканскую сеть в выбранной области. Любая цель, попавшая под действие заклинания, будет остановлена на 25 секунд." />
     <string id="curse_of_arrowattraction_label_str" text="Проклятие притяжения стрел" />
     <string id="lethal_shot_description_str" text="Надели лук смертельной мощью. Следующие стрелы наносят повышенный урон с эффектами, зависящими от выбранного пути." />
@@ -56,7 +56,7 @@
     <string id="spellbreaking_label_str" text="Руна Разрыва Заклинаний" />
     <string id="aerial_shield_label_str" text="Небесный щит" />
     <string id="wrath_of_the_wood_label_str" text="Гнев Леса" />
-    <string id="sear_label_str" text="Палящий огонь" />
+    <string id="sear_label_str" text="Опаление" />
     <string id="soul_rain_description_str" text="Чёрное облако нависает над целью, поражая тех, кто ниже, магическими молниями." />
     <string id="flaming_swords_description_str" text="Наполняет оружие союзников в радиусе 15 метров огненной чертой на 45 секунд. Оружие вспыхивает пламенем и поджигает каждого врага, которого оно поражает." />
     <string id="apotheosis_label_str" text="Божественность" />
@@ -79,7 +79,7 @@
     <string id="net_of_amyntok_label_str" text="Сеть Амюнтока" />
     <string id="drain_life_label_str" text="Отток жизни" />
     <string id="radiant_gaze_label_str" text="Лучезарный Взгляд" />
-    <string id="doom_bolt_label_str" text="Болт проклятия" />
+    <string id="doom_bolt_label_str" text="Стрела Гибели" />
     <string id="doom_seeking_label_str" text="Мудрость Тунгни" />
     <string id="flame_storm_description_str" text="На поле боя появляется столб жгучего огня, который движется хаотично. Плоть и кожа плавятся, кости превращаются в пепел." />
     <string id="amaranth_label_str" text="Амарант" />
@@ -157,7 +157,7 @@
     <string id="knightly_charge_label_str" text="Рыцарский наезд" />
     <string id="greater_harbinger_description_str" text="Вызовите героя в указанную точку." />
     <string id="da_hand_uv_gork_label_str" text="Рука Горка" />
-    <string id="summon_skeleton_description_str" text="Поднимает старые кости из земли для управления Некромантом. Призывайте 15 Скелетных Воинов." />
+    <string id="summon_skeleton_description_str" text="Поднимает старые кости из земли под управление Некроманта. Призывает 15 Скелетов-Воинов." />
     <string id="tempest_label_str" text="Буря" />
     <string id="enchant_weapon_label_str" text="Наделить оружие магией" />
     <string id="red_fury_label_str" text="Красный Гнев" />
@@ -167,13 +167,13 @@
     <string id="fireball_label_str" text="Огненный шар" />
     <string id="blizzard_label_str" text="Ледяной шторм Касандоры" />
     <string id="axe_of_ulric_label_str" text="Топор Ульрика" />
-    <string id="gehennas_golden_globe_description_str" text="Блестящий шар энергии поглощает врагов и сжигает их заживо. К несчастью выживших также замедляет на короткое время." />
+    <string id="gehennas_golden_globe_description_str" text="Блестящий шар энергии поглощает врагов и сжигает их заживо. Те, кому не повезло выжить, также замедляются на короткое время." />
     <string id="spirit_leech_description_str" text="Смерть дарует жизнь: маг высасывает жизненную силу врагов, чтобы восстановить свою увядшую плоть. Элитные цели дают больше лечения." />
     <string id="chillwind_description_str" text="Маг атакует врагов смерзающим ветром." />
     <string id="comet_of_casandora_description_str" text="Огромный метеорит падает на область, убивая всех под ним гигантской ударной волной." />
     <string id="nagash_gaze_description_str" text="Из глаз заклинателя вылетает луч Дхар, который чернит и увядает всё, к чему прикасается, полностью обнажая под ним обесцвеченную белую кость." />
     <string id="cinder_blast_description_str" text="Бросьте осколки затвердевшей лавы во врага, нанося средний урон при контакте." />
-    <string id="fey_paths_description_str" text="Девушка бродит по путям фей. Мгновенно телепортирует игрока к целевой точке на земле. Заряд наносится или лечится магией." />
+    <string id="fey_paths_description_str" text="Дева идёт по тропам фей. Мгновенно телепортирует игрока к выбранной точке на земле. Заряды восполняются от нанесённого или исцелённого магией урона." />
     <string id="fate_of_bjuna_description_str" text="Когда-то был великий воин, который никогда не улыбался, но был проклят вечным смехом, от которого его разрывало на части. Цели получают урон со временем и эффект замедления." />
     <string id="da_hand_uv_gork_description_str" text="Если да башин слишком далеко, с помощью Горка шаман может привести парней из одного места в другое." />
     <string id="morkharn_description_str" text="Маг извлекает нити Ветра Смерти, чтобы восстановить своих подчинённых и наполнить их нечестивой силой. Лечит союзников со временем в радиусе действия." />
@@ -187,14 +187,14 @@
     <string id="minor_heal_description_str" text="Лечит владельца на 3 здоровья каждую секунду в течение 7 секунд." />
     <string id="aerial_shield_description_str" text="Сила Леди заставляет вражеские снаряды исчезать в воздухе. Предоставляет 95% сопротивления физическому урону от дальнего боя в радиусе 12 метров." />
     <string id="the_beast_unleashed_label_str" text="Зверь Спущен с Цепи" />
-    <string id="spirit_leech_label_str" text="Паразит духа" />
-    <string id="hawk_eye_description_str" text="Границы Атель Лорен должны стоять! Призови своего верного птичьего спутника Орлиный Глаз! Укажи область, снижая физический урон ближнего боя врагов внутри. За каждый уровень Разведки радиус действия увеличивается на 0.01%. (Способность имеет кулдаун 100с)." />
+    <string id="spirit_leech_label_str" text="Высасывание Души" />
+    <string id="hawk_eye_description_str" text="Границы Атель Лорен должны стоять! Призови своего верного птичьего спутника Орлиный Глаз! Укажи область, снижая физический урон ближнего боя врагов внутри. За каждый уровень Разведки радиус действия увеличивается на 0.01%. (Способность имеет перезарядку 100с)." />
     <string id="radiance_pillar_label_str" text="Столп Света" />
     <string id="cascading_fire_cloak_label_str" text="Каскадирующий Огненный Плащ" />
     <string id="dart_label_str" text="Магический болт" />
     <string id="power_of_darkness_label_str" text="Сила тьмы" />
     <string id="dwellers_below_description_str" text="Из земли вырываются щупальца, достигающие врагов в области. Оглушают, сбивают с ног и снимают с лошадей (80%), нанося 10 урона в секунду на протяжении 15 секунд." />
-    <string id="soul_quench_label_str" text="Угасание души" />
+    <string id="soul_quench_label_str" text="Утоление души" />
     <string id="healing_light_description_str" text="Союзники в зоне действия восстанавливают здоровье со временем." />
     <string id="ard_as_nails_label_str" text="Ард как гвозди" />
     <string id="brain_bursta_description_str" text="По мере продолжения битвы Шаман накапливает слишком много Вааагх-джуджу и выпускает его в БОЛЬШОМ ВЗРЫВЕ, швыряя врагов на землю." />
@@ -202,7 +202,7 @@
     <string id="wrath_and_ruin_label_str" text="Руна Гнева и Руины" />
     <string id="quicksilver_swords_description_str" text="Пронизывает оружие союзников сияющей энергией — даже ржавый меч становится смертоносным с помощью Металлического Волшебника. Дружественные юниты наносят +20% магического и огненного урона в течение 60 секунд." />
     <string id="hail_storm_description_str" text="На врага обрушивается град камней, нанося физический урон в радиусе." />
-    <string id="shadowblood_label_str" text="Тень Крови" />
+    <string id="shadowblood_label_str" text="Теневая Кровь" />
     <string id="foot_uv_gork_label_str" text="Нога Горка" />
     <string id="gehennas_golden_globe_label_str" text="Золотой Шар Геенны" />
     <string id="call_of_da_green_label_str" text="Зов Великого Зелёного" />
@@ -218,13 +218,13 @@
     <string id="grave_call_label_str" text="Зов Гробницы" />
     <string id="curse_of_years_label_str" text="Проклятие Лет" />
     <string id="wrath_and_ruin_description_str" text="Благословение Гримнира направляет гнев бога войны, заставляя землю трескаться и выпуская огонь и серу. Наносит средний урон окружающим врагам. Усилено: Затронутые враги получают урон со временем." />
-    <string id="lethal_shot_label_str" text="Летальный Выстрел" />
+    <string id="lethal_shot_label_str" text="Смертельный выстрел" />
     <string id="lightning_bolt_description_str" text="Бросает электрический снаряд во врагов, нанося средний урон при ударе." />
     <string id="plague_of_rust_description_str" text="При движении запястья заклинателя броня врагов поглощается ржавчиной. Накладывает штраф к физической защите -70% в течение 120 секунд." />
     <string id="soul_quench_description_str" text="Из пальцев волшебника появляется яркий шар света. Затронутые враги получают средний урон." />
     <string id="meteoric_ironclad_description_str" text="Союзников защищает заклинание из железа и серебра. Дарует +60% к физической защите в течение 45 секунд." />
     <string id="vanquish_description_str" text="Усиливает оружие альянсов в радиусе 12 метров свойством Огня на 50 секунд. Оружие вспыхивает пламенем и сжигает каждого врага, которого оно поражает." />
-    <string id="black_horror_description_str" text="Кастер рвёт стены между реальностями, и чёрное облако бушующей энергии проносится по полю боя. По мере продвижения тьмы из её глубин выбрасываются слизистые щупальца, таща несчастных жертв на неизвестную судьбу." />
+    <string id="black_horror_description_str" text="Заклинатель срывает преграды между реальностями, и чёрное облако клокочущей энергии проносится по полю боя. По мере продвижения тьмы из её глубин хлещут склизкие щупальца, утаскивая несчастных жертв с криком навстречу неизвестной судьбе." />
     <string id="bolt_of_aqshy_label_str" text="Молния Акши" />
     <string id="purple_sun_label_str" text="Фиолетовое солнце Зереуса" />
     <string id="impenetrable_description_str" text="Хазукаан Казакит-Ха! На короткое время получай полную неуязвимость к урону, но двигайся на 25% медленнее. Длительность способности «Непробиваемый» увеличивается с каждым уровнем Атлетики." />
@@ -234,7 +234,7 @@
     <string id="pha_protection_label_str" text="Защита Фы" />
     <string id="panns_impenetrable_pelt_label_str" text="Непробиваемая шкура Панна" />
     <string id="chain_lightning_description_str" text="Сгусток молнии поражает врагов в радиусе действия, нанося средний урон." />
-    <string id="dwellers_below_label_str" text="Жители глубин" />
+    <string id="dwellers_below_label_str" text="Обитатели Подземья" />
     <string id="grave_call_description_str" text="Извлекая тёмную энергию, текущую сквозь землю, некромант ищет давно умершие тела, чтобы ответить на свой зов. Поднимите 20 Стражей Гробниц." />
     <string id="greater_harbinger_label_str" text="Великий Посланник" />
     <string id="impenetrable_label_str" text="Непробиваемый" />
@@ -249,7 +249,7 @@
     <string id="regrowth_label_str" text="Регенерация" />
     <string id="foot_uv_gork_description_str" text="Шаман теряет себя в танце, и по ритму собственная нога Горка бьет землю, превращая всё под собой в пыль." />
     <string id="regrowth_description_str" text="Призвав имя Дутандора, повелителя древних диких святынь, волшебник заживляет раны и переломы своих товарищей. Союзники в радиусе 3 метров получают 5 здоровья в секунду на протяжении 12 секунд." />
-    <string id="ere_we_go_label_str" text="'Эре Ву Го!" />
+    <string id="ere_we_go_label_str" text="«Ну, погнали!»" />
     <string id="wind_blast_description_str" text="Ветер сбивает с ног жертв и наносит незначительный урон." />
     <string id="tangling_thorn_description_str" text="Корни взрываются из земли, не давая всем врагам двигаться в течение 10 секунд." />
   </strings>
