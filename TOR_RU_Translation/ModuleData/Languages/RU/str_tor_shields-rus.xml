@@ -47,7 +47,7 @@
     <string id="str_tor_greenskins_black_orc_shield_001" text="{.MI}Щит{.nn} чёрного орка" />
     <string id="str_tor_greenskins_black_orc_shield_002" text="{.MI}Щит{.nn} чёрного орка" />
     <string id="str_tor_empire_weapon_shield_reiksguard_knight_003" text="{.MI}Щит{.nn} Рыцаря Рейксгарда" />
-    <string id="str_tor_empire_staff_bw_002_combined" text="{.MI}Яркий{.aj} {.MI}жезл{.nn} мага" />
+    <string id="str_tor_empire_staff_bw_002_combined" text="{.MI}Жезл{.nn} Огненного Мага" />
     <string id="str_tor_bretonnia_weapon_shield_003" text="{.MI}Бретонский{.aj} {.MI}Щит{.nn}" />
     <string id="str_tor_he_weapon_shield_003" text="{.MI}Щит{.nn} копийных морских эльфов" />
     <string id="str_tor_empire_weapon_shield_warrior_priest_004" text="{.MI}Щит{.nn} Воина-Жреца" />
@@ -108,7 +108,7 @@
     <string id="str_tor_vc_weapon_banner_001" text="{.MI}Сильванский{.aj} {.MI}флаг{.nn}" />
     <string id="str_tor_empire_staff_cw_003_combined" text="{.MI}Посох{.nn} Новичка Небесного Мага" />
     <string id="str_tor_greenskins_black_orc_shield_004" text="{.MI}Щит{.nn} военачальника орков" />
-    <string id="str_tor_empire_staff_bw_001_combined" text="{.MI}Посох{.nn} Светлого Мага" />
+    <string id="str_tor_empire_staff_bw_001_combined" text="{.MI}Посох{.nn} Огненного Мага" />
     <string id="str_tor_greenskins_orc_shield_03_3" text="{.MI}Орочий{.aj} {.MI}щит{.nn}" />
     <string id="str_tor_he_weapon_shield_001" text="{.MI}Щит{.nn} копийных эльфов Высокого Эльфийства" />
     <string id="str_tor_he_weapon_shield_002" text="{.MI}Щит{.nn} копийных эльфов Высокого Эльфийства" />

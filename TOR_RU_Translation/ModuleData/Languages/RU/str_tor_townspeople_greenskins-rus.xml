@@ -6,7 +6,7 @@
   <strings>
     <string id="str_musician_greenskins" text="{.MA}Орочий{.aj} {.MA}песняр{.nn}" />
     <string id="str_greenskins_headman_1" text="Мятежный орк-вождь" />
-    <string id="str_greenskins_headman_2" text="Орк-консервативный вождь" />
+    <string id="str_greenskins_headman_2" text="Консервативный орк-вождь" />
     <string id="str_greenskins_headman_3" text="Коварный орк-вождь" />
     <string id="str_prison_guard_greenskins" text="{.MA}Орочий{.aj} {.MA}тюремщик{.nn}" />
     <string id="str_merchant_notary_greenskins" text="{.MA}Орочий{.aj} {.MA}писарь{.nn} купцов" />

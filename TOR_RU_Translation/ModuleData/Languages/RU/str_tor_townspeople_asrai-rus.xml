@@ -24,8 +24,8 @@
     <string id="str_asrai_headman_2" text="{.MA}Консервативный{.aj} лесной{.aj} {.MA}староста{.nn}" />
     <string id="str_asrai_headman_3" text="{.MA}Коварный{.aj} лесной{.aj} {.MA}староста{.nn}" />
     <string id="str_prison_guard_asrai" text="{.MA}Страж{.nn} рощ" />
-    <string id="str_townsman_woodelf" text="{.MA}Житель{.nn} Холлов" />
-    <string id="str_townswoman_woodelf" text="{.FA}Жительница{.nn} Холлов" />
+    <string id="str_townsman_woodelf" text="{.MA}Житель{.nn} Чертогов" />
+    <string id="str_townswoman_woodelf" text="{.FA}Жительница{.nn} Чертогов" />
     <string id="str_village_woman_woodelf" text="{.FA}Жительница{.nn} лесной деревни" />
     <string id="str_merchant_woodelf" text="{.MA}Асраи-торговец{.nn}" />
     <string id="str_blacksmith_woodelf" text="{.MA}Кузнец{.nn} Асраи" />
@@ -38,13 +38,13 @@
     <string id="str_musician_woodelf" text="{.MA}Бард{.nn} Асраи" />
     <string id="str_female_dancer_woodelf" text="{.FA}Танцовщица{.nn} Асраи" />
     <string id="str_barber_woodelf" text="{.MA}Цирюльник{.nn} Асраи" />
-    <string id="str_shop_worker_woodelf" text="{.MA}Лавочник{.nn} Холлов" />
+    <string id="str_shop_worker_woodelf" text="{.MA}Лавочник{.nn} Чертогов" />
     <string id="str_artisan_notary_woodelf" text="{.MA}Заверитель{.nn} ремесла Асраи" />
     <string id="str_merchant_notary_woodelf" text="{.MA}Заверитель{.nn} торговли Асраи" />
     <string id="str_rural_notable_notary_woodelf" text="{.MA}Сельский{.aj} {.MA}заверитель{.nn} Асраи" />
     <string id="str_ransom_broker_woodelf" text="{.MA}Посредник{.nn} выкупа Асраи" />
     <string id="str_gangleader_bodyguard_woodelf" text="{.MA}Телохранитель{.nn} главаря" />
     <string id="str_beggar_woodelf" text="{.MA}Изгнанник{.nn} Асраи" />
-    <string id="str_female_beggar_woodelf" text="{.FA}Лесный{.aj} {.FA}нищенка{.nn}" />
+    <string id="str_female_beggar_woodelf" text="{.FA}Лесной{.aj} {.FA}нищенка{.nn}" />
   </strings>
 </base>

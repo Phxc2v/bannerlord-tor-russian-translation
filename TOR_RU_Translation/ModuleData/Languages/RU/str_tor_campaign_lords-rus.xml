@@ -6,7 +6,7 @@
   <strings>
     <string id="str_tor_dw_lord_karak_zhufbar_first_8" text="Лорд Траин Дронрифссон" />
     <string id="str_tor_dw_lord_karak_azgaraz_factionleader" text="Король Турингар Оркорубил" />
-    <string id="str_tor_br_lord_parravon_first_8" text="Аннфлеур ла Чаритабле" />
+    <string id="str_tor_br_lord_parravon_first_8" text="Аннфлёр ла Шаритабль" />
     <string id="str_tor_greenskin_lord_crooked_eye_second_7" text="Варбосс Крагга Шипоклык" />
     <string id="str_tor_greenskin_lord_massif_choppas_second_7" text="Варбосс Голуб Громочереп" />
     <string id="str_tor_dog_clan_hero_miragliano" text="Максимилиан Дамарк" />
@@ -45,7 +45,7 @@
     <string id="str_tor_emp_lord_wissenland_factionleader" text="Курфюрстина Эммануэль фон Либвиц" />
     <string id="str_tor_dw_lord_karak_gantuk_first_7" text="Лорд Гарин Громомолот" />
     <string id="str_tor_dw_lord_karak_kadrin_second_1" text="Король Дорин Среброног" />
-    <string id="str_tor_dw_lord_karak_kadrin_first_9" text="Тане Болли Воргрун" />
+    <string id="str_tor_dw_lord_karak_kadrin_first_9" text="Тан Болли Воргрун" />
     <string id="str_tor_greenskin_lord_bad_axes_second_4" text="Варбосс Зогрош Красный Кулак" />
     <string id="str_tor_greenskin_lord_reavaz_first_6" text="Корабельный Плотник Дагногг Больной Зуб" />
     <string id="str_tor_emp_lord_wissenland_first_5" text="Фридебрехт Пфайфраушер" />
@@ -98,12 +98,12 @@
     <string id="str_tor_emp_lord_stirland_third_1" text="Александра фон Мюнстерберг" />
     <string id="str_tor_br_lord_lyonesse_factionleader" text="Герцог Адалхард из Лионесс" />
     <string id="str_tor_br_lord_aquitaine_first_6" text="Сэр Дариус л’Етранге" />
-    <string id="str_tor_m_lord_mousillon_second_1" text="Лорд Аукассин" />
+    <string id="str_tor_m_lord_mousillon_second_1" text="Лорд Окассен" />
     <string id="str_tor_greenskin_lord_bloody_spearz_second_2" text="Варбосс Шнозз Тяжёлоног" />
     <string id="str_tor_dw_lord_karak_kaferkammaz_first_9" text="Лорд Каргун Каменное Сердце" />
     <string id="str_tor_emp_lord_wissenland_second_3" text="Магдалена Топпенхаймер" />
     <string id="str_tor_emp_lord_ostland_third_4" text="Канон-мейстер Гюнтер Трундлекопф" />
-    <string id="str_tor_m_lord_mousillon_first_1" text="Лорд Рачард" />
+    <string id="str_tor_m_lord_mousillon_first_1" text="Лорд Рашар" />
     <string id="str_tor_we_lord_athel_loren_first_2" text="Скарлок Странник" />
     <string id="str_tor_greenskin_lord_iron_tribe_second_1" text="Варбосс Наброт Гитожор" />
     <string id="str_tor_greenskin_lord_crooked_eye_second_8" text="Варбосс Оглок Тупочереп" />
@@ -132,7 +132,7 @@
     <string id="str_tor_greenskin_lord_red_eye_first_4" text="Варбосс Иггрит Слизнебой" />
     <string id="str_tor_emp_lord_reikland_fourth_2" text="Ули ‘Клеинер’ Грубер" />
     <string id="str_tor_emp_lord_nordland_second_6" text="Дариус дер Спеер" />
-    <string id="str_tor_emp_lord_hochland_third_4" text="Жрец-Волк Гунтер" />
+    <string id="str_tor_emp_lord_hochland_third_4" text="Волчий Жрец Гунтер" />
     <string id="str_tor_greenskin_lord_iron_tribe_first_8" text="Варбосс Скаргут Сопледых" />
     <string id="str_tor_eo_lord_laurelorn_third_2" text="Лорд Адон из дома Приливный Ходок" />
     <string id="str_tor_dw_lord_karak_kadrin_second_3" text="Демоноборец Казгар Костолом" />

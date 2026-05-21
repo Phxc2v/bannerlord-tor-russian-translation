@@ -16,7 +16,7 @@
     <string id="courage_of_aenarion_description_str" text="Эльфийский маг направляет все восемь ветров магии и призывает имя Аэнариона, первого Короля Феникса. Союзники вокруг волшебника наносят удары чаще." />
     <string id="deathly_shards_description_str" text="Острые осколки света летят к цели, пробивая даже самую прочную броню." />
     <string id="thunderbolt_description_str" text="Огромная молния с значительным электрическим зарядом падает с небес." />
-    <string id="sear_description_str" text="Огнемёт: короткодействующая атака раскалённым пламенем, наносящая средний урон." />
+    <string id="sear_description_str" text="Поражает врага раскалённым пламенем с короткой дистанции, нанося средний урон." />
     <string id="armor_of_righteousness_label_str" text="Броня Праведности" />
     <string id="wind_of_death_label_str" text="Ветер Смерти" />
     <string id="bironas_timewarp_label_str" text="Искажение времени Бирона" />
@@ -98,7 +98,7 @@
     <string id="ashesanddust_label_str" text="Пепел и пыль" />
     <string id="black_horror_label_str" text="Чёрный ужас Арнзипала" />
     <string id="mortar_spawner_label_str" text="Разместить Мортиру" />
-    <string id="knightly_strike_description_str" text="Рыцарь обрушивает на врага мощный удар, наносящий повышенный физический урон при следующем попадании в течение 15 секунд." />
+    <string id="knightly_strike_description_str" text="Маг наполняет своих союзников чистой магической энергией, придавая им сил." />
     <string id="summon_skeleton_label_str" text="Возрождение Мёртвых" />
     <string id="ulric_gift_description_str" text="Волко-жрец издает могучий вой и посвящает убийство Ульрику. Получите +30% скорости передвижения и атаки на 25 секунд." />
     <string id="aura_of_resistance_label_str" text="Аура сопротивления" />
@@ -165,7 +165,7 @@
     <string id="gleaming_arrow_label_str" text="Сияющая Стрела" />
     <string id="gleaming_arrow_description_str" text="Золотой Волшебник выпускает из лба снаряд золотой энергии. Он настигает цель и наносит 100 физического урона." />
     <string id="fireball_label_str" text="Огненный шар" />
-    <string id="blizzard_label_str" text="Ледяной шторм Касандоры" />
+    <string id="blizzard_label_str" text="Метель из Ледяных Осколков" />
     <string id="axe_of_ulric_label_str" text="Топор Ульрика" />
     <string id="gehennas_golden_globe_description_str" text="Блестящий шар энергии поглощает врагов и сжигает их заживо. Те, кому не повезло выжить, также замедляются на короткое время." />
     <string id="spirit_leech_description_str" text="Смерть дарует жизнь: маг высасывает жизненную силу врагов, чтобы восстановить свою увядшую плоть. Элитные цели дают больше лечения." />
@@ -175,15 +175,15 @@
     <string id="cinder_blast_description_str" text="Бросьте осколки затвердевшей лавы во врага, нанося средний урон при контакте." />
     <string id="fey_paths_description_str" text="Дева идёт по тропам фей. Мгновенно телепортирует игрока к выбранной точке на земле. Заряды восполняются от нанесённого или исцелённого магией урона." />
     <string id="fate_of_bjuna_description_str" text="Когда-то был великий воин, который никогда не улыбался, но был проклят вечным смехом, от которого его разрывало на части. Цели получают урон со временем и эффект замедления." />
-    <string id="da_hand_uv_gork_description_str" text="Если да башин слишком далеко, с помощью Горка шаман может привести парней из одного места в другое." />
+    <string id="da_hand_uv_gork_description_str" text="Если мочилово дюже далече, шаман с подмогой Горка может перетаскивать парней из одного места в другое." />
     <string id="morkharn_description_str" text="Маг извлекает нити Ветра Смерти, чтобы восстановить своих подчинённых и наполнить их нечестивой силой. Лечит союзников со временем в радиусе действия." />
     <string id="drain_life_description_str" text="Высасывает влагу и жидкости из противника, нанося 5 урона в секунду в течение общей длительности 10 секунд." />
     <string id="ashes_and_dust_description_str" text="Маг направляет мощную магию смерти на врага, оставляя после себя лишь прах. Наносит средний урон в небольшой области." />
-    <string id="ard_as_nails_description_str" text="Когда да Шаман окружён бойцами, да Ваагх! джу-джу покрывает парней, делая их твёрдыми как гвозди." />
+    <string id="ard_as_nails_description_str" text="Когда шамана обступают бойцы, Вааагх!-джу-джу окутывает парней и делает их твёрдыми, как гвозди." />
     <string id="screaming_skull_description_str" text="Вызывает вскрикивающий череп, истекающий кислотой, который движется вперёд, нанося урон всему на своём пути." />
     <string id="harmonic_convergence_label_str" text="Гармоническая конвергенция" />
     <string id="shieldofthorns_label_str" text="Щит шипов" />
-    <string id="hearth_and_home_description_str" text="Изначально дар от Валаи, Руна Очага и Дома разжигает гордость Дворфа за его крепость, клан и предков. Союзники поблизости получают бонусы к скорости перезарядки и передвижения. Усилено: Предоставляет бонус к скорости атаки." />
+    <string id="hearth_and_home_description_str" text="Изначально дар Валаи дворфам, Руна Очага и Дома разжигает в каждом дворфе гордость за свою крепость, клан и предков. Союзники поблизости получают бонусы к скорости перезарядки и передвижения. Усилено: Предоставляет бонус к скорости атаки." />
     <string id="minor_heal_description_str" text="Лечит владельца на 3 здоровья каждую секунду в течение 7 секунд." />
     <string id="aerial_shield_description_str" text="Сила Леди заставляет вражеские снаряды исчезать в воздухе. Предоставляет 95% сопротивления физическому урону от дальнего боя в радиусе 12 метров." />
     <string id="the_beast_unleashed_label_str" text="Зверь Спущен с Цепи" />

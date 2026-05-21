@@ -10,9 +10,9 @@
     <string id="str_tor_bretonnian_trident_001" text="{.MI}Тризубец{.nn} Мананна" />
     <string id="str_tor_empire_weapon_rapier_005" text="{.FI}Имперский{.aj} {.FI}Рапира{.nn}" />
     <string id="str_tor_beastmen_weapon_greataxe_minotaur_001" text="{.MI}Минотаврский{.aj} большой{.aj} {.MI}Топор{.nn}" />
-    <string id="str_tor_dwarf_weapon_1h_axe_008" text="{.MI}Гравированный{.aj} дворфий{.aj} {.MI}топор{.nn}" />
+    <string id="str_tor_dwarf_weapon_1h_axe_008" text="{.MI}Гравированный{.aj} дворфский{.aj} {.MI}топор{.nn}" />
     <string id="str_tor_empire_weapon_thaxe_taal" text="{.MI}Каменный{.aj} {.MI}топор{.nn} Таала" />
-    <string id="str_tor_empire_weapon_mace_warrior_priest_002" text="{.MI}Жезл{.nn} священника воина" />
+    <string id="str_tor_empire_weapon_mace_warrior_priest_002" text="{.MI}Жезл{.nn} Воина-Жреца" />
     <string id="str_tor_empire_weapon_mace_flagellant_flail_001" text="{.MI}Мученический{.aj} {.MI}цеп{.nn}" />
     <string id="str_tor_vc_weapon_thaxe_vampire_002" text="{.MI}Вампирский{.aj} большой{.aj} {.MI}Топор{.nn}" />
     <string id="str_tor_dwarf_weapon_greataxe_001" text="{.MI}Топор{.nn} Громбриндала" />
@@ -25,7 +25,7 @@
     <string id="str_tor_empire_weapon_sword_runefang_008" text="{.MI}Кровосос{.nn}" />
     <string id="str_tor_empire_weapon_thmace_warrior_priest_002" text="{.MI}Двуручный{.aj} {.MI}Молот{.nn} Воина-Жреца" />
     <string id="str_tor_empire_weapon_mace_flagellant_flail_003" text="{.MI}Мученический{.aj} {.MI}цеп{.nn}" />
-    <string id="str_tor_empire_weapon_mace_warrior_priest_004" text="{.MI}Жезл{.nn} священника воина" />
+    <string id="str_tor_empire_weapon_mace_warrior_priest_004" text="{.MI}Жезл{.nn} Воина-Жреца" />
     <string id="str_tor_we_weapon_2h_sword_001" text="{.MI}Древний{.aj} эльфийский{.aj} двуручный{.aj} {.MI}меч{.nn}" />
     <string id="str_tor_empire_weapon_spear_002" text="{.NI}Имперский{.aj} {.NI}Копьё{.nn}" />
     <string id="str_tor_greenskin_weapon_sword_001" text="{.MI}Меч{.nn} орочьего пацана" />
@@ -43,10 +43,10 @@
     <string id="str_tor_greenskin_weapon_axe_001" text="{.NI}Орочий{.aj} {.NI}рубило{.nn}" />
     <string id="str_tor_vc_weapon_halberd_002" text="{.FI}Старый{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_greenskin_weapon_sword_003" text="{.MI}Меч{.nn} орочьего пацана" />
-    <string id="str_tor_vc_weapon_thsword_grave_guard_001" text="{.MA}Могильный{.aj} {.MA}страж{.nn} великий меч" />
+    <string id="str_tor_vc_weapon_thsword_grave_guard_001" text="{.MI}Великий{.aj} {.MI}меч{.nn} Могильного Стража" />
     <string id="str_tor_he_weapon_2h_sword_001" text="{.MI}Высокий{.aj} эльфийский{.aj} двуручный{.aj} {.MI}меч{.nn}" />
     <string id="str_tor_chaos_weapon_thaxe_nurgle_001" text="{.FI}Булава{.nn} Нургла" />
-    <string id="str_tor_bretonnia_weapon_halberd_003" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_003" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_empire_weapon_halberd_003" text="{.FI}Имперский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_greenskin_weapon_2h_sword_001" text="{.MI}Большой{.aj} орочий{.aj} двуручный{.aj} {.MI}меч{.nn}" />
     <string id="str_tor_greenskin_weapon_mace_002" text="{.FI}Шипастый{.aj} орочий{.aj} {.FI}дробилка{.nn}" />
@@ -56,11 +56,11 @@
     <string id="str_tor_empire_weapon_sword_reiksguard_knight_001" text="{.MI}Меч{.nn} рыцаря Рейксгарда" />
     <string id="str_tor_greenskin_weapon_2h_sword_002" text="{.MI}Настоящий{.aj} большой{.aj} орочий{.aj} двуручный{.aj} {.MI}меч{.nn}" />
     <string id="str_tor_empire_weapon_scythe_morr_001" text="{.FI}Коса{.nn} Морра" />
-    <string id="str_tor_bretonnia_weapon_halberd_004" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_004" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_beastmen_weapon_sword_ungor_003" text="{.MI}Меч{.nn} Унгора" />
     <string id="str_tor_vc_weapon_sword_skeleton_005" text="{.MI}Меч{.nn} Скелетного Воина" />
     <string id="str_tor_vc_weapon_scythe_001" text="{.FI}Равенский{.aj} {.FI}коса{.nn}" />
-    <string id="str_tor_vc_weapon_spear_skeleton_001" text="{.NI}Старый{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_vc_weapon_spear_skeleton_001" text="{.NI}Старый{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_dwarf_weapon_pickaxe_004" text="{.FI}Дворфский{.aj} шахтёрский{.aj} {.FI}Кирка{.nn}" />
     <string id="str_tor_we_treeman_fist" text="{.FI}Рукоять{.nn} древа" />
     <string id="str_tor_dwarf_weapon_1h_axe_005" text="{.MI}Крылатый{.aj} дворфский{.aj} {.MI}Топор{.nn}" />
@@ -71,7 +71,7 @@
     <string id="str_tor_he_weapon_halberd_phoenix_001" text="{.FI}Алебарда{.nn} Стражи Королевы Эониров" />
     <string id="str_tor_beastmen_weapon_spear_ungor_002" text="{.NI}Копьё{.nn} Унгора" />
     <string id="str_tor_bretonnia_weapon_thsword_squire_001" text="{.MI}Бретонский{.aj} {.MI}меч{.nn} оруженосца" />
-    <string id="str_tor_empire_weapon_spear_003" text="{.NI}Имперский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_empire_weapon_spear_003" text="{.NI}Имперский{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_empire_weapon_sword_runefang_010" text="{.MI}Меч{.nn} ранящий мозг" />
     <string id="str_tor_chaos_weapon_sword_001" text="{.MI}Меч{.nn} Хаоса" />
     <string id="str_tor_vc_weapon_scythe_003" text="{.FI}Деревянный{.aj} {.FI}коса{.nn}" />
@@ -81,7 +81,7 @@
     <string id="str_tor_dwarf_weapon_1h_axe_007" text="{.MI}Резной{.aj} дворфский{.aj} {.MI}Топор{.nn}" />
     <string id="str_tor_empire_weapon_sword_runefang_005" text="{.MI}Рубильник{.nn} Орков" />
     <string id="str_tor_vc_weapon_sword_vampire_005" text="{.MI}Вампирский{.aj} {.MI}Меч{.nn}" />
-    <string id="str_tor_empire_weapon_staff_bw_001" text="{.MI}Святой{.aj} {.MI}жезл{.nn} мага" />
+    <string id="str_tor_empire_weapon_staff_bw_001" text="{.MI}Жезл{.nn} Огненного Мага" />
     <string id="str_tor_beastmen_weapon_axe_ungor_001" text="{.MI}Топор{.nn} Унгора" />
     <string id="str_tor_dwarf_weapon_greataxe_002_002" text="{.MI}Дворфский{.aj} алмазный{.aj} {.MI}топор{.nn}" />
     <string id="str_tor_bretonnia_weapon_thsword_squire_003" text="{.MI}Бретонский{.aj} {.MI}меч{.nn} оруженосца" />
@@ -98,7 +98,7 @@
     <string id="str_tor_empire_weapon_rapier_002" text="{.FI}Имперский{.aj} {.FI}Рапира{.nn}" />
     <string id="str_tor_dwarf_weapon_1h_axe_of_grimnir" text="{.MI}Топор{.nn} Гримнира" />
     <string id="str_tor_vc_weapon_mace_skeleton_002" text="{.MA}Скелетный{.aj} могильный{.aj} {.MA}Страж{.nn} Булава" />
-    <string id="str_tor_empire_weapon_spear_004" text="{.NI}Имперский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_empire_weapon_spear_004" text="{.NI}Имперский{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_greenskin_weapon_2h_axe_002" text="{.NI}Большой{.aj} орочий{.aj} {.NI}рубило{.nn}" />
     <string id="str_tor_greenskins_troll_2h_hammer_001" text="{.MI}Каменный{.aj} {.MI}молот{.nn} тролля" />
     <string id="str_tor_vc_weapon_mace_skeleton_004" text="{.MA}Скелетный{.aj} могильный{.aj} {.MA}Страж{.nn} Булава" />
@@ -159,7 +159,7 @@
     <string id="str_tor_we_weapon_spear_002" text="{.NI}Древний{.aj} {.NI}Копьё{.nn} Эльфов-Лесников" />
     <string id="str_tor_dwarf_2h_spanner_001" text="{.MI}Дворфский{.aj} разводной{.aj} {.MI}ключ{.nn}" />
     <string id="str_tor_dwarf_weapon_mace_001" text="{.MI}Дворфский{.aj} дворянский{.aj} громогласный{.aj} {.MI}молот{.nn}" />
-    <string id="str_tor_empire_weapon_spear_005" text="{.NI}Имперский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_empire_weapon_spear_005" text="{.NI}Имперский{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_empire_weapon_polehammer_warrior_priest_003" text="{.MI}Имперский{.aj} {.MI}Жезл-Молот{.nn} Священника" />
     <string id="str_tor_empire_weapon_lance_reiksguard_knight_002" text="{.NI}Копьё{.nn} Стража Рейксгарда" />
     <string id="str_tor_vc_weapon_sword_vampire_002" text="{.MI}Вампирский{.aj} {.MI}Меч{.nn}" />
@@ -179,15 +179,15 @@
     <string id="str_tor_dwarf_weapon_greataxe_deamon_slayer_001" text="{.MI}Топор-убийца{.nn} демонов" />
     <string id="str_tor_greenskin_weapon_club_troll_001" text="{.FI}Костяной{.aj} {.FI}дубина{.nn} тролля" />
     <string id="str_tor_empire_weapon_halberd_005" text="{.FI}Имперский{.aj} {.FI}алебарда{.nn}" />
-    <string id="str_tor_bretonnia_weapon_halberd_005" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_005" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_vc_weapon_sword_grave_guard_001" text="{.MI}Меч{.nn} Могильного Стража" />
     <string id="str_tor_empire_weapon_staff_volkmar" text="{.MI}Посох{.nn} Фолькмара Грозного" />
-    <string id="str_tor_bretonnia_weapon_spear_002" text="{.NI}Бретонский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_bretonnia_weapon_spear_002" text="{.NI}Бретонский{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_vc_weapon_thsword_vampire_001" text="{.MI}Вампирский{.aj} великий{.aj} {.MI}меч{.nn}" />
     <string id="str_tor_greenskin_weapon_2h_axe_005" text="{.MI}Большой{.aj} орочий{.aj} {.MI}черепокол{.nn}" />
     <string id="str_tor_dwarf_weapon_1h_axe_003" text="{.MI}Резной{.aj} дворфский{.aj} {.MI}Топор{.nn}" />
     <string id="str_tor_empire_weapon_sword_runefang_009" text="{.MI}Тролльский{.aj} рубящий{.aj} {.MI}меч{.nn}" />
-    <string id="str_tor_bretonnia_weapon_halberd_001" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_001" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_greenskin_weapon_axe_1h_black_orc_001" text="{.MI}Топор{.nn} чёрного орка" />
     <string id="str_tor_dwarf_weapon_mace_002" text="{.MI}Дворфский{.aj} громогласный{.aj} {.MI}молот{.nn}" />
     <string id="str_tor_empire_weapon_rapier_004" text="{.FI}Имперский{.aj} {.FI}Рапира{.nn}" />
@@ -202,7 +202,7 @@
     <string id="str_tor_vc_weapon_mace_skeleton_001" text="{.FI}Булава{.nn} скелетного воина" />
     <string id="str_tor_greenskin_weapon_axe_savage_001" text="{.NI}Костяной{.aj} орочий{.aj} {.NI}рубило{.nn}" />
     <string id="str_tor_empire_weapon_scythe_morr_003" text="{.FI}Коса{.nn} Морра" />
-    <string id="str_tor_bretonnia_weapon_halberd_006" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_006" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_beastmen_weapon_sword_ungor_001" text="{.MI}Меч{.nn} Унгора" />
     <string id="str_tor_empire_weapon_sword_reiksguard_circle_001" text="{.MI}Меч{.nn} внутреннего круга Рейксгарда" />
     <string id="str_tor_vc_weapon_staff_nm_001" text="{.MI}Посох{.nn} Некроманта" />
@@ -218,10 +218,10 @@
     <string id="str_tor_de_weapon_spear_001" text="{.NI}Тёмный{.aj} {.NI}Копьё{.nn} Эльфов-Лесников" />
     <string id="str_tor_greenskin_weapon_greataxe_black_orc_001" text="{.MI}Большой{.aj} {.MI}топор{.nn} чёрного орка" />
     <string id="str_tor_vc_weapon_sword_vampire_006" text="{.MI}Меч{.nn} вампира" />
-    <string id="str_tor_bretonnia_weapon_spear_001" text="{.NI}Бретонский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_bretonnia_weapon_spear_001" text="{.NI}Бретонский{.aj} {.NI}копьё{.nn}" />
     <string id="str_dwarf_1h_engineer_hammer_001" text="{.MI}Дворфский{.aj} {.MI}молот-шестерёнка{.nn}" />
     <string id="str_tor_de_weapon_spear_002" text="{.NI}Тёмный{.aj} {.NI}Копьё{.nn} Эльфов-Лесников" />
-    <string id="str_tor_empire_weapon_staff_bw_002" text="{.MI}Яркий{.aj} {.MI}посох{.nn} мага" />
+    <string id="str_tor_empire_weapon_staff_bw_002" text="{.MI}Посох{.nn} Огненного Мага" />
     <string id="str_tor_dwarf_2h_hammer_007" text="{.MI}Резной{.aj} громогласный{.aj} {.MI}молот{.nn} дворфа" />
     <string id="str_tor_dwarf_2h_hammer_006" text="{.MI}Громовый{.aj} {.MI}молот{.nn} дворфа-воина" />
     <string id="str_tor_empire_weapon_sword_reiksguard_circle_003" text="{.MI}Меч{.nn} Внутреннего круга Рейксгвардии" />
@@ -234,7 +234,7 @@
     <string id="str_tor_empire_weapon_halberd_006" text="{.FI}Имперский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_he_weapon_spearmen_spear_001" text="{.NI}Копьё{.nn} Высоких Эльфов-Пехотинцев" />
     <string id="str_tor_beastmen_weapon_axe_ungor_003" text="{.MI}Топор{.nn} Унгора" />
-    <string id="str_tor_bretonnia_weapon_spear_003" text="{.NI}Бретонский{.aj} {.NI}копье{.nn}" />
+    <string id="str_tor_bretonnia_weapon_spear_003" text="{.NI}Бретонский{.aj} {.NI}копьё{.nn}" />
     <string id="str_tor_dwarf_weapon_greataxe_002_004" text="{.MI}Дворфский{.aj} сапфировый{.aj} {.MI}топор{.nn}" />
     <string id="str_tor_greenskin_weapon_axe_002" text="{.NI}Орочий{.aj} {.NI}рубило{.nn}" />
     <string id="str_tor_we_weapon_sword_002" text="{.MI}Древний{.aj} эльфийский{.aj} {.MI}Меч{.nn}" />
@@ -246,7 +246,7 @@
     <string id="str_tor_beastmen_weapon_spear_ungor_001" text="{.NI}Копьё{.nn} Унгора" />
     <string id="str_tor_greenskin_staff_shaman_001" text="{.MI}Посох{.nn} орочьего шамана" />
     <string id="str_tor_empire_weapon_spear_001" text="{.NI}Имперский{.aj} {.NI}Копьё{.nn}" />
-    <string id="str_tor_bretonnia_weapon_halberd_002" text="{.MI}Бретонский{.aj} {.MI}вольгьер{.nn}" />
+    <string id="str_tor_bretonnia_weapon_halberd_002" text="{.FI}Бретонский{.aj} {.FI}алебарда{.nn}" />
     <string id="str_tor_empire_weapon_halberd_007" text="{.FI}Алебарда{.nn} Имперского Рыцаря-Демигрифа" />
   </strings>
 </base>
