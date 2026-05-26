@@ -2,7 +2,7 @@
 <Module>
   <Name value="The Old Realms — Русский перевод" />
   <Id value="TOR_RU_Translation" />
-  <Version value="v1.3.15.22" />
+  <Version value="v1.3.15.23" />
   <ModuleCategory value="Singleplayer" />
   <ModuleType value="Community" />
   <Official value="false" />
@@ -35,5 +35,9 @@
       </Tags>
     </SubModule>
   </SubModules>
-  <Xmls />
+  <Xmls>
+    <XmlNode>
+      <XmlName id="GameText" path="tor_ru_missing_strings" />
+    </XmlNode>
+  </Xmls>
 </Module>

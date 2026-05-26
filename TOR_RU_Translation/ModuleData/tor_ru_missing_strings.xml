@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string id="tor_engineer_quest_return_task_text" text="{=str_tor_engineer_quest_return_task_text}Return to the Master Engineer in Nuln" />
+  <string id="tor_specialize_lore_quest_task1" text="{=str_tor_specialize_lore_quest_task1}Use magic 5 times." />
+  <string id="tor_specialize_lore_quest_task1_counter" text="{=str_tor_specialize_lore_quest_task1_counter}Number of casts" />
+  <string id="tor_specialize_lore_quest_task1_finish" text="{=str_tor_specialize_lore_quest_task1_finish}Visit a spell trainer to specialize in a lore." />
+  <string id="tor_party_size_desc" text="{=str_tor_party_size_desc}Friend of undead" />
+  <string id="tor_taal_seal" text="{=str_tor_taal_seal}Taal Seal" />
+  <string id="tor_dark_energy_burden" text="{=str_tor_dark_energy_burden}Burden of Dark Energy Costs is too high!" />
+  <string id="tor_suffering_sunlight" text="{=str_tor_suffering_sunlight}Suffering from sun light" />
+  <string id="tor_snow" text="{=str_tor_snow}Snow" />
+  <string id="tor_joust_match_over" text="{=str_tor_joust_match_over}Match is over" />
+  <string id="tor_joust_final_round" text="{=str_tor_joust_final_round}Round is over, you survived the final round of the tournament." />
+  <string id="tor_joust_qualified" text="{=str_tor_joust_qualified}Round is over, you are qualified for the next stage of the tournament." />
+  <string id="tor_joust_disqualified" text="{=str_tor_joust_disqualified}Round is over, you are disqualified from the tournament." />
+  <string id="tor_upgrade_to" text="{=str_tor_upgrade_to}Upgrade to {UPGRADE_NAME}" />
+  <string id="tor_required_xp" text="{=str_tor_required_xp}Required: {NEEDED_EXP_AMOUNT}xp (You have {CURRENT_EXP_AMOUNT})" />
+  <string id="tor_required_item" text="{=str_tor_required_item}Required: {UPGRADE_ITEM}" />
+  <string id="tor_required_item_none" text="{=str_tor_required_item_none}Required: {UPGRADE_ITEM} (You have none)" />
+  <string id="tor_cost_not_enough" text="{=str_tor_cost_not_enough}Cost: {UPGRADE_COST} (You don't have)" />
+  <string id="tor_cost" text="{=str_tor_cost}Cost: {UPGRADE_COST}" />
+  <string id="tor_perk_required" text="{=str_tor_perk_required}You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
+  <string id="tor_inventory_race_restriction" text="{=str_tor_inventory_race_restriction}You are not the correct race to equip this item." />
+  <string id="tor_faction_leader" text="{=str_tor_faction_leader}leader" />
+  <string id="tor_powerstone_not_experienced_enough_text" text="{=str_tor_powerstone_not_experienced_enough_text}troop is not expierenced enough (tier 4 and above)" />
+  <string id="tor_powerstone_not_enough_prestige_text" text="{=str_tor_powerstone_not_enough_prestige_text}You do not have enough prestige to create power stones" />
+  <string id="tor_powerstone_remove_text" text="{=str_tor_powerstone_remove_text}Remove Powerstone" />
+  <string id="tor_powerstone_create_text" text="{=str_tor_powerstone_create_text}Create Powerstone empowering your troop or character" />
+  <string id="tor_career_button_knightoldworld_seal_accept" text="{=str_tor_career_button_knightoldworld_seal_accept}Add a Purity Seal to this knight." />
+  <string id="tor_career_button_knightoldworld_seal_decline" text="{=str_tor_career_button_knightoldworld_seal_decline}Your religion does not match this unit's religion." />
+  <string id="tor_waywatcher_arrow_name" text="{=str_tor_waywatcher_arrow_name}Swiftshiver Shards" />
+  <string id="tor_waywatcher_arrow_desc" text="{=str_tor_waywatcher_arrow_desc}adds 15% Magical damage" />
+  <string id="tor_cast_fail_comp_null" text="{=str_tor_cast_fail_comp_null}Abilitycomponent is null!" />
+  <string id="tor_upkeep" text="{=str_tor_upkeep}Upkeep" />
+  <string id="tor_skill_training_prompt" text="{=str_tor_skill_training_prompt}Companion Training: {SKILL_NAME}" />
+  <string id="tor_skill_training_hover" text="{=str_tor_skill_training_hover}Not enough gold." />
+  <string id="tor_hireling_desert_warning_text" text="{=str_tor_hireling_desert_warning_text}This will harm your relations with the entire faction." />
+  <string id="tor_hireling_abandon_party_title" text="{=str_tor_hireling_abandon_party_title}Abandon Party" />
+  <string id="tor_hireling_abandon_party_text" text="{=str_tor_hireling_abandon_party_text}Are you sure you want to abandon the party? {HIRELING_DESERT_TEXT}" />
+  <string id="tor_hireling_yes_text" text="{=str_tor_hireling_yes_text}Yes" />
+  <string id="tor_hireling_no_text" text="{=str_tor_hireling_no_text}No" />
+  <string id="tor_graveyard_nightwatch_name" text="{=str_tor_graveyard_nightwatch_name}{SETTLEMENTNAME}'s Nightwatch" />
+  <string id="tor_settlement_graveyard_introduction" text="{=str_tor_settlement_graveyard_introduction}You have arrived at {SETTLEMENT_NAME}'s Graveyard. Graves, tombstones and family crypts litter the peaceful hillside." />
+  <string id="tor_gs_make_teefbags_title_text" text="{=str_tor_gs_make_teefbags_title_text}Make Teef bags" />
+  <string id="tor_gs_make_teefbags_description_text" text="{=str_tor_gs_make_teefbags_description_text}Teef are a little 'ard to carry. put them on your pile instead." />
+  <string id="tor_gs_store_teef_hint_text" text="{=str_tor_gs_store_teef_hint_text}Store {TEEF_VALUE} Teef" />
+  <string id="tor_gs_create_loot_piles_text" text="{=str_tor_gs_create_loot_piles_text}Create Loot piles for the big pile of loot" />
+  <string id="tor_gs_give_items_to_boss_text" text="{=str_tor_gs_give_items_to_boss_text}Give Items to the Big boss" />
+  <string id="tor_gs_spend_gold_title_text" text="{=str_tor_gs_spend_gold_title_text}Spend Gold" />
+  <string id="tor_gs_spend_gold_description_text" text="{=str_tor_gs_spend_gold_description_text}The Big Boss takes your shinies. How much would you like to spend to obtain some Teef?" />
+  <string id="tor_gs_spend_gold_hint_text" text="{=str_tor_gs_spend_gold_hint_text}Spend {GOLD_COST} Gold" />
+  <string id="tor_dw_spend_oath_gold_hint_text" text="{=str_tor_dw_spend_oath_gold_hint_text}Spend {OATHGOLD_COST} Oath Gold on this guild" />
+  <string id="tor_dw_brewers_deliverWheat_item_hint" text="{=str_tor_dw_brewers_deliverWheat_item_hint}Deliver {WHEAT_COUNT} grain for {OATH_GOLD_GAIN_WHEAT} Oath Gold." />
+  <string id="tor_dw_oath_gold_spending_title_text" text="{=str_tor_dw_oath_gold_spending_title_text}Spend Oath Gold" />
+  <string id="tor_dw_oath_gold_spending_description_text" text="{=str_tor_dw_oath_gold_spending_description_text}Select how much Oath Gold you want to spend" />
+  <string id="tor_dw_expedition_reward_item_description_text" text="{=str_tor_dw_expedition_reward_item_description_text}Expedition reward item" />
+  <string id="tor_dw_donate_miners_to_guild_text" text="{=str_tor_dw_donate_miners_to_guild_text}Donate Miners to the Miners guild" />
+  <string id="tor_dw_donate_warriors_to_guild_text" text="{=str_tor_dw_donate_warriors_to_guild_text}Donate Warriors to the Warriors guild" />
+  <string id="tor_gained_resource_notification_text" text="{=str_tor_gained_resource_notification_text}Gained {AMOUNT}{RESOURCE_ICON}" />
+  <string id="tor_gained_items_notification_text" text="{=str_tor_gained_items_notification_text}Gained {ITEMS}" />
+  <string id="tor_cc_learned_necromancy_text" text="{=str_tor_cc_learned_necromancy_text}Successfully learned Necromancy" />
+  <string id="tor_artillery_reload" text="{=str_tor_artillery_reload}{KEY} Reload" />
+  <string id="tor_artillery_use" text="{=str_tor_artillery_use}{KEY} Use" />
+  <string id="tor_artillery_pick_up" text="{=str_tor_artillery_pick_up}{KEY} Pick Up" />
+  <string id="tor_cannonball_pile" text="{=str_tor_cannonball_pile}Cannonball Pile" />
+  <string id="tor_artillery_rotate" text="{=str_tor_artillery_rotate}{KEY} Rotate" />
+  <string id="tor_artillery_load_ammo" text="{=str_tor_artillery_load_ammo}{KEY} Load Ammo" />
+  <string id="tor_trebuchet" text="{=str_tor_trebuchet}Trebuchet" />
+  <string id="tor_boulder" text="{=str_tor_boulder}Boulder" />
+  <string id="tor_ai_activate_alarmed" text="{=str_tor_ai_activate_alarmed}{p0} {p1} activate alarmed behavior group." />
+  <string id="tor_ai_deactivate_fight" text="{=str_tor_ai_deactivate_fight}{p0} {p1} deactivate fight behavior." />
+  <string id="tor_ability_requires_anvil" text="{=str_tor_ability_requires_anvil}Requires Anvil of Doom" />
+  <string id="tor_ability_anvil_not_placed" text="{=str_tor_ability_anvil_not_placed}Place Anvil of Doom first" />
+  <string id="tor_ability_too_far_from_anvil" text="{=str_tor_ability_too_far_from_anvil}Too far from Anvil of Doom" />
+  <string id="tor_no_artillery_inventory" text="{=str_tor_no_artillery_inventory}No more artillery pieces in inventory" />
+  <string id="tor_no_artillery_slots" text="{=str_tor_no_artillery_slots}Party cannot field more artillery pieces" />
+  <string id="tor_upgrades_disabled" text="{=str_tor_upgrades_disabled}Troop upgrades are currently disabled." />
+  <string id="tor_careerunlock_level_1" text="{=str_tor_careerunlock_level_1}WarriorPriest" />
+  <string id="tor_careerunlock_level_2" text="{=str_tor_careerunlock_level_2}Required clan renown: 2" />
+  <string id="tor_careerunlock_level_3" text="{=str_tor_careerunlock_level_3}Required clan renown: 4" />
+  <string id="tor_careerunlock_reward_2" text="{=str_tor_careerunlock_reward_2}Unlocks Dark Magic" />
+  <string id="tor_careerunlock_reward_3" text="{=str_tor_careerunlock_reward_3}Unlocks Lore of Heavens" />
+  <string id="tor_careerunlock_reward_1" text="{=str_tor_careerunlock_reward_1}Swiftshiver shards upgrade for troops" />
+  <string id="tor_career_button_remove_option" text="{=str_tor_career_button_remove_option}Remove" />
+  <string id="tor_powerstone_not_enough_winds_text" text="{=str_tor_powerstone_not_enough_winds_text}You don't have enough Winds" />
+  <string id="tor_powerstone_choose_title_text" text="{=str_tor_powerstone_choose_title_text}Choose Power stone" />
+  <string id="tor_powerstone_choose_description_text" text="{=str_tor_powerstone_choose_description_text}Empower your troop with a permanent magical effect of a Power stone. The effect will reduce your total amount of Winds while the stone is active." />
+  <string id="tor_refine_all_text" text="{=str_tor_refine_all_text}Refine All" />
+  <string id="tor_hunt_perk_animal_large" text="{=str_tor_hunt_perk_animal_large}large Animal" />
+  <string id="tor_hunt_perk_animal_medium" text="{=str_tor_hunt_perk_animal_medium}medium Animal" />
+  <string id="tor_hunt_perk_animal_small" text="{=str_tor_hunt_perk_animal_small}small Animal" />
+  <string id="tor_custom_settlement_chaos_portal_victory_title" text="{=str_tor_custom_settlement_chaos_portal_victory_title}Victory!" />
+  <string id="tor_custom_settlement_chaos_portal_victory_str" text="{=str_tor_custom_settlement_chaos_portal_victory_str}You are Victorious! Claim your reward! Select one!" />
+  <string id="tor_custom_settlement_chaos_portal_defeat_title" text="{=str_tor_custom_settlement_chaos_portal_defeat_title}Defeated!" />
+  <string id="tor_inquiry_decline_text" text="{=str_tor_inquiry_decline_text}Decline" />
+  <string id="tor_toggle_off_text" text="{=str_tor_toggle_off_text}Off" />
+  <string id="tor_toggle_on_text" text="{=str_tor_toggle_on_text}On" />
+  <string id="tor_dw_oathgold" text="{=str_tor_dw_oathgold}Time since last benefits provided" />
+  <string id="tor_dw_engineer_benefit" text="{=str_tor_dw_engineer_benefit}Engineers" />
+  <string id="tor_dw_runesmith_benefit" text="{=str_tor_dw_runesmith_benefit}Runesmiths." />
+  <string id="tor_dw_miners_benefit" text="{=str_tor_dw_miners_benefit}Mining and Expeditions Guild" />
+  <string id="tor_dw_brewers_benefit" text="{=str_tor_dw_brewers_benefit}Brewers" />
+  <string id="tor_dw_oathgold_warrior_benefit" text="{=str_tor_dw_oathgold_warrior_benefit}Warriors" />
+  <string id="tor_dw_oathgold_warriorguild_benefit" text="{=str_tor_dw_oathgold_warriorguild_benefit}Upgrade cost reduction for Slayers, Warriors and Longbeard" />
+  <string id="tor_dw_brewers_deliverWheat_item_title" text="{=str_tor_dw_brewers_deliverWheat_item_title}Grain" />
+  <string id="tor_dw_expedition_reward_item_hint_text" text="{=str_tor_dw_expedition_reward_item_hint_text}Expedition reward item" />
+  <string id="tor_dw_expedition_rewards_title_text" text="{=str_tor_dw_expedition_rewards_title_text}Expedition Rewards" />
+  <string id="tor_dw_expedition_rewards_description_text" text="{=str_tor_dw_expedition_rewards_description_text}Your expeditions have returned with rewards" />
+  <string id="tor_dw_brewers_deliverWheat_prompt_title" text="{=str_tor_dw_brewers_deliverWheat_prompt_title}Deliver Grain" />
+  <string id="tor_dw_brewers_deliverWheat_prompt_description" text="{=str_tor_dw_brewers_deliverWheat_prompt_description}Select how much grain you wish to deliver to the guild." />
+  <string id="tor_confirm" text="{=str_tor_confirm}Confirm" />
+  <string id="tor_career_decline_reconsider" text="{=str_tor_career_decline_reconsider}On second thought, I need to think about it." />
+  <string id="tor_duel_start_combat" text="{=str_tor_duel_start_combat}Kick in sum teef!" />
+  <string id="tor_magic_lore_prompt_label" text="{=str_tor_magic_lore_prompt_label}Choose Lore" />
+  <string id="tor_magic_lore_prompt_description" text="{=str_tor_magic_lore_prompt_description}Choose a lore to specialize in." />
+  <string id="tor_magic_lore_prompt_companion_lore" text="{=str_tor_magic_lore_prompt_companion_lore}Choose Lore for your companion" />
+  <string id="tor_magic_lore_prompt_choose_companion" text="{=str_tor_magic_lore_prompt_choose_companion}Choose Companion" />
+  <string id="tor_magic_lore_prompt_companion_desc" text="{=str_tor_magic_lore_prompt_companion_desc}Which companion should become a Spellcaster?." />
+  <string id="tor_magic_lore_prompt_notification" text="{=str_tor_magic_lore_prompt_notification}Successfully learned lore: " />
+  <string id="tor_runesmithing_title" text="{=str_tor_runesmithing_title}Runesmithing" />
+  <string id="tor_enchanting_title" text="{=str_tor_enchanting_title}Enchanting" />
+  <string id="tor_crafting_ingredient_loot_fallback" text="{=str_tor_crafting_ingredient_loot_fallback}Looted enchantment ingredients were added directly to your party inventory." />
+  <string id="tor_cc_specialization_desc_lore" text="{=str_tor_cc_specialization_desc_lore}The gift of Witchsight allows you to channel one of the eight Winds of Magic:" />
+  <string id="tor_learnSpellDisabled_lore" text="{=str_tor_learnSpellDisabled_lore}Unfamiliar lore" />
+  <string id="tor_backstory_a" text="{=str_tor_backstory_a}Backstory A" />
+  <string id="tor_backstory_b" text="{=str_tor_backstory_b}Backstory B" />
+  <string id="tor_backstory_c" text="{=str_tor_backstory_c}Backstory C" />
+  <string id="tor_backstory_d" text="{=str_tor_backstory_d}Backstory D" />
+  <string id="tor_career_switch_explanation" text="{=str_tor_career_switch_explanation}Are you sure you want to switch to " />
+  <string id="tor_career_switch_title" text="{=str_tor_career_switch_title}Career Switch: " />
+  <string id="tor_companion_leave_p" text="{=str_tor_companion_leave_p}Farewell for now." />
+  <string id="tor_customsettlement_disabled" text="{=str_tor_customsettlement_disabled}This shrine is currently inactive." />
+  <string id="tor_customsettlement_intro" text="{=str_tor_customsettlement_intro}A cursed site." />
+  <string id="tor_dw_guildmaster_1_start" text="{=str_tor_dw_guildmaster_1_start}Greetings, fellow Dwarf." />
+  <string id="tor_dw_guildmaster_2_start" text="{=str_tor_dw_guildmaster_2_start}Ah, a visitor. What brings you here?" />
+  <string id="tor_dw_guildmaster_3_start" text="{=str_tor_dw_guildmaster_3_start}The ancestors watch over us. How may I assist?" />
+  <string id="tor_dw_guildmaster_4_start" text="{=str_tor_dw_guildmaster_4_start}Welcome to the guild." />
+  <string id="tor_dw_guildmaster_hub_oath_gold" text="{=str_tor_dw_guildmaster_hub_oath_gold}I wish to contribute Oath Gold to the guild." />
+  <string id="tor_dw_guildmaster_info_p" text="{=str_tor_dw_guildmaster_info_p}Tell me about the guild benefits." />
+  <string id="tor_dw_guildmaster_oath_gold" text="{=str_tor_dw_guildmaster_oath_gold}Your contribution will be remembered in the Book of Grudges." />
+  <string id="tor_dw_guildmaster_oath_gold_accept_p" text="{=str_tor_dw_guildmaster_oath_gold_accept_p}Here is my contribution." />
+  <string id="tor_dw_guildmaster_oath_gold_decline_p" text="{=str_tor_dw_guildmaster_oath_gold_decline_p}Perhaps another time." />
+  <string id="tor_dw_guildmaster_oath_gold_end" text="{=str_tor_dw_guildmaster_oath_gold_end}The guild thanks you. Your standing has improved." />
+  <string id="tor_dw_guildmaster_reintro" text="{=str_tor_dw_guildmaster_reintro}Is there anything else you need?" />
+  <string id="tor_dw_guildmaster_unlock_info" text="{=str_tor_dw_guildmaster_unlock_info}The guild offers various benefits as you gain standing." />
+  <string id="tor_dw_guildmaster_unlock_info_2" text="{=str_tor_dw_guildmaster_unlock_info_2}Contribute Oath Gold to increase your standing." />
+  <string id="tor_dw_rune_smith_deliver_steel_item_hint" text="{=str_tor_dw_rune_smith_deliver_steel_item_hint}Deliver {STEEL_COUNT} ingots for {OATH_GOLD_GAIN_STEEL} Oath Gold." />
+  <string id="tor_empire_prestigenoble_buildingexplain" text="{=str_tor_empire_prestigenoble_buildingexplain}Building Explanation" />
+  <string id="tor_empire_prestigenoble_buildingoption" text="{=str_tor_empire_prestigenoble_buildingoption}Building Option" />
+  <string id="tor_empire_prestigenoble_influenceexplain" text="{=str_tor_empire_prestigenoble_influenceexplain}Influence Explanation" />
+  <string id="tor_empire_prestigenoble_influenceoption" text="{=str_tor_empire_prestigenoble_influenceoption}Influence Option" />
+  <string id="tor_enchanter_blueprints" text="{=str_tor_enchanter_blueprints}Let me show you what I have available." />
+  <string id="tor_enchanter_blueprints_decline" text="{=str_tor_enchanter_blueprints_decline}I'm afraid you have no one capable of learning these arts." />
+  <string id="tor_enchanter_dialog_start" text="{=str_tor_enchanter_dialog_start}Greetings, visitor. How may I assist you?" />
+  <string id="tor_enchanter_dialog_start_1" text="{=str_tor_enchanter_dialog_start_1}Welcome. You have proven yourself worthy of my attention." />
+  <string id="tor_enchanter_dialog_start_2" text="{=str_tor_enchanter_dialog_start_2}Ah, a fellow practitioner! You are most welcome here." />
+  <string id="tor_enchanter_dialog_start_quit" text="{=str_tor_enchanter_dialog_start_quit}You are not of my culture. Begone." />
+  <string id="tor_enchanter_donate_items_1" text="{=str_tor_enchanter_donate_items_1}I am interested in magical items from your travels. What do you have?" />
+  <string id="tor_enchanter_donate_items_1_negative" text="{=str_tor_enchanter_donate_items_1_negative}You have nothing of interest to me at this time." />
+  <string id="tor_enchanter_donate_items_2" text="{=str_tor_enchanter_donate_items_2}Which items do you wish to donate?" />
+  <string id="tor_enchanter_donate_items_hub_p" text="{=str_tor_enchanter_donate_items_hub_p}Let me provide you these items…" />
+  <string id="tor_enchanter_gift_items_hub_return_p" text="{=str_tor_enchanter_gift_items_hub_return_p}I need to think about this." />
+  <string id="tor_enchanter_hub_blueprints_p" text="{=str_tor_enchanter_hub_blueprints_p}I would like to learn new enchantments." />
+  <string id="tor_enchanter_hub_donate_items_p" text="{=str_tor_enchanter_hub_donate_items_p}I have magical items I no longer need." />
+  <string id="tor_enchanter_hub_info_p" text="{=str_tor_enchanter_hub_info_p}Can you teach me about enchantment?" />
+  <string id="tor_enchanter_hub_intro" text="{=str_tor_enchanter_hub_intro}So, what brings you here?" />
+  <string id="tor_enchanter_hub_open_enchanter_p" text="{=str_tor_enchanter_hub_open_enchanter_p}May I use your enchanting facilities?" />
+  <string id="tor_enchanter_hub_reintro" text="{=str_tor_enchanter_hub_reintro}Is there anything else?" />
+  <string id="tor_enchanter_hub_return_p" text="{=str_tor_enchanter_hub_return_p}I must go. Farewell." />
+  <string id="tor_enchanter_info_hub_intro_enchanter_first_visit" text="{=str_tor_enchanter_info_hub_intro_enchanter_first_visit}Of course! Take this, it will help you get started." />
+  <string id="tor_enchanter_info_hub_intro_first_visit" text="{=str_tor_enchanter_info_hub_intro_first_visit}Of course! Here, study this manual." />
+  <string id="tor_enchanter_info_hub_intro_read_book" text="{=str_tor_enchanter_info_hub_intro_read_book}Just read the manual I gave you." />
+  <string id="tor_enchanter_start_enchanter" text="{=str_tor_enchanter_start_enchanter}Welcome, fellow practitioner of the arts." />
+  <string id="tor_enchanter_start_p" text="{=str_tor_enchanter_start_p}I wish to learn about enchantment." />
+  <string id="tor_hire_accept_p" text="{=str_tor_hire_accept_p}Right... {GOLD_AMOUNT} Here you are." />
+  <string id="tor_hire_companion_begone" text="{=str_tor_hire_companion_begone}Begone. I have no business with your kind." />
+  <string id="tor_hire_companion_introduction" text="{=str_tor_hire_companion_introduction}What can I do for you?" />
+  <string id="tor_hire_companion_p" text="{=str_tor_hire_companion_p}I am interested in your skills." />
+  <string id="tor_hire_companion_payment" text="{=str_tor_hire_companion_payment}I could be persuaded to join you. My fee is {GOLD_AMOUNT}{GOLD_ICON}." />
+  <string id="tor_hire_companion_skip_p" text="{=str_tor_hire_companion_skip_p}I'm {PLAYER.NAME}. Let's skip the pleasantries and get right to business." />
+  <string id="tor_hire_companion_tell_me_p" text="{=str_tor_hire_companion_tell_me_p}My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\\?}. Tell me about yourself." />
+  <string id="tor_hire_decline_p" text="{=str_tor_hire_decline_p}I can't afford that just now." />
+  <string id="tor_magical_items_trait_rarity" text="{=str_tor_magical_items_trait_rarity}Magical" />
+  <string id="tor_player_accept_vassalage" text="{=str_tor_player_accept_vassalage}You have been accepted as a vassal." />
+  <string id="tor_response_1" text="{=str_tor_response_1}Response 1" />
+  <string id="tor_response_2" text="{=str_tor_response_2}Response 2" />
+
+  <!-- Variation-keyed GameText (id="база.вариация"): типы урона и атаки в описаниях способностей/эффектов -->
+  <string id="tor_damagetype.Physical" text="Физический" />
+  <string id="tor_damagetype.Magical" text="Магический" />
+  <string id="tor_damagetype.Fire" text="Огненный" />
+  <string id="tor_damagetype.Holy" text="Священный" />
+  <string id="tor_damagetype.Lightning" text="Электрический" />
+  <string id="tor_damagetype.Frost" text="Морозный" />
+  <string id="tor_damagetype.All" text="Любой" />
+  <string id="tor_attacktype.Melee" text="Ближний бой" />
+  <string id="tor_attacktype.Ranged" text="Дальний бой" />
+</strings>

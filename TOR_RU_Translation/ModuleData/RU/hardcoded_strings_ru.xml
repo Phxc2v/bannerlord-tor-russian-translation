@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Английские строки, ЗАШИТЫЕ в C# TOR_Core без {=stringId} — XML-локализация их не достаёт.
+  Заменяются в рантайме через Harmony-prefix на MBTextManager.SetTextVariable.
+  Новую утечку добавлять новой строкой <str/>, перекомпиляция DLL НЕ нужна (только перезапуск игры).
+  prefix="true" — для строк с динамическим хвостом (заменяется начало, хвост сохраняется).
+-->
+<HardcodedStrings>
+  <!-- Пещера троллей (TrollCaveMenuInit, LOCATION_DESCRIPTION) -->
+  <str prefix="true"
+       en="The cave is quiet. The trolls you slew still litter the ground, but their kind will return in time."
+       ru="Пещера тиха. Перебитые вами тролли ещё устилают землю, но со временем их сородичи вернутся." />
+  <str en="A dark cave emanates a terrible stench. Massive footprints and gnawed bones litter the entrance - clear signs of troll habitation."
+       ru="Из тёмной пещеры исходит жуткая вонь. У входа — огромные следы и обглоданные кости, явные признаки логова троллей." />
+  <str en="The cave is empty. No trolls dwell here currently."
+       ru="Пещера пуста. Сейчас здесь не обитают тролли." />
+
+  <!-- Хардкод new TextObject("...") — метки тултипов/разъяснений, названия источников дохода, типы поселений -->
+  <str en="Brewers Guild" ru="Гильдия пивоваров" />
+  <str en="Engineers Guild" ru="Гильдия инженеров" />
+  <str en="Warriors Guild" ru="Гильдия воинов" />
+  <str en="Squigherds" ru="Загоны сквигов" />
+  <str en="Teef Bags" ru="Мешки зубьев" />
+  <str en="Shiny Pile" ru="Куча блестяшек" />
+  <str en="Oak of Ages" ru="Дуб Веков" />
+  <str en="Dwarf Karak" ru="Гномий Карак" />
+  <str en="Elven Metropolis" ru="Эльфийская метрополия" />
+  <str en="Gift of Nurgle" ru="Дар Нургла" />
+  <str en="Secular Seal" ru="Мирская печать" />
+  <str en="It is time to declare war!" ru="Пора объявить войну!" />
+  <str en="Summoned" ru="Призванный" />
+
+  <!-- Конкатенированные сообщения TORCommon.Say (regex; переменные-имена остаются на месте через $1/$2/$3) -->
+  <str regex="^(.*) has already been used (\d+) time\(s\) by (.*)\.$"
+       ru="$1 — уже использовано героем $3 ($2 раз)." />
+</HardcodedStrings>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xml_name="str_tor_missing_strings">
+  <tags>
+    <tag language="Русский"/>
+  </tags>
+  <strings>
+    <string id="str_tor_engineer_quest_return_task_text" text="Вернуться к мастер-инженеру в Нульне" />
+    <string id="str_tor_specialize_lore_quest_task1" text="Примените магию 5 раз." />
+    <string id="str_tor_specialize_lore_quest_task1_counter" text="Число заклинаний" />
+    <string id="str_tor_specialize_lore_quest_task1_finish" text="Посетите наставника заклинаний, чтобы специализироваться на учении." />
+    <string id="str_tor_party_size_desc" text="Друг нежити" />
+    <string id="str_tor_taal_seal" text="Печать Таала" />
+    <string id="str_tor_dark_energy_burden" text="Бремя расходов Тёмной энергии слишком велико!" />
+    <string id="str_tor_suffering_sunlight" text="Страдает от солнечного света" />
+    <string id="str_tor_snow" text="Снег" />
+    <string id="str_tor_joust_match_over" text="Бой окончен" />
+    <string id="str_tor_joust_final_round" text="Раунд окончен, вы пережили финальный раунд турнира." />
+    <string id="str_tor_joust_qualified" text="Раунд окончен, вы прошли в следующий этап турнира." />
+    <string id="str_tor_joust_disqualified" text="Раунд окончен, вы выбыли из турнира." />
+    <string id="str_tor_upgrade_to" text="Улучшить до {UPGRADE_NAME}" />
+    <string id="str_tor_required_xp" text="Требуется: {NEEDED_EXP_AMOUNT} опыта (у вас {CURRENT_EXP_AMOUNT})" />
+    <string id="str_tor_required_item" text="Требуется: {UPGRADE_ITEM}" />
+    <string id="str_tor_required_item_none" text="Требуется: {UPGRADE_ITEM} (у вас нет)" />
+    <string id="str_tor_cost_not_enough" text="Стоимость: {UPGRADE_COST} (не хватает)" />
+    <string id="str_tor_cost" text="Стоимость: {UPGRADE_COST}" />
+    <string id="str_tor_perk_required" text="Чтобы повысить бандита до обычного бойца, нужен перк {PERK_NAME}." />
+    <string id="str_tor_inventory_race_restriction" text="Вы не той расы, чтобы экипировать этот предмет." />
+    <string id="str_tor_faction_leader" text="предводитель" />
+    <string id="str_tor_powerstone_not_experienced_enough_text" text="боец недостаточно опытен (4-й ранг и выше)" />
+    <string id="str_tor_powerstone_not_enough_prestige_text" text="У вас недостаточно престижа, чтобы создавать Камни Силы" />
+    <string id="str_tor_powerstone_remove_text" text="Убрать Камень Силы" />
+    <string id="str_tor_powerstone_create_text" text="Создать Камень Силы, усиливающий вашего бойца или персонажа" />
+    <string id="str_tor_career_button_knightoldworld_seal_accept" text="Добавить Печать чистоты этому рыцарю." />
+    <string id="str_tor_career_button_knightoldworld_seal_decline" text="Ваша религия не совпадает с религией этого воина." />
+    <string id="str_tor_waywatcher_arrow_name" text="Стремительные осколки" />
+    <string id="str_tor_waywatcher_arrow_desc" text="добавляет 15% магического урона" />
+    <string id="str_tor_cast_fail_comp_null" text="Компонент способности отсутствует (null)!" />
+    <string id="str_tor_upkeep" text="Содержание" />
+    <string id="str_tor_skill_training_prompt" text="Обучение спутника: {SKILL_NAME}" />
+    <string id="str_tor_skill_training_hover" text="Недостаточно золота." />
+    <string id="str_tor_hireling_desert_warning_text" text="Это навредит вашим отношениям со всей фракцией." />
+    <string id="str_tor_hireling_abandon_party_title" text="Покинуть отряд" />
+    <string id="str_tor_hireling_abandon_party_text" text="Вы уверены, что хотите покинуть отряд? {HIRELING_DESERT_TEXT}" />
+    <string id="str_tor_hireling_yes_text" text="Да" />
+    <string id="str_tor_hireling_no_text" text="Нет" />
+    <string id="str_tor_graveyard_nightwatch_name" text="Ночная стража {SETTLEMENTNAME}" />
+    <string id="str_tor_settlement_graveyard_introduction" text="Вы прибыли на кладбище {SETTLEMENT_NAME}. Могилы, надгробия и фамильные склепы усеивают мирный склон холма." />
+    <string id="str_tor_gs_make_teefbags_title_text" text="Сделать мешки зубьев" />
+    <string id="str_tor_gs_make_teefbags_description_text" text="Зубья таскать тяжеловато. Лучше скинь их в свою кучу." />
+    <string id="str_tor_gs_store_teef_hint_text" text="Сложить {TEEF_VALUE} зубьев" />
+    <string id="str_tor_gs_create_loot_piles_text" text="Сделать кучи лута для большой кучи добычи" />
+    <string id="str_tor_gs_give_items_to_boss_text" text="Отдать вещи Большому боссу" />
+    <string id="str_tor_gs_spend_gold_title_text" text="Потратить золото" />
+    <string id="str_tor_gs_spend_gold_description_text" text="Большой босс забирает твои блестяшки. Сколько хочешь потратить, чтоб разжиться зубьями?" />
+    <string id="str_tor_gs_spend_gold_hint_text" text="Потратить {GOLD_COST} золота" />
+    <string id="str_tor_dw_spend_oath_gold_hint_text" text="Потратить {OATHGOLD_COST} Клятвенного золота на эту гильдию" />
+    <string id="str_tor_dw_brewers_deliverWheat_item_hint" text="Поставить {WHEAT_COUNT} зерна за {OATH_GOLD_GAIN_WHEAT} Клятвенного золота." />
+    <string id="str_tor_dw_oath_gold_spending_title_text" text="Потратить Клятвенное золото" />
+    <string id="str_tor_dw_oath_gold_spending_description_text" text="Выберите, сколько Клятвенного золота хотите потратить" />
+    <string id="str_tor_dw_expedition_reward_item_description_text" text="Награда за экспедицию" />
+    <string id="str_tor_dw_donate_miners_to_guild_text" text="Пожертвовать рудокопов Гильдии рудокопов" />
+    <string id="str_tor_dw_donate_warriors_to_guild_text" text="Пожертвовать воинов Гильдии воинов" />
+    <string id="str_tor_gained_resource_notification_text" text="Получено {AMOUNT}{RESOURCE_ICON}" />
+    <string id="str_tor_gained_items_notification_text" text="Получено {ITEMS}" />
+    <string id="str_tor_cc_learned_necromancy_text" text="Некромантия успешно изучена" />
+    <string id="str_tor_artillery_reload" text="{KEY} Перезарядить" />
+    <string id="str_tor_artillery_use" text="{KEY} Использовать" />
+    <string id="str_tor_artillery_pick_up" text="{KEY} Подобрать" />
+    <string id="str_tor_cannonball_pile" text="Куча ядер" />
+    <string id="str_tor_artillery_rotate" text="{KEY} Повернуть" />
+    <string id="str_tor_artillery_load_ammo" text="{KEY} Зарядить боеприпас" />
+    <string id="str_tor_trebuchet" text="Требушет" />
+    <string id="str_tor_boulder" text="Валун" />
+    <string id="str_tor_ai_activate_alarmed" text="{p0} {p1} активирует группу поведения «тревога»." />
+    <string id="str_tor_ai_deactivate_fight" text="{p0} {p1} отключает боевое поведение." />
+    <string id="str_tor_ability_requires_anvil" text="Требуется Наковальня Рока" />
+    <string id="str_tor_ability_anvil_not_placed" text="Сначала установите Наковальню Рока" />
+    <string id="str_tor_ability_too_far_from_anvil" text="Слишком далеко от Наковальни Рока" />
+    <string id="str_tor_no_artillery_inventory" text="В инвентаре больше нет артиллерийских орудий" />
+    <string id="str_tor_no_artillery_slots" text="Отряд не может выставить больше артиллерийских орудий" />
+    <string id="str_tor_upgrades_disabled" text="Улучшение войск сейчас недоступно." />
+    <string id="str_tor_careerunlock_level_1" text="Воин-жрец" />
+    <string id="str_tor_careerunlock_level_2" text="Требуется известность клана: 2" />
+    <string id="str_tor_careerunlock_level_3" text="Требуется известность клана: 4" />
+    <string id="str_tor_careerunlock_reward_2" text="Открывает Тёмную магию" />
+    <string id="str_tor_careerunlock_reward_3" text="Открывает Учение Небес" />
+    <string id="str_tor_careerunlock_reward_1" text="Улучшение войск Стремительными осколками" />
+    <string id="str_tor_career_button_remove_option" text="Убрать" />
+    <string id="str_tor_powerstone_not_enough_winds_text" text="У вас недостаточно Ветров" />
+    <string id="str_tor_powerstone_choose_title_text" text="Выбрать Камень Силы" />
+    <string id="str_tor_powerstone_choose_description_text" text="Наделите бойца постоянным магическим эффектом Камня Силы. Пока камень действует, эффект снижает ваш общий запас Ветров." />
+    <string id="str_tor_refine_all_text" text="Переработать всё" />
+    <string id="str_tor_hunt_perk_animal_large" text="крупное животное" />
+    <string id="str_tor_hunt_perk_animal_medium" text="среднее животное" />
+    <string id="str_tor_hunt_perk_animal_small" text="мелкое животное" />
+    <string id="str_tor_custom_settlement_chaos_portal_victory_title" text="Победа!" />
+    <string id="str_tor_custom_settlement_chaos_portal_victory_str" text="Вы победили! Заберите награду! Выберите одну!" />
+    <string id="str_tor_custom_settlement_chaos_portal_defeat_title" text="Поражение!" />
+    <string id="str_tor_inquiry_decline_text" text="Отказаться" />
+    <string id="str_tor_toggle_off_text" text="Выкл." />
+    <string id="str_tor_toggle_on_text" text="Вкл." />
+    <string id="str_tor_dw_oathgold" text="Время с последнего предоставления благ" />
+    <string id="str_tor_dw_engineer_benefit" text="Инженеры" />
+    <string id="str_tor_dw_runesmith_benefit" text="Рунные кузнецы." />
+    <string id="str_tor_dw_miners_benefit" text="Гильдия рудокопов и экспедиций" />
+    <string id="str_tor_dw_brewers_benefit" text="Пивовары" />
+    <string id="str_tor_dw_oathgold_warrior_benefit" text="Воины" />
+    <string id="str_tor_dw_oathgold_warriorguild_benefit" text="Снижение стоимости улучшения Истребителей, Воинов и Длиннобородов" />
+    <string id="str_tor_dw_brewers_deliverWheat_item_title" text="Зерно" />
+    <string id="str_tor_dw_expedition_reward_item_hint_text" text="Награда за экспедицию" />
+    <string id="str_tor_dw_expedition_rewards_title_text" text="Награды за экспедиции" />
+    <string id="str_tor_dw_expedition_rewards_description_text" text="Ваши экспедиции вернулись с наградами" />
+    <string id="str_tor_dw_brewers_deliverWheat_prompt_title" text="Поставить зерно" />
+    <string id="str_tor_dw_brewers_deliverWheat_prompt_description" text="Выберите, сколько зерна хотите поставить гильдии." />
+    <string id="str_tor_confirm" text="Подтвердить" />
+    <string id="str_tor_career_decline_reconsider" text="Если подумать, мне нужно это обдумать." />
+    <string id="str_tor_duel_start_combat" text="Вышиби пару зубьев!" />
+    <string id="str_tor_magic_lore_prompt_label" text="Выбрать учение" />
+    <string id="str_tor_magic_lore_prompt_description" text="Выберите учение для специализации." />
+    <string id="str_tor_magic_lore_prompt_companion_lore" text="Выберите учение для вашего спутника" />
+    <string id="str_tor_magic_lore_prompt_choose_companion" text="Выбрать спутника" />
+    <string id="str_tor_magic_lore_prompt_companion_desc" text="Какой спутник должен стать заклинателем?" />
+    <string id="str_tor_magic_lore_prompt_notification" text="Учение успешно изучено: " />
+    <string id="str_tor_runesmithing_title" text="Рунная ковка" />
+    <string id="str_tor_enchanting_title" text="Зачарование" />
+    <string id="str_tor_crafting_ingredient_loot_fallback" text="Добытые ингредиенты для зачарования были добавлены прямо в инвентарь вашего отряда." />
+    <string id="str_tor_cc_specialization_desc_lore" text="Дар Ведьминого взора позволяет вам направлять один из восьми Ветров магии:" />
+    <string id="str_tor_learnSpellDisabled_lore" text="Незнакомое учение" />
+    <string id="str_tor_backstory_a" text="Предыстория A" />
+    <string id="str_tor_backstory_b" text="Предыстория B" />
+    <string id="str_tor_backstory_c" text="Предыстория C" />
+    <string id="str_tor_backstory_d" text="Предыстория D" />
+    <string id="str_tor_career_switch_explanation" text="Вы уверены, что хотите сменить карьеру на " />
+    <string id="str_tor_career_switch_title" text="Смена карьеры: " />
+    <string id="str_tor_companion_leave_p" text="Покуда прощай." />
+    <string id="str_tor_customsettlement_disabled" text="Это святилище сейчас неактивно." />
+    <string id="str_tor_customsettlement_intro" text="Проклятое место." />
+    <string id="str_tor_dw_guildmaster_1_start" text="Приветствую, собрат-дави." />
+    <string id="str_tor_dw_guildmaster_2_start" text="А, гость. Что привело тебя сюда?" />
+    <string id="str_tor_dw_guildmaster_3_start" text="Предки хранят нас. Чем могу помочь?" />
+    <string id="str_tor_dw_guildmaster_4_start" text="Добро пожаловать в гильдию." />
+    <string id="str_tor_dw_guildmaster_hub_oath_gold" text="Я желаю внести Клятвенное золото в гильдию." />
+    <string id="str_tor_dw_guildmaster_info_p" text="Расскажи мне о благах гильдии." />
+    <string id="str_tor_dw_guildmaster_oath_gold" text="Твой вклад будет записан в Книгу обид." />
+    <string id="str_tor_dw_guildmaster_oath_gold_accept_p" text="Вот мой вклад." />
+    <string id="str_tor_dw_guildmaster_oath_gold_decline_p" text="Пожалуй, в другой раз." />
+    <string id="str_tor_dw_guildmaster_oath_gold_end" text="Гильдия благодарит тебя. Твоё положение улучшилось." />
+    <string id="str_tor_dw_guildmaster_reintro" text="Нужно ли тебе что-нибудь ещё?" />
+    <string id="str_tor_dw_guildmaster_unlock_info" text="Гильдия предоставляет различные блага по мере роста твоего положения." />
+    <string id="str_tor_dw_guildmaster_unlock_info_2" text="Вноси Клятвенное золото, чтобы повысить своё положение." />
+    <string id="str_tor_dw_rune_smith_deliver_steel_item_hint" text="Поставить {STEEL_COUNT} слитков за {OATH_GOLD_GAIN_STEEL} Клятвенного золота." />
+    <string id="str_tor_empire_prestigenoble_buildingexplain" text="Пояснение к постройке" />
+    <string id="str_tor_empire_prestigenoble_buildingoption" text="Вариант постройки" />
+    <string id="str_tor_empire_prestigenoble_influenceexplain" text="Пояснение к влиянию" />
+    <string id="str_tor_empire_prestigenoble_influenceoption" text="Вариант влияния" />
+    <string id="str_tor_enchanter_blueprints" text="Позволь показать тебе, что у меня есть." />
+    <string id="str_tor_enchanter_blueprints_decline" text="Боюсь, у тебя нет никого, кто способен обучиться этому искусству." />
+    <string id="str_tor_enchanter_dialog_start" text="Приветствую, гость. Чем могу помочь?" />
+    <string id="str_tor_enchanter_dialog_start_1" text="Добро пожаловать. Ты доказал, что достоин моего внимания." />
+    <string id="str_tor_enchanter_dialog_start_2" text="А, собрат по искусству! Тебе здесь весьма рады." />
+    <string id="str_tor_enchanter_dialog_start_quit" text="Ты не моей культуры. Прочь." />
+    <string id="str_tor_enchanter_donate_items_1" text="Меня занимают магические предметы из твоих странствий. Что у тебя есть?" />
+    <string id="str_tor_enchanter_donate_items_1_negative" text="Сейчас у тебя нет ничего, что меня заинтересовало бы." />
+    <string id="str_tor_enchanter_donate_items_2" text="Какие предметы ты желаешь пожертвовать?" />
+    <string id="str_tor_enchanter_donate_items_hub_p" text="Позволь передать тебе эти предметы…" />
+    <string id="str_tor_enchanter_gift_items_hub_return_p" text="Мне нужно это обдумать." />
+    <string id="str_tor_enchanter_hub_blueprints_p" text="Я хотел бы изучить новые чары." />
+    <string id="str_tor_enchanter_hub_donate_items_p" text="У меня есть магические предметы, которые мне больше не нужны." />
+    <string id="str_tor_enchanter_hub_info_p" text="Можешь обучить меня зачарованию?" />
+    <string id="str_tor_enchanter_hub_intro" text="Итак, что привело тебя сюда?" />
+    <string id="str_tor_enchanter_hub_open_enchanter_p" text="Могу ли я воспользоваться твоей мастерской зачарования?" />
+    <string id="str_tor_enchanter_hub_reintro" text="Что-нибудь ещё?" />
+    <string id="str_tor_enchanter_hub_return_p" text="Мне пора. Прощай." />
+    <string id="str_tor_enchanter_info_hub_intro_enchanter_first_visit" text="Конечно! Возьми это, поможет тебе начать." />
+    <string id="str_tor_enchanter_info_hub_intro_first_visit" text="Конечно! Вот, изучи это руководство." />
+    <string id="str_tor_enchanter_info_hub_intro_read_book" text="Просто прочти руководство, что я тебе дал." />
+    <string id="str_tor_enchanter_start_enchanter" text="Добро пожаловать, собрат по искусству." />
+    <string id="str_tor_enchanter_start_p" text="Я желаю обучиться зачарованию." />
+    <string id="str_tor_hire_accept_p" text="Лады... {GOLD_AMOUNT} Вот, держи." />
+    <string id="str_tor_hire_companion_begone" text="Прочь. Нет у меня дел с такими, как ты." />
+    <string id="str_tor_hire_companion_introduction" text="Чем могу служить?" />
+    <string id="str_tor_hire_companion_p" text="Меня занимают твои умения." />
+    <string id="str_tor_hire_companion_payment" text="Меня можно уговорить пристать к тебе. Моя плата — {GOLD_AMOUNT}{GOLD_ICON}." />
+    <string id="str_tor_hire_companion_skip_p" text="Я {PLAYER.NAME}. Опустим любезности и перейдём прямо к делу." />
+    <string id="str_tor_hire_companion_tell_me_p" text="Меня зовут {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}госпожа{?}господин{\?}. Расскажи о себе." />
+    <string id="str_tor_hire_decline_p" text="Сейчас мне это не по карману." />
+    <string id="str_tor_magical_items_trait_rarity" text="Магический" />
+    <string id="str_tor_player_accept_vassalage" text="Вы приняты в вассалы." />
+    <string id="str_tor_response_1" text="Ответ 1" />
+    <string id="str_tor_response_2" text="Ответ 2" />
+  </strings>
+</base>
