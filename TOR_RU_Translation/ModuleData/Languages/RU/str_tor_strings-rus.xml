@@ -1031,7 +1031,7 @@
     <string id="str_tor_ability_in_mistform" text="В форме тумана" />
     <string id="str_tor_hire_companion_p_tor_wanderer_bretonnia_0" text="Бретонские рыцари — сила, с которой следует считаться." />
     <string id="str_tor_skill_teacher_train_2_Necromancer" text="Кто из твоих последователей осмелится идти по пути мёртвых?" />
-    <string id="str_tor_career_choicegroup_name_GromrilArmor" text="Громрильский Доспех" />
+    <string id="str_tor_career_choicegroup_name_GromrilArmor" text="Громриловый Доспех" />
     <string id="str_tor_perk_run_and_gun_2" text="Пехота с чёрным порохом в вашей партии получает +30 к навыку стрельбы из порохового оружия." />
     <string id="str_tor_skill_train_hub_select_companion_decline_UlricPriest" text="В твоей партии нет никого, кому стоило бы учиться." />
     <string id="str_tor_feudal_oath_line4_lyonesse" text="Как рыцарь Лионессы, я буду сражаться со львиной храбростью, быть столпом наших ценностей и наследия." />
@@ -1295,9 +1295,6 @@
     <string id="str_tor_spelltrainer_start" text="Я знаю тебя? Что тебе нужно? Быстро, я занят!" />
     <string id="str_tor_alliance_network" text="петь союзов" />
     <string id="str_tor_career_choicegroup_name_EnvoyOfTheLady" text="Посланник Леди" />
-    <string id="str_eonir_spellsinger_world_roots_explain_text" text="Вход в Мировые Корни находится здесь, в Лаурелорне, сначала его нужно найти. Как только вы там окажетесь, Песнопевец поможет вам пересечь его, но лишь до Майсонтоала в далёких землях Бретоннии.
-
-Мы не можем идти дальше, так как я не готов оскорбить Асрай. Корни священны, и редко кто из не-Асрай пересекает их." />
     <string id="str_tor_inky_overturnedcart_helpextort1" text="Вы говорите {tor_inky_Profession}, что не стоит так скромничать. Он явно человек состоятельный и может легко выделить {tor_inky_RewardText} в качестве компенсации за помощь." />
     <string id="str_tor_careerchoice_description_SpellSingerRoot" text="Леса приходят в движение! Запеките древнюю молитву, чтобы призвать Гнев Леса и вызвать на помощь Дриад! На каждый уровень «Магии» шанс появления дополнительной Дриады увеличивается на 0.05%. (способность перезаряжается нанесением урона «Магией».)" />
     <string id="str_tor_career_choicegroup_name_ArielsBlessing" text="Благословение Ариэль" />
@@ -1505,7 +1502,7 @@
     <string id="str_tor_careerchoice_description_TemplarOrdersPassive2" text="Получение опыта веры за убийство сил «Нежити» или «Хаоса»." />
     <string id="str_tor_inky_battlefield_str_payrespects1" text="Склонив голову в торжественном почтении, вы выражаете свои последние почести павшим солдатам, положившим свои жизни на этом проклятом поле битвы. Чувство товарищества и общей цели охватывает вашу группу, напоминая о вечной борьбе между Морром и нежитью." />
     <string id="str_tor_enchantmentshop_description_khuzait" text="Выберите гримуар для изучения:" />
-    <string id="str_tor_career_description_ironbreaker" text="Бой в узких подземных туннелях — это тяжёлый и утомительный опыт. Вооружённые лучшей громрильской броней, которую может предоставить клан, и выстроившись в непробиваемую щитовую стену, Железнобокие отвечают за защиту самых уязвимых точек карак до последнего дыхания. Служение Железнобоким считается великой честью, так как допускаются лишь самые сильные и храбрые среди Дворфов." />
+    <string id="str_tor_career_description_ironbreaker" text="Бой в узких подземных туннелях — это тяжёлый и утомительный опыт. Вооружённые лучшей громриловой броней, которую может предоставить клан, и выстроившись в непробиваемую щитовую стену, Железнобокие отвечают за защиту самых уязвимых точек карак до последнего дыхания. Служение Железнобоким считается великой честью, так как допускаются лишь самые сильные и храбрые среди Дворфов." />
     <string id="str_tor_short_term_for_faction_talabecland" text="Талабекланд" />
     <string id="str_tor_companion_leave_p_tor_wanderer_woodelf_1" text="Извините, мне пора уходить." />
     <string id="str_tor_dw_guildmaster_oath_gold_accept_p_runesmith" text="Я хочу пожертвовать Охотничье золото." />
@@ -1622,7 +1619,7 @@
     <string id="str_tor_customsettlement_disabled_sigmar_shrine_04" text="Храм лежит в руинах. Здесь больше ничего не предпринять." />
     <string id="str_tor_customsettlement_intro_manaan_shrine_05" text="Вы прибыли в святилище {RELIGION_LINK}. Воздух вокруг алтаря влажен и пахнет соленой водой." />
     <string id="str_tor_dw_engineer_benefit_upkeep_reduction" text="Снижение содержания для стрелковых войск" />
-    <string id="str_tor_customsettlement_intro_valaya_shrine_01" text="Вы прибыли к храму {RELIGION_LINK}. Алтарь Валаи Матери, дварфской прародительницы-богини очага и дома, наполняет окрестности мягкой теплотой." />
+    <string id="str_tor_customsettlement_intro_valaya_shrine_01" text="Вы прибыли к храму {RELIGION_LINK}. Алтарь Валаи Матери, дворфской прародительницы-богини очага и дома, наполняет окрестности мягкой теплотой." />
     <string id="str_tor_powerstone_metal_magic_dmg_phys_desc" text="Проникновение в броню +40%, магический урон +20%, огненный урон +20%" />
     <string id="str_tor_dw_guildmaster_rune_smith_hub_rune_lord_career_2" text="Во имя бурудинов, я официально объявляю тебя членом Рхунки. Гордись своими достижениями, парень. Хотя, боюсь, празднования придётся отложить: тяжёлые времена требуют решительных мер. А тучи нависли над Караз Анкор." />
     <string id="tor_knight_white_wolf_name" text="Рыцари Белого Волка" />
@@ -3139,7 +3136,7 @@
     <string id="str_tor_cc_origin_sturgia" text="Ваш клан славится своим..." />
     <string id="str_tor_damage_display_spell_damage" text="{ICON} {SPELL_NAME} нанес {DAMAGE} урона типа {DAMAGE_TYPE} по {COUNT} {TARGET_TEXT}" />
     <string id="str_tor_engineer_upgrade_decline" text="Я не могу позволить себе такое предприятие." />
-    <string id="str_tor_magical_items_trait_nameComposition" text="{NAMEMODIFIER} {NAMEOFITEM}" />
+    <string id="str_tor_magical_items_trait_nameComposition" text="{NAMEOFITEM} ({NAMEMODIFIER})" />
     <string id="str_tor_feudal_oath_line3_gisoreux" text="Я буду охранять вершины гор Палых сестёр и равнины Жизоро так же, как защищаю свою семью." />
     <string id="str_tor_hire_accept_p_tor_wanderer_chaos_0" text="Пусть будет так… Возьми эти {GOLD_AMOUNT}." />
     <string id="str_tor_career_choicegroup_name_ProtectorOfTheWoods" text="Хранитель Лесов" />
@@ -3520,7 +3517,7 @@
     <string id="str_tor_careerchoice_description_EyeOfTheHunterPassive2" text="-20% веса экипированного снаряжения." />
     <string id="tor_cc_option_1_gs_forest_terrain_text_str" text="Густой лес имперского материка отлично укрывал ваше грибное яйцо. Но вы и не знали, что тихие леса наделили вас способностью двигаться меж деревьев почти бесшумно (для орка), сделав грозным охотником как на зверей, так и на людишек. После набега на имперский караван сородичи-орки прозвали вас «скрытным»." />
     <string id="str_tor_careerchoice_description_ShameOfTheAncestorsPassive4" text="Позволяет войску присягать на убийчий клятва, превращая их в войска «Убийцы»." />
-    <string id="str_tor_customsettlement_intro_valaya_shrine_02" text="Вы прибыли к храму {RELIGION_LINK}. Алтарь Валаи Матери, дварфской прародительницы-богини очага и дома, наполняет окрестности мягкой теплотой." />
+    <string id="str_tor_customsettlement_intro_valaya_shrine_02" text="Вы прибыли к храму {RELIGION_LINK}. Алтарь Валаи Матери, дворфской прародительницы-богини очага и дома, наполняет окрестности мягкой теплотой." />
     <string id="str_tor_career_switch_explanation_BloodKnight" text="Примите это, и вы станете Кровавым Драконом-вампириком. Это решение необратимо.{newline}
  {newline}
  становясь Кровавым Драконом-вампириком, вы полностью лишитесь навыков Магии и Веры, а также доступа к магическим заклинаниям.{newline}

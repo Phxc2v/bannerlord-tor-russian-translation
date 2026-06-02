@@ -131,7 +131,7 @@
     <string id="str_tor_empire_body_armor_marius_leitdorf" text="{.MI}Доспехи{.nnp} генерала Аверландского легиона" />
     <string id="str_tor_vc_body_breastplate_cairn_wraith_004" text="{.MI}Нагрудник{.nn} призрака Каирна" />
     <string id="str_tor_tilean_head_helm_brass_knight_001" text="Тилейский саллет из латуни" />
-    <string id="str_tor_vc_shoulder_pauldron_mannfred" text="{.MI}Плечи{.nnp} Маннфреда фон Карштайна" />
+    <string id="str_tor_vc_shoulder_pauldron_mannfred" text="{.MI}Наплечники{.nnp} Маннфреда фон Карштайна" />
     <string id="str_tor_he_head_helm_queens_guard_001" text="{.MI}Шлем{.nn} Стражи Королевы Высших Эльфов" />
     <string id="str_tor_empire_leg_boots_gold_wizard_001" text="{.MI}Золотой{.ajp} {.MI}Сапоги{.nnp} Волшебника" />
     <string id="str_tor_vc_arm_gauntlet_dh_templar_001" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Храмовника Дракенхофа" />
@@ -642,7 +642,7 @@
     <string id="str_tor_dw_leg_boots_slayer_legend_001" text="{.MI}Сапоги{.nnp} Убийцы Гигантов" />
     <string id="str_tor_vc_arm_gauntlet_red_duke" text="{.FI}Латный{.ajp} {.FI}перчатки{.nnp} Великого Магистра Крестовой Башни" />
     <string id="str_tor_bretonnian_leg_boots_manatarms_001" text="{.MI}Старый{.ajp} кожаный{.ajp} {.MI}сапоги{.nnp}" />
-    <string id="str_tor_vc_shoulder_pauldron_vlad" text="{.MI}Плечи{.nnp} фон Карштайна" />
+    <string id="str_tor_vc_shoulder_pauldron_vlad" text="{.MI}Наплечники{.nnp} фон Карштайна" />
     <string id="str_tor_bretonnia_body_armor_questing_knight_001" text="{.MI}Доспехи{.nnp} Рыцаря-Странника" />
     <string id="str_tor_dw_shoulder_shoulderpads_runelord_001" text="{.MI}Наплечники{.nnp} Лорда Руны" />
     <string id="str_tor_bretonnian_head_helm_001" text="{.MI}Бретонский{.aj} кольчужный{.aj} {.MI}шлем{.nn} с плоской вершиной" />
@@ -668,7 +668,7 @@
     <string id="str_tor_greenskin_bracers_orc_arrer_boyz_001" text="{.FI}Кожаный{.ajp} орочий{.ajp} {.FI}наручи{.nnp}" />
     <string id="str_tor_bretonnia_body_armor_louen_leoncoeur" text="{.MI}Доспехи{.nnp} Блесна" />
     <string id="str_tor_we_arm_bracers_lord_001" text="{.MI}Браслады{.nnp} Господина Рощи" />
-    <string id="str_tor_vc_body_armor_mannfred" text="{.MI}Доспех{.nn} Нагрудник Маннфреда фон Карштайна" />
+    <string id="str_tor_vc_body_armor_mannfred" text="{.MI}Нагрудник{.nn} Маннфреда фон Карштайна" />
     <string id="str_tor_vc_head_helm_blood_dragon_knight_001" text="{.MI}Шлем{.nn} Рыцаря Кровавого Дракона" />
     <string id="str_tor_vc_head_helm_vampire_lord_001" text="{.MI}Шлем{.nn} Барбют Лорда Вампира" />
     <string id="str_tor_dw_body_armour_runelord_001" text="{.MI}Дворфский{.aj} {.MI}доспех{.nn} Рунного Лорда" />

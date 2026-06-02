@@ -23,12 +23,32 @@
   <str en="Teef Bags" ru="Мешки зубьев" />
   <str en="Shiny Pile" ru="Куча блестяшек" />
   <str en="Oak of Ages" ru="Дуб Веков" />
-  <str en="Dwarf Karak" ru="Гномий Карак" />
+  <str en="Dwarf Karak" ru="Дворфийский Карак" />
   <str en="Elven Metropolis" ru="Эльфийская метрополия" />
   <str en="Gift of Nurgle" ru="Дар Нургла" />
   <str en="Secular Seal" ru="Мирская печать" />
   <str en="It is time to declare war!" ru="Пора объявить войну!" />
   <str en="Summoned" ru="Призванный" />
+
+  <!-- Пункт меню «Leave...» в raidingsite_menu (RaidingSiteMenuLogic): в TOR_Core токен
+       записан как {tor_custom_settlement_menu_leave_str} БЕЗ '=', т.е. это переменная, а не
+       {=id} — языковой XML его не достаёт. Чиним заменой всей сырой строки в ctor TextObject. -->
+  <str en="{tor_custom_settlement_menu_leave_str}Leave..." ru="Уйти..." />
+  <!-- Дуб Веков, экран дриад (OakOfAgesMenuLogic dryads_result): сырой литерал "back..." без {=id}. -->
+  <str en="back..." ru="Назад..." />
+
+  <!-- Книга-чертёж зачарования (EnchantmentBlueprintScript): сырые литералы в MultiSelectionInquiryData
+       и TORCommon.Say — без {=id}. Заголовок/тело/кнопки чинятся через InquiryData_Constructor_Patch. -->
+  <str en="Choose hero to learn new enchantment" ru="Выберите героя для изучения нового зачарования" />
+  <str en="The scribing entails a powerful new enchantment effect for one of your party members to learn. Choose who will specialize in"
+       ru="Переписывание дарует одному из членов вашего отряда мощный новый эффект зачарования. Выберите, кто им овладеет." />
+  <str en="The manuscript is of no use for you." ru="Этот манускрипт вам бесполезен." />
+  <str en="Accept" ru="Принять" />
+  <str en="Cancel" ru="Отмена" />
+
+  <!-- Пункт меню убежища «Assault hideout» (дневной штурм). Строки нет ни в одном XML/DLL TOR —
+       вероятно строится в рантайме сторонним модом; ловим глобально через ctor TextObject. -->
+  <str en="Assault hideout" ru="Штурмовать убежище" />
 
   <!-- Конкатенированные сообщения TORCommon.Say (regex; переменные-имена остаются на месте через $1/$2/$3) -->
   <str regex="^(.*) has already been used (\d+) time\(s\) by (.*)\.$"

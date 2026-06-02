@@ -178,7 +178,7 @@
     <string id="vbPBXiPC" text="{.FI}Богатый{.aj} {.FI}Туника{.nn}" />
     <string id="EfRKaKs0" text="{.FI}Степный{.aj} меховый{.aj} {.FI}упряжь{.nn}" />
     <string id="quDh9Vlu" text="{.MA}Пустынный{.aj} {.MA}конь{.nn}" />
-    <string id="VAO11FSu" text="{.MI}Двуручный{.aj} {.MI}меч{.nn} из громриловской стали" />
+    <string id="VAO11FSu" text="{.MI}Двуручный{.aj} {.MI}меч{.nn} из громриловой стали" />
     <string id="yTWOMSmv" text="{.FI}Конопляная{.aj} {.FI}туника{.nn}" />
     <string id="g7vxJhiz" text="{.MI}Легкий{.ajp} {.MI}болты{.nnp}" />
     <string id="jcOJqWGA" text="{.NI}Копьё{.nn} из тонкой стали" />
@@ -684,7 +684,7 @@
     <string id="t28VYqjP" text="{.NI}Длинный{.aj} {.NI}копьё{.nn} из тонкой стали" />
     <string id="SW3lkPHe" text="{.MI}Цветной{.aj} {.MI}бишт{.nn}" />
     <string id="AB1mV5Pg" text="{.FI}Капеллина{.nn} поверх кольчужного капюшона" />
-    <string id="lXwaLAYP" text="{.MI}Громрильский{.aj} стальной{.aj} {.MI}Меч{.nn} Войны" />
+    <string id="lXwaLAYP" text="{.MI}Громриловый{.aj} стальной{.aj} {.MI}меч{.nn} Войны" />
     <string id="FktkkUMK" text="{.MI}Стальной{.aj} круглый{.aj} {.MI}щит{.nn}" />
     <string id="s7siCSsh" text="{.FI}Укреплённый{.aj} шипованный{.aj} {.FI}упряжь{.nn} легионера" />
     <string id="N5aT5hoA" text="{.MA}Палфри{.nn} из Средних Земель" />

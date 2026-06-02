@@ -168,7 +168,7 @@
     <string id="str_tor_bretonnia_weapon_lance_jousting_004" text="{.NI}Бретонский{.aj} {.NI}копьё{.nn} для турниров" />
     <string id="str_tor_vc_weapon_sword_vampire_001" text="{.MI}Вампирский{.aj} {.MI}Меч{.nn}" />
     <string id="str_tor_empire_weapon_lance_knight_001" text="{.NI}Копьё{.nn} Рыцаря" />
-    <string id="str_tor_vc_weapon_thaxe_black_axe_of_krell" text="{.MI}Чёрный{.aj} большой{.aj} {.MI}Топор{.nn} Крелла" />
+    <string id="str_tor_vc_weapon_thaxe_black_axe_of_krell" text="{.MI}Большой{.aj} чёрный{.aj} {.MI}топор{.nn} Крелла" />
     <string id="str_dwarf_2h_engineer_hammer_001" text="{.MI}Громовой{.aj} {.MI}молот-зубило{.nn} инженера" />
     <string id="str_tor_dwarf_weapon_1h_axe_001" text="{.MI}Орнаментальный{.aj} дворфский{.aj} {.MI}Топор{.nn}" />
     <string id="str_tor_we_weapon_spear_001" text="{.NI}Древний{.aj} {.NI}Копьё{.nn} Эльфов-Лесников" />
