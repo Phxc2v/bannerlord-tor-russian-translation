@@ -178,12 +178,23 @@
   <string id="tor_hire_companion_p" text="{=str_tor_hire_companion_p}I am interested in your skills." />
   <string id="tor_hire_companion_payment" text="{=str_tor_hire_companion_payment}I could be persuaded to join you. My fee is {GOLD_AMOUNT}{GOLD_ICON}." />
   <string id="tor_hire_companion_skip_p" text="{=str_tor_hire_companion_skip_p}I'm {PLAYER.NAME}. Let's skip the pleasantries and get right to business." />
-  <string id="tor_hire_companion_tell_me_p" text="{=str_tor_hire_companion_tell_me_p}My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\\?}. Tell me about yourself." />
+  <string id="tor_hire_companion_tell_me_p" text="{=str_tor_hire_companion_tell_me_p}My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. Tell me about yourself." />
   <string id="tor_hire_decline_p" text="{=str_tor_hire_decline_p}I can't afford that just now." />
   <string id="tor_magical_items_trait_rarity" text="{=str_tor_magical_items_trait_rarity}Magical" />
   <string id="tor_player_accept_vassalage" text="{=str_tor_player_accept_vassalage}You have been accepted as a vassal." />
   <string id="tor_response_1" text="{=str_tor_response_1}Response 1" />
   <string id="tor_response_2" text="{=str_tor_response_2}Response 2" />
+
+  <!-- GameText-ид, которые TOR_Core запрашивает через TORTextHelper.GetText, но НЕ определяет
+       ни в одном своём XML (свип 2026-06-11) — без этих записей игрок видит EN-fallback из кода -->
+  <string id="eonir_empire_peace_description_text" text="{=str_eonir_empire_peace_description_text}Force an empire state to be in peace with the eonir" />
+  <string id="eonir_empire_peace_title_text" text="{=str_eonir_empire_peace_title_text}Force Peace" />
+  <string id="eonir_empire_peace_with_hint_text" text="{=str_eonir_empire_peace_with_hint_text}Force Peace with" />
+  <string id="eonir_spellsinger_learn_lore_hint_text" text="{=str_eonir_spellsinger_learn_lore_hint_text}Learn new lore" />
+  <string id="eonir_spellsinger_learn_lore_title_text" text="{=str_eonir_spellsinger_learn_lore_title_text}Learn New Lore" />
+  <string id="partyscreen_resource_text" text="{=str_partyscreen_resource_text}Required: {NEEDED_AMOUNT} {RESOURCE_ICON}" />
+  <string id="TOR_Alliance_Chaos_Forbidden" text="{=str_TOR_Alliance_Chaos_Forbidden}The forces of Chaos cannot form alliances." />
+  <string id="TOR_Alliance_Religion_Conflict" text="{=str_TOR_Alliance_Religion_Conflict}The dominant religions of the two kingdoms are hostile towards each other." />
 
   <!-- Variation-keyed GameText (id="база.вариация"): типы урона и атаки в описаниях способностей/эффектов -->
   <string id="tor_damagetype.Physical" text="Физический" />

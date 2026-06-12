@@ -331,7 +331,7 @@
     <string id="str_tor_hire_companion_tell_me_p_tor_wanderer_greenskins_1" text="Я — могучий {PLAYER.NAME}. Ты один из тех странных?" />
     <string id="tor_cc_option49_text_str" text="Как-то твоя семья нарушила одну из клятвенных связей со своим лордом и была со временем объявлена разбойниками. Постоянно находясь в бегах и живя на окраине общества, твоя семья довольствуется тем, что может отнять у лесов." />
     <string id="str_tor_hirelingactivity0_ImperialMagister" text="Заниматься учёбой" />
-    <string id="tor_knight_blazing_sun_positive" text="Рыцарь Сияющего Солнца" />
+    <string id="tor_knight_blazing_sun_positive" text="Рыцарь Пламенного Солнца" />
     <string id="str_tor_careerchoice_description_WrathAgainstChaosPassive3" text="+10% личной скорости замаха оружия." />
     <string id="str_tor_customsettlement_intro_sigmar_shrine_01" text="Вы прибыли к святилищу {RELIGION_LINK}. Паломники из окружающих поселений молят Бога-Короля." />
     <string id="tor_knight_panthers_name" text="Рыцари Пантеры" />
@@ -2062,7 +2062,7 @@
     <string id="str_tor_backstory_b_tor_wanderer_empire_4" text="Я всегда был лучшим в классе. Остальные обвиняли меня в высокомерии, но они просто ослеплены своей посредственностью." />
     <string id="str_tor_careerchoice_description_TeclisTeachingsPassive3" text="+3 к максимальному запасу «Ветров Магии»." />
     <string id="str_tor_feudal_oath_line1_laurelorn" text="Ваше Величество, в этот священный момент я стою перед вами, глубоко почтив ваш приход." />
-    <string id="str_tor_hire_companion_tell_me_p_tor_wanderer_chaos_0" text="Меня зовут {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}госпожа{?}господин{\\?}. Расскажи о себе." />
+    <string id="str_tor_hire_companion_tell_me_p_tor_wanderer_chaos_0" text="Меня зовут {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}госпожа{?}господин{\?}. Расскажи о себе." />
     <string id="str_tor_customsettlement_battle_darkelf_camp_01" text="Попытайся изгнать работорговцев." />
     <string id="str_tor_hire_companion_skip_p_tor_wanderer_woodelf_1" text="Меня зовут {PLAYER.NAME}. Чем ты занимаешься здесь?" />
     <string id="tor_cc_option41_text_str" text="Вы выбрали путь рыцаря Бретоннии. Путь верного рыцарства труден — вас ждут многие враги и битвы. Но, если вы достойны, в конце вашего квеста вы получите величайшее благословение, известное людям; глоток из Грааля Леди." />
@@ -3209,7 +3209,7 @@
     <string id="str_tor_response_2_tor_wanderer_mousillon_4" text="Каждый вампир когда-то был птенцом." />
     <string id="str_tor_skill_effect_gun_accuracy" text="Точность огнестрельного оружия: +{a0} %" />
     <string id="str_tor_careerchoice_description_SigmarsProclaimerPassive3" text="+25% физической устойчивости к дальнему бою для войск «Сигмаритов»." />
-    <string id="tor_knight_blazing_sun_name" text="Орден Пламенеющего Солнца" />
+    <string id="tor_knight_blazing_sun_name" text="Орден Пламенного Солнца" />
     <string id="str_tor_careerchoice_description_StarfireEssencePassive1" text="+10% личного огненного урона от дальнего боя." />
     <string id="str_tor_enchanter_info_hub_intro_enchanter_first_visit_sturgia" text="Возьми этот Клинкархун, на котором ты сможешь заложить основы своего будущего в Рхуне." />
     <string id="str_tor_quest_plagued_village_offer_dialog" text="Отлично. Не недооценивайте разрушительные силы, на вашем пути потребуется неукоснительная бдительность!" />
@@ -3479,7 +3479,7 @@
 											
 											Рейксгард — рыцарский орден, основанный во времена правления Вильгельма Мудрого, первого императора из династии фон Хольсвиг-Шлиестайн. с тех пор они присягнули на вечную службу его роду, выступая элитными стражами императора и железной рукой имперского престола. Бой в рядах Рейксгарда — это честь имперской династии." />
     <string id="str_tor_druchii_die" text="Наше поражение — это насмешка над Кхайне." />
-    <string id="str_tor_custom_resource_bre_chivalry_tier_purehearted" text="Чистосердечный" />
+    <string id="str_tor_custom_resource_bre_chivalry_tier_purehearted" text="Чистый сердцем" />
     <string id="str_tor_career_description_OrcShaman" text="Собирай кости, разводи огонь, хлебай мамбо-ямбо-сок, танцуй и пой, ибо Горк и Морк идут! Они сказали — скоро ВААГХ! Боссу пора замутить новую драку, иначе сюда припрётся другой большой гит. Ой, ты! Сюда! Отдай этот грог Боссу. Видишь вот этот гриб? Он заставит Босса чесаться и рваться в бой. Я засунул в него джу-джу, и когда Босс его сожрёт, глаза у него станут красными и страшными. Тогда он подстегнёт пацанов. А если кто из мелкоты вякнет — мы ЖАХНЕМ его и БАХНЕМ его. Призови молнии ЗЕЛЁНОГО ОГНЯ, ибо Шаман говорит за Горка и Морка!" />
     <string id="str_tor_hire_companion_begone_tor_wanderer_mousillon_3" text="*убегает в толпу*" />
     <string id="str_tor_comment_noble_introduces_self_and_clan_khuzait_boasting_blooddragon" text="Ты кажешься слабым. Я — {CONVERSATION_CHARACTER.LINK}, из {CLAN_NAME}. Готов ли ты умереть?" />
@@ -5437,7 +5437,7 @@
     <string id="str_tor_inky_overturnedcart_str_rewarddeadrisedeadsuccess" text="Тело мужчины встаёт на ноги и, шатаясь, уходит, чтобы присоединиться к остальным войскам вашего отряда." />
     <string id="str_tor_inky_overturnedcart_str_rewarddeadleave" text="Вы решаете, что настало время двигаться дальше и продолжить свой путь." />
     <string id="str_tor_inky_pond_str_start1" text="Пока ваша группа путешествует, вы натолкнетесь на идиллическую сцену, которая заставит вас замереть от восторга. Перед вами раскинулось спокойное озеро — скрытая жемчужина среди дикой природы. Вода тиха и прозрачна, отражая лазурное небо. Обильная растительность окружает озеро, создавая мирный убежище." />
-    <string id="str_tor_inky_pond_str_start2" text="{IsNight(): Silver moonlight | Golden sunlight} пробивается сквозь деревья, отбрасывая свет на поверхность воды. Воздух наполнен нежным ароматом природы — успокаивающим бальзамом для ваших уставших чувств. Птицы поют мелодичные песни, дополняя атмосферу спокойствия." />
+    <string id="str_tor_inky_pond_str_start2" text="{IsNight(): Серебристый лунный свет | Золотистый солнечный свет} пробивается сквозь деревья, отбрасывая свет на поверхность воды. Воздух наполнен нежным ароматом природы — успокаивающим бальзамом для ваших уставших чувств. Птицы поют мелодичные песни, дополняя атмосферу спокойствия." />
     <string id="str_tor_inky_pond_str_start3" text="Стоя там и очарованный видом, вы замечаете, что ваши люди догоняют вас. Их лица, исписанные усталостью, озаряются удивлением и облегчением. Даже обычно сдержанный член вашей группы позволяет себе небольшую улыбку." />
     <string id="str_tor_inky_pond_str_forage1" text="Вы приказываете своей группе собрать дикорастущие растения." />
     <string id="str_tor_inky_pond_str_forageloreoflife1" text="Маг в вашей группе призывает Ветер Гиран, чтобы помочь вашим людям в поиске." />

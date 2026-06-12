@@ -188,5 +188,65 @@
     <string id="str_tor_player_accept_vassalage" text="Вы приняты в вассалы." />
     <string id="str_tor_response_1" text="Ответ 1" />
     <string id="str_tor_response_2" text="Ответ 2" />
+
+    <!-- ===== Свип 2026-06-11: GameText-ид TOR_Core без RU (TORTextHelper.GetText) ===== -->
+    <!-- Дипломатия Эонира (посланники асуров/друкаев/Империи) -->
+    <string id="str_eonir_asur_diplomacy_description_text" text="Выберите фракцию — ваши отношения с ней улучшатся на 15, как и отношения Эонира." />
+    <string id="str_eonir_asur_diplomacy_hint_text" text="Улучшить отношения" />
+    <string id="str_eonir_asur_diplomacy_title_text" text="Улучшить отношения с одной из фракций" />
+    <string id="str_eonir_asur_troops_title_text" text="Поддержка асуров" />
+    <string id="str_eonir_druchii_force_war_description_text" text="Выберите 2 фракции, между которыми вспыхнет война." />
+    <string id="str_eonir_druchii_force_war_hint_text" text="Развязать войну между двумя королевствами" />
+    <string id="str_eonir_druchii_force_war_title_text" text="Развязать войну" />
+    <string id="str_eonir_druchii_slaver_tide_description_text" text="Выберите королевство, которое наводнят отряды друкаев-работорговцев." />
+    <string id="str_eonir_druchii_slaver_tide_title_text" text="Выберите королевство для нашествия" />
+    <string id="str_eonir_inquiry_cancel_text" text="Отмена" />
+    <string id="str_eonir_inquiry_confirm_text" text="Подтвердить" />
+    <string id="str_eonir_empire_peace_description_text" text="Принудить имперскую провинцию к миру с Эониром" />
+    <string id="str_eonir_empire_peace_title_text" text="Принудить к миру" />
+    <string id="str_eonir_empire_peace_with_hint_text" text="Принудить к миру с" />
+    <string id="str_eonir_spellsinger_learn_lore_hint_text" text="Изучить новую школу магии" />
+    <string id="str_eonir_spellsinger_learn_lore_title_text" text="Изучение новой школы магии" />
+    <!-- Экран отряда / альянсы -->
+    <string id="str_partyscreen_resource_text" text="Требуется: {NEEDED_AMOUNT} {RESOURCE_ICON}" />
+    <string id="str_TOR_Alliance_Chaos_Forbidden" text="Силы Хаоса не заключают союзов." />
+    <string id="str_TOR_Alliance_Religion_Conflict" text="Господствующие религии двух королевств враждебны друг другу." />
+    <!-- Чёрный Грааль (Музильон) -->
+    <string id="str_tor_black_grail_no_grail_knights_text" text="Рыцарей Грааля нельзя переубедить" />
+    <string id="str_tor_black_grail_not_enough_prisoners_text" text="Недостаточно здоровых пленников" />
+    <string id="str_tor_black_grail_not_enough_troops_text" text="Недостаточно здоровых бойцов" />
+    <string id="str_tor_black_grail_requires_text" text="Требуется не менее {EXCHANGE_COST} {DARK_ENERGY_ICON}" />
+    <!-- Кастомные поселения лесных эльфов -->
+    <string id="str_tor_custom_settlement_we_already_unlocked" text="Уже открыто." />
+    <string id="str_tor_custom_settlement_we_not_enough_harmony_travel" text="Недостаточно Гармонии для перемещения." />
+    <!-- Сводка урона заклинаний (friendly fire) -->
+    <string id="str_tor_damage_display_ally_singular" text="союзнику" />
+    <string id="str_tor_damage_display_ally_plural" text="союзникам" />
+    <string id="str_tor_damage_display_friendly_fire" text="{ICON} {SPELL_NAME}: {DAMAGE} урона дружественным огнём по {COUNT} {TARGET_TEXT}" />
+    <string id="str_tor_damage_display_friendly_fire_with_kills" text="{ICON} {SPELL_NAME}: {DAMAGE} урона дружественным огнём по {COUNT} {TARGET_TEXT}, убито: {KILL_COUNT}" />
+    <!-- Гринскины: рубка пленных -->
+    <string id="str_tor_greenskin_cant_chop_text" text="Это нельзя порубить" />
+    <string id="str_tor_greenskin_chop_text" text="Порубить" />
+    <string id="str_tor_greenskin_no_prisoners_text" text="Нет пленников такого типа" />
+    <string id="str_tor_greenskin_not_a_prisoner_text" text="Не пленник" />
+    <!-- Железнобокие / убийцы (дворфы) -->
+    <string id="str_tor_ironbreaker_level_too_low_text" text=" слишком низкий уровень" />
+    <string id="str_tor_ironbreaker_not_enough_resources_text" text="Недостаточно ресурсов" />
+    <string id="str_tor_slayer_tier_too_low_text" text="Слишком низкий ранг. Юнита нельзя посрамить" />
+    <!-- Некрарх -->
+    <string id="str_tor_necrarch_exchange_text" text="Обменять {COST}{DARK_ENERGY_ICON} на {GAIN}{WINDS_ICON}" />
+    <string id="str_tor_necrarch_requires_text" text="Для обмена требуется {COST}{DARK_ENERGY_ICON}" />
+    <string id="str_tor_necrarch_winds_full_text" text="Ваши Ветра уже полны" />
+    <!-- Орочий босс -->
+    <string id="str_tor_orc_boss_extort_teef_text" text="Выбить Зубья, но подорвать мораль отряда." />
+    <!-- Странник путей (лесные эльфы) -->
+    <string id="str_tor_waywatcher_select_arrows_text" text="выберите магические стрелы для этого юнита" />
+    <!-- Охотник на ведьм: свита -->
+    <string id="str_tor_witch_hunter_culture_requirement_text" text="Только для Империи или южных королевств" />
+    <string id="str_tor_witch_hunter_no_knights_text" text="Рыцарей нельзя повысить до свиты" />
+    <string id="str_tor_witch_hunter_not_enough_troops_text" text="Недостаточно здоровых бойцов" />
+    <string id="str_tor_witch_hunter_requires_text" text="Требуется не менее {EXCHANGE_COST} {PRESTIGE_ICON}" />
+    <string id="str_tor_witch_hunter_tier_requirement_text" text="До свиты охотника на ведьм можно повысить только бойцов высокого ранга" />
+    <string id="str_tor_witch_hunter_upgrade_retinue_text" text="Повышает бойца до свиты охотника на ведьм" />
   </strings>
 </base>

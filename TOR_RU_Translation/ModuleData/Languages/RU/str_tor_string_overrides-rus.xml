@@ -1407,8 +1407,8 @@
     <string id="str_tor_workshop_11_dwarf" text="Я желаю поговорить о другом." />
     <string id="str_tor_workshop_12_orc" text="{OWNER.LINK} — босс этой лавки." />
     <string id="str_tor_workshop_12_dwarf" text="Владелец этой мастерской — {OWNER.LINK}." />
-    <string id="str_tor_workshop_13_orc" text="Мы {.%}{WORKSHOP_TYPE}{.%}." />
-    <string id="str_tor_workshop_13_dwarf" text="Мы работники {.%}{WORKSHOP_TYPE}{.%}." />
+    <string id="str_tor_workshop_13_orc" text="Мы {WORKSHOP_TYPE}." />
+    <string id="str_tor_workshop_13_dwarf" text="Мы работники {WORKSHOP_TYPE}." />
     <string id="str_tor_workshop_14_orc" text="Натаскиваем хлам и всякое дерьмо, ставим рабов к работе, а потом обдираем всех тем, что они наделают. Как поработники рабов получат свою долю, остаток идёт боссу!" />
     <string id="str_tor_workshop_14_dwarf" text="Из сырья мы мастерим сообразно тому, на что заточена мастерская. После того как каждый ремесленник как должно вознаграждён, оставшийся гал отдаётся владельцу." />
     <string id="str_tor_workshop_player_owner_begin_orc" text="Эй, босс! Чё стряслось?" />
@@ -1457,8 +1457,8 @@
     <string id="str_tor_workshop_45_continue_dwarf" text="Я думаю о мастерской иного рода." />
     <string id="str_tor_workshop_cancel_orc" text="Э, проехали..." />
     <string id="str_tor_workshop_cancel_dwarf" text="Забудь." />
-    <string id="str_tor_workshop_46_orc" text="Всё готово, босс! Мы станем {.%}{.a}{WORKSHOP_TYPE}{.%}, только дай слово!" />
-    <string id="str_tor_workshop_46_dwarf" text="Прежде чем начать, ты должен быть уверен — {.%}{.a}{WORKSHOP_TYPE}{.%} — вот чего ты просишь?" />
+    <string id="str_tor_workshop_46_orc" text="Всё готово, босс! Мы станем {WORKSHOP_TYPE}, только дай слово!" />
+    <string id="str_tor_workshop_46_dwarf" text="Прежде чем начать, ты должен быть уверен — {WORKSHOP_TYPE} — вот чего ты просишь?" />
     <string id="str_tor_workshop_50_orc" text="Кончай тянуть и делай, что я говорю, уже!" />
     <string id="str_tor_workshop_50_dwarf" text="Да." />
     <string id="str_tor_workshop_47_orc" text="Лады, босс! С этими блестяшками можем браться за работу!" />
@@ -1467,8 +1467,8 @@
     <string id="str_tor_workshop_48_dwarf" text="Дай подумаю над этим." />
     <string id="str_tor_workshop_49_orc" text="Погодь. Я тут кой-чё вспомнил. Мы и так лучшие!" />
     <string id="str_tor_workshop_49_dwarf" text="Поразмыслив, я не хочу менять то, что изготовляется." />
-    <string id="str_tor_workshop_notable_owner_begin_1_orc" text="Эй! Хочу купить твою {.%}{WORKSHOP_NAME}{.%}." />
-    <string id="str_tor_workshop_notable_owner_begin_1_dwarf" text="Мой клан послал меня договориться о покупке твоей {.%}{WORKSHOP_NAME}{.%}." />
+    <string id="str_tor_workshop_notable_owner_begin_1_orc" text="Эй! Хочу купить твою {WORKSHOP_NAME}." />
+    <string id="str_tor_workshop_notable_owner_begin_1_dwarf" text="Мой клан послал меня договориться о покупке твоей {WORKSHOP_NAME}." />
     <string id="str_tor_workshop_notable_owner_begin_2_orc" text="Дык сколько за одного из этих рабов?" />
     <string id="str_tor_workshop_notable_owner_begin_2_dwarf" text="Мой клан послал меня договориться о покупке одной из твоих мастерских" />
     <string id="str_tor_workshop_notable_owner_answer_1_single_orc" text="Дай мне {COST} {GOLD_ICON}, и она твоя" />

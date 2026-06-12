@@ -43,8 +43,8 @@
   <str en="The scribing entails a powerful new enchantment effect for one of your party members to learn. Choose who will specialize in"
        ru="Переписывание дарует одному из членов вашего отряда мощный новый эффект зачарования. Выберите, кто им овладеет." />
   <str en="The manuscript is of no use for you." ru="Этот манускрипт вам бесполезен." />
-  <str en="Accept" ru="Принять" />
-  <str en="Cancel" ru="Отмена" />
+  <str en="Accept" ru="Принять" scope="inquiry" />
+  <str en="Cancel" ru="Отмена" scope="inquiry" />
 
   <!-- Пункт меню убежища «Assault hideout» (дневной штурм). Строки нет ни в одном XML/DLL TOR —
        вероятно строится в рантайме сторонним модом; ловим глобально через ctor TextObject. -->
@@ -53,4 +53,46 @@
   <!-- Конкатенированные сообщения TORCommon.Say (regex; переменные-имена остаются на месте через $1/$2/$3) -->
   <str regex="^(.*) has already been used (\d+) time\(s\) by (.*)\.$"
        ru="$1 — уже использовано героем $3 ($2 раз)." />
+
+  <!-- ======== scope="tooltip": метки TooltipProperty (ChivalryHelper, TORMapInfoVMExtension,
+       ForestHarmonyHelper, TORExtendedInfoHelper). Сырые литералы в конструкторе TooltipProperty —
+       не проходят ни через TextObject, ни через MBTextManager; ловятся TooltipPropertyTranslationPatch.
+       Хвостовые ": "/" " нормализуются автоматически — достаточно базовой формы. ======== -->
+  <str en="Morale" ru="Мораль" scope="tooltip" />
+  <str en="Knightly wages" ru="Жалованье рыцарей" scope="tooltip" />
+  <str en="Gain extra  Chivalry everyday" ru="Доп. Рыцарство ежедневно" scope="tooltip" />
+  <str en="Next Rank" ru="Следующий ранг" scope="tooltip" />
+  <str en="Required Chivalry" ru="Нужно Рыцарства" scope="tooltip" />
+  <str en="Daily Change" ru="Дневное изменение" scope="tooltip" />
+  <str en="You are a vampire, you are your own god" ru="Вы вампир — вы сами себе бог" scope="tooltip" />
+  <str en="You are one with the forest" ru="Вы едины с лесом" scope="tooltip" />
+  <str en="Unit Attributes" ru="Атрибуты юнита" scope="tooltip" />
+  <str en="Health" ru="Здоровье" scope="tooltip" />
+  <str en="Wardsave" ru="Защитный оберег" scope="tooltip" />
+  <str en="Damage Resistances" ru="Сопротивление урону" scope="tooltip" />
+  <str en="Damage Amplification" ru="Усиление урона" scope="tooltip" />
+  <str en="Party Speed" ru="Скорость отряда" scope="tooltip" />
+  <str en="Total" ru="Итого" scope="tooltip" />
+  <str en="Melee Damage" ru="Урон в ближнем бою" scope="tooltip" />
+  <str en="Ranged Damage" ru="Урон в дальнем бою" scope="tooltip" />
+  <str en="Lance/Spear Damage" ru="Урон копья/пики" scope="tooltip" />
+  <!-- Имена enum DamageType — уходят в тултип юнита как ResistedDamageType.ToString();
+       перевод по канону tor_damagetype.* -->
+  <str en="Physical" ru="Физический" scope="tooltip" />
+  <str en="Magical" ru="Магический" scope="tooltip" />
+  <str en="Fire" ru="Огненный" scope="tooltip" />
+  <str en="Holy" ru="Священный" scope="tooltip" />
+  <str en="Lightning" ru="Электрический" scope="tooltip" />
+  <str en="Frost" ru="Морозный" scope="tooltip" />
+
+  <!-- Хардкод new TextObject("...") из свипа 2026-06-11: видимые игроку строки -->
+  <str en="Runaway Parts" ru="Сбежавшие детали" />              <!-- название квеста инженера -->
+  <str en="Altdorf" ru="Альтдорф" />                            <!-- переменная IMPERIALCAPITAL в диалоге компаньона -->
+  <str en="AI Bonus" ru="Бонус ИИ" />                           <!-- TORClanPoliticsModel, строка пояснения -->
+  <str en="Bonus" ru="Бонус" />                                 <!-- TORSettlementMilitiaModel -->
+  <str en="Dwarf Mining Bonus" ru="Бонус дворфийской добычи" /> <!-- TORVillageProductionCalculatorModel -->
+  <str en="Perks" ru="Перки" />                                 <!-- TORCharacterStatsModel -->
+  <str en="vampire effect" ru="эффект вампира" />               <!-- TORSettlementLoyaltyModel -->
+  <str en="not vampire" ru="не вампир" />                       <!-- TORSettlementLoyaltyModel -->
+  <str en="variable test" ru="прочие эффекты" />                <!-- TORSettlementLoyaltyModel, отладочная метка в тултипе лояльности -->
 </HardcodedStrings>

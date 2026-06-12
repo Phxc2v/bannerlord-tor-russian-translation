@@ -38,3 +38,24 @@ bretonnia_audit.tsv
 mixed_words_report.txt
 ink_pick_report.csv
 broken_strings_report.csv
+
+# --- Консолидированный рабочий каталог TOR_R (dev-only, не для репо) ---
+# Скрипты-инструменты (поиск/фиксы/аудит/перевод)
+*.ps1
+*.py
+*.pl
+# Исходные .gen-данные (рабочие, в модуль идут собранные XML)
+*.gen
+# Claude Code / IDE-конфиги
+.claude/
+# Рабочие папки тулинга и пайплайнов
+_audit_*/
+_backup/
+_qa/
+_release/
+_llm_pipeline/
+scan_translit/
+InkStories_EN_backup/
+backup_tor_core_ink_EN/
+# Декомпиляция TOR_Core (ilspycmd) — исходники чужого мода, не для репо
+_decompile/

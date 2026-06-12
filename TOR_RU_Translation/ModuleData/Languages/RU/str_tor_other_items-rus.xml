@@ -674,7 +674,7 @@
     <string id="str_tor_learn_vc_enchant_unhallowed_pact" text="{.MI}Нечестивый{.nn} Пакт" />
     <string id="str_tor_learn_emp_blessing_sigmar_soulfire" text="{.NI}Благословение{.nn} Сигмара: Духопламя" />
     <string id="1w5StEM1" text="{.MI}Корзиновый{.aj} {.MI}щит{.nn}" />
-    <string id="str_tor_learn_we_enchant_thorns_nettles" text="{.MI}«Шипы,{.nnp} Клевер и Колючки»" />
+    <string id="str_tor_learn_we_enchant_thorns_nettles" text="{.MI}«Шипы{.nnp}, Клевер и Колючки»" />
     <string id="str_tor_learn_emp_enchant_shyish_whisper" text="{.NI}Благословение{.nn} Шийша: Шепот" />
     <string id="89OWzLBb" text="{.FI}Асция{.nn} с бамбуковой рукоятью" />
     <string id="oQSZ0XgP" text="{.FI}Украшенный{.aj} толстый{.aj} {.FI}туника{.nn}" />
