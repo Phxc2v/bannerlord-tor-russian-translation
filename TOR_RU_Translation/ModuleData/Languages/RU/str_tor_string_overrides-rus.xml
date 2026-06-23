@@ -1486,5 +1486,11 @@
     <string id="str_tor_workshop_player_select_workshop_continue_orc" text="Нет, другие!" />
     <string id="str_tor_workshop_player_select_workshop_continue_dwarf" text="Нет, я о твоей..." />
     <string id="str_tor_default_conversation_for_wrongly_created_heroes_orc" text="Мне не дозволено с тобой толковать" />
+    <!-- Фикс ванильного бага локализации Bannerlord: в нативной строке модификатора "Cracked"
+         (Native/std_item_modifiers_xml_rus.xml, id br0N6SSH) оставлен лишний литеральный "?"
+         после прилагательного — он долетает до экрана ("Надломленный? щит ..."). Переопределяем
+         строку без "?" (формат 1-в-1 с другими модификаторами; функции adjectiveGenderCreator /
+         IS_PLURAL_WORD_GROUP берутся из нативного ru_functions.xml). -->
+    <string id="br0N6SSH" text="{adjectiveGenderCreator(ITEMNAME)}Надломленный{?IS_PLURAL_WORD_GROUP(ITEMNAME)}{.jp}{?}{.j}{\?} {._}{ITEMNAME}{.n}" />
   </strings>
 </base>
